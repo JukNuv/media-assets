@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ouverture de Nuvio...</title>
+</head>
+<body style="font-family:sans-serif;text-align:center;padding-top:40px;background:#1e1f22;color:#fff;">
+<p>Ouverture de Nuvio...</p>
+<script>
+  var params = new URLSearchParams(window.location.search);
+  var type = params.get('type') || 'movie';
+  var id = params.get('id');
+  if (id) {
+    window.location.href = 'nuvio://meta?type=' + encodeURIComponent(type) + '&id=' + encodeURIComponent(id);
+  }
+</script>
+</body>
+</html>
