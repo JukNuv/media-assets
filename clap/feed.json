@@ -1,7 +1,37 @@
 {
  "version": 1,
- "updated": "2026-10-06T12:52:22Z",
+ "updated": "2026-10-06T12:52:28Z",
  "items": [
+  {
+   "id": "movie:tt29355505",
+   "type": "movie",
+   "title": "Toy Story 5",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-17",
+   "overview": "Buzz, Woody, Jessie et le reste de la bande verront leur travail remis en question lorsqu'ils découvriront que ce qui obsède les enfants d'aujourd'hui s’appelle... l'électronique !",
+   "synopsis_origin": null,
+   "rating": 8.3,
+   "runtime": 102,
+   "genres": [
+    "Animation",
+    "Familial",
+    "Comédie",
+    "Aventure"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": "Toy Story - Saga",
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=R7xZRSgmqw4",
+   "poster": "https://image.tmdb.org/t/p/w500/b2bt3UomRX41rHHZmIsSNmXzidU.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/4fQ4BcgGXZDX2HAmGQLbPUXVYNa.png",
+   "imdb_id": "tt29355505",
+   "tmdb_url": "https://www.themoviedb.org/movie/1084244",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt29355505",
+   "added_at": "2026-10-06T12:52:27Z"
+  },
   {
    "id": "movie:tt22084616",
    "type": "movie",
