@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-10-06T13:38:44Z",
+ "updated": "2026-10-06T14:34:26Z",
  "items": [
   {
    "id": "movie:tt32268691",
@@ -29,7 +29,7 @@
    "imdb_id": "tt32268691",
    "tmdb_url": "https://www.themoviedb.org/movie/1284046",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt32268691",
-   "added_at": "2026-10-06T06:00:00Z",
+   "added_at": "2026-10-06T06:31:00Z",
    "directors": [
     "Adam Wingard"
    ],
@@ -165,7 +165,7 @@
    "imdb_id": "tt31192372",
    "tmdb_url": "https://www.themoviedb.org/movie/1101412",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt31192372",
-   "added_at": "2026-10-06T06:00:00Z",
+   "added_at": "2026-10-06T06:31:00Z",
    "directors": [
     "Michael Spierig",
     "Peter Spierig"
@@ -301,7 +301,7 @@
    "imdb_id": "tt22084616",
    "tmdb_url": "https://www.themoviedb.org/movie/969681",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt22084616",
-   "added_at": "2026-10-05T14:00:00Z",
+   "added_at": "2026-10-05T15:08:00Z",
    "directors": [
     "Destin Daniel Cretton"
    ],
@@ -417,7 +417,7 @@
    "release_date": "2026-08-19",
    "overview": "Gemma, une jeune mère élève sa fille dans la maison de son enfance. Elle découvre qu'elle peut voyager dans le Lointain, ce royaume purgatoire des âmes perdues au cœur de l'univers d'Insidious. Lorsqu'une entité malveillante s'en prend à elle, Gemma révèle un pouvoir qui change tout : elle ne se contente pas d'entrer dans le Lointain, elle peut ramener dans le monde réel ce qui s'y trouve. Une fois que les démons prennent conscience de son pouvoir, notre monde devient alors leur terrain de jeu.",
    "synopsis_origin": null,
-   "rating": 6.5,
+   "rating": 6.6,
    "runtime": 106,
    "genres": [
     "Horreur",
@@ -428,13 +428,13 @@
    "collection": "Insidious - Saga",
    "platforms": [],
    "trailer": "https://www.youtube.com/watch?v=tHMxPL2uylE",
-   "poster": "https://image.tmdb.org/t/p/w500/rX3Ihgw3AGQIsxpis1YqEGVPWZQ.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/bW8uJOLrtdBnQcQbG9BUQjDgUaT.jpg",
    "backdrop": "https://image.tmdb.org/t/p/w1280/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
    "logo": "https://image.tmdb.org/t/p/w500/9UzoLBcD8ETCrcLDQcgOFGZONuN.png",
    "imdb_id": "tt32393988",
    "tmdb_url": "https://www.themoviedb.org/movie/1291595",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt32393988",
-   "added_at": "2026-10-05T14:00:00Z",
+   "added_at": "2026-10-05T15:08:00Z",
    "directors": [
     "Jacob Chase"
    ],
@@ -546,138 +546,14 @@
    "platform_logos": []
   },
   {
-   "id": "movie:tt27764052",
-   "type": "movie",
-   "title": "L'Étage secret... Bad Gastein",
-   "original_title": "Das geheime Stockwerk",
-   "year": 2026,
-   "release_date": "2026-03-12",
-   "overview": "Karli (12) découvre qu'il peut voyager dans le temps dans l'hôtel de ses parents, jusqu'à un étage secret qui le renvoie en 1938. Il se lie d'amitié avec Hannah, jeune fille juive, et Georg, cireur de chaussures. Lorsque ensemble, ils résolvent une affaire criminelle passionnante, Karli réalise quelle ombre plane sur le monde de ses nouveaux amis.",
-   "synopsis_origin": null,
-   "rating": 5.3,
-   "runtime": 90,
-   "genres": [
-    "Drame"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Cine+ OCS Amazon Channel "
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/gkIA1F8MPMATzKgr8l7yBDWh6Ch.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/6YBh6ZYVHqnIfC7hbA9RljPZpPE.jpg",
-   "logo": "",
-   "imdb_id": "tt27764052",
-   "tmdb_url": "https://www.themoviedb.org/movie/1427830",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt27764052",
-   "added_at": "2026-10-05T10:00:00Z",
-   "directors": [
-    "Norbert Lechner"
-   ],
-   "cast": [
-    {
-     "name": "Silas John",
-     "role": "Karli",
-     "photo": "https://image.tmdb.org/t/p/w185/z4tLuv90jaoqwnkPoamwIxhHwyz.jpg"
-    },
-    {
-     "name": "Annika Benzin",
-     "role": "Hanna",
-     "photo": null
-    },
-    {
-     "name": "Marie Jung",
-     "role": "Karlis Mother",
-     "photo": "https://image.tmdb.org/t/p/w185/wquNzcjuqmxl1FCPMQNoRbyGRKz.jpg"
-    },
-    {
-     "name": "Tobias Resch",
-     "role": "Bruno",
-     "photo": "https://image.tmdb.org/t/p/w185/sQmpebwp10nVYMsAMVuJD8ayhJu.jpg"
-    },
-    {
-     "name": "Oliver Rosskopf",
-     "role": "Karlis Father",
-     "photo": "https://image.tmdb.org/t/p/w185/bUAWIT5ZlOiZgMEhvLrVb9YeGiu.jpg"
-    },
-    {
-     "name": "Marc Limpach",
-     "role": "Herr Friedländer",
-     "photo": "https://image.tmdb.org/t/p/w185/aoVEGFlkJEFQYvzvR8C9p2r2NuM.jpg"
-    },
-    {
-     "name": "Maximilian Reinwald",
-     "role": "Georg",
-     "photo": null
-    },
-    {
-     "name": "André Jung",
-     "role": "Hoteldirektor Schneider",
-     "photo": "https://image.tmdb.org/t/p/w185/cdpmnYjpRZ8mecM24K5CVDo7c1.jpg"
-    },
-    {
-     "name": "Konstantin Horn",
-     "role": "Heinrich",
-     "photo": null
-    },
-    {
-     "name": "Ben Winkler",
-     "role": "Herrmann",
-     "photo": null
-    },
-    {
-     "name": "Dominik Warta",
-     "role": "Johann",
-     "photo": "https://image.tmdb.org/t/p/w185/zI3VmTfdKwjCIqXLVi3YQrILfif.jpg"
-    },
-    {
-     "name": "Maximilian Simonischek",
-     "role": "Otto Hartwig",
-     "photo": "https://image.tmdb.org/t/p/w185/7Oqa4RQJkdqxhwAgrWLrEpuAqSH.jpg"
-    },
-    {
-     "name": "Fanny Altenburger",
-     "role": "Rosa",
-     "photo": "https://image.tmdb.org/t/p/w185/rPIIFsonbT6LZHcT7hQvBqp1YFH.jpg"
-    },
-    {
-     "name": "Marlene Hauser",
-     "role": "Almuth Hartwig",
-     "photo": "https://image.tmdb.org/t/p/w185/c9QbkR2AdhWomy0nGYKT8yhaRNV.jpg"
-    },
-    {
-     "name": "Franz Buchrieser",
-     "role": "Grandfather",
-     "photo": "https://image.tmdb.org/t/p/w185/ga156qrb6x7kupHBojE1jNHGRsw.jpg"
-    }
-   ],
-   "age_rating": "TP",
-   "countries": [
-    "Allemagne",
-    "Autriche",
-    "LU"
-   ],
-   "original_language": "Allemand",
-   "tmdb_status": "Sorti",
-   "production": [],
-   "platform_logos": [
-    {
-     "name": "Cine+ OCS Amazon Channel ",
-     "logo": "https://image.tmdb.org/t/p/w92/5sfivEdalxJRF96pcTQ8bffu05s.png"
-    }
-   ]
-  },
-  {
    "id": "series:tt38674953",
    "type": "series",
-   "title": "#Love (2026)",
-   "original_title": null,
+   "title": "#Love",
+   "original_title": "#Love (2026)",
    "year": 2026,
    "release_date": "2026-10-02",
-   "overview": "",
-   "synopsis_origin": null,
+   "overview": "La créatrice pragmatique d'une application de rencontres et son concurrent aventureux mettent à l'épreuve leurs théories sur l'amour dans le cadre d'un défi de 60 jours visant à trouver leur partenaire idéal.",
+   "synopsis_origin": "deepl",
    "rating": 10.0,
    "runtime": null,
    "genres": [
@@ -699,7 +575,7 @@
    "imdb_id": "tt38674953",
    "tmdb_url": "https://www.themoviedb.org/tv/302882",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38674953",
-   "added_at": "2026-10-05T07:00:00Z",
+   "added_at": "2026-10-05T07:05:00Z",
    "directors": [
     "Soundarya Rajinikanth",
     "Balaji Mohan"
@@ -800,7 +676,7 @@
   {
    "id": "series:tt47816221",
    "type": "series",
-   "title": "Tourments",
+   "title": "The Torment",
    "original_title": "Zmora",
    "year": 2026,
    "release_date": "2026-10-02",
@@ -821,13 +697,13 @@
     "HBO Max Amazon Channel"
    ],
    "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/eUSh6sJmv7k30kBELK0mNIEEvFa.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/6crqt1vLWMyfXS1oKfGBM8aFyXg.jpg",
    "backdrop": "https://image.tmdb.org/t/p/w1280/uqlqU7IOOrJBLSdxe3VQlO6OXy0.jpg",
    "logo": "https://image.tmdb.org/t/p/w500/xXzoUcTLgNM335AxKC3Ont4ALK5.png",
    "imdb_id": "tt47816221",
    "tmdb_url": "https://www.themoviedb.org/tv/279185",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt47816221",
-   "added_at": "2026-10-04T15:00:00Z",
+   "added_at": "2026-10-04T15:05:00Z",
    "directors": [],
    "cast": [
     {
@@ -905,8 +781,8 @@
    "original_title": null,
    "year": 2026,
    "release_date": "2026-05-08",
-   "overview": "L'histoire suit Alice, une fille aux gros boutons, qui planifie un road trip avec Jeanie, sa mère sauvage, pour la dissuader d'épouser un garçon qu'elle vient de rencontrer, alors qu'ils redécouvrent leur lien tout en affrontant de vieilles blessures.",
-   "synopsis_origin": null,
+   "overview": "Lorsque Alice, une jeune femme très sérieuse, organise un road trip d’« enterrement de vie de jeune fille » avec sa mère, une femme exubérante et impulsive, Jeanie, pour la dissuader d’épouser un homme qu’elle vient tout juste de rencontrer, elles redécouvrent le lien indestructible qui les unit, affrontant de vieilles blessures et d’anciennes passions, tout en apprenant que parfois, la vie ne suit pas le plan prévu — et que ce n’est peut-être pas si grave.",
+   "synopsis_origin": "deepl",
    "rating": 4.0,
    "runtime": 84,
    "genres": [
@@ -918,13 +794,13 @@
    "collection": null,
    "platforms": [],
    "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/meenlFPo8YvrFAEqHEUx54XXQQy.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/8gGtvGzwyQIZeHECopX9OeLPjYH.jpg",
    "backdrop": "https://image.tmdb.org/t/p/w1280/cgjhUMqLziFU750HybRoFkEGTfV.jpg",
    "logo": "",
    "imdb_id": "tt39141753",
    "tmdb_url": "https://www.themoviedb.org/movie/1622764",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39141753",
-   "added_at": "2026-10-04T14:00:00Z",
+   "added_at": "2026-10-04T14:27:00Z",
    "directors": [
     "Yan-Kay Crystal Lowe"
    ],
@@ -1024,7 +900,7 @@
    "imdb_id": "tt28088049",
    "tmdb_url": "https://www.themoviedb.org/movie/1088548",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt28088049",
-   "added_at": "2026-10-03T14:00:00Z",
+   "added_at": "2026-10-03T14:31:00Z",
    "directors": [
     "Pedro Almodóvar"
    ],
@@ -1163,12 +1039,12 @@
   {
    "id": "series:tt43603919",
    "type": "series",
-   "title": "Pls Love รักได้ไหม",
-   "original_title": null,
+   "title": "Pls Love",
+   "original_title": "Pls Love รักได้ไหม",
    "year": 2026,
    "release_date": "2026-09-11",
-   "overview": "",
-   "synopsis_origin": null,
+   "overview": "Peem, une héritière d’affaires froide et en apparence parfaite, retrouve Parn, une femme avec laquelle elle a autrefois vécu une brève histoire d’amour au bord de la mer et qui travaille désormais comme hôtesse dans un club de luxe à Bangkok. Déterminée à la garder près d’elle, Peem l’engage comme assistante personnelle, les obligeant ainsi à faire face à des sentiments inassouvis, à leur fierté et à de douloureux malentendus. Alors que les secrets et les différences de classe menacent de les séparer, les deux femmes doivent décider si elles sont assez courageuses pour se faire confiance et s’aimer sans se juger.",
+   "synopsis_origin": "deepl",
    "rating": 9.7,
    "runtime": null,
    "genres": [
@@ -1180,13 +1056,13 @@
    "collection": null,
    "platforms": [],
    "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/fFBulveFclGP8J4K9owdEK5Gnnw.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/4wCj3cqVJUi2lmNVe05YaPj5ys8.jpg",
    "backdrop": "https://image.tmdb.org/t/p/w1280/51eUZbANuBk9KBA4V3PALGEGs2k.jpg",
    "logo": "https://image.tmdb.org/t/p/w500/uHl5K8yLMMCtljDovx8fDR3cWk.png",
    "imdb_id": "tt43603919",
    "tmdb_url": "https://www.themoviedb.org/tv/316241",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt43603919",
-   "added_at": "2026-10-03T11:00:00Z",
+   "added_at": "2026-10-03T11:05:00Z",
    "directors": [],
    "cast": [
     {
@@ -1306,7 +1182,7 @@
    "imdb_id": "tt46061324",
    "tmdb_url": "https://www.themoviedb.org/tv/335798",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt46061324",
-   "added_at": "2026-10-03T07:00:00Z",
+   "added_at": "2026-10-03T07:05:00Z",
    "directors": [
     "Rafaël Ouellet",
     "Mathieu Cyr"
@@ -1387,7 +1263,7 @@
    "imdb_id": "tt43620512",
    "tmdb_url": "https://www.themoviedb.org/tv/332146",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt43620512",
-   "added_at": "2026-10-03T07:00:00Z",
+   "added_at": "2026-10-03T07:04:00Z",
    "directors": [],
    "cast": [
     {
@@ -1491,7 +1367,7 @@
    "original_title": null,
    "year": 2026,
    "release_date": "2026-10-02",
-   "overview": "Jackie Price, ancienne trafiquante de cocaïne, mène depuis vingt ans une vie luxueuse mais ennuyeuse. Lorsqu'une décision anodine déclenche une série d'événements inattendus, elle apprend que les Sept Démons, une équipe d'assassins d'élite, a été engagée pour la tuer. Jackie se lance alors dans une course-poursuite effrénée à travers l'Europe pour les traquer avant qu'ils ne la trouvent.",
+   "overview": "Depuis vingt ans, Jackie Price mène une vie de luxe et d'opulence, loin du passé périlleux qu'elle a connu en tant que trafiquante internationale de cocaïne. Mais alors que son existence commence à lui sembler quelque peu monotone, elle découvre que « Les Sept Démons » — un groupe comptant parmi les tueurs à gages les plus redoutables au monde — ont été engagés pour l'éliminer.",
    "synopsis_origin": null,
    "rating": 6.8,
    "runtime": null,
@@ -1511,7 +1387,7 @@
    "imdb_id": "tt35726020",
    "tmdb_url": "https://www.themoviedb.org/tv/284558",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt35726020",
-   "added_at": "2026-10-02T19:00:00Z",
+   "added_at": "2026-10-02T19:05:00Z",
    "directors": [
     "Conor Keane"
    ],
@@ -1581,7 +1457,7 @@
    "original_title": null,
    "year": 2026,
    "release_date": "2026-10-02",
-   "overview": "Cathcarts & Sons et Taylor & Byrne s’affrontent dans ce qui s’annonce comme le divorce du siècle : celui du magnat de la tech Morgan Henderson et de la superstar du cinéma Carla Duval. Une affaire retentissante qui pousse les deux cabinets à franchir toutes les limites pour remporter la victoire",
+   "overview": "Une série anthologique se déroulant dans le monde très fermé du droit londonien, suivant deux cabinets rivaux, Cathcarts et Taylor & Byrne, qui s'affrontent chaque saison dans une bataille juridique retentissante.",
    "synopsis_origin": null,
    "rating": 8.8,
    "runtime": null,
@@ -1597,13 +1473,13 @@
     "HBO Max Amazon Channel"
    ],
    "trailer": "https://www.youtube.com/watch?v=Mxy04Qvqohs",
-   "poster": "https://image.tmdb.org/t/p/w500/pTHgCWSuv8m5bBFsL1EXu0zftg7.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg",
    "backdrop": "https://image.tmdb.org/t/p/w1280/nLCHzeiUEupR8LDarMgCcPUuF77.jpg",
    "logo": "https://image.tmdb.org/t/p/w500/w80ohpg5izwi0wCBW6060CH7zwP.png",
    "imdb_id": "tt37972251",
    "tmdb_url": "https://www.themoviedb.org/tv/298852",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt37972251",
-   "added_at": "2026-10-02T19:00:00Z",
+   "added_at": "2026-10-02T19:04:00Z",
    "directors": [
     "George Kay"
    ],
@@ -1750,7 +1626,7 @@
    "imdb_id": "tt38879170",
    "tmdb_url": "https://www.themoviedb.org/movie/1694164",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt38879170",
-   "added_at": "2026-10-02T18:00:00Z",
+   "added_at": "2026-10-02T18:05:00Z",
    "directors": [
     "Alain Desrochers"
    ],
@@ -1875,7 +1751,7 @@
    "imdb_id": "tt15532464",
    "tmdb_url": "https://www.themoviedb.org/movie/880067",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt15532464",
-   "added_at": "2026-10-02T18:00:00Z",
+   "added_at": "2026-10-02T18:04:00Z",
    "directors": [
     "Malcolm D. Lee"
    ],
@@ -2008,709 +1884,6 @@
    ]
   },
   {
-   "id": "series:tt39387981",
-   "type": "series",
-   "title": "L'affaire Laura Stern",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-01-22",
-   "overview": "Laura, pharmacienne et mère de famille, a fondé une association d'aide aux femmes victimes de violences, Femmes Debout. Un jour, elle assiste, impuissante, au meurtre d'une de ses membres. Profondément traumatisée par ce féminicide et révoltée par l'inaction de la police et de la justice, elle décide de répondre à la violence des hommes par la violence pour protéger celles qui l'entourent.",
-   "synopsis_origin": null,
-   "rating": 7.9,
-   "runtime": null,
-   "genres": [
-    "Drame"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Molotov TV",
-    "SFR Play",
-    "HBO Max",
-    "France TV Amazon Channel",
-    "HBO Max Amazon Channel",
-    "Canal VOD",
-    "Apple TV Store"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/amoBYUQhXjUGdcPviy3ja6xJOOE.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/t03VHgTAbEnoIC9bzFIKCdZCjv9.jpg",
-   "logo": "",
-   "imdb_id": "tt39387981",
-   "tmdb_url": "https://www.themoviedb.org/tv/285650",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39387981",
-   "added_at": "2026-10-02T15:00:00Z",
-   "directors": [
-    "Frédéric Krivine",
-    "Marie Kremer"
-   ],
-   "cast": [
-    {
-     "name": "Valérie Bonneton",
-     "role": "Laura Stern",
-     "photo": "https://image.tmdb.org/t/p/w185/tHGojn1vMzGriINazQhMBBcG9u9.jpg"
-    },
-    {
-     "name": "Pauline Parigot",
-     "role": "Camille Lefèbvre",
-     "photo": "https://image.tmdb.org/t/p/w185/qxbVwe2omR7E9vK9MxB7xFOeeoS.jpg"
-    },
-    {
-     "name": "Rym Foglia",
-     "role": "Djamilla Hmoudane",
-     "photo": "https://image.tmdb.org/t/p/w185/1qPeWwl20ccRQi1RyLCbCYE14pL.jpg"
-    },
-    {
-     "name": "Catherine Amé",
-     "role": "Aminata Ouedraogo",
-     "photo": null
-    },
-    {
-     "name": "Pascal Rénéric",
-     "role": "Julien Stern",
-     "photo": null
-    },
-    {
-     "name": "Samir Guesmi",
-     "role": "David Vernet",
-     "photo": "https://image.tmdb.org/t/p/w185/7x6FO6FGZgQAVz543d2F8Ra1Kjs.jpg"
-    },
-    {
-     "name": "Eva Huault",
-     "role": "Audrey Milon",
-     "photo": "https://image.tmdb.org/t/p/w185/4Ovo0oNkV6KLphyhgT30tY6UH0.jpg"
-    },
-    {
-     "name": "Hélène Lambert",
-     "role": "Marie",
-     "photo": null
-    },
-    {
-     "name": "Yannick Renier",
-     "role": "Jean-Marie Lefèbvre",
-     "photo": "https://image.tmdb.org/t/p/w185/4NM5J6KHjnH1LXEg6a3t1hGeWDx.jpg"
-    },
-    {
-     "name": "Talia Joly",
-     "role": "Tania",
-     "photo": null
-    },
-    {
-     "name": "Souad Alla",
-     "role": "Leila",
-     "photo": null
-    },
-    {
-     "name": "Marjorie Lapp",
-     "role": "Sybille",
-     "photo": null
-    },
-    {
-     "name": "Darren Muselet",
-     "role": "Kévin",
-     "photo": "https://image.tmdb.org/t/p/w185/n3cFlgTV8el8eQGO3IDJ0GhqjGf.jpg"
-    },
-    {
-     "name": "Côme Creyx Collet",
-     "role": "Joachim Stern (8 ans)",
-     "photo": null
-    },
-    {
-     "name": "Maëlle Foucaut",
-     "role": "Léa Stern (12 ans)",
-     "photo": null
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "France"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "Tetra Média Fiction / La pépinière",
-     "logo": "https://image.tmdb.org/t/p/w185/hcEIUUxoqgEBsbAj1u7l155MDUg.png"
-    },
-    {
-     "name": "France Télévisions",
-     "logo": "https://image.tmdb.org/t/p/w185/qpFsGoa96SytbWkhtkkpllu5Cch.png"
-    },
-    {
-     "name": "HBO Max",
-     "logo": "https://image.tmdb.org/t/p/w185/gqWI9y0owo9sxgzZD7TXOeILYI9.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Molotov TV",
-     "logo": "https://image.tmdb.org/t/p/w92/g8P4BJ2Wrya0VkbGUxBoUqpXtSs.png"
-    },
-    {
-     "name": "SFR Play",
-     "logo": "https://image.tmdb.org/t/p/w92/9yt7CjnySiiOtRFknNWCz3gSyXz.png"
-    },
-    {
-     "name": "HBO Max",
-     "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
-    },
-    {
-     "name": "France TV Amazon Channel",
-     "logo": "https://image.tmdb.org/t/p/w92/dZtmGfUhFagm7YNk1Idol1T2t7e.png"
-    },
-    {
-     "name": "HBO Max Amazon Channel",
-     "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
-    },
-    {
-     "name": "Canal VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/51fX3l4yElitnfui0IkbMUmfmgF.png"
-    },
-    {
-     "name": "Apple TV Store",
-     "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-    }
-   ]
-  },
-  {
-   "id": "series:tt38973495",
-   "type": "series",
-   "title": "Camarades",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-09-24",
-   "overview": "Mai 68. L’État français vacille sous le coup d’une révolte menée par des étudiants et des professeurs d’université. Pour contenir cette marée subversive, le pouvoir gaulliste imagine une solution aussi perverse que brillante : créer une université expérimentale loin des pavés parisiens. Bienvenue à l'université de Vincennes. Claudine, prostituée du Bois, accepte d’infiltrer pour les RG ce nid de gauchistes qui a fait fuir sa clientèle bourgeoise. Mais à Vincennes, ce ne sont pas seulement les étudiants qui sont révolutionnaires : Foucault, Bourdieu, Cixous, Wittig… La voilà propulsée dans un univers d'idées explosives. Elle y est allée pour De Gaulle. Restera-t-elle pour Deleuze ?",
-   "synopsis_origin": null,
-   "rating": 6.0,
-   "runtime": null,
-   "genres": [
-    "Comédie",
-    "Drame"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "TF1+"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=Fd628t_gdwQ",
-   "poster": "https://image.tmdb.org/t/p/w500/3wTLaiqe6sAd1QBbgGDcGqfXCtM.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/u5QbkNmLIyoi8fRH5Pm4wjWs77S.jpg",
-   "logo": "",
-   "imdb_id": "tt38973495",
-   "tmdb_url": "https://www.themoviedb.org/tv/295490",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38973495",
-   "added_at": "2026-10-02T15:00:00Z",
-   "directors": [
-    "Benjamin Charbit",
-    "Dominique Baumard"
-   ],
-   "cast": [
-    {
-     "name": "Pierre-François Garel",
-     "role": "Gérard Gérard",
-     "photo": "https://image.tmdb.org/t/p/w185/t7LKGGI7JofWwMXybblDNMNnPik.jpg"
-    },
-    {
-     "name": "Lulja Comar",
-     "role": "Françoise Bardel",
-     "photo": "https://image.tmdb.org/t/p/w185/3oMshGfBO8QIo8m2ZfDUDTU4i3P.jpg"
-    },
-    {
-     "name": "Grégory Gadebois",
-     "role": "André Merloux",
-     "photo": "https://image.tmdb.org/t/p/w185/AvF337m0eGL9JLPEgG6Dy1T2Zu4.jpg"
-    },
-    {
-     "name": "Micha Lescot",
-     "role": "Amadéo Moreira",
-     "photo": "https://image.tmdb.org/t/p/w185/sKEi3DKXvgKVUObbAEQpYqo5L1l.jpg"
-    },
-    {
-     "name": "Vincent Elbaz",
-     "role": "Jacques, dit Bookmaker",
-     "photo": "https://image.tmdb.org/t/p/w185/uj2N223BJ1V78W8mNK20M3IGYus.jpg"
-    },
-    {
-     "name": "Reda Bendahou",
-     "role": "Djamel, dit Jimmy",
-     "photo": "https://image.tmdb.org/t/p/w185/fxUkH30t1J94TjFmvM3ZDaRRFXQ.jpg"
-    },
-    {
-     "name": "Constance Dollé",
-     "role": "Bénédicte Fouché",
-     "photo": "https://image.tmdb.org/t/p/w185/wS97F2irPNwsLAJPcWjWcZKeT3Y.jpg"
-    },
-    {
-     "name": "Emilie Incerti-Formentini",
-     "role": "Nino",
-     "photo": "https://image.tmdb.org/t/p/w185/ke5uPDoCRL1RDeZlfr3QwzHeGgY.jpg"
-    },
-    {
-     "name": "Grégori Derangère",
-     "role": "Meunier",
-     "photo": "https://image.tmdb.org/t/p/w185/hGil5CTnudDlDaCdvIWfGT7jsdG.jpg"
-    },
-    {
-     "name": "Manon Kneusé",
-     "role": "Claudine Biscarri",
-     "photo": "https://image.tmdb.org/t/p/w185/rrl1MnFvmdETCDid66kEMdsQxuY.jpg"
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "France"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Agat Films & Cie / Ex Nihilo",
-     "logo": "https://image.tmdb.org/t/p/w185/uskenzq65wJe0cT0D8StQI3hJnO.png"
-    },
-    {
-     "name": "ARTE",
-     "logo": "https://image.tmdb.org/t/p/w185/6UIpEURdjnmcJPwgTDRzVRuwADr.png"
-    },
-    {
-     "name": "Sunday Afternoon Productions",
-     "logo": null
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "TF1+",
-     "logo": "https://image.tmdb.org/t/p/w92/j5w5U61YwOM6Adiaa5zuEVqrpP8.png"
-    }
-   ]
-  },
-  {
-   "id": "series:tt21097264",
-   "type": "series",
-   "title": "À l'est d'Éden",
-   "original_title": "East of Eden",
-   "year": 2026,
-   "release_date": "2026-10-01",
-   "overview": "Au début du 20e siècle, une femme d'une indépendance farouche provoque une rupture entre deux frères, lançant une saga qui va s'étendre sur deux générations.",
-   "synopsis_origin": null,
-   "rating": 8.0,
-   "runtime": null,
-   "genres": [
-    "Drame"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=XjJ4CBegTms",
-   "poster": "https://image.tmdb.org/t/p/w500/ygwE4kbLxKApQoC26Q0DiJQnkMl.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/1frU3iCJVaUfmUAJN3dtEWvoQLp.png",
-   "imdb_id": "tt21097264",
-   "tmdb_url": "https://www.themoviedb.org/tv/258165",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt21097264",
-   "added_at": "2026-10-02T15:00:00Z",
-   "directors": [
-    "Zoe Kazan"
-   ],
-   "cast": [
-    {
-     "name": "Florence Pugh",
-     "role": "Cathy Ames",
-     "photo": "https://image.tmdb.org/t/p/w185/2URrZb95t3kY6pLroKny3Enmabp.jpg"
-    },
-    {
-     "name": "Christopher Abbott",
-     "role": "Adam Trask",
-     "photo": "https://image.tmdb.org/t/p/w185/bE7zzh60RXydH3p632ZZSmsTlcn.jpg"
-    },
-    {
-     "name": "Mike Faist",
-     "role": "Charles Trask",
-     "photo": "https://image.tmdb.org/t/p/w185/xRl1Pa8a80L3QUT7LrTtlTZv1l4.jpg"
-    },
-    {
-     "name": "Hoon Lee",
-     "role": "Lee",
-     "photo": "https://image.tmdb.org/t/p/w185/3Ux4nTEfPySyZg6yBlu1uXR1TyT.jpg"
-    },
-    {
-     "name": "Ciarán Hinds",
-     "role": "Samuel Hamilton",
-     "photo": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
-    },
-    {
-     "name": "Joseph Zada",
-     "role": "Caleb \"Cal\" Trask",
-     "photo": "https://image.tmdb.org/t/p/w185/8RnNxrgffoNOu7ZHPSGvYnfjtdI.jpg"
-    },
-    {
-     "name": "Costa D'Angelo",
-     "role": "Adolescent Adam",
-     "photo": "https://image.tmdb.org/t/p/w185/m0LwsL0MUEV9kzc4OS9blLcqURa.jpg"
-    },
-    {
-     "name": "Robert Morgan",
-     "role": "Sheriff Quinn",
-     "photo": "https://image.tmdb.org/t/p/w185/dZhqn7yOmgetvM2mAWU7sEMmzu7.jpg"
-    },
-    {
-     "name": "Christopher Sommers",
-     "role": "Mr. Bacon",
-     "photo": "https://image.tmdb.org/t/p/w185/e86eKSvV5gr1qihDfG8Lpya04OC.jpg"
-    },
-    {
-     "name": "Brad McMurray",
-     "role": "Joe Valery",
-     "photo": "https://image.tmdb.org/t/p/w185/bfsTsUwYajWlVPgkcY9QzrWuVbi.jpg"
-    },
-    {
-     "name": "Vaughan Reilly",
-     "role": "Adolescent Cathy",
-     "photo": "https://image.tmdb.org/t/p/w185/yt2izl98e0R7FTGOHJ5y4glDGRV.jpg"
-    },
-    {
-     "name": "Joe Anders",
-     "role": "Aron Trask",
-     "photo": "https://image.tmdb.org/t/p/w185/lnPuALnFpjTcXmV6it3RmRm2gL5.jpg"
-    },
-    {
-     "name": "Anita Hegh",
-     "role": "Liza Hamilton",
-     "photo": "https://image.tmdb.org/t/p/w185/agMhKBpzNDd7n3K42qylRHye7qZ.jpg"
-    },
-    {
-     "name": "Amelia Reynolds",
-     "role": "Ethel",
-     "photo": "https://image.tmdb.org/t/p/w185/bqtHpc5LPZtgymVQzJm7qqeXq2J.jpg"
-    },
-    {
-     "name": "Zoe Phillips",
-     "role": "Abra Bacon",
-     "photo": null
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "Fifth Season",
-     "logo": "https://image.tmdb.org/t/p/w185/crrgXvLhDO9c57HYrbO4H58Vxmb.png"
-    },
-    {
-     "name": "Anonymous Content",
-     "logo": "https://image.tmdb.org/t/p/w185/b8w4LldQolMKiLZw4FQJBcXSDGI.png"
-    },
-    {
-     "name": "Collab",
-     "logo": null
-    },
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ]
-  },
-  {
-   "id": "series:tt31841438",
-   "type": "series",
-   "title": "Je préfère la mort",
-   "original_title": "Prefiero la muerte",
-   "year": 2026,
-   "release_date": "2026-10-02",
-   "overview": "Archie est un marginal qui habite dans la paisible ville provinciale de Mendoza. Lors d'une nuit glaciale, il se fait mordre par un zombie et, après avoir envisagé de mettre fin à ses jours, il décide de comprendre ce qui arrive à son corps. Avec l'aide de sa seule amie et de son crush de toujours, Archie part à la recherche d'un remède avant de se transformer en monstre et de tuer tout le monde.",
-   "synopsis_origin": null,
-   "rating": 8.1,
-   "runtime": null,
-   "genres": [
-    "Action & Adventure",
-    "Comédie"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=LpvKR-dtNx4",
-   "poster": "https://image.tmdb.org/t/p/w500/wkHurnx3NZ9kDaUzVIZNKTUditz.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/4mmt50nvqkG6tRQmJfwYSpu3o4K.png",
-   "imdb_id": "tt31841438",
-   "tmdb_url": "https://www.themoviedb.org/tv/335227",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt31841438",
-   "added_at": "2026-10-02T15:00:00Z",
-   "directors": [],
-   "cast": [
-    {
-     "name": "Fernanda Castillo",
-     "role": "Sarah Díaz",
-     "photo": "https://image.tmdb.org/t/p/w185/RMfrmN0HSVxaqYqesbcmvutTAg.jpg"
-    },
-    {
-     "name": "Luis Fernando Peña",
-     "role": "Sargento Peña",
-     "photo": "https://image.tmdb.org/t/p/w185/1nooPX0s6Qi03Npt1Wr9AK7gE08.jpg"
-    },
-    {
-     "name": "Armando Hernández",
-     "role": "Gerardo",
-     "photo": "https://image.tmdb.org/t/p/w185/5J0sQ0P2IBy1fTPDD3f8I2tJIZF.jpg"
-    },
-    {
-     "name": "Tiaré Scanda",
-     "role": "Wendy",
-     "photo": "https://image.tmdb.org/t/p/w185/tEIJnn5ZVHUtDdFLhHP0Q2Fdgxx.jpg"
-    },
-    {
-     "name": "Farah Justiniani",
-     "role": "Brenda Argüelles",
-     "photo": "https://image.tmdb.org/t/p/w185/lKVOx4MzjuRroREZowdPIUgw0kr.jpg"
-    },
-    {
-     "name": "Azalia Ortiz",
-     "role": "Directora Ruth",
-     "photo": "https://image.tmdb.org/t/p/w185/pU4jjmRQlp4Yi0MaXJPGUtG7LTu.jpg"
-    },
-    {
-     "name": "Lilith Curiel",
-     "role": "Cristina Lemus",
-     "photo": "https://image.tmdb.org/t/p/w185/poimeshzntuRSiggrBV7w9sXVRD.jpg"
-    },
-    {
-     "name": "Valentina Garcia",
-     "role": "Wendy",
-     "photo": "https://image.tmdb.org/t/p/w185/7ZOogsZoj6JHxnUpAaB5AcYbAxz.jpg"
-    },
-    {
-     "name": "Alfonso Borbolla",
-     "role": "Profesor Alba",
-     "photo": "https://image.tmdb.org/t/p/w185/60Pw7d3SNCIAf5Iw6QAaikIl9p.jpg"
-    },
-    {
-     "name": "Diego Bernal",
-     "role": "Archibaldo Pérez",
-     "photo": null
-    },
-    {
-     "name": "Leonardo Ávila",
-     "role": "Domingo",
-     "photo": null
-    },
-    {
-     "name": "Lissa",
-     "role": "Martha",
-     "photo": null
-    },
-    {
-     "name": "Cristhian Delgadillo",
-     "role": "Kirk Rodriguez",
-     "photo": null
-    },
-    {
-     "name": "Gabriel Fritsch de Anda",
-     "role": "Leopoldo",
-     "photo": null
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Mexique"
-   ],
-   "original_language": "Espagnol",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Amazon MGM Studios",
-     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
-    },
-    {
-     "name": "Tigre Pictures",
-     "logo": null
-    },
-    {
-     "name": "Pez Caja",
-     "logo": null
-    },
-    {
-     "name": "Prime Video",
-     "logo": "https://image.tmdb.org/t/p/w185/w7HfLNm9CWwRmAMU58udl2L7We7.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Amazon Prime Video",
-     "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-    },
-    {
-     "name": "Amazon Prime Video with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-    }
-   ]
-  },
-  {
-   "id": "series:tt36064406",
-   "type": "series",
-   "title": "Sorcières Academy",
-   "original_title": "Coven Academy",
-   "year": 2026,
-   "release_date": "2026-10-01",
-   "overview": "Au cœur envoûtant de La Nouvelle-Orléans, suivez trois jeunes sorcières et leurs homologues masculins — des sorciers au charme dangereux — au sein d'un internat de magie d'élite où le pouvoir est une monnaie d'échange, les secrets peuvent être mortels et l'attirance, un risque majeur. Pris entre des guerres surnaturelles ancestrales et des amours interdites, le clan doit décider jusqu'où il est prêt à aller pour protéger sa ville... et se protéger lui-même.",
-   "synopsis_origin": null,
-   "rating": 7.2,
-   "runtime": null,
-   "genres": [
-    "Mystère",
-    "Drame",
-    "Science-Fiction & Fantastique"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": "https://www.youtube.com/watch?v=J6H5hpMmaOk",
-   "poster": "https://image.tmdb.org/t/p/w500/a3WtN94ghHX7pV44g2za35ApYDm.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/l1ACrFfEJKDs7hqkV7sQw4PyZ3w.png",
-   "imdb_id": "tt36064406",
-   "tmdb_url": "https://www.themoviedb.org/tv/298505",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt36064406",
-   "added_at": "2026-10-02T15:00:00Z",
-   "directors": [
-    "Tim Federle"
-   ],
-   "cast": [
-    {
-     "name": "Malina Weissman",
-     "role": "Briar Roberts",
-     "photo": "https://image.tmdb.org/t/p/w185/5alONfoc28zHqCC6GP1DAgYFQoU.jpg"
-    },
-    {
-     "name": "Malachi Barton",
-     "role": "Jake",
-     "photo": "https://image.tmdb.org/t/p/w185/lmV6ParCZkniV1OQO71xxfjFjaG.jpg"
-    },
-    {
-     "name": "Jordan Leftwich",
-     "role": "Sasha Baptiste",
-     "photo": "https://image.tmdb.org/t/p/w185/yHvEhCqnPXaPFsIjYlLxZpjJFeA.jpg"
-    },
-    {
-     "name": "Ora Duplass",
-     "role": "Tegan Kimball",
-     "photo": "https://image.tmdb.org/t/p/w185/aUb9KQDx5NN3yTXjuYr0ixRFeKe.jpg"
-    },
-    {
-     "name": "Louis Thresher",
-     "role": "Ollie",
-     "photo": "https://image.tmdb.org/t/p/w185/9LVXDj4w1cQqTbgveH2ftsXJOzD.jpg"
-    },
-    {
-     "name": "Tiffani Thiessen",
-     "role": "Miss Graves",
-     "photo": "https://image.tmdb.org/t/p/w185/2L2lENLehoG1OPgxtugS9gG1bdy.jpg"
-    },
-    {
-     "name": "Devon Sawa",
-     "role": "Mr. Cole",
-     "photo": "https://image.tmdb.org/t/p/w185/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
-    },
-    {
-     "name": "Swayam Bhatia",
-     "role": "McKenna",
-     "photo": "https://image.tmdb.org/t/p/w185/bls6jlbG5pvIo8OKPQNvWwwdpgk.jpg"
-    },
-    {
-     "name": "BJ Harrison",
-     "role": "Agnes",
-     "photo": "https://image.tmdb.org/t/p/w185/kw3KgdTMCgonWfVQcYiQe7hXYnM.jpg"
-    },
-    {
-     "name": "Cecilia Deacon",
-     "role": "Mary Roberts",
-     "photo": "https://image.tmdb.org/t/p/w185/ko4zWKfQrtBcqwMBEjlroOfJMVX.jpg"
-    },
-    {
-     "name": "Brendon Tremblay",
-     "role": "Alexander",
-     "photo": "https://image.tmdb.org/t/p/w185/pl8fWH1TIY3bAkZJrYL3V9Xt42w.jpg"
-    },
-    {
-     "name": "Keegan Connor Tracy",
-     "role": "Tamora Tomlinson",
-     "photo": "https://image.tmdb.org/t/p/w185/lP5rlqK8YIqobtFghURPbNdN5zw.jpg"
-    },
-    {
-     "name": "Brandon McEwan",
-     "role": "Dylan",
-     "photo": "https://image.tmdb.org/t/p/w185/is6xbjlH14ritEVgiogRrcP27WI.jpg"
-    },
-    {
-     "name": "Nathaniel Logan McIntyre",
-     "role": "Teese",
-     "photo": "https://image.tmdb.org/t/p/w185/ijhDtOElLvBX1KRGKZKnv6cettW.jpg"
-    },
-    {
-     "name": "Tahmoh Penikett",
-     "role": "William",
-     "photo": "https://image.tmdb.org/t/p/w185/716vNPQ4UaPga3n8RX777c9Excg.jpg"
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Chorus Boy",
-     "logo": "https://image.tmdb.org/t/p/w185/sJYZwzi0kL9QTTDdnWfhA1Gbhj3.png"
-    },
-    {
-     "name": "Bear Claw Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/hGbesRYgkR4SHQib5syHjIYi9QE.png"
-    },
-    {
-     "name": "Slavkin/Swimmer Productions",
-     "logo": null
-    },
-    {
-     "name": "Disney Kids & Family",
-     "logo": "https://image.tmdb.org/t/p/w185/ajjamIKaJPMSRBoNShIpf2l0OzC.png"
-    },
-    {
-     "name": "Freeform",
-     "logo": "https://image.tmdb.org/t/p/w185/jk2Z7WH6JnHSZrxouYh4sireM3a.png"
-    }
-   ],
-   "platform_logos": []
-  },
-  {
    "id": "movie:tt32252801",
    "type": "movie",
    "title": "Blue Heron",
@@ -2735,7 +1908,7 @@
    "imdb_id": "tt32252801",
    "tmdb_url": "https://www.themoviedb.org/movie/1184941",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt32252801",
-   "added_at": "2026-10-02T14:00:00Z",
+   "added_at": "2026-10-02T14:09:00Z",
    "directors": [
     "Sophy Romvari"
    ],
@@ -2888,7 +2061,7 @@
    "imdb_id": "tt37660578",
    "tmdb_url": "https://www.themoviedb.org/movie/1438959",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37660578",
-   "added_at": "2026-10-02T14:00:00Z",
+   "added_at": "2026-10-02T14:08:00Z",
    "directors": [
     "Leonardo Di Costanzo"
    ],
@@ -3060,7 +2233,7 @@
    "imdb_id": "tt36412781",
    "tmdb_url": "https://www.themoviedb.org/movie/1705737",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36412781",
-   "added_at": "2026-10-02T14:00:00Z",
+   "added_at": "2026-10-02T14:07:00Z",
    "directors": [
     "Luc Picard"
    ],
@@ -3190,7 +2363,7 @@
    "imdb_id": "tt32654916",
    "tmdb_url": "https://www.themoviedb.org/movie/1307118",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt32654916",
-   "added_at": "2026-10-02T14:00:00Z",
+   "added_at": "2026-10-02T14:06:00Z",
    "directors": [
     "Kate Dolan"
    ],
@@ -3296,12 +2469,12 @@
   {
    "id": "movie:tt36429458",
    "type": "movie",
-   "title": "À vie",
-   "original_title": "Doing Life",
+   "title": "Doing Life",
+   "original_title": null,
    "year": 2026,
    "release_date": "2026-10-02",
-   "overview": "Quand Anika, une jeune mère célibataire qui se bat pour préserver l'unité de sa famille, commence à échanger des lettres avec un détenu, Carousel, une relation improbable se noue à distance et prend bientôt une tournure inattendue. Naît alors une puissante histoire d'amour et de rédemption, portée par l'espoir de pouvoir un jour échapper au poids du passé. Car même les relations les plus inconcevables peuvent changer des vies et offrir une seconde chance d'être heureux.",
-   "synopsis_origin": null,
+   "overview": "Une mère célibataire et un homme incarcéré tissent un lien inattendu grâce à des lettres sincères, ouvrant ainsi la voie à la rédemption, à l'espoir et à l'amour contre toute attente.",
+   "synopsis_origin": "deepl",
    "rating": 7.3,
    "runtime": 108,
    "genres": [
@@ -3316,13 +2489,13 @@
     "Netflix Standard with Ads"
    ],
    "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/c3O1ApzLnQ1jUXA60kXDraiPPIv.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
    "backdrop": "https://image.tmdb.org/t/p/w1280/mqz5t8PgmqXGiWsVuQXAqDkNO2F.jpg",
    "logo": "https://image.tmdb.org/t/p/w500/7v6Lz7BHvoBGgNaNGGBSlVsgEjN.png",
    "imdb_id": "tt36429458",
    "tmdb_url": "https://www.themoviedb.org/movie/1458857",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36429458",
-   "added_at": "2026-10-02T14:00:00Z",
+   "added_at": "2026-10-02T14:05:00Z",
    "directors": [
     "Tyler Perry"
    ],
@@ -3419,7 +2592,7 @@
    "imdb_id": "tt28553375",
    "tmdb_url": "https://www.themoviedb.org/movie/1165366",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt28553375",
-   "added_at": "2026-10-02T14:00:00Z",
+   "added_at": "2026-10-02T14:04:00Z",
    "directors": [
     "Antonin Baudry"
    ],
@@ -3574,6 +2747,709 @@
    ]
   },
   {
+   "id": "series:tt39387981",
+   "type": "series",
+   "title": "L'affaire Laura Stern",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-01-22",
+   "overview": "Laura, pharmacienne et mère de famille, a fondé une association d'aide aux femmes victimes de violences, Femmes Debout. Un jour, elle assiste, impuissante, au meurtre d'une de ses membres. Profondément traumatisée par ce féminicide et révoltée par l'inaction de la police et de la justice, elle décide de répondre à la violence des hommes par la violence pour protéger celles qui l'entourent.",
+   "synopsis_origin": null,
+   "rating": 7.9,
+   "runtime": null,
+   "genres": [
+    "Drame"
+   ],
+   "status": "Terminée",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Molotov TV",
+    "SFR Play",
+    "HBO Max",
+    "France TV Amazon Channel",
+    "HBO Max Amazon Channel",
+    "Canal VOD",
+    "Apple TV Store"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/amoBYUQhXjUGdcPviy3ja6xJOOE.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/t03VHgTAbEnoIC9bzFIKCdZCjv9.jpg",
+   "logo": "",
+   "imdb_id": "tt39387981",
+   "tmdb_url": "https://www.themoviedb.org/tv/285650",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39387981",
+   "added_at": "2026-10-02T11:09:00Z",
+   "directors": [
+    "Frédéric Krivine",
+    "Marie Kremer"
+   ],
+   "cast": [
+    {
+     "name": "Valérie Bonneton",
+     "role": "Laura Stern",
+     "photo": "https://image.tmdb.org/t/p/w185/tHGojn1vMzGriINazQhMBBcG9u9.jpg"
+    },
+    {
+     "name": "Pauline Parigot",
+     "role": "Camille Lefèbvre",
+     "photo": "https://image.tmdb.org/t/p/w185/qxbVwe2omR7E9vK9MxB7xFOeeoS.jpg"
+    },
+    {
+     "name": "Rym Foglia",
+     "role": "Djamilla Hmoudane",
+     "photo": "https://image.tmdb.org/t/p/w185/1qPeWwl20ccRQi1RyLCbCYE14pL.jpg"
+    },
+    {
+     "name": "Catherine Amé",
+     "role": "Aminata Ouedraogo",
+     "photo": null
+    },
+    {
+     "name": "Pascal Rénéric",
+     "role": "Julien Stern",
+     "photo": null
+    },
+    {
+     "name": "Samir Guesmi",
+     "role": "David Vernet",
+     "photo": "https://image.tmdb.org/t/p/w185/7x6FO6FGZgQAVz543d2F8Ra1Kjs.jpg"
+    },
+    {
+     "name": "Eva Huault",
+     "role": "Audrey Milon",
+     "photo": "https://image.tmdb.org/t/p/w185/4Ovo0oNkV6KLphyhgT30tY6UH0.jpg"
+    },
+    {
+     "name": "Hélène Lambert",
+     "role": "Marie",
+     "photo": null
+    },
+    {
+     "name": "Yannick Renier",
+     "role": "Jean-Marie Lefèbvre",
+     "photo": "https://image.tmdb.org/t/p/w185/4NM5J6KHjnH1LXEg6a3t1hGeWDx.jpg"
+    },
+    {
+     "name": "Talia Joly",
+     "role": "Tania",
+     "photo": null
+    },
+    {
+     "name": "Souad Alla",
+     "role": "Leila",
+     "photo": null
+    },
+    {
+     "name": "Marjorie Lapp",
+     "role": "Sybille",
+     "photo": null
+    },
+    {
+     "name": "Darren Muselet",
+     "role": "Kévin",
+     "photo": "https://image.tmdb.org/t/p/w185/n3cFlgTV8el8eQGO3IDJ0GhqjGf.jpg"
+    },
+    {
+     "name": "Côme Creyx Collet",
+     "role": "Joachim Stern (8 ans)",
+     "photo": null
+    },
+    {
+     "name": "Maëlle Foucaut",
+     "role": "Léa Stern (12 ans)",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Terminée",
+   "production": [
+    {
+     "name": "Tetra Média Fiction / La pépinière",
+     "logo": "https://image.tmdb.org/t/p/w185/hcEIUUxoqgEBsbAj1u7l155MDUg.png"
+    },
+    {
+     "name": "France Télévisions",
+     "logo": "https://image.tmdb.org/t/p/w185/qpFsGoa96SytbWkhtkkpllu5Cch.png"
+    },
+    {
+     "name": "HBO Max",
+     "logo": "https://image.tmdb.org/t/p/w185/gqWI9y0owo9sxgzZD7TXOeILYI9.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Molotov TV",
+     "logo": "https://image.tmdb.org/t/p/w92/g8P4BJ2Wrya0VkbGUxBoUqpXtSs.png"
+    },
+    {
+     "name": "SFR Play",
+     "logo": "https://image.tmdb.org/t/p/w92/9yt7CjnySiiOtRFknNWCz3gSyXz.png"
+    },
+    {
+     "name": "HBO Max",
+     "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
+    },
+    {
+     "name": "France TV Amazon Channel",
+     "logo": "https://image.tmdb.org/t/p/w92/dZtmGfUhFagm7YNk1Idol1T2t7e.png"
+    },
+    {
+     "name": "HBO Max Amazon Channel",
+     "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
+    },
+    {
+     "name": "Canal VOD",
+     "logo": "https://image.tmdb.org/t/p/w92/51fX3l4yElitnfui0IkbMUmfmgF.png"
+    },
+    {
+     "name": "Apple TV Store",
+     "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+    }
+   ]
+  },
+  {
+   "id": "series:tt38973495",
+   "type": "series",
+   "title": "Camarades",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-24",
+   "overview": "Mai 68. L’État français vacille sous le coup d’une révolte menée par des étudiants et des professeurs d’université. Pour contenir cette marée subversive, le pouvoir gaulliste imagine une solution aussi perverse que brillante : créer une université expérimentale loin des pavés parisiens. Bienvenue à l'université de Vincennes. Claudine, prostituée du Bois, accepte d’infiltrer pour les RG ce nid de gauchistes qui a fait fuir sa clientèle bourgeoise. Mais à Vincennes, ce ne sont pas seulement les étudiants qui sont révolutionnaires : Foucault, Bourdieu, Cixous, Wittig… La voilà propulsée dans un univers d'idées explosives. Elle y est allée pour De Gaulle. Restera-t-elle pour Deleuze ?",
+   "synopsis_origin": null,
+   "rating": 6.0,
+   "runtime": null,
+   "genres": [
+    "Comédie",
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "TF1+"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Fd628t_gdwQ",
+   "poster": "https://image.tmdb.org/t/p/w500/3wTLaiqe6sAd1QBbgGDcGqfXCtM.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/u5QbkNmLIyoi8fRH5Pm4wjWs77S.jpg",
+   "logo": "",
+   "imdb_id": "tt38973495",
+   "tmdb_url": "https://www.themoviedb.org/tv/295490",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38973495",
+   "added_at": "2026-10-02T11:08:00Z",
+   "directors": [
+    "Benjamin Charbit",
+    "Dominique Baumard"
+   ],
+   "cast": [
+    {
+     "name": "Pierre-François Garel",
+     "role": "Gérard Gérard",
+     "photo": "https://image.tmdb.org/t/p/w185/t7LKGGI7JofWwMXybblDNMNnPik.jpg"
+    },
+    {
+     "name": "Lulja Comar",
+     "role": "Françoise Bardel",
+     "photo": "https://image.tmdb.org/t/p/w185/3oMshGfBO8QIo8m2ZfDUDTU4i3P.jpg"
+    },
+    {
+     "name": "Grégory Gadebois",
+     "role": "André Merloux",
+     "photo": "https://image.tmdb.org/t/p/w185/AvF337m0eGL9JLPEgG6Dy1T2Zu4.jpg"
+    },
+    {
+     "name": "Micha Lescot",
+     "role": "Amadéo Moreira",
+     "photo": "https://image.tmdb.org/t/p/w185/sKEi3DKXvgKVUObbAEQpYqo5L1l.jpg"
+    },
+    {
+     "name": "Vincent Elbaz",
+     "role": "Jacques, dit Bookmaker",
+     "photo": "https://image.tmdb.org/t/p/w185/uj2N223BJ1V78W8mNK20M3IGYus.jpg"
+    },
+    {
+     "name": "Reda Bendahou",
+     "role": "Djamel, dit Jimmy",
+     "photo": "https://image.tmdb.org/t/p/w185/fxUkH30t1J94TjFmvM3ZDaRRFXQ.jpg"
+    },
+    {
+     "name": "Constance Dollé",
+     "role": "Bénédicte Fouché",
+     "photo": "https://image.tmdb.org/t/p/w185/wS97F2irPNwsLAJPcWjWcZKeT3Y.jpg"
+    },
+    {
+     "name": "Emilie Incerti-Formentini",
+     "role": "Nino",
+     "photo": "https://image.tmdb.org/t/p/w185/ke5uPDoCRL1RDeZlfr3QwzHeGgY.jpg"
+    },
+    {
+     "name": "Grégori Derangère",
+     "role": "Meunier",
+     "photo": "https://image.tmdb.org/t/p/w185/hGil5CTnudDlDaCdvIWfGT7jsdG.jpg"
+    },
+    {
+     "name": "Manon Kneusé",
+     "role": "Claudine Biscarri",
+     "photo": "https://image.tmdb.org/t/p/w185/rrl1MnFvmdETCDid66kEMdsQxuY.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Agat Films & Cie / Ex Nihilo",
+     "logo": "https://image.tmdb.org/t/p/w185/uskenzq65wJe0cT0D8StQI3hJnO.png"
+    },
+    {
+     "name": "ARTE",
+     "logo": "https://image.tmdb.org/t/p/w185/6UIpEURdjnmcJPwgTDRzVRuwADr.png"
+    },
+    {
+     "name": "Sunday Afternoon Productions",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "TF1+",
+     "logo": "https://image.tmdb.org/t/p/w92/j5w5U61YwOM6Adiaa5zuEVqrpP8.png"
+    }
+   ]
+  },
+  {
+   "id": "series:tt21097264",
+   "type": "series",
+   "title": "À l'est d'Éden",
+   "original_title": "East of Eden",
+   "year": 2026,
+   "release_date": "2026-10-01",
+   "overview": "Au début du 20e siècle, une femme d'une indépendance farouche provoque une rupture entre deux frères, lançant une saga qui va s'étendre sur deux générations.",
+   "synopsis_origin": null,
+   "rating": 8.0,
+   "runtime": null,
+   "genres": [
+    "Drame"
+   ],
+   "status": "Terminée",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=XjJ4CBegTms",
+   "poster": "https://image.tmdb.org/t/p/w500/ml032YJhpkKcLhm4TDBpBWXUqYz.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/1frU3iCJVaUfmUAJN3dtEWvoQLp.png",
+   "imdb_id": "tt21097264",
+   "tmdb_url": "https://www.themoviedb.org/tv/258165",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt21097264",
+   "added_at": "2026-10-02T11:07:00Z",
+   "directors": [
+    "Zoe Kazan"
+   ],
+   "cast": [
+    {
+     "name": "Florence Pugh",
+     "role": "Cathy Ames",
+     "photo": "https://image.tmdb.org/t/p/w185/2URrZb95t3kY6pLroKny3Enmabp.jpg"
+    },
+    {
+     "name": "Christopher Abbott",
+     "role": "Adam Trask",
+     "photo": "https://image.tmdb.org/t/p/w185/bE7zzh60RXydH3p632ZZSmsTlcn.jpg"
+    },
+    {
+     "name": "Mike Faist",
+     "role": "Charles Trask",
+     "photo": "https://image.tmdb.org/t/p/w185/xRl1Pa8a80L3QUT7LrTtlTZv1l4.jpg"
+    },
+    {
+     "name": "Hoon Lee",
+     "role": "Lee",
+     "photo": "https://image.tmdb.org/t/p/w185/3Ux4nTEfPySyZg6yBlu1uXR1TyT.jpg"
+    },
+    {
+     "name": "Ciarán Hinds",
+     "role": "Samuel Hamilton",
+     "photo": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
+    },
+    {
+     "name": "Joseph Zada",
+     "role": "Caleb \"Cal\" Trask",
+     "photo": "https://image.tmdb.org/t/p/w185/8RnNxrgffoNOu7ZHPSGvYnfjtdI.jpg"
+    },
+    {
+     "name": "Costa D'Angelo",
+     "role": "Adolescent Adam",
+     "photo": "https://image.tmdb.org/t/p/w185/m0LwsL0MUEV9kzc4OS9blLcqURa.jpg"
+    },
+    {
+     "name": "Robert Morgan",
+     "role": "Sheriff Quinn",
+     "photo": "https://image.tmdb.org/t/p/w185/dZhqn7yOmgetvM2mAWU7sEMmzu7.jpg"
+    },
+    {
+     "name": "Christopher Sommers",
+     "role": "Mr. Bacon",
+     "photo": "https://image.tmdb.org/t/p/w185/e86eKSvV5gr1qihDfG8Lpya04OC.jpg"
+    },
+    {
+     "name": "Brad McMurray",
+     "role": "Joe Valery",
+     "photo": "https://image.tmdb.org/t/p/w185/bfsTsUwYajWlVPgkcY9QzrWuVbi.jpg"
+    },
+    {
+     "name": "Vaughan Reilly",
+     "role": "Adolescent Cathy",
+     "photo": "https://image.tmdb.org/t/p/w185/yt2izl98e0R7FTGOHJ5y4glDGRV.jpg"
+    },
+    {
+     "name": "Joe Anders",
+     "role": "Aron Trask",
+     "photo": "https://image.tmdb.org/t/p/w185/lnPuALnFpjTcXmV6it3RmRm2gL5.jpg"
+    },
+    {
+     "name": "Anita Hegh",
+     "role": "Liza Hamilton",
+     "photo": "https://image.tmdb.org/t/p/w185/agMhKBpzNDd7n3K42qylRHye7qZ.jpg"
+    },
+    {
+     "name": "Amelia Reynolds",
+     "role": "Ethel",
+     "photo": "https://image.tmdb.org/t/p/w185/bqtHpc5LPZtgymVQzJm7qqeXq2J.jpg"
+    },
+    {
+     "name": "Zoe Phillips",
+     "role": "Abra Bacon",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Terminée",
+   "production": [
+    {
+     "name": "Fifth Season",
+     "logo": "https://image.tmdb.org/t/p/w185/crrgXvLhDO9c57HYrbO4H58Vxmb.png"
+    },
+    {
+     "name": "Anonymous Content",
+     "logo": "https://image.tmdb.org/t/p/w185/b8w4LldQolMKiLZw4FQJBcXSDGI.png"
+    },
+    {
+     "name": "Collab",
+     "logo": null
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+    }
+   ]
+  },
+  {
+   "id": "series:tt31841438",
+   "type": "series",
+   "title": "Je préfère la mort",
+   "original_title": "Prefiero la muerte",
+   "year": 2026,
+   "release_date": "2026-10-02",
+   "overview": "Archie est un marginal qui habite dans la paisible ville provinciale de Mendoza. Lors d'une nuit glaciale, il se fait mordre par un zombie et, après avoir envisagé de mettre fin à ses jours, il décide de comprendre ce qui arrive à son corps. Avec l'aide de sa seule amie et de son crush de toujours, Archie part à la recherche d'un remède avant de se transformer en monstre et de tuer tout le monde.",
+   "synopsis_origin": null,
+   "rating": 8.1,
+   "runtime": null,
+   "genres": [
+    "Action & Adventure",
+    "Comédie"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=LpvKR-dtNx4",
+   "poster": "https://image.tmdb.org/t/p/w500/wCFvuoNaL4nk7HCFiH7uEm2CDEp.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/339M5JkUc4DeXBGoK2lp9QZ3Y5e.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/4mmt50nvqkG6tRQmJfwYSpu3o4K.png",
+   "imdb_id": "tt31841438",
+   "tmdb_url": "https://www.themoviedb.org/tv/335227",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt31841438",
+   "added_at": "2026-10-02T11:06:00Z",
+   "directors": [],
+   "cast": [
+    {
+     "name": "Fernanda Castillo",
+     "role": "Sarah Díaz",
+     "photo": "https://image.tmdb.org/t/p/w185/RMfrmN0HSVxaqYqesbcmvutTAg.jpg"
+    },
+    {
+     "name": "Luis Fernando Peña",
+     "role": "Sargento Peña",
+     "photo": "https://image.tmdb.org/t/p/w185/1nooPX0s6Qi03Npt1Wr9AK7gE08.jpg"
+    },
+    {
+     "name": "Armando Hernández",
+     "role": "Gerardo",
+     "photo": "https://image.tmdb.org/t/p/w185/5J0sQ0P2IBy1fTPDD3f8I2tJIZF.jpg"
+    },
+    {
+     "name": "Tiaré Scanda",
+     "role": "Wendy",
+     "photo": "https://image.tmdb.org/t/p/w185/tEIJnn5ZVHUtDdFLhHP0Q2Fdgxx.jpg"
+    },
+    {
+     "name": "Farah Justiniani",
+     "role": "Brenda Argüelles",
+     "photo": "https://image.tmdb.org/t/p/w185/lKVOx4MzjuRroREZowdPIUgw0kr.jpg"
+    },
+    {
+     "name": "Azalia Ortiz",
+     "role": "Directora Ruth",
+     "photo": "https://image.tmdb.org/t/p/w185/pU4jjmRQlp4Yi0MaXJPGUtG7LTu.jpg"
+    },
+    {
+     "name": "Lilith Curiel",
+     "role": "Cristina Lemus",
+     "photo": "https://image.tmdb.org/t/p/w185/poimeshzntuRSiggrBV7w9sXVRD.jpg"
+    },
+    {
+     "name": "Valentina Garcia",
+     "role": "Wendy",
+     "photo": "https://image.tmdb.org/t/p/w185/7ZOogsZoj6JHxnUpAaB5AcYbAxz.jpg"
+    },
+    {
+     "name": "Alfonso Borbolla",
+     "role": "Profesor Alba",
+     "photo": "https://image.tmdb.org/t/p/w185/60Pw7d3SNCIAf5Iw6QAaikIl9p.jpg"
+    },
+    {
+     "name": "Diego Bernal",
+     "role": "Archibaldo Pérez",
+     "photo": null
+    },
+    {
+     "name": "Leonardo Ávila",
+     "role": "Domingo",
+     "photo": null
+    },
+    {
+     "name": "Lissa",
+     "role": "Martha",
+     "photo": null
+    },
+    {
+     "name": "Cristhian Delgadillo",
+     "role": "Kirk Rodriguez",
+     "photo": null
+    },
+    {
+     "name": "Gabriel Fritsch de Anda",
+     "role": "Leopoldo",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Mexique"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Tigre Pictures",
+     "logo": null
+    },
+    {
+     "name": "Pez Caja",
+     "logo": null
+    },
+    {
+     "name": "Prime Video",
+     "logo": "https://image.tmdb.org/t/p/w185/w7HfLNm9CWwRmAMU58udl2L7We7.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+    },
+    {
+     "name": "Amazon Prime Video with Ads",
+     "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+    }
+   ]
+  },
+  {
+   "id": "series:tt36064406",
+   "type": "series",
+   "title": "Sorcières Academy",
+   "original_title": "Coven Academy",
+   "year": 2026,
+   "release_date": "2026-10-01",
+   "overview": "Au cœur envoûtant de La Nouvelle-Orléans, suivez trois jeunes sorcières et leurs homologues masculins — des sorciers au charme dangereux — au sein d'un internat de magie d'élite où le pouvoir est une monnaie d'échange, les secrets peuvent être mortels et l'attirance, un risque majeur. Pris entre des guerres surnaturelles ancestrales et des amours interdites, le clan doit décider jusqu'où il est prêt à aller pour protéger sa ville... et se protéger lui-même.",
+   "synopsis_origin": null,
+   "rating": 7.2,
+   "runtime": null,
+   "genres": [
+    "Mystère",
+    "Drame",
+    "Science-Fiction & Fantastique"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=J6H5hpMmaOk",
+   "poster": "https://image.tmdb.org/t/p/w500/a3WtN94ghHX7pV44g2za35ApYDm.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/mGFtH5pUXDd4hSXUfl8HnHlRWJV.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/l1ACrFfEJKDs7hqkV7sQw4PyZ3w.png",
+   "imdb_id": "tt36064406",
+   "tmdb_url": "https://www.themoviedb.org/tv/298505",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt36064406",
+   "added_at": "2026-10-02T11:05:00Z",
+   "directors": [
+    "Tim Federle"
+   ],
+   "cast": [
+    {
+     "name": "Malina Weissman",
+     "role": "Briar Roberts",
+     "photo": "https://image.tmdb.org/t/p/w185/5alONfoc28zHqCC6GP1DAgYFQoU.jpg"
+    },
+    {
+     "name": "Malachi Barton",
+     "role": "Jake",
+     "photo": "https://image.tmdb.org/t/p/w185/lmV6ParCZkniV1OQO71xxfjFjaG.jpg"
+    },
+    {
+     "name": "Jordan Leftwich",
+     "role": "Sasha Baptiste",
+     "photo": "https://image.tmdb.org/t/p/w185/yHvEhCqnPXaPFsIjYlLxZpjJFeA.jpg"
+    },
+    {
+     "name": "Ora Duplass",
+     "role": "Tegan Kimball",
+     "photo": "https://image.tmdb.org/t/p/w185/aUb9KQDx5NN3yTXjuYr0ixRFeKe.jpg"
+    },
+    {
+     "name": "Louis Thresher",
+     "role": "Ollie",
+     "photo": "https://image.tmdb.org/t/p/w185/9LVXDj4w1cQqTbgveH2ftsXJOzD.jpg"
+    },
+    {
+     "name": "Tiffani Thiessen",
+     "role": "Miss Graves",
+     "photo": "https://image.tmdb.org/t/p/w185/2L2lENLehoG1OPgxtugS9gG1bdy.jpg"
+    },
+    {
+     "name": "Devon Sawa",
+     "role": "Mr. Cole",
+     "photo": "https://image.tmdb.org/t/p/w185/yvMbpZ0UFQ1IBwlWm8quCA6fNc5.jpg"
+    },
+    {
+     "name": "Swayam Bhatia",
+     "role": "McKenna",
+     "photo": "https://image.tmdb.org/t/p/w185/bls6jlbG5pvIo8OKPQNvWwwdpgk.jpg"
+    },
+    {
+     "name": "BJ Harrison",
+     "role": "Agnes",
+     "photo": "https://image.tmdb.org/t/p/w185/kw3KgdTMCgonWfVQcYiQe7hXYnM.jpg"
+    },
+    {
+     "name": "Cecilia Deacon",
+     "role": "Mary Roberts",
+     "photo": "https://image.tmdb.org/t/p/w185/ko4zWKfQrtBcqwMBEjlroOfJMVX.jpg"
+    },
+    {
+     "name": "Brendon Tremblay",
+     "role": "Alexander",
+     "photo": "https://image.tmdb.org/t/p/w185/pl8fWH1TIY3bAkZJrYL3V9Xt42w.jpg"
+    },
+    {
+     "name": "Keegan Connor Tracy",
+     "role": "Tamora Tomlinson",
+     "photo": "https://image.tmdb.org/t/p/w185/lP5rlqK8YIqobtFghURPbNdN5zw.jpg"
+    },
+    {
+     "name": "Brandon McEwan",
+     "role": "Dylan",
+     "photo": "https://image.tmdb.org/t/p/w185/is6xbjlH14ritEVgiogRrcP27WI.jpg"
+    },
+    {
+     "name": "Nathaniel Logan McIntyre",
+     "role": "Teese",
+     "photo": "https://image.tmdb.org/t/p/w185/ijhDtOElLvBX1KRGKZKnv6cettW.jpg"
+    },
+    {
+     "name": "Tahmoh Penikett",
+     "role": "William",
+     "photo": "https://image.tmdb.org/t/p/w185/716vNPQ4UaPga3n8RX777c9Excg.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Chorus Boy",
+     "logo": "https://image.tmdb.org/t/p/w185/sJYZwzi0kL9QTTDdnWfhA1Gbhj3.png"
+    },
+    {
+     "name": "Bear Claw Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/hGbesRYgkR4SHQib5syHjIYi9QE.png"
+    },
+    {
+     "name": "Slavkin/Swimmer Productions",
+     "logo": null
+    },
+    {
+     "name": "Disney Kids & Family",
+     "logo": "https://image.tmdb.org/t/p/w185/ajjamIKaJPMSRBoNShIpf2l0OzC.png"
+    },
+    {
+     "name": "Freeform",
+     "logo": "https://image.tmdb.org/t/p/w185/jk2Z7WH6JnHSZrxouYh4sireM3a.png"
+    }
+   ],
+   "platform_logos": []
+  },
+  {
    "id": "movie:tt39172310",
    "type": "movie",
    "title": "Shana",
@@ -3609,7 +3485,7 @@
    "imdb_id": "tt39172310",
    "tmdb_url": "https://www.themoviedb.org/movie/1483319",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39172310",
-   "added_at": "2026-10-02T10:00:00Z",
+   "added_at": "2026-10-01T10:05:00Z",
    "directors": [
     "Lila Pinell"
    ],
@@ -3750,146 +3626,13 @@
    ]
   },
   {
-   "id": "movie:tt43750202",
-   "type": "movie",
-   "title": "Diffusion en direct de l'enfer",
-   "original_title": "Livestream from Hell",
-   "year": 2026,
-   "release_date": "2026-09-30",
-   "overview": "Kevin Hart collabore avec les créateurs de contenu numérique Kai Cenat et Druski pour une diffusion en direct historique dans sa maison « intelligente », mais les choses dégénèrent dans l'humour et un meurtre se produit devant les caméras, piégeant le trio et leurs invités célèbres dans une comédie d'horreur attirant des millions d'internautes.",
-   "synopsis_origin": null,
-   "rating": 5.4,
-   "runtime": 77,
-   "genres": [
-    "Horreur",
-    "Comédie"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/mY3iQP4LH71TMmtXEg65nAxvYZI.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/eJ4vMJJlnxnKqdJCBDXvNmE0LVp.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/azIkJAuwICUb9TQq0CDL7EUC8cX.png",
-   "imdb_id": "tt43750202",
-   "tmdb_url": "https://www.themoviedb.org/movie/1437195",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt43750202",
-   "added_at": "2026-10-02T06:00:00Z",
-   "directors": [
-    "David Janoff"
-   ],
-   "cast": [
-    {
-     "name": "Kevin Hart",
-     "role": "Kevin Hart",
-     "photo": "https://image.tmdb.org/t/p/w185/byiNydUlM6oP8diA7WMvYbNM7a1.jpg"
-    },
-    {
-     "name": "Kai Cenat",
-     "role": "Kai Cenat",
-     "photo": "https://image.tmdb.org/t/p/w185/gtV65QHdb6r2xl13DYwHjnwl0ZV.jpg"
-    },
-    {
-     "name": "Druski",
-     "role": "Druski",
-     "photo": "https://image.tmdb.org/t/p/w185/vGoriElO8VnXT7k38Wg7LbHQpFR.jpg"
-    },
-    {
-     "name": "Kam Patterson",
-     "role": "Dasher",
-     "photo": "https://image.tmdb.org/t/p/w185/tosIntCEGwZNC3tvpUXJq39GY1q.jpg"
-    },
-    {
-     "name": "Ray H",
-     "role": "Ray",
-     "photo": "https://image.tmdb.org/t/p/w185/6QiljJppxBfHFMQSkyQboMq8gAN.jpg"
-    },
-    {
-     "name": "Kel Mitchell",
-     "role": "Kel Mitchell",
-     "photo": "https://image.tmdb.org/t/p/w185/LKNYjjNtq5EbntZUKQWUHcTVji.jpg"
-    },
-    {
-     "name": "Sexyy Red",
-     "role": "Sexyy Red",
-     "photo": "https://image.tmdb.org/t/p/w185/2ilqK1IlSG8dwP7HhdLm5TfA3UD.jpg"
-    },
-    {
-     "name": "Duke Dennis",
-     "role": "Duke Dennis",
-     "photo": "https://image.tmdb.org/t/p/w185/atqGDK633AUGNUvo2IcJOV655cO.jpg"
-    },
-    {
-     "name": "Fanum",
-     "role": "Fanum",
-     "photo": "https://image.tmdb.org/t/p/w185/77EfPfeSQj1Ug0j6EJMuA35YVHX.jpg"
-    },
-    {
-     "name": "Roll Tide Willie",
-     "role": "Roll Tide Willie",
-     "photo": null
-    },
-    {
-     "name": "La La Anthony",
-     "role": "La La Anthony",
-     "photo": "https://image.tmdb.org/t/p/w185/fRtEDfU0gX1mBXfmVpEVs5RBXdq.jpg"
-    },
-    {
-     "name": "Hunter Schuessler",
-     "role": "Hunter Schuessler",
-     "photo": null
-    },
-    {
-     "name": "Winnie Harlow",
-     "role": "Winnie Harlow",
-     "photo": "https://image.tmdb.org/t/p/w185/gW2RPaNOPcOl3PksCjE8twDsiDd.jpg"
-    },
-    {
-     "name": "Marshawn Lynch",
-     "role": "Marshawn Lynch",
-     "photo": "https://image.tmdb.org/t/p/w185/ze8ZCRhiXGfYHmSCyBbA77gqr74.jpg"
-    },
-    {
-     "name": "Jerry O'Connell",
-     "role": "Jerry O'Connell",
-     "photo": "https://image.tmdb.org/t/p/w185/siMZhO5SIUc6K5sTKyVJRXmkoiG.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "HartBeat Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/shdAxUj8uF6exNLrF0kSqYVxCzG.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Amazon Prime Video",
-     "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-    },
-    {
-     "name": "Amazon Prime Video with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-    }
-   ]
-  },
-  {
    "id": "movie:tt36983905",
    "type": "movie",
    "title": "The Uprising",
    "original_title": null,
    "year": 2026,
    "release_date": "2026-09-10",
-   "overview": "Lors de la révolte des paysans anglais de 1381, l'humble Wat Tyler s'élève à la tête de la résistance contre le jeune roi Richard II. À la tête d'une armée de citoyens ordinaires, il affronte les troupes de la Couronne dans une lutte pour la justice et la survie. Ses actions font de lui un symbole légendaire de la résistance.",
+   "overview": "Pendant la Révolte des paysans anglais de 1381, un fermier devient le chef contre les forces de la Couronne de Richard II.",
    "synopsis_origin": null,
    "rating": 8.0,
    "runtime": 128,
@@ -3903,13 +3646,13 @@
    "collection": null,
    "platforms": [],
    "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/ymUS8HTc7ctfdSYC6bmEokSKisa.jpg",
+   "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
    "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
    "logo": "https://image.tmdb.org/t/p/w500/drBOdj4htH0Chlno2Ctt6OxCGgJ.png",
    "imdb_id": "tt36983905",
    "tmdb_url": "https://www.themoviedb.org/movie/977942",
    "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36983905",
-   "added_at": "2026-09-30T18:00:00Z",
+   "added_at": "2026-09-29T18:05:00Z",
    "directors": [
     "Paul Greengrass"
    ],
@@ -4022,6 +3765,289 @@
     {
      "name": "FilmNation Entertainment",
      "logo": "https://image.tmdb.org/t/p/w185/fHitYiGUCkRafgt6VPYQlXWLkdp.png"
+    }
+   ],
+   "platform_logos": []
+  },
+  {
+   "id": "movie:tt1756855",
+   "type": "movie",
+   "title": "Coyote vs. Acme",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-08-17",
+   "overview": "Après des décennies à être réduit en miettes par des bombes, pulvérisé à la dynamite, déchiqueté par des aimants, assommé par des rochers, écrasé par des trains, piégé par des tunnels, projeté par des ressorts, aplati par des rouleaux compresseurs, trahi par des ratés mécaniques, malmené par des élastiques, secoué par des fusées, poignardé dans le dos par des costumes de chauve-souris, catapulté par des patins-fusées, renversé par des monocycles, ébranlé par des pilules sismiques, recouvert de caoutchouc par des groupes ennemis, et précipité tête première du haut de toutes les falaises du Sud-Ouest, Wile, Wile E. Coyote contre-attaque enfin. Faisant équipe avec l’avocat-vedette des panneaux publicitaires spécialisé dans les accidents Kevin Avery, il s’attaque à l’avocat d’affaires rusé Buddy Crane et à ACME, Inc., le conglomérat obsédé par le profit étant à l’origine de chacune des catastrophes chaotiques du Coyote.",
+   "synopsis_origin": null,
+   "rating": 7.5,
+   "runtime": 102,
+   "genres": [
+    "Comédie",
+    "Aventure",
+    "Familial"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=fY_gBf8QVR0",
+   "poster": "https://image.tmdb.org/t/p/w500/dFwseuSlDUNiwMuElDb3OAOQ8En.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/viZqGq9TNvQ5uXSD4ahg2RpRONT.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/n7m7yg0tF6PyQu2PvjtUYgGoGZo.png",
+   "imdb_id": "tt1756855",
+   "tmdb_url": "https://www.themoviedb.org/movie/1204680",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt1756855",
+   "added_at": "2026-09-29T18:04:00Z",
+   "directors": [
+    "Dave Green"
+   ],
+   "cast": [
+    {
+     "name": "Will Forte",
+     "role": "Kevin Avery",
+     "photo": "https://image.tmdb.org/t/p/w185/4VEzbkL3HwHTUZAPA5PyypFG2U.jpg"
+    },
+    {
+     "name": "Lana Condor",
+     "role": "Paige Avery",
+     "photo": "https://image.tmdb.org/t/p/w185/vWn27Fk2GLwH7o9fBG9hBWZI6OR.jpg"
+    },
+    {
+     "name": "John Cena",
+     "role": "Buddy Crane",
+     "photo": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+     "name": "Tone Bell",
+     "role": "Sal Maltese",
+     "photo": "https://image.tmdb.org/t/p/w185/fB06Xj5FgwvHcZESsNGMupGBTyY.jpg"
+    },
+    {
+     "name": "Martha Kelly",
+     "role": "Dottie Jones",
+     "photo": "https://image.tmdb.org/t/p/w185/ac7HoARDIHdYNqpzgJBzpmKHXHR.jpg"
+    },
+    {
+     "name": "Luis Guzmán",
+     "role": "Judge Troppogrosso",
+     "photo": "https://image.tmdb.org/t/p/w185/kSdxUckOJj9R5VKrLUnRy14YhNV.jpg"
+    },
+    {
+     "name": "P.J. Byrne",
+     "role": "Bill Pellicanos",
+     "photo": "https://image.tmdb.org/t/p/w185/1JVBaxRy3OxkHymD3nwBd5kVWWL.jpg"
+    },
+    {
+     "name": "John Early",
+     "role": "Henry Heslop",
+     "photo": "https://image.tmdb.org/t/p/w185/gQ0nZXm11wnB7kvk4Oz2zIeisLx.jpg"
+    },
+    {
+     "name": "Nancy Linehan Charles",
+     "role": "Cherry",
+     "photo": "https://image.tmdb.org/t/p/w185/AtQXl4YnDBRsJF57AjGEMMEa0Gk.jpg"
+    },
+    {
+     "name": "Kenneth Choi",
+     "role": "Oscar Jeon",
+     "photo": "https://image.tmdb.org/t/p/w185/3606Uo4fiUtV9Y6eOwpM48qpSgJ.jpg"
+    },
+    {
+     "name": "Ernie Vigil",
+     "role": "Talon",
+     "photo": "https://image.tmdb.org/t/p/w185/mQ4C1xgvXWhc3LgT9wbxZwJBsia.jpg"
+    },
+    {
+     "name": "Eric Bauza",
+     "role": "Foghorn Leghorn / Bugs Bunny / Daffy Duck / Porky Pig / Elmer Fudd / Tweety / Road Runner / Dr. Lorre (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    },
+    {
+     "name": "Candi Milo",
+     "role": "Granny / Miss Prissy / Witch Hazel (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/tUjXMG2118Oagj7IjWJDEdmtCRW.jpg"
+    },
+    {
+     "name": "Jim Cummings",
+     "role": "Tasmanian Devil (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/c0sQPRCM5Ri3F4gVyxPr4AcPmIq.jpg"
+    },
+    {
+     "name": "Hayes Hargrove",
+     "role": "Big Time Reporter #1",
+     "photo": "https://image.tmdb.org/t/p/w185/4MF1Tkpe2XoGfcT7yGWPOuo7not.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Troll Court Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kxuhS8wyKtVprOn5nckdHyNuSg1.png"
+    },
+    {
+     "name": "Keylight Pictures",
+     "logo": null
+    },
+    {
+     "name": "Warner Animation Group",
+     "logo": "https://image.tmdb.org/t/p/w185/6RLMWBcGF2COzjjBORPUy705yF7.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    }
+   ],
+   "platform_logos": []
+  },
+  {
+   "id": "movie:tt6628920",
+   "type": "movie",
+   "title": "Idiots",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-08-20",
+   "overview": "Deux paumés qui s’improvisent chauffeurs privés doivent conduire un riche adolescent jusqu’à un centre de désintoxication. Lorsque leur passager fait dérailler les plans, le périple se transforme en une virée explosive où se mêlent drogues, danger et crime.",
+   "synopsis_origin": null,
+   "rating": 6.2,
+   "runtime": 100,
+   "genres": [
+    "Comédie",
+    "Crime"
+   ],
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/6QmP5yGbyosxFbqoM30DDXXXLkg.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/v65hwf9S6mxFtobq4w6SlLnWgLq.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/icOjb0xgKgdkNhxEhFMYGOAdryO.png",
+   "imdb_id": "tt6628920",
+   "tmdb_url": "https://www.themoviedb.org/movie/445466",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt6628920",
+   "added_at": "2026-09-29T18:03:00Z",
+   "directors": [
+    "Macon Blair"
+   ],
+   "cast": [
+    {
+     "name": "Dave Franco",
+     "role": "Mark",
+     "photo": "https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+    },
+    {
+     "name": "O'Shea Jackson Jr.",
+     "role": "Davis",
+     "photo": "https://image.tmdb.org/t/p/w185/kXJ02sXvnExbGNJ11piC6d6WMOc.jpg"
+    },
+    {
+     "name": "Mason Thames",
+     "role": "Sheridan",
+     "photo": "https://image.tmdb.org/t/p/w185/kgEYHw8bblVtwRTkR9TLMOpx5WO.jpg"
+    },
+    {
+     "name": "Kiernan Shipka",
+     "role": "Irina Anastas",
+     "photo": "https://image.tmdb.org/t/p/w185/5r7JAew3ngO4KZj7PaD6rn4wa4p.jpg"
+    },
+    {
+     "name": "Peter Dinklage",
+     "role": "Karl 'Koko' Sandoz",
+     "photo": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+     "name": "Nicholas Braun",
+     "role": "Joe Thom Pell Aka Pricka Bush Da Werewoof",
+     "photo": "https://image.tmdb.org/t/p/w185/b2I6bZptuld3pjlVkYIy4DtMKGg.jpg"
+    },
+    {
+     "name": "Lynn Wanlass",
+     "role": "Bodha 'Baba' Anastas",
+     "photo": "https://image.tmdb.org/t/p/w185/nOtCDEZj55NZ30FSfGLD4wiMQLK.jpg"
+    },
+    {
+     "name": "Macon Blair",
+     "role": "D.D, His Buddy",
+     "photo": "https://image.tmdb.org/t/p/w185/sNhgAh7TBBYNGR2ExnINXIQ4U5x.jpg"
+    },
+    {
+     "name": "Grace Junot",
+     "role": "India Worsham Dorindo",
+     "photo": "https://image.tmdb.org/t/p/w185/hI2bpmjmEFtAjknOuguMzX6VC3W.jpg"
+    },
+    {
+     "name": "Lee Eddy",
+     "role": "Celeste Waingro, Attorney at Law",
+     "photo": "https://image.tmdb.org/t/p/w185/gIcP0EGRB0BmKyanp2VK9RyoGtA.jpg"
+    },
+    {
+     "name": "Melanie Loren",
+     "role": "Alyssa 'Lissy' Dandry",
+     "photo": "https://image.tmdb.org/t/p/w185/wBdZaVflXe2oeTzFuYzi1FgAMwE.jpg"
+    },
+    {
+     "name": "Najah Bradley",
+     "role": "Crystal Dandry",
+     "photo": "https://image.tmdb.org/t/p/w185/5OkYi0rQ8Q0boR6pnkaCCQGrK73.jpg"
+    },
+    {
+     "name": "Killer Mike",
+     "role": "Pastor William Armstrong",
+     "photo": "https://image.tmdb.org/t/p/w185/d08VHgYhyFmeqzh8JdCPY4CkF1l.jpg"
+    },
+    {
+     "name": "Dana Elaine",
+     "role": "The Counselor",
+     "photo": "https://image.tmdb.org/t/p/w185/ouOevTO5825v6XMTQOj1kPTZgtY.jpg"
+    },
+    {
+     "name": "Mark Helms",
+     "role": "Tow Truck Mark",
+     "photo": "https://image.tmdb.org/t/p/w185/mJRv0wA4Ei8JIoDa8www373z8ZS.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Gramercy Park Media",
+     "logo": "https://image.tmdb.org/t/p/w185/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png"
+    },
+    {
+     "name": "Peachtree Media Partners",
+     "logo": null
+    },
+    {
+     "name": "Rough House Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/xfQxrdf3WumiLoaMS2F3xWO6nKF.png"
+    },
+    {
+     "name": "Bonneville Pictures",
+     "logo": null
+    },
+    {
+     "name": "NewStar Financing",
+     "logo": null
+    },
+    {
+     "name": "Cosmic Distribution",
+     "logo": null
+    },
+    {
+     "name": "TPC",
+     "logo": "https://image.tmdb.org/t/p/w185/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png"
+    },
+    {
+     "name": "William Morris Entertainment",
+     "logo": null
     }
    ],
    "platform_logos": []
