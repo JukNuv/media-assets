@@ -1,7 +1,36 @@
 {
  "version": 1,
- "updated": "2026-10-06T12:52:28Z",
+ "updated": "2026-10-06T12:52:33Z",
  "items": [
+  {
+   "id": "movie:tt33764258",
+   "type": "movie",
+   "title": "L'Odyssée",
+   "original_title": "The Odyssey",
+   "year": 2026,
+   "release_date": "2026-07-15",
+   "overview": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+   "synopsis_origin": null,
+   "rating": 8.0,
+   "runtime": 173,
+   "genres": [
+    "Aventure",
+    "Action",
+    "Fantastique"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=9YGuN8sQpL0",
+   "poster": "https://image.tmdb.org/t/p/w500/kP8jJIkmX0vWEYiqQ9c5zU0dvcn.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/bulFtfy3oBQtCnAMSi7g6DSSds3.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/mWQqyMJvnJzduYhAAPtTsmvtbhE.png",
+   "imdb_id": "tt33764258",
+   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt33764258",
+   "added_at": "2026-10-06T12:52:32Z"
+  },
   {
    "id": "movie:tt29355505",
    "type": "movie",
