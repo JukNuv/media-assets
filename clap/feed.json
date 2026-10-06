@@ -1,0 +1,35 @@
+{
+ "version": 1,
+ "updated": "2026-10-06T12:52:22Z",
+ "items": [
+  {
+   "id": "movie:tt22084616",
+   "type": "movie",
+   "title": "Spider-Man : Brand New Day",
+   "original_title": "Spider-Man: Brand New Day",
+   "year": 2026,
+   "release_date": "2026-07-29",
+   "overview": "Quatre ans se sont écoulés, Peter, désormais adulte, vit seul, s'est volontairement effacé de la vie et des souvenirs de ses proches. Luttant contre le crime dans un New York qui ne le reconnaît plus, il se consacre entièrement à la protection de la ville - un Spider-Man à plein temps - mais à mesure que les responsabilités s'intensifient, la pression provoque une transformation physique surprenante qui menace son existence, tandis qu'une étrange nouvelle vague de crimes donne naissance à l'une des menaces les plus redoutables qu'il ait jamais affrontées.",
+   "synopsis_origin": null,
+   "rating": 8.1,
+   "runtime": 150,
+   "genres": [
+    "Science-Fiction",
+    "Action",
+    "Aventure"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": "Spider-Man (MCU) - Saga",
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=rCmTualxVwU",
+   "poster": "https://image.tmdb.org/t/p/w500/jjCCZcCtggGjKik2gXjyux1VEdZ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/eSvYccJm5ejJXFtJTqM2dIqrhK7.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/tgP7ObEpWnEUkWA8qTpj26Vaik7.png",
+   "imdb_id": "tt22084616",
+   "tmdb_url": "https://www.themoviedb.org/movie/969681",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt22084616",
+   "added_at": "2026-10-06T12:52:21Z"
+  }
+ ]
+}
