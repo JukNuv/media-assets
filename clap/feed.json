@@ -1,7 +1,93 @@
 {
  "version": 1,
- "updated": "2026-10-07T07:04:55Z",
+ "updated": "2026-10-07T09:03:12Z",
  "items": [
+  {
+   "id": "movie:tt41267219",
+   "type": "movie",
+   "title": "Les murs ont des secrets",
+   "original_title": "A House Built on Lies",
+   "year": 2026,
+   "release_date": "2026-04-24",
+   "overview": "Après une enfance difficile, Daisy a enfin trouvé un équilibre. Avec son mari, Chris, elle rénove et revend des maisons et elle attend un enfant. Par ailleurs, elle a auprès d'elle sa meilleure amie, Louise. Mais un soir, Chris fait une chute mortelle depuis la fenêtre de la maison qu'il rénovait. Le choc provoque la naissance difficile du petit James et les problèmes s'enchaînent pour Daisy qui va même se voir soupçonnée du meurtre. Car oui, Chris a été assassiné...",
+   "synopsis_origin": null,
+   "rating": 6.7,
+   "runtime": 86,
+   "genres": [
+    "Thriller",
+    "Téléfilm"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Molotov TV"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/vRkE2B68FNJLsconGYXHOwIbWTU.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/fSjnw0xMhxuxGus7FSs9iqqNuoA.jpg",
+   "logo": "",
+   "imdb_id": "tt41267219",
+   "tmdb_url": "https://www.themoviedb.org/movie/1680417",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt41267219",
+   "added_at": "2026-10-07T09:03:10Z",
+   "directors": [
+    "Andrew Parkes"
+   ],
+   "writers": [
+    "Jessica Romagnoli",
+    "Patrick Ireland"
+   ],
+   "cast": [
+    {
+     "name": "Kimberly-Sue Murray",
+     "role": "Daisy",
+     "photo": "https://image.tmdb.org/t/p/w185/wgv04noc4D0L1UIBa5Lvdy5xJ4Q.jpg"
+    },
+    {
+     "name": "Diana Salvatore",
+     "role": "Louise",
+     "photo": "https://image.tmdb.org/t/p/w185/uHL63N0ee6LPSzNO8sg7VNrnhXb.jpg"
+    },
+    {
+     "name": "Kate Corbett",
+     "role": "Tyra",
+     "photo": "https://image.tmdb.org/t/p/w185/rZo6amh0aOJq2SFcBxXHuL2CacY.jpg"
+    },
+    {
+     "name": "Colin Furlong",
+     "role": "Mailman",
+     "photo": "https://image.tmdb.org/t/p/w185/q3W0MY3ukDOl9TUnqWhz9zQB9ps.jpg"
+    },
+    {
+     "name": "Anshuman Pandey",
+     "role": "Zack",
+     "photo": "https://image.tmdb.org/t/p/w185/e26fz0Yyy05O3sJctETDphGQL8b.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Elemental Pictures",
+     "logo": null
+    },
+    {
+     "name": "Lifetime",
+     "logo": "https://image.tmdb.org/t/p/w185/bVTF0p5xlPfQhQIuBLr9BFtrKip.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Molotov TV",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt38504111",
    "type": "series",
