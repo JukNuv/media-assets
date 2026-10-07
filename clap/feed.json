@@ -1,7 +1,73 @@
 {
  "version": 1,
- "updated": "2026-10-07T11:07:41Z",
+ "updated": "2026-10-07T11:07:49Z",
  "items": [
+  {
+   "id": "series:tt36743307",
+   "type": "series",
+   "title": "Inside The Circle",
+   "original_title": "El Círculo",
+   "year": 2026,
+   "release_date": "2026-10-07",
+   "overview": "Quatre amis de toujours se retrouvent pris dans un engrenage de chantage quand une vidéo ayant fuité menace de dévoiler des secrets qui pourraient détruire leur amitié.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 42,
+   "genres": [
+    "Drame",
+    "Mystère"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/9AnA4GTHzgo5WBs74bjIBhtheop.jpg",
+   "logo": "",
+   "imdb_id": "tt36743307",
+   "tmdb_url": "https://www.themoviedb.org/tv/290233",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt36743307",
+   "added_at": "2026-10-07T11:07:47Z",
+   "directors": [],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Zuria Vega",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/oaTw6Qz48KMY7xwAYOAJZ8HFIFb.jpg"
+    },
+    {
+     "name": "Osvaldo Benavides",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/unlKWACoUgegUUA4p4zkMmkJkya.jpg"
+    },
+    {
+     "name": "Raúl Briones",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/hMSBFmVdlXSxUIotM7MoPs8lkqP.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Mexique"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Lemon Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/gfEtcH7hmqUPFkCgERa2JoUIxEE.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt11540908",
    "type": "series",
