@@ -1,7 +1,122 @@
 {
  "version": 1,
- "updated": "2026-10-07T09:03:12Z",
+ "updated": "2026-10-07T09:03:20Z",
  "items": [
+  {
+   "id": "movie:tt36451817",
+   "type": "movie",
+   "title": "Raakaasa",
+   "original_title": "రాకాస",
+   "year": 2026,
+   "release_date": "2026-04-03",
+   "overview": "Rentré au village pour se marier après dix ans passés aux États-Unis, l'insouciant Veerababu réveille sans le savoir un ancien démon amateur de sacrifices humains.",
+   "synopsis_origin": null,
+   "rating": 6.0,
+   "runtime": 130,
+   "genres": [
+    "Fantastique",
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=TJ5dpuZ1cAk",
+   "poster": "https://image.tmdb.org/t/p/w500/sXwVJJMIPB4duU1mWbagt5ikUtq.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/hxCJcyDnR964ja5mzExvb8UlHLG.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/nOOCt1Ojh8vO0SJ4Oe0BAnTd04N.png",
+   "imdb_id": "tt36451817",
+   "tmdb_url": "https://www.themoviedb.org/movie/1451078",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36451817",
+   "added_at": "2026-10-07T09:03:19Z",
+   "directors": [
+    "Manasa Sharma"
+   ],
+   "writers": [
+    "Manasa Sharma"
+   ],
+   "cast": [
+    {
+     "name": "సంగీత్ శోభన్",
+     "role": "Veerababu \"Veeru\"",
+     "photo": "https://image.tmdb.org/t/p/w185/7Vox31bH7XmgPNJzMKGa4uGyjW8.jpg"
+    },
+    {
+     "name": "Nayan Sarika",
+     "role": "Subbalakshmi \"Subbu\"",
+     "photo": "https://image.tmdb.org/t/p/w185/zqRsOp8N2XZMDYzNa6lLapWpJzU.jpg"
+    },
+    {
+     "name": "Vennela Kishore",
+     "role": "Somu",
+     "photo": "https://image.tmdb.org/t/p/w185/8a0mcxMPjD4KR15gyE5QmbDeTub.jpg"
+    },
+    {
+     "name": "Getup Srinu",
+     "role": "Kanne Pongula Balaraju \"Balu\"",
+     "photo": "https://image.tmdb.org/t/p/w185/xb2lJ213oU3DS6kMkDuqlf7EFeG.jpg"
+    },
+    {
+     "name": "Brahmaji",
+     "role": "Parasuram",
+     "photo": "https://image.tmdb.org/t/p/w185/xDTE7POq1bkyjLINxdy7rW4wQlg.jpg"
+    },
+    {
+     "name": "Tanikella Bharani",
+     "role": "Chari",
+     "photo": "https://image.tmdb.org/t/p/w185/zRjr0F64Eznbliz1RvN9icj3Lq1.jpg"
+    },
+    {
+     "name": "Ashish Vidhyarthi",
+     "role": "Ramesh",
+     "photo": "https://image.tmdb.org/t/p/w185/iBUUpfHZIfpC5afHrHwcyGTHKQF.jpg"
+    },
+    {
+     "name": "Rohini Reddy",
+     "role": "Savithri",
+     "photo": "https://image.tmdb.org/t/p/w185/85ZKckTl36xMSZhmpgapAnvxcl0.jpg"
+    },
+    {
+     "name": "Raadhya",
+     "role": "Sukanya",
+     "photo": null
+    },
+    {
+     "name": "Varma Chaitanya",
+     "role": "Mahesh",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Inde"
+   ],
+   "original_language": "TE",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Pink Elephant Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/phCDZUG7JarP8V5nQpqFG59EfBH.png"
+    },
+    {
+     "name": "Zee Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt41267219",
    "type": "movie",
