@@ -1,7 +1,144 @@
 {
  "version": 1,
- "updated": "2026-10-06T16:41:18Z",
+ "updated": "2026-10-07T07:04:55Z",
  "items": [
+  {
+   "id": "series:tt38504111",
+   "type": "series",
+   "title": "Small Prophets",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-02-09",
+   "overview": "Depuis la mystérieuse disparition de sa compagne il y a sept ans, la vie de Michael est en pause. Mais une recette trouvée dans un vieux grimoire pourrait bien lui apporter des réponses.",
+   "synopsis_origin": null,
+   "rating": 8.2,
+   "runtime": 30,
+   "genres": [
+    "Comédie",
+    "Drame",
+    "Mystère"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=W7vdQWnaZts",
+   "poster": "https://image.tmdb.org/t/p/w500/hbWv5sI8vHGSlw4nGhTc7DK5Kjg.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/rEA2HFF2EIOAiiD7A1HEpMUHe4l.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/7718rQxWYZYH7OLjl4H8ew6ZYZF.png",
+   "imdb_id": "tt38504111",
+   "tmdb_url": "https://www.themoviedb.org/tv/312693",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38504111",
+   "added_at": "2026-10-07T07:04:53Z",
+   "directors": [
+    "Mackenzie Crook"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Pearce Quigley",
+     "role": "Michael Sleep",
+     "photo": "https://image.tmdb.org/t/p/w185/7MAlesewavuEnIjc0SBSoSCr8ZG.jpg"
+    },
+    {
+     "name": "Michael Palin",
+     "role": "Brian Sleep",
+     "photo": "https://image.tmdb.org/t/p/w185/gWz8S2FEUEm1f3LQrN8cSUjnfhu.jpg"
+    },
+    {
+     "name": "Lauren Patel",
+     "role": "Kacey",
+     "photo": "https://image.tmdb.org/t/p/w185/2PYWVuUlKzI9xQ6nyhApQ9xDbG9.jpg"
+    },
+    {
+     "name": "Mackenzie Crook",
+     "role": "Gordon",
+     "photo": "https://image.tmdb.org/t/p/w185/lN96i9ez4FUrQgpYdLMYr0l3Ggy.jpg"
+    },
+    {
+     "name": "Shola Adewusi",
+     "role": "Olive",
+     "photo": "https://image.tmdb.org/t/p/w185/ax7DudH8MgTHrVwLOEkwrechRH3.jpg"
+    },
+    {
+     "name": "Paul Kaye",
+     "role": "Roy",
+     "photo": "https://image.tmdb.org/t/p/w185/bGZxKojbRrgyI3gFtRsduJnbcrm.jpg"
+    },
+    {
+     "name": "Riana Duce",
+     "role": "Kaitlin Thorncroft",
+     "photo": "https://image.tmdb.org/t/p/w185/AgJxumDV4srU7ye3d3m0IPDlH7P.jpg"
+    },
+    {
+     "name": "Jon Pointing",
+     "role": "Clive",
+     "photo": "https://image.tmdb.org/t/p/w185/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
+    },
+    {
+     "name": "Sophie Willan",
+     "role": "Bev",
+     "photo": "https://image.tmdb.org/t/p/w185/z43MWFaKHN1q9CGR61ZyBi3CgNA.jpg"
+    },
+    {
+     "name": "Adam Wright",
+     "role": "Elliot",
+     "photo": null
+    },
+    {
+     "name": "Charlotte Mills",
+     "role": "Hilary",
+     "photo": null
+    },
+    {
+     "name": "Ed Kear",
+     "role": "Brigham",
+     "photo": "https://image.tmdb.org/t/p/w185/jB1QY1DSN253bbtz51MHXEBj9O8.jpg"
+    },
+    {
+     "name": "Kevin Sutton",
+     "role": "Constable Paul Sergeant",
+     "photo": "https://image.tmdb.org/t/p/w185/lKs8tY9Q6pK56uEWKMFwK9ZbflP.jpg"
+    },
+    {
+     "name": "Howard Gossington",
+     "role": "Bob",
+     "photo": "https://image.tmdb.org/t/p/w185/ybvh5doTnRO9rKp7QXIWQvQniBy.jpg"
+    },
+    {
+     "name": "Kathryn Drysdale",
+     "role": "Bea",
+     "photo": "https://image.tmdb.org/t/p/w185/ryhIHc6gKVYKmgMxaFSLYv8Tbbi.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Royaume-Uni"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Treasure Trove Productions",
+     "logo": null
+    },
+    {
+     "name": "Blue House Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/opbbqtvqNXsUDTo42gmCXLKrurR.png"
+    },
+    {
+     "name": "BBC",
+     "logo": "https://image.tmdb.org/t/p/w185/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png"
+    },
+    {
+     "name": "BBC Two",
+     "logo": "https://image.tmdb.org/t/p/w185/7HVPn1p2w1nC5oRKBehXVHpss7e.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt30887701",
    "type": "movie",
