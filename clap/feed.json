@@ -1,7 +1,118 @@
 {
  "version": 1,
- "updated": "2026-10-07T09:03:20Z",
+ "updated": "2026-10-07T11:07:41Z",
  "items": [
+  {
+   "id": "series:tt11540908",
+   "type": "series",
+   "title": "Carrie",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-07",
+   "overview": "Après la mort soudaine et prématurée de son père, Carrie est propulsée dans l'univers impitoyable d'un lycée public et doit faire face à un scandale de harcèlement viral qui secoue sa communauté, à la pression incessante et à la cruauté des réseaux sociaux tandis qu'en parallèle, un mystérieux pouvoir de télékinésie s'éveille en elle.",
+   "synopsis_origin": null,
+   "rating": 7.5,
+   "runtime": null,
+   "genres": [
+    "Mystère",
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=4mU0vNpcaY0",
+   "poster": "https://image.tmdb.org/t/p/w500/b7aKxwPj3QM8YHZ8uDyqr50i96D.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/vVaNTaRHlL1i8JVsZsNtRHGBhPm.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/p7lOufvkG9Od7280KE91ca5TLW5.png",
+   "imdb_id": "tt11540908",
+   "tmdb_url": "https://www.themoviedb.org/tv/288673",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt11540908",
+   "added_at": "2026-10-07T11:07:39Z",
+   "directors": [
+    "Mike Flanagan"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Summer H. Howell",
+     "role": "Carrie White",
+     "photo": "https://image.tmdb.org/t/p/w185/9l9D6DhugB4FBIZecuMyZ4Uulyr.jpg"
+    },
+    {
+     "name": "Samantha Sloyan",
+     "role": "Margaret White",
+     "photo": "https://image.tmdb.org/t/p/w185/iI6mYgxrQSwphBJdfwYN3vB6oS2.jpg"
+    },
+    {
+     "name": "Siena Agudong",
+     "role": "Sue Snell",
+     "photo": "https://image.tmdb.org/t/p/w185/nCVWiVrIVqw0LnpyhYsckOMQJHS.jpg"
+    },
+    {
+     "name": "Alison Thornton",
+     "role": "Chris Hargensen",
+     "photo": "https://image.tmdb.org/t/p/w185/hDCMe5RLABbSBA04BIUxJnBmol6.jpg"
+    },
+    {
+     "name": "Joel Oulette",
+     "role": "Tommy Ross",
+     "photo": "https://image.tmdb.org/t/p/w185/qmzQBjq1hLpU37HtsKw5MszgRKa.jpg"
+    },
+    {
+     "name": "Josie Totah",
+     "role": "Tina Blake",
+     "photo": "https://image.tmdb.org/t/p/w185/125iM9BTPVDfRjKGVSqmvgeGsai.jpg"
+    },
+    {
+     "name": "Arthur Conti",
+     "role": "Billy Nolan",
+     "photo": "https://image.tmdb.org/t/p/w185/pnO8qBwvLJfN54UaKsy0QQlAc8u.jpg"
+    },
+    {
+     "name": "Thalia Dudek",
+     "role": "Emaline West",
+     "photo": "https://image.tmdb.org/t/p/w185/lmpaF8Yi0SfojtEwlY1CkEjzGU7.jpg"
+    },
+    {
+     "name": "Amber Midthunder",
+     "role": "Miss Desjardin",
+     "photo": "https://image.tmdb.org/t/p/w185/f8VWGyaIS38NkDIzQ2hapXKt0N5.jpg"
+    },
+    {
+     "name": "Matthew Lillard",
+     "role": "Principal Grayle",
+     "photo": "https://image.tmdb.org/t/p/w185/mIEKAfe0iC41RDXibbTy48LtNOi.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Intrepid Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/9s5tOG7GWWym1P37QJuFX438rAI.png"
+    },
+    {
+     "name": "Red Room Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/3fcDHrejilPCzhDkgSd49R2ttfz.png"
+    },
+    {
+     "name": "Prime Video",
+     "logo": "https://image.tmdb.org/t/p/w185/w7HfLNm9CWwRmAMU58udl2L7We7.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt36451817",
    "type": "movie",
