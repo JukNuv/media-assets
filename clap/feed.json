@@ -1,7 +1,145 @@
 {
  "version": 1,
- "updated": "2026-10-08T11:03:42Z",
+ "updated": "2026-10-08T14:06:07Z",
  "items": [
+  {
+   "id": "movie:tt43136887",
+   "type": "movie",
+   "title": "La chaleur",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-08",
+   "overview": "Il fait anormalement chaud sur les plages des Landes et Marouane, 17 ans, passe sa dernière journée au camping avec une angoisse : le corps qu’il a enseveli la veille sur la plage va-t-il apparaître au grand jour ? Marouane se demande par ailleurs s’il n’est pas en train de tomber amoureux de la charmante Giulia.",
+   "synopsis_origin": null,
+   "rating": 6.2,
+   "runtime": 92,
+   "genres": [
+    "Drame",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=ySdQrvpavKc",
+   "poster": "https://image.tmdb.org/t/p/w500/8IcgFgUKHWnVamGPSXQQ8cLHjew.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/yJGT3NHe9kO9peU09iYYBvNZALE.jpg",
+   "logo": "",
+   "imdb_id": "tt43136887",
+   "tmdb_url": "https://www.themoviedb.org/movie/1492288",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt43136887",
+   "added_at": "2026-10-08T14:06:05Z",
+   "tagline": null,
+   "directors": [
+    "Stéphane Demoustier"
+   ],
+   "writers": [
+    "Stéphane Demoustier"
+   ],
+   "cast": [
+    {
+     "name": "Hadrien Hussein",
+     "role": "Marouane Cherki",
+     "photo": null
+    },
+    {
+     "name": "Tristan Richard",
+     "role": "Noé",
+     "photo": null
+    },
+    {
+     "name": "Martina La Manna",
+     "role": "Giulia",
+     "photo": null
+    },
+    {
+     "name": "Noé Houssard",
+     "role": "Oscar",
+     "photo": null
+    },
+    {
+     "name": "Zakariya Gouram",
+     "role": "Marouane's father",
+     "photo": null
+    },
+    {
+     "name": "Cécile Ducrocq",
+     "role": "Marouane's mother",
+     "photo": null
+    },
+    {
+     "name": "Marguerite Demoustier",
+     "role": "Inès Cherki",
+     "photo": null
+    },
+    {
+     "name": "Rida Elmanawehly",
+     "role": "Sabri Cherki",
+     "photo": null
+    },
+    {
+     "name": "Sarah Le Picard",
+     "role": "Claire, Oscar's mother",
+     "photo": "https://image.tmdb.org/t/p/w185/6OIETJY9geWiqaS3RPmsRaRfaS1.jpg"
+    },
+    {
+     "name": "Stessie Santoru",
+     "role": "Cop",
+     "photo": "https://image.tmdb.org/t/p/w185/uSHRIPS6zP8IzWnXQUDe7hcxLUL.jpg"
+    },
+    {
+     "name": "Doralice Aberrane",
+     "role": "Girl yellow shirt",
+     "photo": null
+    },
+    {
+     "name": "Yanis Boulahia",
+     "role": "Yanis",
+     "photo": null
+    },
+    {
+     "name": "Emma Tomasin",
+     "role": "Léa",
+     "photo": null
+    },
+    {
+     "name": "Achille Darmostoupe",
+     "role": "Tom",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France",
+    "Belgique",
+    "Italie"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Petit Film",
+     "logo": "https://image.tmdb.org/t/p/w185/7xISxdpoePsyJ0pYk32IkwtOE4L.png"
+    },
+    {
+     "name": "Panache Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/g11ZDtSicimXi5MmwUznAsEomXZ.png"
+    },
+    {
+     "name": "La Compagnie Cinématographique",
+     "logo": "https://image.tmdb.org/t/p/w185/e89tcj2PpfFffwA0etxuGftj0YU.png"
+    },
+    {
+     "name": "Wildside",
+     "logo": "https://image.tmdb.org/t/p/w185/e5NWP10OYWCUa0T363WxkNzL78s.png"
+    },
+    {
+     "name": "The Dreaming Sheep Company",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt35934755",
    "type": "series",
