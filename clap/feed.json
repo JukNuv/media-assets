@@ -1,7 +1,92 @@
 {
  "version": 1,
- "updated": "2026-10-07T18:04:55Z",
+ "updated": "2026-10-08T07:04:37Z",
  "items": [
+  {
+   "id": "series:tt38777021",
+   "type": "series",
+   "title": "Bedaine",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-02-26",
+   "overview": "Ancien superhéros brisé, Bedaine tente de retrouver un sens à sa vie dans son village natal. Entre ennemis loufoques, blessures profondes et ailes perdues, il découvrira qu’on peut être un héros autrement.",
+   "synopsis_origin": null,
+   "rating": 4.0,
+   "runtime": 22,
+   "genres": [
+    "Comédie"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/qjAMOJFW0AnXeIB9k8XKPDR5Hy4.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/l3AvWhkGh7ddMlZSsK2bVRE1Dzq.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/6HNkRZ28L8BsXIJfAFXRU1VlrZG.png",
+   "imdb_id": "tt38777021",
+   "tmdb_url": "https://www.themoviedb.org/tv/314572",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38777021",
+   "added_at": "2026-10-08T07:04:36Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Ryan Doucette",
+     "role": "Le Moineau",
+     "photo": "https://image.tmdb.org/t/p/w185/cXyVw4IgXZ7IxSBtod8P2RSGCfo.jpg"
+    },
+    {
+     "name": "Florence Brunet",
+     "role": "Rolanda",
+     "photo": null
+    },
+    {
+     "name": "David Losier",
+     "role": "Donald « la doughnut » Doucette",
+     "photo": null
+    },
+    {
+     "name": "Luc Leblanc",
+     "role": "Adrien",
+     "photo": null
+    },
+    {
+     "name": "Diane Losier",
+     "role": "Victoria",
+     "photo": null
+    },
+    {
+     "name": "Sinem Kara",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/cfvXb4lQVGhojyikGspnJd8XqlA.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Connections Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/5Fx52Ep2hS1Ht7YAi7Rdu4c40mt.png"
+    },
+    {
+     "name": "connexion produc",
+     "logo": null
+    },
+    {
+     "name": "ICI TOU.TV Extra",
+     "logo": "https://image.tmdb.org/t/p/w185/wP7QDZA7TOCa3B5rD00DtBjI31.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt39384300",
    "type": "movie",
