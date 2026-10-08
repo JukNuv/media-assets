@@ -1,7 +1,145 @@
 {
  "version": 1,
- "updated": "2026-10-08T14:06:07Z",
+ "updated": "2026-10-08T19:51:57Z",
  "items": [
+  {
+   "id": "movie:tt33086904",
+   "type": "movie",
+   "title": "‎Chroniques D'un Indic",
+   "original_title": null,
+   "year": 2025,
+   "release_date": "2025-08-28",
+   "overview": "A Roubaix, Lakhdar, un indic revenu de tout et dépendant à la cocaïne, vit de petites combines et renseigne régulièrement Karim, de la police judiciaire. Après un tuyau mensonger lourd de conséquences, il se retrouve mis sur la touche. Menacé de perdre la garde de sa fille Jenny mais aussi son visa, Lakhdar se lance corps et âme à la poursuite d'un violeur en série qui sévit dans les parkings...",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 100,
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=8xdlVJeMBwQ",
+   "poster": "https://image.tmdb.org/t/p/w500/7kRVvhyROUxGf3WWXhyszX6HpSz.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/fEs9xoIVPrtNhOb6RyDBeD35WKx.jpg",
+   "logo": "",
+   "imdb_id": "tt33086904",
+   "tmdb_url": "https://www.themoviedb.org/movie/1313233",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt33086904",
+   "added_at": "2026-10-08T19:51:55Z",
+   "tagline": null,
+   "directors": [
+    "Laurent Herbiet"
+   ],
+   "writers": [
+    "Laurent Herbiet",
+    "Alexandre Kauffmann"
+   ],
+   "cast": [
+    {
+     "name": "Simon Abkarian",
+     "role": "Lakhdar",
+     "photo": "https://image.tmdb.org/t/p/w185/rpw1AujIl0vJD6cyMDo2ykJ8rZA.jpg"
+    },
+    {
+     "name": "Quentin Dolmaire",
+     "role": "Pamplemousse",
+     "photo": "https://image.tmdb.org/t/p/w185/vHHMEJAOpr8xz36p7YnHrFDBCxx.jpg"
+    },
+    {
+     "name": "Éric Caravaca",
+     "role": "M. Séguy",
+     "photo": "https://image.tmdb.org/t/p/w185/yJkhAfF1flznA2GzLWah2nDecIa.jpg"
+    },
+    {
+     "name": "Robinson Stévenin",
+     "role": "L'Evangéliste",
+     "photo": "https://image.tmdb.org/t/p/w185/xSEWH2Yu8NHxJU6jT99fsMwDzAv.jpg"
+    },
+    {
+     "name": "David Ayala",
+     "role": "L'Aristo",
+     "photo": "https://image.tmdb.org/t/p/w185/g1FlhpnXANAvr80osb0rpazI5V6.jpg"
+    },
+    {
+     "name": "Dinara Drukarova",
+     "role": "Marina",
+     "photo": "https://image.tmdb.org/t/p/w185/toQCnbPVetvd42kL8qPb4biUCOT.jpg"
+    },
+    {
+     "name": "Soufiane Guerrab",
+     "role": "Karim",
+     "photo": "https://image.tmdb.org/t/p/w185/3KPutm0tNtt1CtFm6gyLPSqtOK2.jpg"
+    },
+    {
+     "name": "Xavier Mathieu",
+     "role": "Ivan",
+     "photo": "https://image.tmdb.org/t/p/w185/AfNPHWPjwAcO3uUQZXlmRYXR0X1.jpg"
+    },
+    {
+     "name": "Xavier Maly",
+     "role": "Danny",
+     "photo": "https://image.tmdb.org/t/p/w185/l0tyLxPVORDpszOpNAOgbmWtMWY.jpg"
+    },
+    {
+     "name": "Sarah Afchain",
+     "role": "Fazia",
+     "photo": "https://image.tmdb.org/t/p/w185/nJ3rhHuT6D1EyTgZVGxDWRxO79d.jpg"
+    },
+    {
+     "name": "Catherine Schaub-Abkarian",
+     "role": "Fonctionnaire",
+     "photo": "https://image.tmdb.org/t/p/w185/1ZhdHsiwzAawsavcie1RjTIm6Zy.jpg"
+    },
+    {
+     "name": "Anne Gaelle Ponche",
+     "role": "Agnès",
+     "photo": null
+    },
+    {
+     "name": "Charlotte Talpaert",
+     "role": "Cindy",
+     "photo": "https://image.tmdb.org/t/p/w185/kqBjcyroKhfyj4LozMGGeCusSaD.jpg"
+    },
+    {
+     "name": "Cédric le Maoût",
+     "role": "Rody",
+     "photo": "https://image.tmdb.org/t/p/w185/p6OlJO1rNbw6vyv4prGDwSOJ6Re.jpg"
+    },
+    {
+     "name": "Divuidi Nsimba",
+     "role": "Tina",
+     "photo": null
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Delante Productions",
+     "logo": null
+    },
+    {
+     "name": "CPB Films",
+     "logo": "https://image.tmdb.org/t/p/w185/sfVmSNU1aq6g6zZ7DsdPYIHqZ3R.png"
+    },
+    {
+     "name": "Palermo Productions",
+     "logo": null
+    },
+    {
+     "name": "Pictanovo",
+     "logo": "https://image.tmdb.org/t/p/w185/hrZzmOGhzhv473sIInHtSNwQOhT.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt43136887",
    "type": "movie",
