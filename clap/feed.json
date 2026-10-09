@@ -1,7 +1,142 @@
 {
  "version": 1,
- "updated": "2026-10-09T08:35:08Z",
+ "updated": "2026-10-09T13:04:52Z",
  "items": [
+  {
+   "id": "movie:tt31049299",
+   "type": "movie",
+   "title": "Animals",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-09",
+   "overview": "Lorsque leur fils est kidnappé, un candidat à la mairie de Los Angeles et sa femme se retrouvent pris dans un engrenage de mensonges. Alors qu'ils tentent désespérément de réunir la rançon, ils sont contraints de faire des choix qui pourraient anéantir leur monde.",
+   "synopsis_origin": null,
+   "rating": 1.0,
+   "runtime": 106,
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=NranIqULe1c",
+   "poster": "https://image.tmdb.org/t/p/w500/33MhDOKB0S5VwuaD9lZyV0v0st0.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/dl6aDoFDDjTgNMI4Cui2GmKZUpR.png",
+   "imdb_id": "tt31049299",
+   "tmdb_url": "https://www.themoviedb.org/movie/1236045",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt31049299",
+   "added_at": "2026-10-09T13:04:50Z",
+   "tagline": "Le pouvoir ne peut pas vous protéger.",
+   "directors": [
+    "Ben Affleck"
+   ],
+   "writers": [
+    "Billy Ray",
+    "Ben Affleck",
+    "Connor O. McIntyre"
+   ],
+   "cast": [
+    {
+     "name": "Ben Affleck",
+     "role": "Mark Kimball",
+     "photo": "https://image.tmdb.org/t/p/w185/aTcqu8cI4wMohU17xTdqmXKTGrw.jpg"
+    },
+    {
+     "name": "Kerry Washington",
+     "role": "Abigail",
+     "photo": "https://image.tmdb.org/t/p/w185/zgyjYlxmHG6Ntbg16JcTp8Vu8M3.jpg"
+    },
+    {
+     "name": "Steven Yeun",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/fOMFO2Xx4duzpNgS9Q5ytO44yGb.jpg"
+    },
+    {
+     "name": "Gillian Anderson",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/3Ny8ZYahb33vpqNEPNCE2IOXPew.jpg"
+    },
+    {
+     "name": "Adriana Paz",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/aUBNKmudV1CCMUHskWemg58vc3n.jpg"
+    },
+    {
+     "name": "Luis Gerardo Méndez",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/uV8XXAlTxNFsD4sBzCHsgo5MpKZ.jpg"
+    },
+    {
+     "name": "Ray Fisher",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/310snvA05xDOQZDn2fJSp242GHw.jpg"
+    },
+    {
+     "name": "Matt Gerald",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/six7c3aZpiEomHjj4ZYokq8Vgtx.jpg"
+    },
+    {
+     "name": "Mark Kassen",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/r3ee1HpmuKUZ9mNTruHJxQ8QzlP.jpg"
+    },
+    {
+     "name": "Christopher Woodley",
+     "role": "Denny Kimball",
+     "photo": "https://image.tmdb.org/t/p/w185/7qIR7rpHoQDUjtW0PUxPAvD2znu.jpg"
+    },
+    {
+     "name": "George Todd McLachlan",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/wC1ARZ5dsTF6qRlYiGaTPh8A0iC.jpg"
+    },
+    {
+     "name": "Chris Gann",
+     "role": "Rand",
+     "photo": "https://image.tmdb.org/t/p/w185/jX73lEGi5TNjordeEEZRKjqGL9x.jpg"
+    },
+    {
+     "name": "Taylor Cooper",
+     "role": "Hannah",
+     "photo": "https://image.tmdb.org/t/p/w185/ai4yynRG9h8VASG76NZQgnj2Kx1.jpg"
+    },
+    {
+     "name": "Lacey Katena",
+     "role": "Sorority Girl",
+     "photo": "https://image.tmdb.org/t/p/w185/eekzGP0j7o3ihuUPqvXWRa1vc3Y.jpg"
+    },
+    {
+     "name": "Anthea Phitides",
+     "role": "Sorority Girl",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Artists Equity",
+     "logo": "https://image.tmdb.org/t/p/w185/xdVAEg1biNrQw5nnMXKswPCRpkq.png"
+    },
+    {
+     "name": "Makeready",
+     "logo": "https://image.tmdb.org/t/p/w185/uUIoRabgmUH5VYSXs02bgjO92no.png"
+    },
+    {
+     "name": "Fifth Season",
+     "logo": "https://image.tmdb.org/t/p/w185/crrgXvLhDO9c57HYrbO4H58Vxmb.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt29224728",
    "type": "movie",
