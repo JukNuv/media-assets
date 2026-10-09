@@ -1,7 +1,137 @@
 {
  "version": 1,
- "updated": "2026-10-08T19:51:57Z",
+ "updated": "2026-10-09T08:35:00Z",
  "items": [
+  {
+   "id": "movie:tt28498219",
+   "type": "movie",
+   "title": "Matchbox – Le film",
+   "original_title": "Matchbox the Movie",
+   "year": 2026,
+   "release_date": "2026-10-05",
+   "overview": "Des amis d'enfance reprennent contact et les retrouvailles prennent une tournure inattendue quand ils découvrent un dangereux complot international et doivent sauver le monde.",
+   "synopsis_origin": null,
+   "rating": 7.0,
+   "runtime": 127,
+   "genres": [
+    "Action",
+    "Comédie",
+    "Aventure"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=dhSwc6rNEcg",
+   "poster": "https://image.tmdb.org/t/p/w500/vSgnJDw404JUokiy5NDZgXOi01E.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/fK9mOrOK71HFVrhYzeM6PBiyZ76.png",
+   "imdb_id": "tt28498219",
+   "tmdb_url": "https://www.themoviedb.org/movie/1148365",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt28498219",
+   "added_at": "2026-10-09T08:34:58Z",
+   "tagline": "Foncez vers l’aventure.",
+   "directors": [
+    "Sam Hargrave"
+   ],
+   "writers": [
+    "David Coggeshall"
+   ],
+   "cast": [
+    {
+     "name": "John Cena",
+     "role": "Sean",
+     "photo": "https://image.tmdb.org/t/p/w185/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg"
+    },
+    {
+     "name": "Jessica Biel",
+     "role": "Aimee",
+     "photo": "https://image.tmdb.org/t/p/w185/u5DzbWKvAzS0M4ZhYqpUR9MZr2M.jpg"
+    },
+    {
+     "name": "Sam Richardson",
+     "role": "Crosby",
+     "photo": "https://image.tmdb.org/t/p/w185/hUN7IIbegvL7aSqQI5KRWoqqJLm.jpg"
+    },
+    {
+     "name": "Arturo Castro",
+     "role": "Ted",
+     "photo": "https://image.tmdb.org/t/p/w185/pbLoDCfjm3fLtGHVqQcnbM2d0cu.jpg"
+    },
+    {
+     "name": "Teyonah Parris",
+     "role": "Charmaine",
+     "photo": "https://image.tmdb.org/t/p/w185/iGvBTOi0y2fbBVwgnBRXgY0IXDY.jpg"
+    },
+    {
+     "name": "Danai Gurira",
+     "role": "Helen",
+     "photo": "https://image.tmdb.org/t/p/w185/z7H7QeQvr24vskGlANQhG43vozQ.jpg"
+    },
+    {
+     "name": "Corey Stoll",
+     "role": "Moiser",
+     "photo": "https://image.tmdb.org/t/p/w185/2eMxKecTZBiS60gPUVWcimYgGDp.jpg"
+    },
+    {
+     "name": "Bill Camp",
+     "role": "Smalley",
+     "photo": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+    },
+    {
+     "name": "Golshifteh Farahani",
+     "role": "Robbie",
+     "photo": "https://image.tmdb.org/t/p/w185/lbsd2lAIQq4egOUXDIfjhte12vv.jpg"
+    },
+    {
+     "name": "Daniel Bernhardt",
+     "role": "Falko",
+     "photo": "https://image.tmdb.org/t/p/w185/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+    },
+    {
+     "name": "Randeep Hooda",
+     "role": "Mustafa",
+     "photo": "https://image.tmdb.org/t/p/w185/6Raio06bsLalCe4XDsknXxfDamV.jpg"
+    },
+    {
+     "name": "Graham Harvey",
+     "role": "Young Sean",
+     "photo": "https://image.tmdb.org/t/p/w185/npf6JiNKasP0jmOBxG7yyeouCUm.jpg"
+    },
+    {
+     "name": "Reagan Marum",
+     "role": "Young Aimee",
+     "photo": null
+    },
+    {
+     "name": "Max Fox",
+     "role": "Young Ted",
+     "photo": null
+    },
+    {
+     "name": "Aiden Stoxx",
+     "role": "Young Crosby",
+     "photo": "https://image.tmdb.org/t/p/w185/42xffUpYAlk6tHz4ee7Z3rqsbLr.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Mattel Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/omEguKifcJixMvKWq85sUp4lFdT.png"
+    },
+    {
+     "name": "Skydance Media",
+     "logo": "https://image.tmdb.org/t/p/w185/gXfFl9pRPaoaq14jybEn1pHeldr.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt33086904",
    "type": "movie",
