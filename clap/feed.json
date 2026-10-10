@@ -1,7 +1,178 @@
 {
  "version": 1,
- "updated": "2026-10-10T07:03:27Z",
+ "updated": "2026-10-10T07:03:37Z",
  "items": [
+  {
+   "id": "series:tt35515227",
+   "type": "series",
+   "title": "CIA",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-02-23",
+   "overview": "Lorsque deux partenaires improbables - un agent de la CIA à la langue bien pendue et qui ne respecte pas les règles, et un agent du FBI expérimenté et intelligent qui croit en l'État de droit - sont affectés au poste de la CIA à New York, ils doivent apprendre à travailler ensemble pour enquêter sur les affaires et les criminels qui représentent une menace sur le sol américain, et découvrir que leurs différences peuvent en fait être leur force.",
+   "synopsis_origin": null,
+   "rating": 8.5,
+   "runtime": 43,
+   "genres": [
+    "Crime",
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Paramount Plus Premium",
+    "Paramount Plus Essential",
+    "Paramount Plus Apple TV channel",
+    "Paramount+ Amazon Channel",
+    "YouTube TV",
+    "Paramount+ Roku Premium Channel"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=4kOSs4ybDF0",
+   "poster": "https://image.tmdb.org/t/p/w500/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/enUFBYILCUcrvtEg6EJXu37V0vR.png",
+   "imdb_id": "tt35515227",
+   "tmdb_url": "https://www.themoviedb.org/tv/289560",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt35515227",
+   "added_at": "2026-10-10T07:03:35Z",
+   "tagline": "Deux agents. Une mission. Deux méthodes.",
+   "directors": [
+    "Dick Wolf",
+    "David Hudgins",
+    "Nicole Perlman"
+   ],
+   "seasons": 2,
+   "episodes": 16,
+   "cast": [
+    {
+     "name": "Tom Ellis",
+     "role": "Colin Glass",
+     "photo": "https://image.tmdb.org/t/p/w185/zhjIyqpk5bsYgxsh5bSeS6VZtHm.jpg"
+    },
+    {
+     "name": "Nick Gehlfuss",
+     "role": "Bill Goodman",
+     "photo": "https://image.tmdb.org/t/p/w185/4mjZAocnsGGWz9bYTu5STYAgzUb.jpg"
+    },
+    {
+     "name": "Natalee Linez",
+     "role": "Gina Gosian",
+     "photo": "https://image.tmdb.org/t/p/w185/5Lw6AR9zglwbbkMMPeJtayxWM5H.jpg"
+    },
+    {
+     "name": "Necar Zadegan",
+     "role": "DCOS Nikki Reynard",
+     "photo": "https://image.tmdb.org/t/p/w185/tKmbHsYfFlxi69mADlQkXN9Kw2j.jpg"
+    },
+    {
+     "name": "Jonathan Randell Silver",
+     "role": "Zeeb Ornstein",
+     "photo": "https://image.tmdb.org/t/p/w185/8vZw2qi1J1hsEcjAhTi4olW4Ahz.jpg"
+    },
+    {
+     "name": "Jeremy Sisto",
+     "role": "Jubal Valentine",
+     "photo": "https://image.tmdb.org/t/p/w185/1XfuASLjBhGOhJ4os7juRJot2we.jpg"
+    },
+    {
+     "name": "Jake Matthews",
+     "role": "Kevin Turner",
+     "photo": "https://image.tmdb.org/t/p/w185/s0GjqSy7akQBxa0y9vWsqsqdznW.jpg"
+    },
+    {
+     "name": "Sarah Diamond",
+     "role": "Sarah Lloyd",
+     "photo": null
+    },
+    {
+     "name": "James Chen",
+     "role": "Ian Lim",
+     "photo": "https://image.tmdb.org/t/p/w185/pdig815ZeMSEnxPnKKv91O3XhVB.jpg"
+    },
+    {
+     "name": "Manny Ureña",
+     "role": "Miguel",
+     "photo": "https://image.tmdb.org/t/p/w185/wPaMxvrD8YdFgLNquyCf26fNiEz.jpg"
+    },
+    {
+     "name": "Kathleen Rose Perkins",
+     "role": "Kimberly Graham",
+     "photo": "https://image.tmdb.org/t/p/w185/A6bG3mffBZ7xsr6aszSF2RJ0zIC.jpg"
+    },
+    {
+     "name": "Brett Azar",
+     "role": "Ground Branch Operator",
+     "photo": "https://image.tmdb.org/t/p/w185/unGYT2dTlGVdVJx5twmN06DKLNT.jpg"
+    },
+    {
+     "name": "Gabe Bowling",
+     "role": "NYPD Rep Walsh",
+     "photo": "https://image.tmdb.org/t/p/w185/uAQsM4CUJGYhkpCem0mLVGaXB0x.jpg"
+    },
+    {
+     "name": "Dan Bakkedahl",
+     "role": "Larry Kriegman",
+     "photo": "https://image.tmdb.org/t/p/w185/zHDMTZe3Xjvut57oTZixURBNDHi.jpg"
+    },
+    {
+     "name": "Angela Sarafyan",
+     "role": "Toni Napier",
+     "photo": "https://image.tmdb.org/t/p/w185/n23SKRSGUZL5sJz4MFkjnPxLgPl.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "CBS Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/19kn4jVvpc3sAL3YpZNb3elhSMl.png"
+    },
+    {
+     "name": "Wolf Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/8Lqf0okunSPAwBBL08Ua1IRe1xi.png"
+    },
+    {
+     "name": "Universal Television",
+     "logo": "https://image.tmdb.org/t/p/w185/jeTxdjXhzgKZyLr3l9MllkTn3fy.png"
+    },
+    {
+     "name": "CBS",
+     "logo": "https://image.tmdb.org/t/p/w185/wju8KhOUsR5y4bH9p3Jc50hhaLO.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Paramount Plus Premium",
+     "logo": null
+    },
+    {
+     "name": "Paramount Plus Essential",
+     "logo": null
+    },
+    {
+     "name": "Paramount Plus Apple TV channel",
+     "logo": null
+    },
+    {
+     "name": "Paramount+ Amazon Channel",
+     "logo": null
+    },
+    {
+     "name": "YouTube TV",
+     "logo": null
+    },
+    {
+     "name": "Paramount+ Roku Premium Channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt48392639",
    "type": "series",
