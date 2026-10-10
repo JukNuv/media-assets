@@ -1,7 +1,135 @@
 {
  "version": 1,
- "updated": "2026-10-09T13:04:52Z",
+ "updated": "2026-10-10T07:03:27Z",
  "items": [
+  {
+   "id": "series:tt48392639",
+   "type": "series",
+   "title": "L'usine de peurs",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-30",
+   "overview": "La célèbre créatrice de contenu Cocottee a pris possession d’une usine mystérieuse et désaffectée pour y créer une téléréalité d’horreur pour ses amis influenceurs. À chaque épisode, un nouveau coin sombre et épeurant de l’usine est visité par nos participants, chacune des pièces cache un nouveau défi inspiré des classiques de l’horreur et réserve son lot de frissons, de sursauts, de rires nerveux et de surprises. Pour les influenceurs ces épreuves seront angoissantes, déstabilisantes, parfois dégueulasses et toujours épeurantes. Pour le public et Cocottee, les regarder sursauter, crier et tenter de se cacher, sera drôle, divertissant et impressionnant! À la fin de chaque émission, une personne devra quitter l’aventure sans se rendre au bout de la nuit.\n\nFourni par la production",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 21,
+   "genres": [
+    "Reality"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Crave"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/7jUHcgqsqXl03b4QL7hJtmg0wOO.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/bAeeuNJynOYx7TqWgmAWXwfyBBO.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/mZAYt0PhXM6MHuVNJrrLzZVo1lM.png",
+   "imdb_id": "tt48392639",
+   "tmdb_url": "https://www.themoviedb.org/tv/336949",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt48392639",
+   "added_at": "2026-10-10T07:03:26Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 12,
+   "cast": [
+    {
+     "name": "Arianne Vallières",
+     "role": "Self - Host",
+     "photo": "https://image.tmdb.org/t/p/w185/bSOsZd89WnsxTMzFkiNXb7I00mc.jpg"
+    },
+    {
+     "name": "Zachary Allard",
+     "role": "Self - Contestant",
+     "photo": "https://image.tmdb.org/t/p/w185/qQkMq6FjtjLo5jfE8bQ8BCkQRqj.jpg"
+    },
+    {
+     "name": "Flamby",
+     "role": "Self - Contestant",
+     "photo": "https://image.tmdb.org/t/p/w185/ypG7PddC3EjpI6MpmWFjoQOGhcQ.jpg"
+    },
+    {
+     "name": "Marie-Anne Farley",
+     "role": "Self - Contestant",
+     "photo": "https://image.tmdb.org/t/p/w185/3f8N7uUzPDMc14QuxxmqKMxap3N.jpg"
+    },
+    {
+     "name": "Gabriel Gagnon",
+     "role": "Self - Contestant",
+     "photo": "https://image.tmdb.org/t/p/w185/hdVTTaiWA64Pyn1A578VUdrTq1y.jpg"
+    },
+    {
+     "name": "Louis-Charles Lavoie",
+     "role": "Self - Contestant",
+     "photo": "https://image.tmdb.org/t/p/w185/9Ef3mSCvPYGJMKHDcaYf8p02SCm.jpg"
+    },
+    {
+     "name": "Claudie Mercier",
+     "role": "Self - Contestant",
+     "photo": "https://image.tmdb.org/t/p/w185/2rOGb5uFpM93LSvA1gAk1lxMdy5.jpg"
+    },
+    {
+     "name": "Maude Therrien",
+     "role": "Self - Contestant",
+     "photo": "https://image.tmdb.org/t/p/w185/t5Q6s11SkxrNGySFzWgyqsKRAOf.jpg"
+    },
+    {
+     "name": "Matthieu Laroche",
+     "role": "Comédien",
+     "photo": "https://image.tmdb.org/t/p/w185/uEUStfwYJnCo3Yykn2Q8visX5Vf.jpg"
+    },
+    {
+     "name": "Vanessa Philion",
+     "role": "Comédienne",
+     "photo": "https://image.tmdb.org/t/p/w185/h4MwfdSTWiBrjqjzzsy8Q38BQgD.jpg"
+    },
+    {
+     "name": "Martin Giroux",
+     "role": "Comédien",
+     "photo": "https://image.tmdb.org/t/p/w185/ii2Sbz1jMfL6MTeYjELkCufTznI.jpg"
+    },
+    {
+     "name": "William Girard",
+     "role": "Self - Contestant",
+     "photo": "https://image.tmdb.org/t/p/w185/qPSbRgyEH0fJyoqlMTxhJyhTsZf.jpg"
+    },
+    {
+     "name": "Dany Collin",
+     "role": "Comédien",
+     "photo": null
+    },
+    {
+     "name": "Constance Gadan",
+     "role": "Comédienne",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "AVANTI │TOAST",
+     "logo": "https://image.tmdb.org/t/p/w185/bKra68ezsOuaRPH1quYiFTT3RXj.png"
+    },
+    {
+     "name": "Crave",
+     "logo": "https://image.tmdb.org/t/p/w185/xlVkcuR2NqruUHh8gPaAw9BvOCT.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Crave",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt31049299",
    "type": "movie",
