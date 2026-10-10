@@ -1,7 +1,141 @@
 {
  "version": 1,
- "updated": "2026-10-10T10:44:19Z",
+ "updated": "2026-10-10T11:06:31Z",
  "items": [
+  {
+   "id": "series:tt37737331",
+   "type": "series",
+   "title": "Recharge mon Coeur",
+   "original_title": "나를 충전해줘",
+   "year": 2026,
+   "release_date": "2026-10-09",
+   "overview": "Un héritier d’entreprise doté d’un cœur artificiel rencontre une femme littéralement électrique. Ils concluent un marché qui fait battre son cœur, et pas seulement au sens propre.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 62,
+   "genres": [
+    "Science-Fiction & Fantastique",
+    "Comédie"
+   ],
+   "status": "Terminée",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=z_D5uXaDsVU",
+   "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/tWg2jmp47jv9slfsyGTjEZj38b.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/H5E49feeD0CdsH6xRbF3L5WEXn.svg",
+   "imdb_id": "tt37737331",
+   "tmdb_url": "https://www.themoviedb.org/tv/289423",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt37737331",
+   "added_at": "2026-10-10T11:06:28Z",
+   "tagline": "Rechargé par le contact, vidé par la distance, bouleversé par l'amour !",
+   "directors": [
+    "송유채",
+    "Park Soo-won"
+   ],
+   "seasons": 1,
+   "episodes": 10,
+   "cast": [
+    {
+     "name": "Kim Young-kwang",
+     "role": "Baek Ho-rang",
+     "photo": "https://image.tmdb.org/t/p/w185/z7tQSbWHEfXeWMYHNNDGXW9Idfl.jpg"
+    },
+    {
+     "name": "Chae Soo-bin",
+     "role": "Na Bo-bae",
+     "photo": "https://image.tmdb.org/t/p/w185/uHVJPhxn9b9tHK30KTxQpdGIs9K.jpg"
+    },
+    {
+     "name": "차우민",
+     "role": "Ji Eun-ho",
+     "photo": "https://image.tmdb.org/t/p/w185/z8Lz0Opnl4i7Aj8b7jC4qYP01xJ.jpg"
+    },
+    {
+     "name": "민호",
+     "role": "I-hyeok",
+     "photo": "https://image.tmdb.org/t/p/w185/vTeGWQubmMbFozpp4uf3N6t33pV.jpg"
+    },
+    {
+     "name": "노정환",
+     "role": "Si-hun",
+     "photo": "https://image.tmdb.org/t/p/w185/npbDGfJd6srE61AagPWBeSJLGsn.jpg"
+    },
+    {
+     "name": "오희준",
+     "role": "Ma Hee-chan",
+     "photo": "https://image.tmdb.org/t/p/w185/wPkHSNSz2SQYt6ksKMbEfScg8wq.jpg"
+    },
+    {
+     "name": "재재",
+     "role": "Talk Show MC",
+     "photo": "https://image.tmdb.org/t/p/w185/f88OQwPg42DdJrS41lolpSrwo5h.jpg"
+    },
+    {
+     "name": "기소유",
+     "role": "Young Na Bo-bae",
+     "photo": "https://image.tmdb.org/t/p/w185/h9a5JSuaMpvckOxwIISZ9Of2NOJ.jpg"
+    },
+    {
+     "name": "하동준",
+     "role": "Heo Ji-hwan",
+     "photo": "https://image.tmdb.org/t/p/w185/51mqaFOlWLKdVtc41eXYqLGcQIk.jpg"
+    },
+    {
+     "name": "Jang Ui-don",
+     "role": "Manager",
+     "photo": "https://image.tmdb.org/t/p/w185/km0nMeWuapFvY7VTCvAlJ6dH2X5.jpg"
+    },
+    {
+     "name": "Seong Yeo-jin",
+     "role": "Executive 1",
+     "photo": "https://image.tmdb.org/t/p/w185/nzY1kwrnyBPPYlUOKswvdhPzVgC.jpg"
+    },
+    {
+     "name": "김재만",
+     "role": "Executive 2",
+     "photo": "https://image.tmdb.org/t/p/w185/xaJs2JtOIaIZwJWsp6W2qTci5YJ.jpg"
+    },
+    {
+     "name": "이재순",
+     "role": "Patient 1",
+     "photo": "https://image.tmdb.org/t/p/w185/2yQ4bgfb39xVErR8fhBBRvvzkiz.jpg"
+    },
+    {
+     "name": "Gong Min-jeung",
+     "role": "Na Ji-hye",
+     "photo": "https://image.tmdb.org/t/p/w185/wkUiwCHq2Z2h4A7JDlhjrVGQiCk.jpg"
+    },
+    {
+     "name": "Kim Mi-kyung",
+     "role": "Gong Man-seol",
+     "photo": "https://image.tmdb.org/t/p/w185/bJLkarteB2O0duu5ABvM5QFRuax.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Corée du Sud"
+   ],
+   "original_language": "Coréen",
+   "tmdb_status": "Terminée",
+   "production": [
+    {
+     "name": "Whynot Media",
+     "logo": "https://image.tmdb.org/t/p/w185/7GpPHSE5pjEmTKEFVppG0s2dG64.png"
+    },
+    {
+     "name": "Next Entertainment World",
+     "logo": "https://image.tmdb.org/t/p/w185/2In7Heq6DuXDjOwPmJqHWkpohaL.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt26446095",
    "type": "movie",
