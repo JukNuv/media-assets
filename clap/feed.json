@@ -1,7 +1,64 @@
 {
  "version": 1,
- "updated": "2026-10-10T07:03:37Z",
+ "updated": "2026-10-10T10:44:19Z",
  "items": [
+  {
+   "id": "movie:tt26446095",
+   "type": "movie",
+   "title": "L'odyssée de Céleste",
+   "original_title": "Space Cadet",
+   "year": 2026,
+   "release_date": "2026-02-20",
+   "overview": "Depuis son enfance, Céleste vit avec son meilleur ami, un robot, qui l’aide à accomplir son rêve : devenir astronaute ! Mais lorsqu’elle embarque pour sa première mission interstellaire, son robot se retrouve seul sur Terre et doit faire face à sa solitude pendant que Céleste affronte des dangers imprévus. Leurs souvenirs communs leur donneront le courage et la force de lutter pour pouvoir se retrouver.",
+   "synopsis_origin": null,
+   "rating": 6.8,
+   "runtime": 86,
+   "genres": [
+    "Animation",
+    "Familial",
+    "Science-Fiction"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Molotov TV"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=WekS2fV1DqY",
+   "poster": "https://image.tmdb.org/t/p/w500/vU6ePtZzloMT5kxN3U6twCdkBZz.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/xprL040VY3rZYxuanOpJB0gNVx1.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/cY8kiDEYoCyz43Mo0MduXva99lR.png",
+   "imdb_id": "tt26446095",
+   "tmdb_url": "https://www.themoviedb.org/movie/1404169",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt26446095",
+   "added_at": "2026-10-10T10:44:18Z",
+   "tagline": null,
+   "directors": [
+    "Kid Koala"
+   ],
+   "writers": [
+    "Mylène Chollet"
+   ],
+   "cast": [],
+   "age_rating": "TP",
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Les Films Outsiders",
+     "logo": "https://image.tmdb.org/t/p/w185/5JQrxwunQSSZWkichSKP4Jj2H0D.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Molotov TV",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt35515227",
    "type": "series",
