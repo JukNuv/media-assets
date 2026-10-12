@@ -1,7 +1,155 @@
 {
  "version": 1,
- "updated": "2026-10-11T19:02:43Z",
+ "updated": "2026-10-12T10:53:58Z",
  "items": [
+  {
+   "id": "movie:tt32588798",
+   "type": "movie",
+   "title": "Les Ensorceleuses 2",
+   "original_title": "Practical Magic 2",
+   "year": 2026,
+   "release_date": "2026-09-09",
+   "overview": "Une famille de sorcières multigénérationnelle, maudite à être sans amour pendant des siècles, tente de briser le sort en affrontant de sombres secrets et en se sacrifiant les uns pour les autres.",
+   "synopsis_origin": null,
+   "rating": 6.3,
+   "runtime": 130,
+   "genres": [
+    "Romance",
+    "Fantastique",
+    "Comédie"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": "Les Ensorceleuses - Saga [Collection]",
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=fHwAPBQkiuI",
+   "poster": "https://image.tmdb.org/t/p/w500/1fnNv1AOzbUG4gvL4AbenUfIlJp.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/1XPnUdi7xocaAW2YGYBmddGmI3h.png",
+   "imdb_id": "tt32588798",
+   "tmdb_url": "https://www.themoviedb.org/movie/1302904",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt32588798",
+   "added_at": "2026-10-12T10:53:56Z",
+   "tagline": "Tout ce dont tu as toujours rêvé.",
+   "directors": [
+    "Susanne Bier"
+   ],
+   "writers": [
+    "Akiva Goldsman",
+    "Georgia Pritchett",
+    "Kelly Marcel"
+   ],
+   "cast": [
+    {
+     "name": "Sandra Bullock",
+     "role": "Sally Owens",
+     "photo": "https://image.tmdb.org/t/p/w185/4rfjISL3Flx16jfiusXoHbpt87X.jpg"
+    },
+    {
+     "name": "Nicole Kidman",
+     "role": "Gillian Owens",
+     "photo": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
+    },
+    {
+     "name": "Joey King",
+     "role": "Kylie Owens",
+     "photo": "https://image.tmdb.org/t/p/w185/94c69mPYSK9jFsAEu0OKB7Qs684.jpg"
+    },
+    {
+     "name": "Maisie Williams",
+     "role": "Antonia Owens",
+     "photo": "https://image.tmdb.org/t/p/w185/zk1rlBVci2fmnFhMezaPpa4kwZF.jpg"
+    },
+    {
+     "name": "Xolo Maridueña",
+     "role": "Gideon",
+     "photo": "https://image.tmdb.org/t/p/w185/tJMI7BpjlhHSMpzSz9e1XxygnKd.jpg"
+    },
+    {
+     "name": "Lee Pace",
+     "role": "Ian Wright",
+     "photo": "https://image.tmdb.org/t/p/w185/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+    },
+    {
+     "name": "Dianne Wiest",
+     "role": "Aunt Jet",
+     "photo": "https://image.tmdb.org/t/p/w185/p9mfzY68FtEbedOMNB5X4eBShhx.jpg"
+    },
+    {
+     "name": "Stockard Channing",
+     "role": "Aunt Frances",
+     "photo": "https://image.tmdb.org/t/p/w185/fsk0HkOVKtdcbHfsc99bQvMJep3.jpg"
+    },
+    {
+     "name": "Solly McLeod",
+     "role": "Thomas Lockland",
+     "photo": "https://image.tmdb.org/t/p/w185/6aMA4kUV1ji4uu3zzBzQ9fwgUDO.jpg"
+    },
+    {
+     "name": "Ema Cavolli",
+     "role": "Maria Owens",
+     "photo": "https://image.tmdb.org/t/p/w185/mzAXiBoJeY1fA9Nc6KNsKNPfsgO.jpg"
+    },
+    {
+     "name": "Cassie Bradley",
+     "role": "Hannah Owens",
+     "photo": "https://image.tmdb.org/t/p/w185/u1rqfCyqHMjeOewKuaIaA9D3WqY.jpg"
+    },
+    {
+     "name": "Liz Kingsman",
+     "role": "Jane",
+     "photo": "https://image.tmdb.org/t/p/w185/sNCFfAVWGe4d4SLlUiNWvLk1Vwe.jpg"
+    },
+    {
+     "name": "Nathan Foad",
+     "role": "Derek",
+     "photo": "https://image.tmdb.org/t/p/w185/ou9BZuorEW8PJlbz9fMbVhIvxJj.jpg"
+    },
+    {
+     "name": "Katy Wix",
+     "role": "Paula",
+     "photo": "https://image.tmdb.org/t/p/w185/vVr5KhTeqvxTjgYE1xA6SnfxUuB.jpg"
+    },
+    {
+     "name": "Diana Quick",
+     "role": "Margaret",
+     "photo": "https://image.tmdb.org/t/p/w185/fEpYmTAQcKPUyvt6XsUCsUTv3K4.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Di Novi Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/xz25F3NFQOQJCH47VscbrcI10Om.png"
+    },
+    {
+     "name": "Warner Bros. Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png"
+    },
+    {
+     "name": "Blossom Films",
+     "logo": "https://image.tmdb.org/t/p/w185/7fUmRWUJgO4grf61sPMmc4kVYVR.png"
+    },
+    {
+     "name": "Fortis Films",
+     "logo": "https://image.tmdb.org/t/p/w185/2AAcFwLxc1yble95qTSi6QfxKRa.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "Alcon Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt47365443",
    "type": "series",
