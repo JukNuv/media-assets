@@ -1,7 +1,136 @@
 {
  "version": 1,
- "updated": "2026-10-13T09:05:40Z",
+ "updated": "2026-10-13T11:04:57Z",
  "items": [
+  {
+   "id": "series:tt36470958",
+   "type": "series",
+   "title": "Le piège",
+   "original_title": "Die Falle",
+   "year": 2026,
+   "release_date": "2026-10-13",
+   "overview": "L'autrice Lisa Konrad n'est pas sortie de chez elle depuis 10 ans, lorsque sa sœur a été tuée. Quand elle croit voir le meurtrier à la télé, elle échafaude un plan risqué.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 44,
+   "genres": [
+    "Drame",
+    "Mystère"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=SmaC-w7x63c",
+   "poster": "https://image.tmdb.org/t/p/w500/dkLTaC44QqnCAgzCf180TxMmmG5.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/69XNjGvcopgPz9Hte0ny1Swk2vW.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/xn2uL2c5TDuaeXlnYcnhCMY6O2E.png",
+   "imdb_id": "tt36470958",
+   "tmdb_url": "https://www.themoviedb.org/tv/283371",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt36470958",
+   "added_at": "2026-10-13T11:04:55Z",
+   "tagline": "Un jeux psychologique pervers.",
+   "directors": [
+    "Isabel Kleefeld"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Friederike Becht",
+     "role": "Lisa Konrad",
+     "photo": "https://image.tmdb.org/t/p/w185/uxvEF4bF60ipQnM5QStX8Wbnnse.jpg"
+    },
+    {
+     "name": "Hans Löw",
+     "role": "Robert Lenzen",
+     "photo": "https://image.tmdb.org/t/p/w185/eu2VBm55a9aQNKEtFY9qKGm5ya5.jpg"
+    },
+    {
+     "name": "Alexander Schubert",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/dWRleMp2Qqs7dpae56Tzpxv5yEJ.jpg"
+    },
+    {
+     "name": "Katja Ponickau",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/34stNsJekzoUx2tOlmoEQw4oDkk.jpg"
+    },
+    {
+     "name": "Naila Schuberth",
+     "role": "Toni",
+     "photo": "https://image.tmdb.org/t/p/w185/evYmtGc11LWZNlwSUeBun4w0yOu.jpg"
+    },
+    {
+     "name": "Josephine Thiesen",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/1YThG6A6GDI5sgUfxKOjZvWmKlE.jpg"
+    },
+    {
+     "name": "Matthias Brandt",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/4hsgiicaXbQvgUkyWmTlaSTqk91.jpg"
+    },
+    {
+     "name": "Anna Schudt",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/5b8DG26iAbZmAzgOapN0N46tSye.jpg"
+    },
+    {
+     "name": "Michael Klammer",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/u47AlkNpQm0AMr9zY1DnFqXQJxW.jpg"
+    },
+    {
+     "name": "Malaya Stern Takeda",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/yWTDo2UTmW83Tq68j4miBIDhuq4.jpg"
+    },
+    {
+     "name": "Stefan Gorski",
+     "role": "Max",
+     "photo": "https://image.tmdb.org/t/p/w185/2O811iT6YfC8xbLyw91E2ScwPkF.jpg"
+    },
+    {
+     "name": "Silvina Buchbauer",
+     "role": "Alexandra Faust",
+     "photo": "https://image.tmdb.org/t/p/w185/mZYv7WL35v4Ig5C5R92OYgMnxsg.jpg"
+    },
+    {
+     "name": "Jonas Tesifa",
+     "role": "Samy",
+     "photo": "https://image.tmdb.org/t/p/w185/uy3gJE9Y34s0X71GKW7nvoUWc54.jpg"
+    },
+    {
+     "name": "Vassily Kazakos",
+     "role": "Jorgo Vatali",
+     "photo": "https://image.tmdb.org/t/p/w185/u4paudNhLFc6FcBKmtOEfx87Ql9.jpg"
+    },
+    {
+     "name": "Miriam Ohlmeyer",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/6pTZmTz9I9webrBurWCrkbOulIw.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Allemagne"
+   ],
+   "original_language": "Allemand",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Constantin Film",
+     "logo": "https://image.tmdb.org/t/p/w185/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt41228546",
    "type": "movie",
