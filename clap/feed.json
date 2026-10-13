@@ -1,7 +1,141 @@
 {
  "version": 1,
- "updated": "2026-10-13T11:04:57Z",
+ "updated": "2026-10-13T13:05:40Z",
  "items": [
+  {
+   "id": "movie:tt27369017",
+   "type": "movie",
+   "title": "Hope",
+   "original_title": "호프",
+   "year": 2026,
+   "release_date": "2026-07-15",
+   "overview": "Alors que les secours sont mobilisés ailleurs et que toute communication est interrompue, les habitants de Hope doivent faire face seuls à une menace grandissante. Tandis que certains tentent de protéger le village, d’autres s’aventurent dans la montagne… mais deviennent à leur tour des proies. L’ignorance et la peur déclenchent une spirale incontrôlable aux conséquences dévastatrices.",
+   "synopsis_origin": null,
+   "rating": 7.2,
+   "runtime": 160,
+   "genres": [
+    "Science-Fiction",
+    "Mystère",
+    "Action"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=0R6TmYtmwh8",
+   "poster": "https://image.tmdb.org/t/p/w500/9iKkTo2N0mupXei7Z5ZBs1pziYJ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/pK7DwWbngS3ExJKHrMM0riCgIQj.png",
+   "imdb_id": "tt27369017",
+   "tmdb_url": "https://www.themoviedb.org/movie/1058424",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt27369017",
+   "added_at": "2026-10-13T13:05:37Z",
+   "tagline": "Est-ce ainsi que ça se termine ?",
+   "directors": [
+    "Na Hong-jin"
+   ],
+   "writers": [
+    "Na Hong-jin"
+   ],
+   "cast": [
+    {
+     "name": "Hwang Jung-min",
+     "role": "Go Bum-seok",
+     "photo": "https://image.tmdb.org/t/p/w185/hKF1uh0iEfuZlBE79CXPw415qyn.jpg"
+    },
+    {
+     "name": "조인성",
+     "role": "Go Sung-ki",
+     "photo": "https://image.tmdb.org/t/p/w185/69gbyFI0ET0l0dyjKChlx1Zx269.jpg"
+    },
+    {
+     "name": "Jung Ho-Yeon",
+     "role": "Lim Sung-ae",
+     "photo": "https://image.tmdb.org/t/p/w185/AfQFFyGeG9xOQnEJb1Ash1RomkP.jpg"
+    },
+    {
+     "name": "Alicia Vikander",
+     "role": "J'aur",
+     "photo": "https://image.tmdb.org/t/p/w185/lZu8qiTwiQIN96cuptgqMCCaUtg.jpg"
+    },
+    {
+     "name": "Michael Fassbender",
+     "role": "Ma'veyyo",
+     "photo": "https://image.tmdb.org/t/p/w185/xvbnUiB2ZBR3QIt595OzNy657Vw.jpg"
+    },
+    {
+     "name": "Taylor Russell",
+     "role": "Ai'dovor",
+     "photo": "https://image.tmdb.org/t/p/w185/3kW1SvpzyOPPZHxbz7cgR7ilmtQ.jpg"
+    },
+    {
+     "name": "Cameron Britton",
+     "role": "Va'migere",
+     "photo": "https://image.tmdb.org/t/p/w185/9HFxi8ZnBiby3AQ7tBOPDxXFkCT.jpg"
+    },
+    {
+     "name": "Lee Sang-hee",
+     "role": "Nak-yeon",
+     "photo": "https://image.tmdb.org/t/p/w185/wOYFSg20yGe48VFALqGAlrLjFHV.jpg"
+    },
+    {
+     "name": "음문석",
+     "role": "Yang-bae",
+     "photo": "https://image.tmdb.org/t/p/w185/niV5OXu1cgKnlIU1Iamp1BVeCdT.jpg"
+    },
+    {
+     "name": "임현식",
+     "role": "Hae-sul",
+     "photo": "https://image.tmdb.org/t/p/w185/syQMfT7qchOwKDMXc3vQB57v1ZL.jpg"
+    },
+    {
+     "name": "Hwang Seok-jeong",
+     "role": "Head of Health Center",
+     "photo": "https://image.tmdb.org/t/p/w185/MEhgvZBDS890lfCSeUwHxWL3Xh.jpg"
+    },
+    {
+     "name": "Han Woo-yeol",
+     "role": "Wan-seob",
+     "photo": "https://image.tmdb.org/t/p/w185/xFZ7vSyvxcHDSuhg6G0MXpNsjcT.jpg"
+    },
+    {
+     "name": "주광현",
+     "role": "Byeong-jun",
+     "photo": "https://image.tmdb.org/t/p/w185/9wyb07dlA5IEGcmvHy61OLLvWuI.jpg"
+    },
+    {
+     "name": "오두원",
+     "role": "Heung-sik",
+     "photo": "https://image.tmdb.org/t/p/w185/sF19as2CTDbmU64oUAbILH5KRn4.jpg"
+    },
+    {
+     "name": "유준홍",
+     "role": "Cheong-san",
+     "photo": "https://image.tmdb.org/t/p/w185/n4EhRXDStUHZcShb97XmL36g9wA.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Corée du Sud"
+   ],
+   "original_language": "Coréen",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Forged Films",
+     "logo": "https://image.tmdb.org/t/p/w185/gmh5oiXNSKI2WoEnyz8dqV9ikwr.png"
+    },
+    {
+     "name": "Plus M Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/c6ggS6OO4tyEcgBQ7sHs67LDfES.png"
+    },
+    {
+     "name": "Westworld Story",
+     "logo": "https://image.tmdb.org/t/p/w185/tkoix7ykf4WORjI3PNo5P4an67B.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt36470958",
    "type": "series",
