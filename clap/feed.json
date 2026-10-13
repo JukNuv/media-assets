@@ -1,7 +1,148 @@
 {
  "version": 1,
- "updated": "2026-10-12T12:32:07Z",
+ "updated": "2026-10-13T09:05:40Z",
  "items": [
+  {
+   "id": "movie:tt41228546",
+   "type": "movie",
+   "title": "Sultana",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-04-17",
+   "overview": "Sultana est une histoire saisissante qui se déroule dans une boîte de nuit d'Istanbul, entre rivalité, solidarité et lutte pour le pouvoir. Meral, reine du célèbre club Sultana, prend sous son aile Anna, une danseuse talentueuse. Mais elle comprend vite qu'elle vient de se créer une redoutable rivale. Une lutte sans merci s'engage alors entre les deux femmes.",
+   "synopsis_origin": null,
+   "rating": 8.3,
+   "runtime": 120,
+   "genres": [
+    "Drame",
+    "Musique"
+   ],
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=dQf1y2qCtnU",
+   "poster": "https://image.tmdb.org/t/p/w500/eoYtoCKSnSItedlsO4UqIWYFBXK.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/lDHfyYkTIWCWWdbHkLZwRXQx3Ul.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/cMJg6gc6pjtjtt29dyRppM8v3lJ.png",
+   "imdb_id": "tt41228546",
+   "tmdb_url": "https://www.themoviedb.org/movie/1656489",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt41228546",
+   "added_at": "2026-10-13T09:05:38Z",
+   "tagline": null,
+   "directors": [
+    "Ali Kemal Güven"
+   ],
+   "writers": [
+    "Erdi Işık"
+   ],
+   "cast": [
+    {
+     "name": "Tuba Büyüküstün",
+     "role": "Meral",
+     "photo": "https://image.tmdb.org/t/p/w185/14QRLZqXAZglMB7Z25uXg6IG3LG.jpg"
+    },
+    {
+     "name": "Derya Pınar Ak",
+     "role": "Anna",
+     "photo": "https://image.tmdb.org/t/p/w185/9PxHCK6FifopvrEgsAnwOrRcxs5.jpg"
+    },
+    {
+     "name": "Seray Kaya",
+     "role": "Tülay",
+     "photo": "https://image.tmdb.org/t/p/w185/vonxi1y7pUDcbeOantOqYrBSizx.jpg"
+    },
+    {
+     "name": "Begüm Akkaya",
+     "role": "Gülistan",
+     "photo": "https://image.tmdb.org/t/p/w185/5JqzpYhyio17y0ievgDGEDiacBg.jpg"
+    },
+    {
+     "name": "Rojbin Erden",
+     "role": "Fahriye",
+     "photo": "https://image.tmdb.org/t/p/w185/nRTrcE1UHlPlaztsGvrawMHUN4Q.jpg"
+    },
+    {
+     "name": "Şirin Sultan Saldamlı",
+     "role": "Nezo",
+     "photo": "https://image.tmdb.org/t/p/w185/fHCuvVh6SGBW2VMh5gTMCUsIbxL.jpg"
+    },
+    {
+     "name": "Itır Esen",
+     "role": "Selin",
+     "photo": "https://image.tmdb.org/t/p/w185/g6nYeWkmL4bI0fxRNYxcX1QArm7.jpg"
+    },
+    {
+     "name": "Taro Emir Tekin",
+     "role": "Arif",
+     "photo": "https://image.tmdb.org/t/p/w185/jzq1kYMT7YZSRVbpqQTB3fcL9fW.jpg"
+    },
+    {
+     "name": "Hakan Kurtaş",
+     "role": "Cemal",
+     "photo": "https://image.tmdb.org/t/p/w185/bPqpPuQddPLqMNxbSwVYl4nc5O2.jpg"
+    },
+    {
+     "name": "Nur Sürer",
+     "role": "Asuman",
+     "photo": "https://image.tmdb.org/t/p/w185/dHTgCwwmGyvJK5LyCpFtzYpap2d.jpg"
+    },
+    {
+     "name": "Çağlar Çorumlu",
+     "role": "Bekir",
+     "photo": "https://image.tmdb.org/t/p/w185/xv15eYrkRvGvIFyvxIW4544XMAq.jpg"
+    },
+    {
+     "name": "Melike Güner",
+     "role": "Leyla",
+     "photo": "https://image.tmdb.org/t/p/w185/8dX00GPMBNYmAXGnrhRp7ocA9Yv.jpg"
+    },
+    {
+     "name": "Cem Zeynel Kılıç",
+     "role": "Ender",
+     "photo": "https://image.tmdb.org/t/p/w185/yRlGl7ClCTx2L73leTRhwABOZvZ.jpg"
+    },
+    {
+     "name": "Abdullah Cersel",
+     "role": "Ali Kemal",
+     "photo": null
+    },
+    {
+     "name": "Yaşar Gündem",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/gKHnrWCl6PgotgAqD8tQNzybzPK.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "TR"
+   ],
+   "original_language": "Turc",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Rodi Medya",
+     "logo": "https://image.tmdb.org/t/p/w185/vreAkUiNdeVqbXV9MVP9hDT9MOa.png"
+    },
+    {
+     "name": "Saros Film",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": null
+    },
+    {
+     "name": "Amazon Prime Video with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt36164852",
    "type": "movie",
