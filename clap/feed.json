@@ -1,7 +1,144 @@
 {
  "version": 1,
- "updated": "2026-10-13T13:05:40Z",
+ "updated": "2026-10-13T13:05:48Z",
  "items": [
+  {
+   "id": "movie:tt36629665",
+   "type": "movie",
+   "title": "Her Private Hell",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-23",
+   "overview": "Alors qu’une étrange brume engloutit une métropole futuriste et libère une présence mortelle insaisissable, une jeune femme troublée part à la recherche de son père. Au cours de cette quête, son destin croise celui d’un GI américain engagé dans un voyage désespéré pour arracher sa fille de l’Enfer.",
+   "synopsis_origin": null,
+   "rating": 5.4,
+   "runtime": 110,
+   "genres": [
+    "Science-Fiction",
+    "Horreur",
+    "Thriller"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=fR5LipOLHRg",
+   "poster": "https://image.tmdb.org/t/p/w500/p9kCdvV9rePQR7QImAiRXJcFeq4.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/hS4FcOM5y71FurkBQgDLTBxmWZh.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/6EnT8apJKN1KOcS1UMJPj9XjSxV.png",
+   "imdb_id": "tt36629665",
+   "tmdb_url": "https://www.themoviedb.org/movie/1469342",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36629665",
+   "added_at": "2026-10-13T13:05:46Z",
+   "tagline": "La vengeance s'habille de cuir.",
+   "directors": [
+    "Nicolas Winding Refn"
+   ],
+   "writers": [
+    "Nicolas Winding Refn",
+    "Esti Giordani"
+   ],
+   "cast": [
+    {
+     "name": "Sophie Thatcher",
+     "role": "Elle",
+     "photo": "https://image.tmdb.org/t/p/w185/s7wB4ORCwPPz7H3dWVCNSAKQz9P.jpg"
+    },
+    {
+     "name": "Charles Melton",
+     "role": "Private K",
+     "photo": "https://image.tmdb.org/t/p/w185/sxWslNRZdiBcPgwdVqoj7nSclr6.jpg"
+    },
+    {
+     "name": "Havana Rose Liu",
+     "role": "Dominique",
+     "photo": "https://image.tmdb.org/t/p/w185/lqdialbfdj5l4KYMSlL4aausMaV.jpg"
+    },
+    {
+     "name": "Kristine Froseth",
+     "role": "Hunter",
+     "photo": "https://image.tmdb.org/t/p/w185/plgE7OleHgqZrdazFzbkv18UsRN.jpg"
+    },
+    {
+     "name": "忽那汐里",
+     "role": "Ms. T",
+     "photo": "https://image.tmdb.org/t/p/w185/5EdMbcRIemzLszjEr36Ic0Obmdb.jpg"
+    },
+    {
+     "name": "山田 葵",
+     "role": "Ms. S",
+     "photo": "https://image.tmdb.org/t/p/w185/4VJzAyq9gZxUxdzk0u8bNwGkhDS.jpg"
+    },
+    {
+     "name": "Dougray Scott",
+     "role": "Johnny Thunders",
+     "photo": "https://image.tmdb.org/t/p/w185/fDjTHSZuUIEstxxBvHApLrU1fWz.jpg"
+    },
+    {
+     "name": "Diego Calva",
+     "role": "Nico",
+     "photo": "https://image.tmdb.org/t/p/w185/k5khi8PwsYs2d7uL0uuO5zenL9R.jpg"
+    },
+    {
+     "name": "Hidetoshi Nishijima",
+     "role": "Hayashi",
+     "photo": "https://image.tmdb.org/t/p/w185/3FBdbeMMWfyKmHS5j8IECwsZWcY.jpg"
+    },
+    {
+     "name": "Lola Corfixen",
+     "role": "Candyfloss Girl",
+     "photo": "https://image.tmdb.org/t/p/w185/dqa3dXqPBH6Zl0Klyybbfks6PK.jpg"
+    },
+    {
+     "name": "Boy Ewald",
+     "role": "Candyfloss Girl",
+     "photo": "https://image.tmdb.org/t/p/w185/5GTY6sGarUQo1uILH1nYKVasvKg.jpg"
+    },
+    {
+     "name": "Elin Rebecka Jivarp",
+     "role": "Candyfloss Girl",
+     "photo": null
+    },
+    {
+     "name": "Faithfull Destiny",
+     "role": "Candyfloss Girl",
+     "photo": null
+    },
+    {
+     "name": "Jason Hendil-Forssell",
+     "role": "Leatherman",
+     "photo": "https://image.tmdb.org/t/p/w185/m0dCZwKyP8LhOvSjvRdHX1HCqLl.jpg"
+    },
+    {
+     "name": "Parker Sawyers",
+     "role": "Frank",
+     "photo": "https://image.tmdb.org/t/p/w185/9YonM2rlIEV9rwGbIcX6uB8bJZW.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis",
+    "Danemark",
+    "Royaume-Uni"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "NEON",
+     "logo": "https://image.tmdb.org/t/p/w185/3K9wCZTyDgop3ITK1rDi6T2PckE.png"
+    },
+    {
+     "name": "byNWR",
+     "logo": "https://image.tmdb.org/t/p/w185/oPrCWgswZ9VKZLYKKVYNHAQD9cK.png"
+    },
+    {
+     "name": "Pillow",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt27369017",
    "type": "movie",
