@@ -1,7 +1,147 @@
 {
  "version": 1,
- "updated": "2026-10-14T13:06:32Z",
+ "updated": "2026-10-14T15:43:58Z",
  "items": [
+  {
+   "id": "movie:tt34973241",
+   "type": "movie",
+   "title": "À bras-le-corps",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-01-29",
+   "overview": "Emma, 15 ans, enceinte après avoir été violée, défie sa communauté protestante rurale répressive pour se forger un chemin vers l'autodétermination, transformant son traumatisme en catalyseur d'émancipation tout en affrontant l'hypocrisie morale du village et le spectre de la Seconde Guerre mondiale qui l'entoure.",
+   "synopsis_origin": null,
+   "rating": 6.7,
+   "runtime": 96,
+   "genres": [
+    "Drame",
+    "Histoire"
+   ],
+   "lang_tag": "VOF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Reserva Imovision Amazon Channel"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=sHp54M3xnzo",
+   "poster": "https://image.tmdb.org/t/p/w500/zDSBxNZB3O6JStsATmQzaDwuCgv.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/jwS6mEufcFZpQSBy75VnDdyPSeJ.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/asqiG1iSa9A4PBRnqImfu77BAUF.png",
+   "imdb_id": "tt34973241",
+   "tmdb_url": "https://www.themoviedb.org/movie/1303357",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34973241",
+   "added_at": "2026-10-14T15:43:56Z",
+   "tagline": null,
+   "directors": [
+    "Marie-Elsa Sgualdo"
+   ],
+   "writers": [
+    "Nadine Lamari",
+    "Marie-Elsa Sgualdo"
+   ],
+   "cast": [
+    {
+     "name": "Lila Gueneau",
+     "role": "Emma",
+     "photo": "https://image.tmdb.org/t/p/w185/ns14Wm7G5wyoJCFVxnSbkCQcfKu.jpg"
+    },
+    {
+     "name": "Grégoire Colin",
+     "role": "Robert",
+     "photo": "https://image.tmdb.org/t/p/w185/jtolsceVVsMT1wWi8m8pdtaUE4f.jpg"
+    },
+    {
+     "name": "Thomas Doret",
+     "role": "Paul",
+     "photo": "https://image.tmdb.org/t/p/w185/fHU7RFB5hMQdt9Vx5V9nFLmfyfw.jpg"
+    },
+    {
+     "name": "Aurélia Petit",
+     "role": "Élise",
+     "photo": "https://image.tmdb.org/t/p/w185/s42zuQHecWuexXyO4GwbenumMxF.jpg"
+    },
+    {
+     "name": "Sandrine Blancke",
+     "role": "Alice",
+     "photo": null
+    },
+    {
+     "name": "Sasha Gravat Harsch",
+     "role": "Colette",
+     "photo": "https://image.tmdb.org/t/p/w185/rbaqb82ddvRNNAlNcGfQKOrcDlO.jpg"
+    },
+    {
+     "name": "Cyril Metzger",
+     "role": "Louis",
+     "photo": "https://image.tmdb.org/t/p/w185/e7NQXdNXenISzlVdKTx7Bf6UTvw.jpg"
+    },
+    {
+     "name": "Joëlle Fretz",
+     "role": "Paul's Mother",
+     "photo": null
+    },
+    {
+     "name": "Aurélien Patouillard",
+     "role": "Jean",
+     "photo": null
+    },
+    {
+     "name": "Tamara Semelet",
+     "role": "Nicole",
+     "photo": null
+    },
+    {
+     "name": "Roland Vouilloz",
+     "role": "Paul's Father",
+     "photo": "https://image.tmdb.org/t/p/w185/xRf5kWZAtQsOBLPjmRNHAh9XCGj.jpg"
+    },
+    {
+     "name": "Étienne Fague",
+     "role": "The Doctor",
+     "photo": "https://image.tmdb.org/t/p/w185/xubEQ6z64G1BvWMDcGRFQurHHqn.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Suisse",
+    "Belgique",
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Box Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/mEswQx1seYJjA2knd0lrdDGvxvu.png"
+    },
+    {
+     "name": "Hélicotronc",
+     "logo": "https://image.tmdb.org/t/p/w185/fUB3QSaha2RDP2EyYNKMmwpRJAY.png"
+    },
+    {
+     "name": "Offshore",
+     "logo": "https://image.tmdb.org/t/p/w185/8PX9wy2BxFA7ISBBUxUPPNbVf5C.png"
+    },
+    {
+     "name": "RTS",
+     "logo": "https://image.tmdb.org/t/p/w185/azhapBvZ8g1UWyyQQhhcRR9bM9x.png"
+    },
+    {
+     "name": "Proximus",
+     "logo": "https://image.tmdb.org/t/p/w185/yrAyYme1zlZtHuhlWS3DlFAj762.png"
+    },
+    {
+     "name": "RTBF",
+     "logo": "https://image.tmdb.org/t/p/w185/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Reserva Imovision Amazon Channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt37520267",
    "type": "movie",
