@@ -1,7 +1,97 @@
 {
  "version": 1,
- "updated": "2026-10-14T07:05:01Z",
+ "updated": "2026-10-14T11:17:24Z",
  "items": [
+  {
+   "id": "movie:tt43665190",
+   "type": "movie",
+   "title": "Family Guy Happy Hell-o-ween",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-05",
+   "overview": "Après être morts de manière inattendue et avoir été envoyés en enfer, les récriminations incessantes de Stewie et Brian poussent le Diable à démissionner, leur confiant ainsi les rênes de l'enfer.",
+   "synopsis_origin": "deepl",
+   "rating": 7.2,
+   "runtime": 22,
+   "genres": [
+    "Animation",
+    "Horreur",
+    "Comédie"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=dqCtpH7muKA",
+   "poster": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/iMx8vNPaiekbxMmn9DT7ozKOmnR.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/l5YpJ6eVyyxog2eb05fjgXdVbnZ.png",
+   "imdb_id": "tt43665190",
+   "tmdb_url": "https://www.themoviedb.org/movie/1788735",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt43665190",
+   "added_at": "2026-10-14T11:17:22Z",
+   "tagline": "Ce n'est pas « le diable que l'on connaît », mais « Le Diable, tu vois ? »",
+   "directors": [
+    "Joe Vaux"
+   ],
+   "writers": [
+    "Travis Bowe"
+   ],
+   "cast": [
+    {
+     "name": "Seth MacFarlane",
+     "role": "Brian Griffin / Stewie Griffin / Peter Griffin (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/8oQJqM51Z0Qtdb7sE6ZfX1peNCB.jpg"
+    },
+    {
+     "name": "Kieran Culkin",
+     "role": "The Devil (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/b5EC4nziLhBRX4GOcYx2BdS3FTt.jpg"
+    },
+    {
+     "name": "Alex Borstein",
+     "role": "Lois Griffin (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/evbCnRe5Yfuy0B41PONLTIcvbem.jpg"
+    },
+    {
+     "name": "Seth Green",
+     "role": "Chris Griffin (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/l4No5Eu6j0U80hCIkaSn17AOWrj.jpg"
+    },
+    {
+     "name": "Mila Kunis",
+     "role": "Meg Griffin (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/cJAHQWX9hVadDFx5WTSBIW0VjvP.jpg"
+    },
+    {
+     "name": "Patrick Warburton",
+     "role": "Joe Swanson (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/nDoOii5HaGwPxYa28xFC2sDkF8y.jpg"
+    },
+    {
+     "name": "Arif Zahir",
+     "role": "Cleveland Brown (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/b8tKuHh132LcOFKC4Nd2fCJDGMt.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "20th Television Animation",
+     "logo": "https://image.tmdb.org/t/p/w185/wLFPu95hIMmyLR5hdtvYaMuK0tG.png"
+    },
+    {
+     "name": "Fuzzy Door Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/1smGq637YoNgkeBZXt7TAPDYGda.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt23112594",
    "type": "series",
