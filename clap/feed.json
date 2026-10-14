@@ -1,7 +1,139 @@
 {
  "version": 1,
- "updated": "2026-10-13T13:05:55Z",
+ "updated": "2026-10-14T07:05:01Z",
  "items": [
+  {
+   "id": "series:tt23112594",
+   "type": "series",
+   "title": "VisionQuest",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-14",
+   "overview": "Vision, réinitialisé après avoir échappé à ceux qui cherchaient à l’utiliser comme une arme, vit désormais caché. En quête de sens, il se tourne vers les personnalités d’IA intégrées à sa programmation, parmi lesquelles Friday, Edith, Jarvis et le redoutable Ultron. Mais sa vie discrète prend fin lorsqu’une prime est mise sur sa tête, le contraignant à fuir aux côtés de Thomas Shepard, un garçon mystérieux qui pourrait être la réincarnation de son fils. Pour échapper à ceux qui le traquent, Vision doit affronter sa véritable nature, résister à l’influence d’Ultron et percer le mystère qui entoure son jeune compagnon s’il veut survivre.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Science-Fiction & Fantastique"
+   ],
+   "status": "En production",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=DmNHOrQQWYs",
+   "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/9Icyh6iwzlXrnhuun4GSVpvmkiz.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/mQwaoWvWJGiuVY6CT1V6AiuSIqi.png",
+   "imdb_id": "tt23112594",
+   "tmdb_url": "https://www.themoviedb.org/tv/213375",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt23112594",
+   "added_at": "2026-10-14T07:05:00Z",
+   "tagline": "Bienvenue à la maison, Vision.",
+   "directors": [
+    "Terry Matalas"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Paul Bettany",
+     "role": "Vision",
+     "photo": "https://image.tmdb.org/t/p/w185/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg"
+    },
+    {
+     "name": "James Spader",
+     "role": "Ultron",
+     "photo": "https://image.tmdb.org/t/p/w185/3gurW3OgDOD4hcqDfgcqUnoNg34.jpg"
+    },
+    {
+     "name": "Ruaridh Mollica",
+     "role": "Thomas",
+     "photo": "https://image.tmdb.org/t/p/w185/wiSim6nG9TSY4AO8KOwsaaPJ0EH.jpg"
+    },
+    {
+     "name": "Todd Stashwick",
+     "role": "Paladin",
+     "photo": "https://image.tmdb.org/t/p/w185/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg"
+    },
+    {
+     "name": "Lauren Morais",
+     "role": "Lisa Molinari",
+     "photo": "https://image.tmdb.org/t/p/w185/7Eur3EddzlvXTYzKAGkRmo87xcS.jpg"
+    },
+    {
+     "name": "Orla Brady",
+     "role": "F.R.I.D.A.Y.",
+     "photo": "https://image.tmdb.org/t/p/w185/wjo8xposTE0HenFopy6KELCWoD0.jpg"
+    },
+    {
+     "name": "Diane Morgan",
+     "role": "Handler",
+     "photo": "https://image.tmdb.org/t/p/w185/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg"
+    },
+    {
+     "name": "Ben Crompton",
+     "role": "Clancy",
+     "photo": "https://image.tmdb.org/t/p/w185/tsHOfCvdONdzVun4xaWGE4a8t8S.jpg"
+    },
+    {
+     "name": "Polly Frame",
+     "role": "Fiona Guthrie",
+     "photo": null
+    },
+    {
+     "name": "Henry Lewis",
+     "role": "D.U.M.-E.",
+     "photo": "https://image.tmdb.org/t/p/w185/sMDsMyLYhmI1N1amPPmd6Lrh7UK.jpg"
+    },
+    {
+     "name": "Jonathan Sayer",
+     "role": "U.",
+     "photo": "https://image.tmdb.org/t/p/w185/cfF9sJMiJyxkYATv47H2qRabCVB.jpg"
+    },
+    {
+     "name": "Emily Hampshire",
+     "role": "E.D.I.T.H.",
+     "photo": "https://image.tmdb.org/t/p/w185/cw5F0VKKSVzRvQB4CMRXhs6WxoH.jpg"
+    },
+    {
+     "name": "James D'Arcy",
+     "role": "J.A.R.V.I.S.",
+     "photo": "https://image.tmdb.org/t/p/w185/6CInTvBeLwXLx2id9TgaULaVEO4.jpg"
+    },
+    {
+     "name": "Jonathan Rhodes",
+     "role": "News Anchor 2",
+     "photo": "https://image.tmdb.org/t/p/w185/2E8zOvsfGnYMtz9htIpqUSyphQt.jpg"
+    },
+    {
+     "name": "Nicola Alexis",
+     "role": "Field Reporter",
+     "photo": "https://image.tmdb.org/t/p/w185/2ZtLcqg3XVMkkfA0Udh77gIb5Es.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Marvel Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Kevin Feige Productions",
+     "logo": null
+    },
+    {
+     "name": "Disney+",
+     "logo": "https://image.tmdb.org/t/p/w185/1edZOYAfoyZyZ3rklNSiUpXX30Q.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt9174288",
    "type": "movie",
