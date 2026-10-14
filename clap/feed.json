@@ -1,7 +1,101 @@
 {
  "version": 1,
- "updated": "2026-10-14T11:17:24Z",
+ "updated": "2026-10-14T13:06:24Z",
  "items": [
+  {
+   "id": "movie:tt34384900",
+   "type": "movie",
+   "title": "L'Amour de ta vie",
+   "original_title": "Love of Your Life",
+   "year": 2026,
+   "release_date": "2026-10-07",
+   "overview": "Réalisé par Rachel Morrison (*The Fire Inside*), *LOVE OF YOUR LIFE* (L'Amour de ta vie) suit Maya (Margaret Qualley) ; une rencontre fortuite avec Charlie (Gabriel Basso) déclenche une grande histoire d'amour et lui ouvre un avenir dépassant tout ce qu'elle avait imaginé. Lorsque cet avenir bascule soudainement, Maya se retrouve propulsée vers une nouvelle vie inattendue, qui l'obligera à s'interroger sur qui elle est, ce qu'elle désire et comment aimer à nouveau.",
+   "synopsis_origin": null,
+   "rating": 7.0,
+   "runtime": 106,
+   "genres": [
+    "Drame",
+    "Romance"
+   ],
+   "lang_tag": "VF2",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=FbZtcEtSFgE",
+   "poster": "https://image.tmdb.org/t/p/w500/dL3Tcv4FU2K85bgnGRBgLjFSrLr.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/otOEfDwZ5iSSaZRSsxX1wueYfSb.png",
+   "imdb_id": "tt34384900",
+   "tmdb_url": "https://www.themoviedb.org/movie/1381078",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34384900",
+   "added_at": "2026-10-14T13:06:22Z",
+   "tagline": "On ne sait jamais où l'amour peut nous emmener.",
+   "directors": [
+    "Rachel Morrison"
+   ],
+   "writers": [
+    "Julia Cox"
+   ],
+   "cast": [
+    {
+     "name": "Margaret Qualley",
+     "role": "Maya",
+     "photo": "https://image.tmdb.org/t/p/w185/2H3VZ2Gjh0X4jeTc3a7ir3dzRGo.jpg"
+    },
+    {
+     "name": "Aaron Pierre",
+     "role": "Felix",
+     "photo": "https://image.tmdb.org/t/p/w185/hNwZWdT2KxKj1YLbipvtUhNjfAp.jpg"
+    },
+    {
+     "name": "Gabriel Basso",
+     "role": "Charlie",
+     "photo": "https://image.tmdb.org/t/p/w185/6jHYQf6Y37BEouavp03WWpWpFyR.jpg"
+    },
+    {
+     "name": "Patrick Schwarzenegger",
+     "role": "Jason",
+     "photo": "https://image.tmdb.org/t/p/w185/jKbI0OpFMMz4SPCU1VoMHXIbA3Y.jpg"
+    },
+    {
+     "name": "Catherine Keener",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/n4CTwGszs6cwS1wJRlDQ5Mlh7Ex.jpg"
+    },
+    {
+     "name": "Tamara Lawrance",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/dxmaQIEhFVwOhU1f6vTV06CU2Jj.jpg"
+    },
+    {
+     "name": "Corey Johnson",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/mhNbf4vGzixPL5mTIOBUPguqvpB.jpg"
+    },
+    {
+     "name": "Filipa Saavedra",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/36OxIqWobAziICaghGObGayNCz5.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Open Invite Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/87yLRX32cLqxEhNy1fWkDrPL72v.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt43665190",
    "type": "movie",
