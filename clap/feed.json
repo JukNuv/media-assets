@@ -1,7 +1,82 @@
 {
  "version": 1,
- "updated": "2026-10-14T13:06:24Z",
+ "updated": "2026-10-14T13:06:32Z",
  "items": [
+  {
+   "id": "movie:tt37520267",
+   "type": "movie",
+   "title": "Flush",
+   "original_title": null,
+   "year": 2025,
+   "release_date": "2025-11-22",
+   "overview": "Quand on essaie de sortir la tête du trou, il y a toujours quelqu’un pour vous y replonger. Prenez Luc, un junkie à la dérive. Sa femme l’a quitté. Sa fille a été confiée aux services sociaux. Alors qu’il tente de reconquérir son ex devenue serveuse dans un bar, il se retrouve mêlé à un trafic de drogue. Une bagarre éclate. Laissé pour mort, le crâne coincé dans le trou d’une toilette à la turque, il aura la nuit pour se sortir de là et recomposer sa famille perdue.",
+   "synopsis_origin": null,
+   "rating": 7.8,
+   "runtime": 70,
+   "genres": [
+    "Comédie",
+    "Thriller",
+    "Horreur"
+   ],
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=Ih5VNQsClM0",
+   "poster": "https://image.tmdb.org/t/p/w500/xDaQZEgnTVHjjUuY9YTZ81qaEgk.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/rx5BlsUw8LBZFf1YPJkv2yuo4H0.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/yX6PlCJ0tT68wLs1olRNaJ8WzVQ.png",
+   "imdb_id": "tt37520267",
+   "tmdb_url": "https://www.themoviedb.org/movie/1507442",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37520267",
+   "added_at": "2026-10-14T13:06:30Z",
+   "tagline": null,
+   "directors": [
+    "Grégory Morin"
+   ],
+   "writers": [
+    "David Neiss"
+   ],
+   "cast": [
+    {
+     "name": "Jonathan Lambert",
+     "role": "Luc",
+     "photo": "https://image.tmdb.org/t/p/w185/scQLnfutvoFLJ20qNklE2nW7ATA.jpg"
+    },
+    {
+     "name": "Élodie Navarre",
+     "role": "Valentine",
+     "photo": "https://image.tmdb.org/t/p/w185/8QrnJmYiI1fh6vyqmKkRfOlS1vb.jpg"
+    },
+    {
+     "name": "Elliot Jenicot",
+     "role": "Sam",
+     "photo": null
+    },
+    {
+     "name": "Rémy Adriaens",
+     "role": "Dindon",
+     "photo": "https://image.tmdb.org/t/p/w185/jBXDMgzDsgyevg0H2VvZSqf2Op5.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "AJM STUDIO",
+     "logo": null
+    },
+    {
+     "name": "f-partners",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt34384900",
    "type": "movie",
