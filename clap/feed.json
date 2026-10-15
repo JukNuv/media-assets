@@ -1,7 +1,141 @@
 {
  "version": 1,
- "updated": "2026-10-15T06:07:58Z",
+ "updated": "2026-10-15T06:08:06Z",
  "items": [
+  {
+   "id": "movie:tt33451014",
+   "type": "movie",
+   "title": "L'Être Aimé",
+   "original_title": "El ser querido",
+   "year": 2026,
+   "release_date": "2026-05-16",
+   "overview": "Réalisateur mondialement célèbre, Esteban Martínez revient en Espagne pour tourner son nouveau film. Il en offre le rôle principal à une jeune actrice inconnue : sa fille, qu’il n’a pas vue depuis treize ans. La jeune femme accepte cette incroyable opportunité, mais sait qu’à l’occasion de ce tournage, elle va se confronter à un homme qu’elle n’a jamais pu considérer comme un père. Le poids du passé menace de rouvrir leurs blessures.",
+   "synopsis_origin": null,
+   "rating": 6.9,
+   "runtime": 135,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=WJ5V0BDG6V0",
+   "poster": "https://image.tmdb.org/t/p/w500/guyRccNh9py85OYQO7Y7pLblxGQ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/pXtbTukWUFdkQmYydHihDceDFcU.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/qDqMvq23DZsIoY5dE33PV8zrwuw.png",
+   "imdb_id": "tt33451014",
+   "tmdb_url": "https://www.themoviedb.org/movie/1074074",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt33451014",
+   "added_at": "2026-10-15T06:08:04Z",
+   "tagline": null,
+   "directors": [
+    "Rodrigo Sorogoyen"
+   ],
+   "writers": [
+    "Isabel Peña",
+    "Rodrigo Sorogoyen"
+   ],
+   "cast": [
+    {
+     "name": "Javier Bardem",
+     "role": "Esteban Martínez",
+     "photo": "https://image.tmdb.org/t/p/w185/zfRID0jx8DKBluPGU9xtk9sZWUt.jpg"
+    },
+    {
+     "name": "Victoria Luengo",
+     "role": "Emilia",
+     "photo": "https://image.tmdb.org/t/p/w185/sITOSQWB4nzQJUfrC5Fpx1jY8E5.jpg"
+    },
+    {
+     "name": "Melina Matthews",
+     "role": "Bárbara",
+     "photo": "https://image.tmdb.org/t/p/w185/bPwRAyD6DrAEj3DIzTibVDdJ51M.jpg"
+    },
+    {
+     "name": "Malena Villa",
+     "role": "Malena",
+     "photo": "https://image.tmdb.org/t/p/w185/zlMqTD3FAm3bgbXnwsJ9ZcFpwT5.jpg"
+    },
+    {
+     "name": "Mourad Ouani",
+     "role": "Bilal",
+     "photo": "https://image.tmdb.org/t/p/w185/s49plaLo3GtiblwzKx8eopMqvH0.jpg"
+    },
+    {
+     "name": "Pepa Gracia",
+     "role": "Pepa",
+     "photo": "https://image.tmdb.org/t/p/w185/jsz9NHaXZFNuUxK1gXM4uX9L3SN.jpg"
+    },
+    {
+     "name": "Raúl Prieto",
+     "role": "Raúl",
+     "photo": "https://image.tmdb.org/t/p/w185/osXhdIeQ44FTJIOOtJfP2yQ15tA.jpg"
+    },
+    {
+     "name": "Pablo Gómez-Pando",
+     "role": "Pablo",
+     "photo": "https://image.tmdb.org/t/p/w185/qRhWnhF4U6as6wtk86YKMrdY8Vx.jpg"
+    },
+    {
+     "name": "Marina Foïs",
+     "role": "Marina",
+     "photo": "https://image.tmdb.org/t/p/w185/dLPo5cyKoH4Y8TNRkl2GIrd4Oae.jpg"
+    },
+    {
+     "name": "Raúl Arévalo",
+     "role": "César",
+     "photo": "https://image.tmdb.org/t/p/w185/npWhiRnqlbqku6mNnk5RTgGvnj2.jpg"
+    },
+    {
+     "name": "Laura Birn",
+     "role": "Alice",
+     "photo": "https://image.tmdb.org/t/p/w185/67BraXKgQwZplWBS7PUh8tWssWL.jpg"
+    },
+    {
+     "name": "Núria Prims",
+     "role": "Charo",
+     "photo": "https://image.tmdb.org/t/p/w185/ajKBJxuDdK2C0kl1WH3iPEis3P7.jpg"
+    },
+    {
+     "name": "Ana Ruano",
+     "role": "Ana Duato",
+     "photo": "https://image.tmdb.org/t/p/w185/9Omc4IZLUI8WgISYfRCJerODQYx.jpg"
+    },
+    {
+     "name": "Candela Arestegui",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ndnL83HfG4iY56IUYmnHH8DNOIS.jpg"
+    },
+    {
+     "name": "Dō Bofill",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/h5wrbD6WqE2DuEPjIQzFxGKFcR2.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "Espagne",
+    "France"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Movistar Plus",
+     "logo": "https://image.tmdb.org/t/p/w185/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png"
+    },
+    {
+     "name": "Caballo Films",
+     "logo": "https://image.tmdb.org/t/p/w185/p4gIH0sLL5sAPYY5l50s0Q1rPNQ.png"
+    },
+    {
+     "name": "Le Pacte",
+     "logo": "https://image.tmdb.org/t/p/w185/t3oWTsVukmEzrZzvfr37XRBibo5.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt37511048",
    "type": "movie",
