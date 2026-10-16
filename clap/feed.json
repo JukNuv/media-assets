@@ -1,7 +1,128 @@
 {
  "version": 1,
- "updated": "2026-10-15T15:06:43Z",
+ "updated": "2026-10-16T07:05:15Z",
  "items": [
+  {
+   "id": "series:tt38058663",
+   "type": "series",
+   "title": "La Terre et le Sang",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-09",
+   "overview": "Anto est un flic parisien d’origine Corse. Enfant, il a juré à son frère, victime d’un règlement de compte, de mettre fin à la spirale de la vengeance qui gangrène sa famille depuis des générations. Mais tandis qu’il s’apprête à revenir sur sa terre natale pour reprendre le domaine viticole familial avec sa femme Vanina, il tombe dans une embuscade. Son père est abattu et Anto sombre dans un long coma. À son réveil, 10 ans plus tard, il découvre que son fils Santu, devenu adolescent, n’a qu’une idée en tête : la vendetta. Jusqu’où ira Anto pour protéger son fils et retrouver sa vie ?",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 52,
+   "genres": [
+    "Drame",
+    "Crime"
+   ],
+   "status": "En production",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=n_cbaPjtZEM",
+   "poster": "https://image.tmdb.org/t/p/w500/AfM6PTkOtsA91gqUFSD3fUOERwi.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/c8AR2bUDbrXo2NyExxifVZneyIg.jpg",
+   "logo": "",
+   "imdb_id": "tt38058663",
+   "tmdb_url": "https://www.themoviedb.org/tv/288384",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38058663",
+   "added_at": "2026-10-16T07:05:13Z",
+   "tagline": null,
+   "directors": [
+    "Ange Basterga"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Thierry Neuvic",
+     "role": "Anto Natali",
+     "photo": "https://image.tmdb.org/t/p/w185/e0CvOz6q1hqunt57lrIzY4mtWnT.jpg"
+    },
+    {
+     "name": "Vahina Giocante",
+     "role": "Vanina Natali",
+     "photo": "https://image.tmdb.org/t/p/w185/bho9cZPO1VGWKKcpQz5b5vHf9Pa.jpg"
+    },
+    {
+     "name": "Basile Larie",
+     "role": "Santu Natali",
+     "photo": "https://image.tmdb.org/t/p/w185/v1XIY2N4tTPSQPAlTM7ceHalYHY.jpg"
+    },
+    {
+     "name": "Stanley Weber",
+     "role": "Marc Tramoni",
+     "photo": "https://image.tmdb.org/t/p/w185/seRPDc8ifxicZUi6cF4G4NaXKm.jpg"
+    },
+    {
+     "name": "Tchéky Karyo",
+     "role": "Charles Luciani",
+     "photo": "https://image.tmdb.org/t/p/w185/EcpFzLMmfz6fm4FrpamfFQ51pz.jpg"
+    },
+    {
+     "name": "Jean-Philippe Ricci",
+     "role": "Dume Luciani",
+     "photo": "https://image.tmdb.org/t/p/w185/u3JRsD8zby4rV2mjjjS8lCCl27w.jpg"
+    },
+    {
+     "name": "Anna Filippi",
+     "role": "Séréna Natali",
+     "photo": "https://image.tmdb.org/t/p/w185/jtp00tOVA2ddYUOrDNRbQHxJX34.jpg"
+    },
+    {
+     "name": "Laëtitia Eïdo",
+     "role": "Mathilda Rossi",
+     "photo": "https://image.tmdb.org/t/p/w185/6AOHS2h4sei7Aq8IqBbXo4o5uGw.jpg"
+    },
+    {
+     "name": "Basilia Castellani",
+     "role": "Madalena Natali",
+     "photo": "https://image.tmdb.org/t/p/w185/pEcd680JJn5zR8PgweONUDrA76m.jpg"
+    },
+    {
+     "name": "Philippe Corti",
+     "role": "Horace Tramoni",
+     "photo": "https://image.tmdb.org/t/p/w185/zVvX5PF5Qt1Ae3CkZqlOanmJgXB.jpg"
+    },
+    {
+     "name": "Pierre-Marie Mosconi",
+     "role": "Antoine Deluca",
+     "photo": "https://image.tmdb.org/t/p/w185/h6fsu1NnsWam6t8j8h27T20XmO5.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En production",
+   "production": [
+    {
+     "name": "CPB Films",
+     "logo": "https://image.tmdb.org/t/p/w185/sfVmSNU1aq6g6zZ7DsdPYIHqZ3R.png"
+    },
+    {
+     "name": "France Télévisions",
+     "logo": "https://image.tmdb.org/t/p/w185/qpFsGoa96SytbWkhtkkpllu5Cch.png"
+    },
+    {
+     "name": "Incognita",
+     "logo": "https://image.tmdb.org/t/p/w185/4Sb0bPPIycFpIK9J9HDQk4jpNG5.png"
+    },
+    {
+     "name": "Beside Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/grDzFY7347YKDLrMYnihbmo8ZOQ.png"
+    },
+    {
+     "name": "France 2",
+     "logo": "https://image.tmdb.org/t/p/w185/b1cFa5FcHHnpejKiPybXSPcqKjT.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt35673115",
    "type": "series",
