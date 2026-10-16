@@ -1,7 +1,126 @@
 {
  "version": 1,
- "updated": "2026-10-16T08:54:06Z",
+ "updated": "2026-10-16T08:54:26Z",
  "items": [
+  {
+   "id": "movie:tt43587931",
+   "type": "movie",
+   "title": "Comète",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-15",
+   "overview": "Alors qu’une comète traverse le ciel de Paris, des destins se croisent dans une ronde mystérieuse. Deux amis sillonnent la ville et font le point sur leur vie. Une jeune femme retrouve un père qu’elle n’attendait plus. Une autre vend de la drogue pour le compte de son frère. Ailleurs, deux êtres hantés par la mort se rencontrent. Pendant ce temps, des comédiens répètent une pièce qui fait étrangement écho à ces existences. Une fresque sur les rencontres inattendues et les hasards qui tissent nos vies.",
+   "synopsis_origin": null,
+   "rating": 6.3,
+   "runtime": 97,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=IhZ7LiBXgZg",
+   "poster": "https://image.tmdb.org/t/p/w500/vIlV0GgQqa39aDG90hfOgdsAdLr.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/b7WI494R7k0ELf6D21HsYyZvmcT.jpg",
+   "logo": "",
+   "imdb_id": "tt43587931",
+   "tmdb_url": "https://www.themoviedb.org/movie/1715709",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt43587931",
+   "added_at": "2026-10-16T08:54:24Z",
+   "tagline": null,
+   "directors": [
+    "Elie Wajeman"
+   ],
+   "writers": [
+    "Elie Wajeman",
+    "Sarah Le Picard",
+    "Vincent Sornaga"
+   ],
+   "cast": [
+    {
+     "name": "Vincent Macaigne",
+     "role": "Albert",
+     "photo": "https://image.tmdb.org/t/p/w185/6Z4JmAauiallW2lXTOuSAiHdHGf.jpg"
+    },
+    {
+     "name": "Lou Lampros",
+     "role": "Anna",
+     "photo": "https://image.tmdb.org/t/p/w185/934IjhOif2xWeGnyV6KT1Vfj19w.jpg"
+    },
+    {
+     "name": "Sandor Funtek",
+     "role": "Milan",
+     "photo": "https://image.tmdb.org/t/p/w185/b16fZrwuMtz44Mw8e8EPAGMtQgl.jpg"
+    },
+    {
+     "name": "Alexia Chardard",
+     "role": "Charlie",
+     "photo": "https://image.tmdb.org/t/p/w185/eNoG98A3T4WtjGg43RxBSGVphVi.jpg"
+    },
+    {
+     "name": "Anne-Lise Heimburger",
+     "role": "Gabrielle",
+     "photo": "https://image.tmdb.org/t/p/w185/tiACLgeJ0omEWIbk6aiR4ScF7la.jpg"
+    },
+    {
+     "name": "Nader Boussandel",
+     "role": "Nader",
+     "photo": "https://image.tmdb.org/t/p/w185/xkyW5AUUhn6g9JzvVUUt0CsO3oC.jpg"
+    },
+    {
+     "name": "Maxime Tshibangu",
+     "role": "Max le médecin",
+     "photo": "https://image.tmdb.org/t/p/w185/5z2KPINRDwlvo6V4nU14jXh4nC5.jpg"
+    },
+    {
+     "name": "Ike Zacsongo-Joseph",
+     "role": "Nathan",
+     "photo": "https://image.tmdb.org/t/p/w185/436HoOgbA6ucGgc3MRhzdIio06X.jpg"
+    },
+    {
+     "name": "Éric Denize",
+     "role": "Joseph",
+     "photo": "https://image.tmdb.org/t/p/w185/epwFOYPv1eecTadM6vOc5HhBY20.jpg"
+    },
+    {
+     "name": "Laurent Robert",
+     "role": "Abel",
+     "photo": null
+    },
+    {
+     "name": "Vincent Sornaga",
+     "role": "Vincent",
+     "photo": null
+    },
+    {
+     "name": "Mathieu Perotto",
+     "role": "Paul",
+     "photo": "https://image.tmdb.org/t/p/w185/gQJXvDulNKsrJduNcIHD5iRw8g.jpg"
+    },
+    {
+     "name": "Samuel Achache",
+     "role": "Boris",
+     "photo": "https://image.tmdb.org/t/p/w185/dAtdK0Y9iKoHsn0bvjeJ5OATDnQ.jpg"
+    },
+    {
+     "name": "Sarah Le Picard",
+     "role": "Irène",
+     "photo": "https://image.tmdb.org/t/p/w185/6OIETJY9geWiqaS3RPmsRaRfaS1.jpg"
+    },
+    {
+     "name": "Pauline Lorillard",
+     "role": "Christina",
+     "photo": "https://image.tmdb.org/t/p/w185/j7ODrhbBIIHOQx2z2olXGWoRcFD.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt38672588",
    "type": "movie",
