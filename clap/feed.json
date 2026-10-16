@@ -1,7 +1,109 @@
 {
  "version": 1,
- "updated": "2026-10-16T10:22:52Z",
+ "updated": "2026-10-16T10:23:00Z",
  "items": [
+  {
+   "id": "movie:tt6262770",
+   "type": "movie",
+   "title": "Tenzing : à la conquête de l’Everest",
+   "original_title": "Tenzing",
+   "year": 2026,
+   "release_date": "2026-10-09",
+   "overview": "Un homme déterminé se lance dans une aventure périlleuse - et brave des obstacles apparemment insurmontables - pour réaliser son rêve d'être le premier à atteindre le sommet de l'Everest.",
+   "synopsis_origin": null,
+   "rating": 7.0,
+   "runtime": 126,
+   "genres": [
+    "Drame",
+    "Histoire"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "TVING"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=KkYCY5YR12U",
+   "poster": "https://image.tmdb.org/t/p/w500/hKA6G4Dj0Uonghi6AUwmpIvCFo0.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/n4wYT4f45zsma3Z6JufVyxpgwjL.png",
+   "imdb_id": "tt6262770",
+   "tmdb_url": "https://www.themoviedb.org/movie/1288069",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt6262770",
+   "added_at": "2026-10-16T10:22:58Z",
+   "tagline": "L'ascension qui est entrée dans l'histoire.",
+   "directors": [
+    "Jennifer Peedom"
+   ],
+   "writers": [
+    "Luke Davies",
+    "Jennifer Peedom"
+   ],
+   "cast": [
+    {
+     "name": "更登彭措",
+     "role": "Tenzing Norgay",
+     "photo": "https://image.tmdb.org/t/p/w185/2xsreNBuPpBZYJTlpuTapi2ZvP.jpg"
+    },
+    {
+     "name": "Tom Hiddleston",
+     "role": "Sir Edmund Hillary",
+     "photo": "https://image.tmdb.org/t/p/w185/mclHxMm8aPlCPKptP67257F5GPo.jpg"
+    },
+    {
+     "name": "Willem Dafoe",
+     "role": "Colonel John Hunt",
+     "photo": "https://image.tmdb.org/t/p/w185/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg"
+    },
+    {
+     "name": "Caitríona Balfe",
+     "role": "Jill Henderson",
+     "photo": "https://image.tmdb.org/t/p/w185/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+    },
+    {
+     "name": "Thinley Lhamo",
+     "role": "Dawa Norgay",
+     "photo": "https://image.tmdb.org/t/p/w185/3GKt64WBoYR7qGPhRxtatfelGYd.jpg"
+    },
+    {
+     "name": "Tenzing Dalha",
+     "role": "Young Tenzing",
+     "photo": "https://image.tmdb.org/t/p/w185/73C5LeD05D4ElTb4h8PY5zzBBdn.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "Australie",
+    "Royaume-Uni",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Cross City Films",
+     "logo": "https://image.tmdb.org/t/p/w185/A6yBN3mIr9S0tOtahRCx8rJtwuY.png"
+    },
+    {
+     "name": "See-Saw Films",
+     "logo": "https://image.tmdb.org/t/p/w185/vFbexaF70wSMUHRA6Fy6UcuA1ju.png"
+    },
+    {
+     "name": "Apple Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/oE7H93u8sy5vvW5EH3fpCp68vvB.png"
+    },
+    {
+     "name": "RocketScience",
+     "logo": "https://image.tmdb.org/t/p/w185/rajoRd4i5xJKHAqFyeflFBMUBZM.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "TVING",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt35669125",
    "type": "movie",
