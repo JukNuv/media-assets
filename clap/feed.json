@@ -1,7 +1,151 @@
 {
  "version": 1,
- "updated": "2026-10-18T06:43:39Z",
+ "updated": "2026-10-18T06:43:47Z",
  "items": [
+  {
+   "id": "movie:tt37538335",
+   "type": "movie",
+   "title": "LEGO Friends: Heartlake the Musical",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-16",
+   "overview": "La jeune Daisy se réfugie dans ses briques de construction alors qu'elle tente de s'adapter à une nouvelle école dans un nouveau pays. Lorsqu'elle tombe par hasard sur une clé mystérieuse, elle est transportée à Heartlake City, où elle se fait de nouveaux amis. Mais ceux-ci ont bientôt besoin de son aide pour sauver un monument local incontournable – le tout ponctué de nombreux numéros de chant et de danse.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": 50,
+   "genres": [
+    "Fantastique",
+    "Musique",
+    "Téléfilm"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=0rT0C92Z2ks",
+   "poster": "https://image.tmdb.org/t/p/w500/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
+   "logo": "",
+   "imdb_id": "tt37538335",
+   "tmdb_url": "https://www.themoviedb.org/movie/1512493",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37538335",
+   "added_at": "2026-10-18T06:43:45Z",
+   "tagline": null,
+   "directors": [
+    "Paul Becker"
+   ],
+   "writers": [
+    "Kenny Ortega",
+    "Kirk R. Thatcher",
+    "Jeremy Adams"
+   ],
+   "cast": [
+    {
+     "name": "Jada Langley",
+     "role": "Daisy",
+     "photo": "https://image.tmdb.org/t/p/w185/bpO0J3rDYvOIESx4YS61nUrGUEH.jpg"
+    },
+    {
+     "name": "Gino Ochello",
+     "role": "Leo",
+     "photo": "https://image.tmdb.org/t/p/w185/lxSz01nQAL5c7r7hfzULYWdBjFC.jpg"
+    },
+    {
+     "name": "Gracie McGonigal",
+     "role": "Autumn",
+     "photo": "https://image.tmdb.org/t/p/w185/qr27HsId7KPSHjhLVeSVoSwUvhS.jpg"
+    },
+    {
+     "name": "Darcy Jacobs",
+     "role": "Candi",
+     "photo": "https://image.tmdb.org/t/p/w185/vd4D1j8meGwptNOvoBRGqr8lCf6.jpg"
+    },
+    {
+     "name": "Hannah Gracie",
+     "role": "Paisley",
+     "photo": "https://image.tmdb.org/t/p/w185/1fq2sUzQKqGCYLs18vHFFRDYV8q.jpg"
+    },
+    {
+     "name": "Hamish Skeoch",
+     "role": "Olly",
+     "photo": "https://image.tmdb.org/t/p/w185/iy2KX7Vz4gZPpMIefeFc3Zkd7x2.jpg"
+    },
+    {
+     "name": "Meesha Garbett",
+     "role": "Nova",
+     "photo": "https://image.tmdb.org/t/p/w185/lpg0N0a7CF1QdD9BrEtCYLy1nVm.jpg"
+    },
+    {
+     "name": "Danita Walcott-Nichols",
+     "role": "Aliya",
+     "photo": null
+    },
+    {
+     "name": "Manuel Jenoure",
+     "role": "Zac",
+     "photo": null
+    },
+    {
+     "name": "Angelina Li",
+     "role": "Liann",
+     "photo": null
+    },
+    {
+     "name": "Siubhan Harrison",
+     "role": "Daisy's Mother",
+     "photo": "https://image.tmdb.org/t/p/w185/wdHgNUzLxdHZcNTu77jtDAkNQFf.jpg"
+    },
+    {
+     "name": "Kevin Golding",
+     "role": "Old Man Heart",
+     "photo": "https://image.tmdb.org/t/p/w185/kIcF2CIyAtGHJ0d7ltqDUYlPGbY.jpg"
+    },
+    {
+     "name": "Taylor Sullivan",
+     "role": "Kyle",
+     "photo": "https://image.tmdb.org/t/p/w185/dFKvB9qky9W8MfDX9VFMLXn9FaP.jpg"
+    },
+    {
+     "name": "Ian Virgo",
+     "role": "Daisy's Father",
+     "photo": "https://image.tmdb.org/t/p/w185/svvLAfMaOZghL0cd0oce0QClJmT.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "Royaume-Uni",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Final Pixel",
+     "logo": null
+    },
+    {
+     "name": "The LEGO Group",
+     "logo": "https://image.tmdb.org/t/p/w185/4B43I3FGlYr83zLGEvhBc0vvJIE.png"
+    },
+    {
+     "name": "TPC",
+     "logo": "https://image.tmdb.org/t/p/w185/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt45858039",
    "type": "movie",
