@@ -1,7 +1,146 @@
 {
  "version": 1,
- "updated": "2026-10-16T11:07:23Z",
+ "updated": "2026-10-18T06:42:39Z",
  "items": [
+  {
+   "id": "movie:tt37850679",
+   "type": "movie",
+   "title": "Spidey et les Avengers : Halloween en équipe !",
+   "original_title": "Spidey and the Avengers: Halloween Team-Up!",
+   "year": 2026,
+   "release_date": "2026-09-24",
+   "overview": "Les projets d'Halloween de Spidey et des Avengers sont chamboulés par la mystérieuse Hallows' Eve. Elle s'amuse à jouer des tours aux enfants partis à la chasse aux bonbons et compte bien gâcher la fête pour toujours.",
+   "synopsis_origin": null,
+   "rating": 6.8,
+   "runtime": 26,
+   "genres": [
+    "Animation",
+    "Aventure",
+    "Fantastique",
+    "Familial"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Disney Plus",
+    "fuboTV"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/hPucpn2pmszkcqRVHmrlUYK0PtG.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/aIiCdNCo889J2QaaOd8TXaGXoO2.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/btlDYC8jYi0PT7GaWmDaFCM4Gf7.png",
+   "imdb_id": "tt37850679",
+   "tmdb_url": "https://www.themoviedb.org/movie/1750432",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37850679",
+   "added_at": "2026-10-18T06:42:37Z",
+   "tagline": null,
+   "directors": [
+    "Darren Bachynski",
+    "Mitch Stookey"
+   ],
+   "writers": [
+    "Bart Jennett"
+   ],
+   "cast": [
+    {
+     "name": "Nick Fisher",
+     "role": "Peter / Spider-Man (Spidey) / Kid at Party (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/k8fEQsNo7HsSePR0WXalDnHi8OS.jpg"
+    },
+    {
+     "name": "Este Haim",
+     "role": "Hallows Eve (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/aUVgUkRK980y030GMCNFsvRP9Vh.jpg"
+    },
+    {
+     "name": "Patrick Stump",
+     "role": "Jack O’Lantern / Party Goer (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/eGhFWcVls6L93lij5iY3thHaSQ6.jpg"
+    },
+    {
+     "name": "Lincoln Bonilla",
+     "role": "Tony / Iron Man (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/f0DChUNUzAHbTLp3azrnG3Gb8LM.jpg"
+    },
+    {
+     "name": "Armen Taylor",
+     "role": "Hulk / Levitating Ghost Decoration (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/3si7GEmEl58PYZ8msDH08ukYR08.jpg"
+    },
+    {
+     "name": "Cruz Flateau",
+     "role": "T'Challa / Black Panther (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/l05nHHqz3xiDZyR02WfrLyVKbZf.jpg"
+    },
+    {
+     "name": "Roger Craig Smith",
+     "role": "Captain America / Owner (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/6oE356GbRHAf91Llw7LDpvsAf5L.jpg"
+    },
+    {
+     "name": "Maya Tuttle",
+     "role": "Wasp / Woman (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/5hoy9xjZftmC9Q3Jzl5QCglGs29.jpg"
+    },
+    {
+     "name": "Nicolas Roye",
+     "role": "WEB-STER / Parent (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/mz96EUwWlbAeXrv2ybvx6uAR7Fj.jpg"
+    },
+    {
+     "name": "John Eric Bentley",
+     "role": "Mr. Von Carnegie / Man (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/2r2ybtn1qDCl3JlKFYklODelvW8.jpg"
+    },
+    {
+     "name": "Eric Bauza",
+     "role": "Mr. Kim / Dad (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    },
+    {
+     "name": "Lilou Lang",
+     "role": "Daughter (voice)",
+     "photo": null
+    },
+    {
+     "name": "Delilah Blomberg",
+     "role": "Kid (voice)",
+     "photo": null
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "États-Unis",
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Marvel Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/hUzeosd33nzE5MCNsZxCGEKTXaQ.png"
+    },
+    {
+     "name": "Disney Junior",
+     "logo": "https://image.tmdb.org/t/p/w185/6f4uxPAJZ0IxncWRx2egHl0Pei8.png"
+    },
+    {
+     "name": "Atomic Cartoons",
+     "logo": "https://image.tmdb.org/t/p/w185/9VhJRP6kUOJWH5QvSTeqMQFWuql.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Disney Plus",
+     "logo": null
+    },
+    {
+     "name": "fuboTV",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt37180305",
    "type": "series",
