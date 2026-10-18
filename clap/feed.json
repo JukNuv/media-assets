@@ -1,7 +1,105 @@
 {
  "version": 1,
- "updated": "2026-10-18T06:42:39Z",
+ "updated": "2026-10-18T06:43:39Z",
  "items": [
+  {
+   "id": "movie:tt45858039",
+   "type": "movie",
+   "title": "Seriously Single Too",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-16",
+   "overview": "Dineo et Noni — deux meilleures amies destinées à faire la fête ensemble — se retrouvent soudain confrontées à leur plus grande peur lorsque le petit ami de Noni lui fait une demande en mariage à l'improviste.",
+   "synopsis_origin": "deepl",
+   "rating": 0.5,
+   "runtime": 99,
+   "genres": [
+    "Comédie",
+    "Romance"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=YnsY_9q7m6U",
+   "poster": "https://image.tmdb.org/t/p/w500/hbApG0WSwgtaK7hXTZpwZDstDaR.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/vVVTDymwLVogjz4JxoNv1BAfYCH.jpg",
+   "logo": "",
+   "imdb_id": "tt45858039",
+   "tmdb_url": "https://www.themoviedb.org/movie/1773759",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt45858039",
+   "added_at": "2026-10-18T06:43:37Z",
+   "tagline": null,
+   "directors": [
+    "Katleho Ramaphakela",
+    "Rethabile Ramaphakela"
+   ],
+   "writers": [
+    "Lwazi Mvusi"
+   ],
+   "cast": [
+    {
+     "name": "Fulu Modibedi",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/dE6rn2IH3xlVXQ8teUiCaFkm5aq.jpg"
+    },
+    {
+     "name": "Tumi Morake",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/uERkSz8bhHwKFkOAeUOAnINHeqE.jpg"
+    },
+    {
+     "name": "Buntu Petse",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/e45zuTSktIq7PRAoTWXt7NqRGc0.jpg"
+    },
+    {
+     "name": "Keke Mphuthi",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Yonda Thomas",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/hndhWzmfaGofk2K4pU3ImYWrf79.jpg"
+    },
+    {
+     "name": "Thabiso Isaac Rammusi",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Motlatsi Mafatshe",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/2s4DXLERWmSHNx6je6Jhfki8Qv6.jpg"
+    },
+    {
+     "name": "Harriet Manamela",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/m1Q7ulr5vu3XXqn8mDGPlt6Vrj0.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "ZA"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt37850679",
    "type": "movie",
