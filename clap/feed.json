@@ -1,7 +1,149 @@
 {
  "version": 1,
- "updated": "2026-10-18T06:43:47Z",
+ "updated": "2026-10-18T07:04:36Z",
  "items": [
+  {
+   "id": "series:tt38732131",
+   "type": "series",
+   "title": "Les Affaires organisées",
+   "original_title": "Organize İşler",
+   "year": 2026,
+   "release_date": "2026-10-16",
+   "overview": "Lorsqu'une carte légendaire tombe entre les mains d'un célèbre escroc, il décide de monter une dernière arnaque avant d'arrêter pour de bon.",
+   "synopsis_origin": null,
+   "rating": 10.0,
+   "runtime": 55,
+   "genres": [
+    "Comédie",
+    "Crime",
+    "Action & Adventure"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=bCxYPFYb_zU",
+   "poster": "https://image.tmdb.org/t/p/w500/7KnFHnuHjeOMkrE5zfw0G7e9daC.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
+   "logo": "",
+   "imdb_id": "tt38732131",
+   "tmdb_url": "https://www.themoviedb.org/tv/320754",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38732131",
+   "added_at": "2026-10-18T07:04:35Z",
+   "tagline": null,
+   "directors": [
+    "Yılmaz Erdoğan"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Yılmaz Erdoğan",
+     "role": "Asım Noyan",
+     "photo": "https://image.tmdb.org/t/p/w185/nl7WulHPoP6bw4phMwp0VuuJgyL.jpg"
+    },
+    {
+     "name": "Kıvanç Tatlıtuğ",
+     "role": "Sarı Saruhan",
+     "photo": "https://image.tmdb.org/t/p/w185/rs7Z3PKa82UhKGQLrBNAy0JAWV5.jpg"
+    },
+    {
+     "name": "Ezgi Mola",
+     "role": "Lerzan Berrak",
+     "photo": "https://image.tmdb.org/t/p/w185/dXZJOJr8bpUaCyUEBpNKs8e1Utx.jpg"
+    },
+    {
+     "name": "Bensu Soral",
+     "role": "Nazlı Noyan",
+     "photo": "https://image.tmdb.org/t/p/w185/ti3PfqOgXmbJIQtwQl1yH5i1WnU.jpg"
+    },
+    {
+     "name": "Rıza Kocaoğlu",
+     "role": "Arıza Rıza",
+     "photo": "https://image.tmdb.org/t/p/w185/b0Bp9W1VIaVzCzzUCMwBc7fe005.jpg"
+    },
+    {
+     "name": "Kubilay Aka",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/mSk2nqlDcdEJDbWKdSUk3B2GpWV.jpg"
+    },
+    {
+     "name": "Burcu Özberk",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/wDhKUUR7pRzgVolACed0YnSozbL.jpg"
+    },
+    {
+     "name": "Uraz Kaygılaroğlu",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/7rdov56gMxgsBhOMeqdwv1cgOiW.jpg"
+    },
+    {
+     "name": "Demet Akbağ",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/eGuozRn0wfZlzxVBlLigT0yI8Zh.jpg"
+    },
+    {
+     "name": "Şükran Ovalı",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/2mq5fq3GEoqGWjSvNjTl7nZ7eL3.jpg"
+    },
+    {
+     "name": "Görkem Sevindik",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/1228W2nEHGpOhvjkq8qRtlD1Bzu.jpg"
+    },
+    {
+     "name": "Onur Akbay",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/fDtV6H6FUcChqBZY1mqRjEOwynj.jpg"
+    },
+    {
+     "name": "Sermet Yeşil",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/3rcOgYFijUSx0zTlDxEcWuf7VLw.jpg"
+    },
+    {
+     "name": "Ekin Türkmen",
+     "role": "Ecem",
+     "photo": "https://image.tmdb.org/t/p/w185/dZr9XGLBqx1BjTeKhrlGYnNyn89.jpg"
+    },
+    {
+     "name": "Okan Çabalar",
+     "role": "Taklacı Ziya",
+     "photo": "https://image.tmdb.org/t/p/w185/aL5YhcIC5UFOBKilc7qJBcwvcIA.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "TR"
+   ],
+   "original_language": "Turc",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "BKM",
+     "logo": "https://image.tmdb.org/t/p/w185/cVSmWXOANMlHpDObhi2nOJ83PDf.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt37538335",
    "type": "movie",
