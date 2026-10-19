@@ -1,7 +1,142 @@
 {
  "version": 1,
- "updated": "2026-10-19T07:05:19Z",
+ "updated": "2026-10-19T10:11:28Z",
  "items": [
+  {
+   "id": "movie:tt29714073",
+   "type": "movie",
+   "title": "Bad Apples",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-10",
+   "overview": "Maria est institutrice. Elle remet en cause son choix de carrière à cause d'un élève turbulent. Elle finit par kidnapper et séquestrer ce dernier chez elle.",
+   "synopsis_origin": null,
+   "rating": 7.2,
+   "runtime": 100,
+   "genres": [
+    "Comédie",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=4nhu80EmVQE",
+   "poster": "https://image.tmdb.org/t/p/w500/sDgb5jVuZ6ZOh4YjtSMMnbovkCi.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/hk1P8NK3xQOq7e5S9Pw3PBvZuNn.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/7OU5dpBmFxyKUzKpqpEPwBbffsa.png",
+   "imdb_id": "tt29714073",
+   "tmdb_url": "https://www.themoviedb.org/movie/1198654",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt29714073",
+   "added_at": "2026-10-19T10:11:26Z",
+   "tagline": "Il suffit d'un seul.",
+   "directors": [
+    "Jonatan Etzler"
+   ],
+   "writers": [
+    "Jess O'Kane",
+    "Rasmus Lindgren"
+   ],
+   "cast": [
+    {
+     "name": "Saoirse Ronan",
+     "role": "Maria",
+     "photo": "https://image.tmdb.org/t/p/w185/tsk3iKGmMgXIGbRjwf2zYkh8Zkb.jpg"
+    },
+    {
+     "name": "Eddie Waller",
+     "role": "Danny",
+     "photo": null
+    },
+    {
+     "name": "Nia Brown",
+     "role": "Pauline",
+     "photo": null
+    },
+    {
+     "name": "Jacob Anderson",
+     "role": "Sam",
+     "photo": "https://image.tmdb.org/t/p/w185/cWO1DdhFXWs5r8baNOPaVaJ56x6.jpg"
+    },
+    {
+     "name": "Rakie Ayola",
+     "role": "Sylvia",
+     "photo": "https://image.tmdb.org/t/p/w185/oaLs5ACdurV2lij6GEidn0fSrUq.jpg"
+    },
+    {
+     "name": "Sean Gilder",
+     "role": "Frank",
+     "photo": "https://image.tmdb.org/t/p/w185/osZt3mxl2wYFR3EUyp1KADBux77.jpg"
+    },
+    {
+     "name": "Robert Emms",
+     "role": "Josh",
+     "photo": "https://image.tmdb.org/t/p/w185/wyg6tXDnY5AOvmg3neQQhCsKtg.jpg"
+    },
+    {
+     "name": "Kerry Howard",
+     "role": "PC Williams",
+     "photo": "https://image.tmdb.org/t/p/w185/xF2Pru9y0q3UVlTW9QezySG7vRR.jpg"
+    },
+    {
+     "name": "Jaye Jacobs",
+     "role": "Khaliya's Mum",
+     "photo": "https://image.tmdb.org/t/p/w185/8mmyQ9TIh9pyFAtCIveSB5BI176.jpg"
+    },
+    {
+     "name": "Joanna van Kampen",
+     "role": "Carys's Mum",
+     "photo": null
+    },
+    {
+     "name": "Kirris Riviere",
+     "role": "Jamal's Dad",
+     "photo": "https://image.tmdb.org/t/p/w185/4Ibmq1fO0UBA90qIFfVID8UfMEW.jpg"
+    },
+    {
+     "name": "Dorian Simpson",
+     "role": "Zayn's Dad",
+     "photo": null
+    },
+    {
+     "name": "Jack Ashton",
+     "role": "Eddy's Dad",
+     "photo": "https://image.tmdb.org/t/p/w185/jA00sc10eFiHPvHct0hflneaNuP.jpg"
+    },
+    {
+     "name": "Martin Carroll",
+     "role": "Neighbor #1",
+     "photo": null
+    },
+    {
+     "name": "Reena Dusila",
+     "role": "Haleema's Mum",
+     "photo": "https://image.tmdb.org/t/p/w185/yNko9qZWGdS4CtcMQONYwm5ThFx.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Royaume-Uni",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Vice Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/3pvLAa2Q3bWiRLPgBGokWSRSvWe.png"
+    },
+    {
+     "name": "HanWay Films",
+     "logo": "https://image.tmdb.org/t/p/w185/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png"
+    },
+    {
+     "name": "Good Oranges Films",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt35663349",
    "type": "series",
