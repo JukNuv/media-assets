@@ -1,7 +1,152 @@
 {
  "version": 1,
- "updated": "2026-10-18T10:30:04Z",
+ "updated": "2026-10-19T07:05:19Z",
  "items": [
+  {
+   "id": "series:tt35663349",
+   "type": "series",
+   "title": "Portobello",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-02-20",
+   "overview": "L'histoire vraie d'Enzo Tortora, célèbre animateur de télévision italien, connu entre autres pour \"Portobello\", un jeu programmé, à partir de 1977, en prime time sur la Rai. En 1985, Tortora est accusé, par plusieurs anciens mafieux devenus informateurs et témoins à charge, d'appartenir à un syndicat du crime napolitain dédié au trafic de drogue.",
+   "synopsis_origin": null,
+   "rating": 7.8,
+   "runtime": 70,
+   "genres": [
+    "Drame",
+    "Crime"
+   ],
+   "status": "Terminée",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "TF1+"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=skgGIXwR2Wk",
+   "poster": "https://image.tmdb.org/t/p/w500/hyApeGpRvoRT0BhSko8WYU4riX6.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/ebaW4MeaKlWYSABcPlA5zFHGtKb.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/lrcKwwOEEf02MG2vUZYA1qvvP5Z.png",
+   "imdb_id": "tt35663349",
+   "tmdb_url": "https://www.themoviedb.org/tv/218557",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt35663349",
+   "added_at": "2026-10-19T07:05:17Z",
+   "tagline": "Coupable jusqu'à preuve du contraire",
+   "directors": [
+    "Marco Bellocchio"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Fabrizio Gifuni",
+     "role": "Enzo Tortora",
+     "photo": "https://image.tmdb.org/t/p/w185/ptAg3zT52oqeY2mKNjiVhVbMYuh.jpg"
+    },
+    {
+     "name": "Lino Musella",
+     "role": "Giovanni Pandico",
+     "photo": "https://image.tmdb.org/t/p/w185/xZuVRh6zyh4fo5QsxERHu25l3P4.jpg"
+    },
+    {
+     "name": "Romana Maggiora Vergano",
+     "role": "Francesca Scopelliti",
+     "photo": "https://image.tmdb.org/t/p/w185/2tT5redcYdVbsgjd4kXXM4NspgU.jpg"
+    },
+    {
+     "name": "Barbora Bobuľová",
+     "role": "Anna Tortora",
+     "photo": "https://image.tmdb.org/t/p/w185/dCUMZhPuTtQo259uWKMSRhb9g3F.jpg"
+    },
+    {
+     "name": "Alessandro Preziosi",
+     "role": "Giorgio Fontana",
+     "photo": "https://image.tmdb.org/t/p/w185/ynBGohkuvPtMMiIJd2oJUr3M67z.jpg"
+    },
+    {
+     "name": "Fausto Russo Alesi",
+     "role": "Diego Marmo",
+     "photo": "https://image.tmdb.org/t/p/w185/3ur2kwquax7vJujGXpWIzjHa4Ao.jpg"
+    },
+    {
+     "name": "Carlotta Gamba",
+     "role": "Silvia Tortora",
+     "photo": "https://image.tmdb.org/t/p/w185/lDPUcEdQMprkz2E3DjvcaiIAszz.jpg"
+    },
+    {
+     "name": "Salvatore D'Onofrio",
+     "role": "Michele Morello",
+     "photo": "https://image.tmdb.org/t/p/w185/91m6IhBxGO5f94yhEBYev65uno6.jpg"
+    },
+    {
+     "name": "Valeria Marini",
+     "role": "Moira Orfei",
+     "photo": "https://image.tmdb.org/t/p/w185/zJKJiYYVGiDC0CHmWbQuGCRVb66.jpg"
+    },
+    {
+     "name": "Tommaso Ragno",
+     "role": "Marco Pannella",
+     "photo": "https://image.tmdb.org/t/p/w185/jxCSg7hYjhilnYpTjXCFjGox5v6.jpg"
+    },
+    {
+     "name": "Irene Maiorino",
+     "role": "Nadia Marzano",
+     "photo": "https://image.tmdb.org/t/p/w185/8WmjhMAOgx7dP9T3BZpnRxA6viZ.jpg"
+    },
+    {
+     "name": "Massimiliano Rossi",
+     "role": "Pasquale Barra",
+     "photo": "https://image.tmdb.org/t/p/w185/3kgkMSYty4mqBVLCO70b3gXtPnh.jpg"
+    },
+    {
+     "name": "Paolo Pierobon",
+     "role": "Prof. Dall'Ora",
+     "photo": "https://image.tmdb.org/t/p/w185/uWizDMxorbCn5RoyRepn85Qt5Ll.jpg"
+    },
+    {
+     "name": "Alessandro Fella",
+     "role": "Renato Vallanzasca",
+     "photo": "https://image.tmdb.org/t/p/w185/qowkblmDhNjKiQvCqkjx4ql7wTy.jpg"
+    },
+    {
+     "name": "Gianfranco Gallo",
+     "role": "Raffaele Cutolo",
+     "photo": "https://image.tmdb.org/t/p/w185/1wzxQlmeVKAlSIkNIVSNABuHq9O.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Italie",
+    "France"
+   ],
+   "original_language": "Italien",
+   "tmdb_status": "Terminée",
+   "production": [
+    {
+     "name": "Our Films",
+     "logo": "https://image.tmdb.org/t/p/w185/wkmGNKVjJawiqVSjKTC0VQB3Qd5.png"
+    },
+    {
+     "name": "Kavac Film",
+     "logo": "https://image.tmdb.org/t/p/w185/6Aaw6DnNC7LsgVXCk6pwG0HbUZn.png"
+    },
+    {
+     "name": "ARTE",
+     "logo": "https://image.tmdb.org/t/p/w185/6UIpEURdjnmcJPwgTDRzVRuwADr.png"
+    },
+    {
+     "name": "HBO Max",
+     "logo": "https://image.tmdb.org/t/p/w185/gqWI9y0owo9sxgzZD7TXOeILYI9.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "TF1+",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt27587239",
    "type": "movie",
