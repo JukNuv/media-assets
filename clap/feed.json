@@ -1,7 +1,163 @@
 {
  "version": 1,
- "updated": "2026-10-19T13:32:22Z",
+ "updated": "2026-10-20T06:56:54Z",
  "items": [
+  {
+   "id": "movie:tt34379051",
+   "type": "movie",
+   "title": "By Any Means",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-02",
+   "overview": "Un jeune agent noir du FBI est envoyé au Mississippi dans les années 60 afin d’enquêter sur une vague de meurtres brutaux visant des leaders du mouvement des droits civiques. Contraint de faire équipe avec le célèbre tueur à gages de la mafia Greg Scarpa, il se retrouve entraîné dans une traque meurtrière où la frontière entre justice et vengeance devient de plus en plus floue.",
+   "synopsis_origin": null,
+   "rating": 7.3,
+   "runtime": 107,
+   "genres": [
+    "Histoire",
+    "Crime",
+    "Drame"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=fvnyrBnUx4E",
+   "poster": "https://image.tmdb.org/t/p/w500/evCy2B3j57AwSNBZqlePjMl3zj3.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/eAouIDoMDhLetm6CtmDKIGEaaCi.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/hHiiVYj5MuxbNmE4fXxN3tcvYpI.png",
+   "imdb_id": "tt34379051",
+   "tmdb_url": "https://www.themoviedb.org/movie/1380417",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34379051",
+   "added_at": "2026-10-20T06:56:51Z",
+   "tagline": "Le FBI n'arrivait pas à résoudre l'affaire. Ils ont donc fait appel à la mafia.",
+   "directors": [
+    "Elegance Bratton"
+   ],
+   "writers": [
+    "Sascha Penn"
+   ],
+   "cast": [
+    {
+     "name": "Yahya Abdul-Mateen II",
+     "role": "Wayne Strider",
+     "photo": "https://image.tmdb.org/t/p/w185/79VdVjUoiYGcgjOT9UmE5XIpoZM.jpg"
+    },
+    {
+     "name": "Mark Wahlberg",
+     "role": "Gregory Scarpa",
+     "photo": "https://image.tmdb.org/t/p/w185/1Oc3XSLyb8hxmjmlgFENu582Kqw.jpg"
+    },
+    {
+     "name": "Nicole Beharie",
+     "role": "Allison Strider",
+     "photo": "https://image.tmdb.org/t/p/w185/7ZgUAk3hkCrWSfjLYvnbKdyaNiN.jpg"
+    },
+    {
+     "name": "Josh Lucas",
+     "role": "Special Agent Everett Rhodes",
+     "photo": "https://image.tmdb.org/t/p/w185/ueR4CH32f22DGjFxuhnW1o3YKB3.jpg"
+    },
+    {
+     "name": "David Strathairn",
+     "role": "Special Agent Roy K. Moore",
+     "photo": "https://image.tmdb.org/t/p/w185/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
+    },
+    {
+     "name": "Giancarlo Esposito",
+     "role": "Vernon Dahmer",
+     "photo": "https://image.tmdb.org/t/p/w185/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+    },
+    {
+     "name": "Ethan Embry",
+     "role": "Sam Bowers",
+     "photo": "https://image.tmdb.org/t/p/w185/feYnMlTejbHfkhD1akVVXKWG0u1.jpg"
+    },
+    {
+     "name": "LisaGay Hamilton",
+     "role": "Ms. Rebecca Brewer",
+     "photo": "https://image.tmdb.org/t/p/w185/bqfowff4gF0cGaQ1c7F89HAL3DH.jpg"
+    },
+    {
+     "name": "LaChanze",
+     "role": "Hattie Dahmer",
+     "photo": "https://image.tmdb.org/t/p/w185/u1JSaJ3joDqiNXXa1Dy73PSwpqv.jpg"
+    },
+    {
+     "name": "Biko Eisen-Martin",
+     "role": "Special Agent Archie Crawford",
+     "photo": "https://image.tmdb.org/t/p/w185/upMz119WYIzeYPrSSJBO98U3gSd.jpg"
+    },
+    {
+     "name": "Will Brittain",
+     "role": "Billy Roy Pitts",
+     "photo": "https://image.tmdb.org/t/p/w185/eml8QuUoFvGauEX9HEFfzOYrgE.jpg"
+    },
+    {
+     "name": "DeVere Jehl",
+     "role": "Edgar Ray Killen",
+     "photo": "https://image.tmdb.org/t/p/w185/iPZMeQVFWpzdQFgVVDi8A38tSZ7.jpg"
+    },
+    {
+     "name": "Jody Thompson",
+     "role": "Lawrence Byrd",
+     "photo": "https://image.tmdb.org/t/p/w185/qSpaiLA33uRcQPioSXUJnaaEQo5.jpg"
+    },
+    {
+     "name": "Zach Lane",
+     "role": "Howard Styles",
+     "photo": "https://image.tmdb.org/t/p/w185/lwIOG93WEY6yOpBTT36oE9y5flX.jpg"
+    },
+    {
+     "name": "Lee Perkins",
+     "role": "Sheriff Mitchell",
+     "photo": "https://image.tmdb.org/t/p/w185/hfnbnymFYpirQIZAV8yuUc2AOFq.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis",
+    "Australie",
+    "Royaume-Uni"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Hammerstone Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/1H4YyGx74OTzPtPIcuF3iAEjzz6.png"
+    },
+    {
+     "name": "Thunder Road",
+     "logo": "https://image.tmdb.org/t/p/w185/cCzCClIzIh81Fa79hpW5nXoUsHK.png"
+    },
+    {
+     "name": "Freedom Principle",
+     "logo": null
+    },
+    {
+     "name": "Municipal Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/iGEtQO0W5H2PAgqjL0yubcbSgr4.png"
+    },
+    {
+     "name": "North.Five.Six.",
+     "logo": null
+    },
+    {
+     "name": "Script 2 Screen",
+     "logo": null
+    },
+    {
+     "name": "Wonder Street",
+     "logo": "https://image.tmdb.org/t/p/w185/snGfhwT46aqKWhP8izedkL48aZY.png"
+    },
+    {
+     "name": "LB Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/tBxSNuzARadiaBpIJ3qmdPG5BCz.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt42575634",
    "type": "movie",
