@@ -1,7 +1,111 @@
 {
  "version": 1,
- "updated": "2026-10-20T06:56:54Z",
+ "updated": "2026-10-20T11:37:26Z",
  "items": [
+  {
+   "id": "movie:tt45898803",
+   "type": "movie",
+   "title": "Impossible",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-16",
+   "overview": "Un juge et un vieil homme s’affrontent autour de la chute d’un randonneur en montagne. Accident ou meurtre ? Emmanuel Finkiel (La douleur) transpose un roman d’Erri De Luca dans un film – primé à La Rochelle – à la sobre maîtrise, magnifique duel de comédiens au service d’une réflexion sur la justice et l’engagement.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 100,
+   "genres": [
+    "Drame",
+    "Téléfilm"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/qXuJHyhTCAG3pmoDs2Zv3r2PvO7.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/mHZEvxgPPAZzIA0KytHdmWGyczo.jpg",
+   "logo": "",
+   "imdb_id": "tt45898803",
+   "tmdb_url": "https://www.themoviedb.org/movie/1536343",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt45898803",
+   "added_at": "2026-10-20T11:37:24Z",
+   "tagline": "Meilleur unitaire drama/suspense et prix Stéphane Strano du meilleur scénario, La Rochelle 2026",
+   "directors": [
+    "Emmanuel Finkiel"
+   ],
+   "writers": [
+    "Erri De Luca",
+    "Emmanuel Finkiel"
+   ],
+   "cast": [
+    {
+     "name": "Fabrizio Bentivoglio",
+     "role": "Enzo Tovoli",
+     "photo": "https://image.tmdb.org/t/p/w185/euq5Tt0lDF0kLlAtgSyuiO7OShR.jpg"
+    },
+    {
+     "name": "Swann Arlaud",
+     "role": "Le Juge Dorieu",
+     "photo": "https://image.tmdb.org/t/p/w185/38iX2NHO7pMdQH1ygoGEJ8E82WV.jpg"
+    },
+    {
+     "name": "Marilyne Canto",
+     "role": "Léa",
+     "photo": "https://image.tmdb.org/t/p/w185/i7QyFcQALRzG0gdzbqVw0X10kZb.jpg"
+    },
+    {
+     "name": "Félicien Philippe Chauveau",
+     "role": "L'Avocat",
+     "photo": "https://image.tmdb.org/t/p/w185/qRwK4nJ7mSrctP4RSPLIFXUJWY1.jpg"
+    },
+    {
+     "name": "Enrico Di Giovanni",
+     "role": "Armando Fioriano",
+     "photo": "https://image.tmdb.org/t/p/w185/zLyGDBd4VFQccAg76ExKRg00dWh.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Image & Compagnie",
+     "logo": "https://image.tmdb.org/t/p/w185/cLfPvVsTuGafzpQ41Pw74biLVZM.png"
+    },
+    {
+     "name": "ARTE",
+     "logo": "https://image.tmdb.org/t/p/w185/6UIpEURdjnmcJPwgTDRzVRuwADr.png"
+    },
+    {
+     "name": "Mediawan Rights",
+     "logo": "https://image.tmdb.org/t/p/w185/pIytTuHM3Ku3khAirPeqB9acwRr.png"
+    },
+    {
+     "name": "Région Provence-Alpes-Côte d'Azur",
+     "logo": null
+    },
+    {
+     "name": "Région Grand Est",
+     "logo": null
+    },
+    {
+     "name": "Troyes Champagne Métropole",
+     "logo": null
+    },
+    {
+     "name": "PLATO Réseau Tournages Grand Est",
+     "logo": null
+    },
+    {
+     "name": "CNC",
+     "logo": "https://image.tmdb.org/t/p/w185/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt34379051",
    "type": "movie",
