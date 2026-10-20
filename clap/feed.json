@@ -1,7 +1,155 @@
 {
  "version": 1,
- "updated": "2026-10-20T11:37:34Z",
+ "updated": "2026-10-20T14:44:10Z",
  "items": [
+  {
+   "id": "movie:tt32432654",
+   "type": "movie",
+   "title": "Girls Like Girls",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-18",
+   "overview": "Coley, une jeune fille de 17 ans originaire de la campagne de l'Oregon, explore son intimité après le décès de sa mère. Rencontrer Sonya éveille de nouveaux sentiments, mais les doutes sur elle-même les empêchent de se connecter.",
+   "synopsis_origin": null,
+   "rating": 7.5,
+   "runtime": 95,
+   "genres": [
+    "Romance",
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Peacock Premium",
+    "Peacock Premium Plus"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=ZC1kEknG2ro",
+   "poster": "https://image.tmdb.org/t/p/w500/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/f1L2n701wbcjlJ80vx9acAWLRdY.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/EfTvfnkJReFY2MxquRxZxAMzCJ.png",
+   "imdb_id": "tt32432654",
+   "tmdb_url": "https://www.themoviedb.org/movie/1397485",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt32432654",
+   "added_at": "2026-10-20T14:44:04Z",
+   "tagline": "L'amour commence quand on lui ouvre la porte.",
+   "directors": [
+    "Hayley Kiyoko"
+   ],
+   "writers": [
+    "Hayley Kiyoko",
+    "Chloe Okuno",
+    "Stefanie Scott"
+   ],
+   "cast": [
+    {
+     "name": "Maya da Costa",
+     "role": "Coley",
+     "photo": "https://image.tmdb.org/t/p/w185/o9zEfcpeTtJopA0XDg2W5ZfJj8x.jpg"
+    },
+    {
+     "name": "Myra Molloy",
+     "role": "Sonya",
+     "photo": "https://image.tmdb.org/t/p/w185/2c0fdDWWwZm6Mpymr03LpE7Z2nr.jpg"
+    },
+    {
+     "name": "Zach Braff",
+     "role": "Curtis",
+     "photo": "https://image.tmdb.org/t/p/w185/koIHwqE6hWIXuOIDHNADwSuGq6N.jpg"
+    },
+    {
+     "name": "Levon Hawke",
+     "role": "Trenton",
+     "photo": "https://image.tmdb.org/t/p/w185/1WqRWDunsCfpJo3pxUzxc7OzRMW.jpg"
+    },
+    {
+     "name": "Alozie LaRose",
+     "role": "Alex",
+     "photo": "https://image.tmdb.org/t/p/w185/1vUnXV7QQ6MVNZzfF1WTDP2jiA3.jpg"
+    },
+    {
+     "name": "Sierra Sidwell",
+     "role": "SJ",
+     "photo": "https://image.tmdb.org/t/p/w185/kliDqOtvDOaTYXCUnef663nzQmu.jpg"
+    },
+    {
+     "name": "Hunter Dillon",
+     "role": "Goose",
+     "photo": "https://image.tmdb.org/t/p/w185/oyS0TEPIm0dN489rFc2epzZmRxA.jpg"
+    },
+    {
+     "name": "Sophia Carriere",
+     "role": "Brooke",
+     "photo": "https://image.tmdb.org/t/p/w185/ng7Juz5PFDWcqlMxuw5hYPVOv7M.jpg"
+    },
+    {
+     "name": "Alexa Mareka",
+     "role": "Blake",
+     "photo": "https://image.tmdb.org/t/p/w185/uMbjjeK5oXzMU9rPLuBzZMDZlZ4.jpg"
+    },
+    {
+     "name": "Maya Ford",
+     "role": "Tracy",
+     "photo": "https://image.tmdb.org/t/p/w185/557nAhr3Qbr1tWiFQrhDPqw59F3.jpg"
+    },
+    {
+     "name": "Remy Marthaller",
+     "role": "Emma",
+     "photo": "https://image.tmdb.org/t/p/w185/oN4Eedj1tZcYJ9F6k9HIi3iERbL.jpg"
+    },
+    {
+     "name": "Kareem Malcolm",
+     "role": "Kendrick",
+     "photo": "https://image.tmdb.org/t/p/w185/turCyivFMoICKB0XHYsu3xObHbr.jpg"
+    },
+    {
+     "name": "Olly Atkins",
+     "role": "Tye",
+     "photo": "https://image.tmdb.org/t/p/w185/t4wEzpGNagExbRP4InW8pce5Qsg.jpg"
+    },
+    {
+     "name": "Sunghee Lapell",
+     "role": "Manager",
+     "photo": "https://image.tmdb.org/t/p/w185/nzhVuRgjBlOu8q7rmHfXiyw6HIp.jpg"
+    },
+    {
+     "name": "Kendra Hesketh",
+     "role": "Cashier",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis",
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Marc Platt Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png"
+    },
+    {
+     "name": "BuzzFeed Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/dMEisJ0hVKRiwqfpPq7ALu1Cy9e.png"
+    },
+    {
+     "name": "CR8IV DNA",
+     "logo": "https://image.tmdb.org/t/p/w185/h0mdxIapmlpreNlejW89hSoqXBE.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Peacock Premium",
+     "logo": null
+    },
+    {
+     "name": "Peacock Premium Plus",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt26315134",
    "type": "movie",
