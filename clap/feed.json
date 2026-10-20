@@ -1,7 +1,152 @@
 {
  "version": 1,
- "updated": "2026-10-20T11:37:26Z",
+ "updated": "2026-10-20T11:37:34Z",
  "items": [
+  {
+   "id": "movie:tt26315134",
+   "type": "movie",
+   "title": "He's Watching You",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-01-23",
+   "overview": "Lorsqu'une série de meurtres vient bouleverser sa petite ville tranquille, la quête de réponses d'un adolescent le mène à une cachette de cassettes VHS qui pourraient contenir des indices permettant de résoudre le mystère du tueur en série connu uniquement sous le nom de « The Pill ».",
+   "synopsis_origin": "deepl",
+   "rating": 5.9,
+   "runtime": 102,
+   "genres": [
+    "Horreur",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=XkjpCmcKp78",
+   "poster": "https://image.tmdb.org/t/p/w500/lGrxMTGzoO120uuHuYxwbv5Ypcw.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/5k42FRE5NevS8dHoun4Om2irqja.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/gfyf6pQwIkzxb961pkPArHqmXTw.png",
+   "imdb_id": "tt26315134",
+   "tmdb_url": "https://www.themoviedb.org/movie/1370424",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt26315134",
+   "added_at": "2026-10-20T11:37:32Z",
+   "tagline": null,
+   "directors": [
+    "Jordon Foss"
+   ],
+   "writers": [
+    "Jordon Foss"
+   ],
+   "cast": [
+    {
+     "name": "Gianni DeCenzo",
+     "role": "Cavalli",
+     "photo": "https://image.tmdb.org/t/p/w185/dm2WUDeJIOoxmSJXn4KycNGthla.jpg"
+    },
+    {
+     "name": "Jan Luis Castellanos",
+     "role": "Cameron",
+     "photo": "https://image.tmdb.org/t/p/w185/wxKthIepYYY3rEPuRVRyHggn3x7.jpg"
+    },
+    {
+     "name": "Elizabeth Yu",
+     "role": "Shawn",
+     "photo": "https://image.tmdb.org/t/p/w185/1oNayhi4DS9nbN9cncKpPtOZXeQ.jpg"
+    },
+    {
+     "name": "Vanessa Rubio",
+     "role": "Grace",
+     "photo": "https://image.tmdb.org/t/p/w185/ArxMTCiBPA6dqxiPmdelYaq2NYl.jpg"
+    },
+    {
+     "name": "Nicole Elizabeth Berger",
+     "role": "Jessica",
+     "photo": "https://image.tmdb.org/t/p/w185/fboJkNQFmzkevJMtNIGSl8oKtrY.jpg"
+    },
+    {
+     "name": "Kevin Porter",
+     "role": "Sheriff Phillips",
+     "photo": "https://image.tmdb.org/t/p/w185/wEgU4DLvR3DNClIJPTXkcOc7D57.jpg"
+    },
+    {
+     "name": "Kaya Rosenthal",
+     "role": "Amber",
+     "photo": "https://image.tmdb.org/t/p/w185/ax65AdRwsuuoajGo7F8JpRUIwkD.jpg"
+    },
+    {
+     "name": "Tiana Le",
+     "role": "Kathryn",
+     "photo": "https://image.tmdb.org/t/p/w185/1H90E6ZuqXPSmmNHqff9JcG3Ogz.jpg"
+    },
+    {
+     "name": "Tyler Burke",
+     "role": "Blake",
+     "photo": "https://image.tmdb.org/t/p/w185/sjuUFNrfHqQZBqLsQOaj1nRl1fc.jpg"
+    },
+    {
+     "name": "Casey Mills",
+     "role": "Derringer",
+     "photo": "https://image.tmdb.org/t/p/w185/jtlOFXodki36MaA8bas2zOqLiNQ.jpg"
+    },
+    {
+     "name": "Brandon Melo",
+     "role": "Bragge",
+     "photo": null
+    },
+    {
+     "name": "Gilbert Owuor",
+     "role": "Andy",
+     "photo": null
+    },
+    {
+     "name": "Gavin J. Konop",
+     "role": "Partygoer",
+     "photo": "https://image.tmdb.org/t/p/w185/zNQIp5Kxaop9YPwFCbsV152QO1l.jpg"
+    },
+    {
+     "name": "Maetrix Fitten",
+     "role": "Daddy Nichols",
+     "photo": "https://image.tmdb.org/t/p/w185/yTe5coMkP9b0GObdCYkZIWQaQK.jpg"
+    },
+    {
+     "name": "Kiana Tavasti",
+     "role": "Momma Nichols",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Palm Drive Productions",
+     "logo": null
+    },
+    {
+     "name": "Amasia Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/391VF4wQ568eSBChoPbgWBVByfl.png"
+    },
+    {
+     "name": "Vertical",
+     "logo": "https://image.tmdb.org/t/p/w185/9NKtkn1QfC6cqXB107nGox1rgqt.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": null
+    },
+    {
+     "name": "Amazon Prime Video with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt45898803",
    "type": "movie",
