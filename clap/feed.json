@@ -1,7 +1,135 @@
 {
  "version": 1,
- "updated": "2026-10-20T14:44:10Z",
+ "updated": "2026-10-21T06:29:07Z",
  "items": [
+  {
+   "id": "movie:tt39101156",
+   "type": "movie",
+   "title": "Coup de foudre en Amazonie",
+   "original_title": "Love on the Amazon",
+   "year": 2026,
+   "release_date": "2026-01-17",
+   "overview": "Claire, institutrice, mène une vie tranquille. Jusqu'au jour où un événement inattendu l'oblige à rejoindre sa sœur au fin fond de la forêt amazonienne. D'abord craintive, hors de ses repères et de sa zone de confort, la jeune femme va petit à petit se découvrir au cours de ce voyage et de sa rencontre avec un jeune capitaine de bateau.",
+   "synopsis_origin": null,
+   "rating": 6.3,
+   "runtime": 84,
+   "genres": [
+    "Romance",
+    "Téléfilm"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "TF1+",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=zQNPIQqWfXQ",
+   "poster": "https://image.tmdb.org/t/p/w500/htrU3ly6waXgL74qbP2890BT8YL.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/k3TMJGWn4nNkTbp4VEx6IEjvFPe.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/n0RvXhcZ9GA1FXjXvBVeJDc6Grp.png",
+   "imdb_id": "tt39101156",
+   "tmdb_url": "https://www.themoviedb.org/movie/1592734",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39101156",
+   "added_at": "2026-10-21T06:29:02Z",
+   "tagline": null,
+   "directors": [
+    "Colin Theys"
+   ],
+   "writers": [
+    "Juliana Wimbles",
+    "Sam Lee"
+   ],
+   "cast": [
+    {
+     "name": "Jaicy Elliot",
+     "role": "Claire",
+     "photo": "https://image.tmdb.org/t/p/w185/kLcdK0U8yjoNocBIWQKRmYlBQHb.jpg"
+    },
+    {
+     "name": "Rafael de la Fuente",
+     "role": "Danny",
+     "photo": "https://image.tmdb.org/t/p/w185/9U4Z2IrW6nfGWxDEDa9pkQZ1H4v.jpg"
+    },
+    {
+     "name": "Raissa Xavier",
+     "role": "Milly",
+     "photo": "https://image.tmdb.org/t/p/w185/zYdt93u1gmnBdzzUKrKj3kBxKAL.jpg"
+    },
+    {
+     "name": "Omar Pelaez",
+     "role": "Bruno",
+     "photo": "https://image.tmdb.org/t/p/w185/luXO4t1yThQRoRgrWfkowlhcw2b.jpg"
+    },
+    {
+     "name": "Persephone Barda-Redman",
+     "role": "Amelia",
+     "photo": "https://image.tmdb.org/t/p/w185/bNqw7nOZpIkn8mekQqK4TBHBKg6.jpg"
+    },
+    {
+     "name": "Franco Silva",
+     "role": "Paulo",
+     "photo": "https://image.tmdb.org/t/p/w185/pUyJwsTQYhCEc1kHj3RcaV458Tb.jpg"
+    },
+    {
+     "name": "Daniel Jeanpool Curico Ricopa",
+     "role": "Mateus",
+     "photo": "https://image.tmdb.org/t/p/w185/vW7OJOpKHGUvUmPaOGtrvxMRcpD.jpg"
+    },
+    {
+     "name": "Ramsay Ross",
+     "role": "Mr. Hall",
+     "photo": "https://image.tmdb.org/t/p/w185/8z4unH6h3NftvRqHfzeBZIgRaj0.jpg"
+    },
+    {
+     "name": "Juliana Wimbles",
+     "role": "Tourist",
+     "photo": "https://image.tmdb.org/t/p/w185/bO3V0d7H9hwtIbO9iBe1D7UVpAR.jpg"
+    },
+    {
+     "name": "Connie Joana Villacorta Aguilar",
+     "role": "Teacher",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada",
+    "PE",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Studio TF1 America",
+     "logo": "https://image.tmdb.org/t/p/w185/xiBTudkHBBRWOsAoP0y5A6klyQE.png"
+    },
+    {
+     "name": "Johnson Production Group",
+     "logo": "https://image.tmdb.org/t/p/w185/3oajd9v7Zxw7QvnnyhK5TFjDcFB.png"
+    },
+    {
+     "name": "Hollyware Entertainment",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "TF1+",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt32432654",
    "type": "movie",
