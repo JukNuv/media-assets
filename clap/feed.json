@@ -1,7 +1,114 @@
 {
  "version": 1,
- "updated": "2026-10-21T06:29:07Z",
+ "updated": "2026-10-21T11:35:49Z",
  "items": [
+  {
+   "id": "movie:tt8110620",
+   "type": "movie",
+   "title": "Allah n'est pas obligé",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-03-04",
+   "overview": "Birahima, orphelin guinéen d’une dizaine d’années, doit quitter son village pour tenter de passer la frontière et retrouver une tante qui se serait installée au Libéria. Le jeune garçon se met dans les pas de Yacouba, bonimenteur de grands chemins jouant les guides de substitution. Mais sur la route, la rencontre avec des enfants soldats fait basculer le destin de Birahima. Engagé involontaire, que lui réserve le sentier de la guerre ?",
+   "synopsis_origin": null,
+   "rating": 6.5,
+   "runtime": 83,
+   "genres": [
+    "Animation",
+    "Drame",
+    "Guerre"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Molotov TV"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=PZUMj2kiMfQ",
+   "poster": "https://image.tmdb.org/t/p/w500/rkhLxfrgSeHER3bbcpRhIPWYoiI.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/1ZQFukYbuuyYzefDJd55f6Hy7jd.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/sSgmZx39lxAt2Bt4FNNu38wwORl.svg",
+   "imdb_id": "tt8110620",
+   "tmdb_url": "https://www.themoviedb.org/movie/676527",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt8110620",
+   "added_at": "2026-10-21T11:35:47Z",
+   "tagline": null,
+   "directors": [
+    "Zaven Najjar"
+   ],
+   "writers": [
+    "Karine Winczura",
+    "Ahmadou Kourouma",
+    "Zaven Najjar"
+   ],
+   "cast": [
+    {
+     "name": "Chris Aboubacar Hanta Traoré / SK 07",
+     "role": "Birahima (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/s12TKKkASICXfU3UsSaOOTM2chl.jpg"
+    },
+    {
+     "name": "Thomas Ngijol",
+     "role": "Yacouba (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/t1mteWGl9nn3qocsknyeGLSzc5P.jpg"
+    },
+    {
+     "name": "Marc Zinga",
+     "role": "(voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/kAX08gkt2rlfnQXgn6ASgjOYOoG.jpg"
+    },
+    {
+     "name": "Annabelle Lengronne",
+     "role": "(voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/qeKZt4lRQTItimExJoe625IOfAy.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "France",
+    "LU",
+    "Canada",
+    "Belgique"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Special Touch Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/iYPn1TwMpJXPRTF9O0m4h0nEmCS.png"
+    },
+    {
+     "name": "Paul Thiltges Distributions",
+     "logo": "https://image.tmdb.org/t/p/w185/1VqbDOThEcmDR6gn7et7cAs4lwr.png"
+    },
+    {
+     "name": "Need Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/wPr6POw37XeSxWZ3vayAEUuZ2TK.png"
+    },
+    {
+     "name": "Les Films d'Ici",
+     "logo": "https://image.tmdb.org/t/p/w185/dkPpGhEL2uQ5bmNDAqSZRFp894g.png"
+    },
+    {
+     "name": "Lunanime",
+     "logo": "https://image.tmdb.org/t/p/w185/vjyzeaIhRdtMfDIVGAECNirIkGw.png"
+    },
+    {
+     "name": "Creative Touch Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/vCaT0kBUtKTMfTtuL0MNo48o22e.png"
+    },
+    {
+     "name": "Yzanakio",
+     "logo": "https://image.tmdb.org/t/p/w185/uH2o8nZrDEiduKWX96zQ0t9NwA4.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Molotov TV",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt39101156",
    "type": "movie",
