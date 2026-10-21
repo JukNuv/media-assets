@@ -1,7 +1,161 @@
 {
  "version": 1,
- "updated": "2026-10-21T11:35:49Z",
+ "updated": "2026-10-21T17:04:10Z",
  "items": [
+  {
+   "id": "movie:tt36893729",
+   "type": "movie",
+   "title": "Ice Cream Man",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-08-03",
+   "overview": "Une ville estivale idyllique sombre dans la folie lorsqu'un marchand de glaces sert des douceurs aux enfants avec des résultats effroyables.",
+   "synopsis_origin": null,
+   "rating": 4.9,
+   "runtime": 87,
+   "genres": [
+    "Comédie",
+    "Horreur",
+    "Thriller"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=Cgw3zNmFtRo",
+   "poster": "https://image.tmdb.org/t/p/w500/ui7pm8GVaYblXxczqg49UwjrMHX.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/hjF1rzTDR7YvnJUcH2SfP48w492.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/f77iVu86Yfvwx1IdsLjJZsS7hzc.png",
+   "imdb_id": "tt36893729",
+   "tmdb_url": "https://www.themoviedb.org/movie/1477712",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36893729",
+   "added_at": "2026-10-21T17:04:07Z",
+   "tagline": "On crie tous.",
+   "directors": [
+    "Eli Roth"
+   ],
+   "writers": [
+    "Eli Roth",
+    "Noah Belson"
+   ],
+   "cast": [
+    {
+     "name": "Ari Millen",
+     "role": "The Ice Cream Man / Jonathan Smiley",
+     "photo": "https://image.tmdb.org/t/p/w185/x2hFdgnrJ1er0VpteRcqTr8aWTT.jpg"
+    },
+    {
+     "name": "Charlie Zeltzer",
+     "role": "Jared",
+     "photo": "https://image.tmdb.org/t/p/w185/ytbrQ4R1iiRD3I0qdAddVfgooD7.jpg"
+    },
+    {
+     "name": "Shiloh O’Reilly",
+     "role": "Tommy",
+     "photo": "https://image.tmdb.org/t/p/w185/ogT1ycS4CoOassN1GeCaS7qVcgO.jpg"
+    },
+    {
+     "name": "Kiori Mirza Waldman",
+     "role": "Mia",
+     "photo": "https://image.tmdb.org/t/p/w185/yfEe5f4kT411DH2NNx1VU3gDQZV.jpg"
+    },
+    {
+     "name": "Sarah Abbott",
+     "role": "Lizzie",
+     "photo": "https://image.tmdb.org/t/p/w185/riLNrHSQNFL2jgT3IRhIYOiBCXG.jpg"
+    },
+    {
+     "name": "Benjamin Byron Davis",
+     "role": "The Priest",
+     "photo": "https://image.tmdb.org/t/p/w185/5WHDh9l9Ylsbf5ZKt3nQ4FRweUi.jpg"
+    },
+    {
+     "name": "Karen Cliche",
+     "role": "Alison",
+     "photo": "https://image.tmdb.org/t/p/w185/fVXdJyDRVDo7C5tTHauDm9zDvi9.jpg"
+    },
+    {
+     "name": "Dylan Hawco",
+     "role": "Chris",
+     "photo": "https://image.tmdb.org/t/p/w185/scuhT7GDRFIXP2Iw7Yz2Mplq7oW.jpg"
+    },
+    {
+     "name": "Eli Roth",
+     "role": "Marty",
+     "photo": "https://image.tmdb.org/t/p/w185/qQTkpxzh1FlBGL1HD5hzdUMxv49.jpg"
+    },
+    {
+     "name": "Lorenzo Antonucci",
+     "role": "Terry",
+     "photo": "https://image.tmdb.org/t/p/w185/rUPpfC8HwWdwB8NNP1m1zLPIhlH.jpg"
+    },
+    {
+     "name": "Luke Dietz",
+     "role": "Elliot",
+     "photo": "https://image.tmdb.org/t/p/w185/3JsnxWS7wIsdplyDLtzr2PS6sgM.jpg"
+    },
+    {
+     "name": "Eli Massillon",
+     "role": "Myles",
+     "photo": "https://image.tmdb.org/t/p/w185/px6dbImEiHQrDQdmrg5NvHqg2DF.jpg"
+    },
+    {
+     "name": "Carina Battrick",
+     "role": "Marcella",
+     "photo": "https://image.tmdb.org/t/p/w185/pVpmyGnkTCUuUNMRbHpdqOpSZK6.jpg"
+    },
+    {
+     "name": "Ivano DiCaro",
+     "role": "Hank",
+     "photo": "https://image.tmdb.org/t/p/w185/cWSrt2c7rwTXZoPMgxKJHa3o0NT.jpg"
+    },
+    {
+     "name": "Sonam Kalsang",
+     "role": "Sebastian",
+     "photo": "https://image.tmdb.org/t/p/w185/tZZcL6N6Gx7qis7K1LBzLPBX2gu.jpg"
+    }
+   ],
+   "age_rating": "18",
+   "countries": [
+    "États-Unis",
+    "Royaume-Uni",
+    "France",
+    "Japon"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "The Horror Section",
+     "logo": "https://image.tmdb.org/t/p/w185/2cvSE4rsBLKXqK13tWtAJe7afAS.png"
+    },
+    {
+     "name": "Media Capital Technologies",
+     "logo": "https://image.tmdb.org/t/p/w185/rWqW00ts1tZ0efwyacZlGnVd6PB.png"
+    },
+    {
+     "name": "Head Gear Films",
+     "logo": "https://image.tmdb.org/t/p/w185/ok7CQyn0RPEuI0upznPoo93YE6H.png"
+    },
+    {
+     "name": "Mass Appeal",
+     "logo": "https://image.tmdb.org/t/p/w185/lrjP8bqSziFpahMsE13qImlWLBQ.png"
+    },
+    {
+     "name": "Metrol Technology",
+     "logo": "https://image.tmdb.org/t/p/w185/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png"
+    },
+    {
+     "name": "dentsu",
+     "logo": "https://image.tmdb.org/t/p/w185/b5rT6VbYza3LyfltCmz1OcqzWJM.png"
+    },
+    {
+     "name": "Sixth Dimension",
+     "logo": "https://image.tmdb.org/t/p/w185/4mXx4PAP9ivHVZ0WAjvyKTI8hGK.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt8110620",
    "type": "movie",
