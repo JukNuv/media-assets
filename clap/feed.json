@@ -1,7 +1,112 @@
 {
  "version": 1,
- "updated": "2026-10-22T08:16:36Z",
+ "updated": "2026-10-22T08:16:45Z",
  "items": [
+  {
+   "id": "movie:tt37376862",
+   "type": "movie",
+   "title": "Les caprices de l’enfant Roi",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-24",
+   "overview": "1651. Louis (pas encore XIV) est un jeune adolescent. Alors que la Fronde menace, sa mère Anne d’Autriche décide d’exfiltrer son fils pour le mettre à l’abri et le remplace par un sosie. Louis est confié par D'Artagnan à Cyrano de Bergerac qui le cache au sein de la troupe de théâtre de Madeleine Béjart et Molière. Tandis que Madeleine et Cyrano se découvrent une passion commune pour le jeune Molière, Louis découvre la vie et ses plaisirs, l’art et le travail, le courage et la stratégie, tout ce qui fera de lui le Roi Soleil.",
+   "synopsis_origin": null,
+   "rating": 5.2,
+   "runtime": 118,
+   "genres": [
+    "Comédie",
+    "Drame",
+    "Histoire"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=o8v7OAehmZQ",
+   "poster": "https://image.tmdb.org/t/p/w500/yQ5ZTigq3buO4qe1cx2VHsrEaT1.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/yiv3EcZxbtzjbPLjSVF7P6amdPu.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/7eTx4VAiGfDjoHCs8BiozSQbKuI.png",
+   "imdb_id": "tt37376862",
+   "tmdb_url": "https://www.themoviedb.org/movie/1472829",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37376862",
+   "added_at": "2026-10-22T08:16:43Z",
+   "tagline": "De l'esprit, de l'amour et un prince infiltré : voilà ce qui marque les débuts de la comédie française.",
+   "directors": [
+    "Michel Leclerc"
+   ],
+   "writers": [
+    "Michel Leclerc"
+   ],
+   "cast": [
+    {
+     "name": "Artus",
+     "role": "Cyrano de Bergerac",
+     "photo": "https://image.tmdb.org/t/p/w185/78eYMroV3AyRJDqijnp0FSLPCgZ.jpg"
+    },
+    {
+     "name": "Julia Piaton",
+     "role": "Madeleine Béjart",
+     "photo": "https://image.tmdb.org/t/p/w185/10QGSeZaq121UJgOizGFcW0SRku.jpg"
+    },
+    {
+     "name": "Franck Dubosc",
+     "role": "D’Artagnan",
+     "photo": "https://image.tmdb.org/t/p/w185/2sCXXZYrWSO1nGxuyVBGETj2wdE.jpg"
+    },
+    {
+     "name": "Némo Schiffman",
+     "role": "Molière",
+     "photo": "https://image.tmdb.org/t/p/w185/8Cf0C97G4E4XnKT7CASSnmV6Qet.jpg"
+    },
+    {
+     "name": "Xavier Robic",
+     "role": "Conti",
+     "photo": "https://image.tmdb.org/t/p/w185/sXhSZ7Gyiq6sq3R85eRPMkoiJOh.jpg"
+    },
+    {
+     "name": "Doria Tillier",
+     "role": "Anne d'Autriche",
+     "photo": "https://image.tmdb.org/t/p/w185/kCS73s2jtUY7dV7eDVKOAZjvgVS.jpg"
+    },
+    {
+     "name": "Niels Hamel Brochen",
+     "role": "Louis XIV",
+     "photo": null
+    },
+    {
+     "name": "Suzanne de Baecque",
+     "role": "La Grande Demoiselle",
+     "photo": "https://image.tmdb.org/t/p/w185/uWVYkNntGMjUZOImfY1oM8EzX7q.jpg"
+    },
+    {
+     "name": "Damien Jouillerot",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/tVlPUpSCg4fONZFGpq4kZDuTfzp.jpg"
+    },
+    {
+     "name": "Noam Morgensztern",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/coDyPa5OugCeHkAhsWxV69cPhaZ.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Mandarin Production",
+     "logo": "https://image.tmdb.org/t/p/w185/3IzRrnakUemajC7fzC07WRNyZ9D.png"
+    },
+    {
+     "name": "Elephant",
+     "logo": "https://image.tmdb.org/t/p/w185/9PGhFLert9zO5wm7oiZGzpIXRyK.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt29028515",
    "type": "movie",
