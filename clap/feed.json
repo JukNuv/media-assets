@@ -1,7 +1,153 @@
 {
  "version": 1,
- "updated": "2026-10-21T17:04:10Z",
+ "updated": "2026-10-22T08:16:36Z",
  "items": [
+  {
+   "id": "movie:tt29028515",
+   "type": "movie",
+   "title": "En sursis",
+   "original_title": "Wasteman",
+   "year": 2026,
+   "release_date": "2026-02-20",
+   "overview": "L'histoire suit Taylor, un ancien détenu dont les espoirs de réinsertion sont compromis par l'arrivée de son codétenu Dee. Alors que Dee prend Taylor sous son aile, une violente agression met leur amitié à l'épreuve, forçant Taylor à choisir entre protéger Dee et préserver ses propres chances de libération conditionnelle.",
+   "synopsis_origin": null,
+   "rating": 7.3,
+   "runtime": 90,
+   "genres": [
+    "Crime",
+    "Drame",
+    "Thriller"
+   ],
+   "lang_tag": "FRENCH",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "MUBI",
+    "MUBI Amazon Channel"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=uaOextY7REM",
+   "poster": "https://image.tmdb.org/t/p/w500/AeU2EsYPJgXW9pQyjK5mE3lCZe8.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/qLp9td9ZfOe7G6wHhrepKtIH5Qe.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/y7b1I84NvrSogfNOcB46ZXYxEnJ.png",
+   "imdb_id": "tt29028515",
+   "tmdb_url": "https://www.themoviedb.org/movie/1307373",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt29028515",
+   "added_at": "2026-10-22T08:16:34Z",
+   "tagline": "Une nouvelle vision audacieuse de la vie à l'intérieur.",
+   "directors": [
+    "Cal McMau"
+   ],
+   "writers": [
+    "Eoin Doran",
+    "Hunter Andrews"
+   ],
+   "cast": [
+    {
+     "name": "David Jonsson",
+     "role": "Taylor",
+     "photo": "https://image.tmdb.org/t/p/w185/2ZZNGZw57KKMrVIr27g7W16G0jV.jpg"
+    },
+    {
+     "name": "Tom Blyth",
+     "role": "Dee",
+     "photo": "https://image.tmdb.org/t/p/w185/q8bkN1GvXqjs1ZGFYWViH9o2WDq.jpg"
+    },
+    {
+     "name": "Alex Hassell",
+     "role": "Paul",
+     "photo": "https://image.tmdb.org/t/p/w185/ssL09IDQBkw1BtRcvvZnm6OJMSm.jpg"
+    },
+    {
+     "name": "Neil Linpow",
+     "role": "Robby",
+     "photo": "https://image.tmdb.org/t/p/w185/1be5xAB1L4gCdo6cd01pYfSZMc0.jpg"
+    },
+    {
+     "name": "Paul Hilton",
+     "role": "Browning",
+     "photo": "https://image.tmdb.org/t/p/w185/qbvVlXTwvtEiHJB9C6CagBdMiWt.jpg"
+    },
+    {
+     "name": "Corin Silva",
+     "role": "Gaz",
+     "photo": "https://image.tmdb.org/t/p/w185/qSF5NmUrxmsfAsN1LAOOlXFYb4L.jpg"
+    },
+    {
+     "name": "Layton Blake",
+     "role": "Maxi",
+     "photo": "https://image.tmdb.org/t/p/w185/hto5PX2oPEjbZeuIg6EhjSVy44t.jpg"
+    },
+    {
+     "name": "Jack Barker",
+     "role": "Cook up Prisoner",
+     "photo": "https://image.tmdb.org/t/p/w185/1BBNYIP5QO2eopgt50bi9RlSx9a.jpg"
+    },
+    {
+     "name": "Fred Muthui",
+     "role": "Prisoner in Cell",
+     "photo": null
+    },
+    {
+     "name": "Lunga Anele-Skosana",
+     "role": "Nurse",
+     "photo": null
+    },
+    {
+     "name": "Robert Rhodes",
+     "role": "Scrawny Prisoner",
+     "photo": "https://image.tmdb.org/t/p/w185/d3fUGvffYdI6pxmEID3O5a3rPZk.jpg"
+    },
+    {
+     "name": "Paul Black",
+     "role": "Prisoner",
+     "photo": "https://image.tmdb.org/t/p/w185/iEyzI9Tz4vDQH7pQ9dfglkV0co9.jpg"
+    },
+    {
+     "name": "Keaton Ancona-Francis",
+     "role": "Stu",
+     "photo": null
+    },
+    {
+     "name": "Cole Martin",
+     "role": "Adam",
+     "photo": "https://image.tmdb.org/t/p/w185/reBTDl8OYFoWTwt8zM3OIbrtGNw.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Royaume-Uni"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Bankside Films",
+     "logo": "https://image.tmdb.org/t/p/w185/aGPysvtFfH8d8UjekpZD3GT9m7k.png"
+    },
+    {
+     "name": "Hoopsa Films",
+     "logo": null
+    },
+    {
+     "name": "Agile Films",
+     "logo": "https://image.tmdb.org/t/p/w185/gkOBQC95ZhfwC1KKokZbLYh1wPV.png"
+    },
+    {
+     "name": "It's All Made Up Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6EWCQcniXEDLdkD8Go4dge64HWf.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "MUBI",
+     "logo": null
+    },
+    {
+     "name": "MUBI Amazon Channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt36893729",
    "type": "movie",
