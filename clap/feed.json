@@ -1,7 +1,179 @@
 {
  "version": 1,
- "updated": "2026-10-22T08:16:45Z",
+ "updated": "2026-10-22T14:35:25Z",
  "items": [
+  {
+   "id": "movie:tt34383465",
+   "type": "movie",
+   "title": "Nightborn",
+   "original_title": "Yön lapsi",
+   "year": 2026,
+   "release_date": "2026-07-01",
+   "overview": "Rêvant de construire une vie de famille paisible, Saga et son mari Jon s’installent dans la maison où elle a passé une grande partie de son enfance, au cœur de la forêt finlandaise. Mais dès la naissance de leur enfant, et malgré un entourage qui se veut rassurant, Saga perçoit chez son bébé quelque chose d’inexplicable et d’inquiétant…",
+   "synopsis_origin": null,
+   "rating": 6.0,
+   "runtime": 92,
+   "genres": [
+    "Horreur"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Philo",
+    "AMC Plus Apple TV channel",
+    "AMC+ Amazon Channel",
+    "AMC+ Roku Premium Channel",
+    "AMC+",
+    "Shudder"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=_a83_7Q4RcI",
+   "poster": "https://image.tmdb.org/t/p/w500/cF1g9qtuRyATaZ75O6zRop2zmfZ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/apF4mS8Bs0hBTbirv4l3UHInwOX.png",
+   "imdb_id": "tt34383465",
+   "tmdb_url": "https://www.themoviedb.org/movie/964849",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34383465",
+   "added_at": "2026-10-22T14:35:23Z",
+   "tagline": null,
+   "directors": [
+    "Hanna Bergholm"
+   ],
+   "writers": [
+    "Hanna Bergholm",
+    "Ilja Rautsi"
+   ],
+   "cast": [
+    {
+     "name": "Rupert Grint",
+     "role": "Jon",
+     "photo": "https://image.tmdb.org/t/p/w185/iFlkpTaOF6fGLqxz8b0PhI0i0zN.jpg"
+    },
+    {
+     "name": "Seidi Haarla",
+     "role": "Saga",
+     "photo": "https://image.tmdb.org/t/p/w185/o2D0bPFPpiUSWRvpmBxwuRd5hGk.jpg"
+    },
+    {
+     "name": "Pamela Tola",
+     "role": "Taru",
+     "photo": "https://image.tmdb.org/t/p/w185/q9WTI0X1j1IAZKSIHkTd7kXpBRn.jpg"
+    },
+    {
+     "name": "Pirkko Saisio",
+     "role": "Saga's Mother",
+     "photo": "https://image.tmdb.org/t/p/w185/vGioze117HDNe4pvp5b124UrU60.jpg"
+    },
+    {
+     "name": "Rebecca Lacey",
+     "role": "Jon's Mother",
+     "photo": "https://image.tmdb.org/t/p/w185/5ml7gmrTVKnBcyah8W8mcnPwSPO.jpg"
+    },
+    {
+     "name": "John Thomson",
+     "role": "Jon's Father",
+     "photo": "https://image.tmdb.org/t/p/w185/p7oShR4yImaPszUh3ywnJEu5a5.jpg"
+    },
+    {
+     "name": "Silvia Saloranta",
+     "role": "Anna",
+     "photo": null
+    },
+    {
+     "name": "Satu Tuuli Karhu",
+     "role": "Saga's Colleague",
+     "photo": "https://image.tmdb.org/t/p/w185/ne2VKc91JmVb2LeckjJqW2Wfc1T.jpg"
+    },
+    {
+     "name": "Amira Khalifa",
+     "role": "Saga's Colleague",
+     "photo": "https://image.tmdb.org/t/p/w185/x8KHQbDiLSmqkipYVGAuYebO3Jl.jpg"
+    },
+    {
+     "name": "Johanna Kuuva",
+     "role": "Saga's Colleague",
+     "photo": null
+    },
+    {
+     "name": "Mari Rantasila",
+     "role": "Saga's Colleague",
+     "photo": "https://image.tmdb.org/t/p/w185/fXruthOtA8rcGkyUgYxuKoBcI43.jpg"
+    },
+    {
+     "name": "Helena Rängman",
+     "role": "Saga's Colleague",
+     "photo": null
+    },
+    {
+     "name": "Jaana Pesonen",
+     "role": "Maternity Clinic Nurse",
+     "photo": null
+    },
+    {
+     "name": "Lotta Kaihua",
+     "role": "Midwife 1",
+     "photo": "https://image.tmdb.org/t/p/w185/eNl5naJJNC8RwaRaVeAsTGz0BIS.jpg"
+    },
+    {
+     "name": "Katja Nugent",
+     "role": "Midwife 2",
+     "photo": null
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "FI",
+    "LT",
+    "France",
+    "Royaume-Uni"
+   ],
+   "original_language": "FI",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Elokuvayhtiö Komeetta",
+     "logo": "https://image.tmdb.org/t/p/w185/i6mhfVriXTap9whFMrc8guJNODR.png"
+    },
+    {
+     "name": "Getaway Films",
+     "logo": "https://image.tmdb.org/t/p/w185/gNNiV7xHCmOnJtUPZXJ9sC8HyKC.png"
+    },
+    {
+     "name": "BlueLight",
+     "logo": null
+    },
+    {
+     "name": "Filmai LT",
+     "logo": "https://image.tmdb.org/t/p/w185/eQgIeNXtTUARWviqtEHLcvp0H5R.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Philo",
+     "logo": null
+    },
+    {
+     "name": "AMC Plus Apple TV channel",
+     "logo": null
+    },
+    {
+     "name": "AMC+ Amazon Channel",
+     "logo": null
+    },
+    {
+     "name": "AMC+ Roku Premium Channel",
+     "logo": null
+    },
+    {
+     "name": "AMC+",
+     "logo": null
+    },
+    {
+     "name": "Shudder",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt37376862",
    "type": "movie",
