@@ -1,7 +1,163 @@
 {
  "version": 1,
- "updated": "2026-10-23T10:57:43Z",
+ "updated": "2026-10-23T10:57:51Z",
  "items": [
+  {
+   "id": "movie:tt36834996",
+   "type": "movie",
+   "title": "Soudain",
+   "original_title": "急に具合が悪くなる",
+   "year": 2026,
+   "release_date": "2026-06-19",
+   "overview": "Directrice d'un établissement pour personnes âgées, Marie-Lou tente d'y instaurer une philosophie de soins innovante basée sur l'écoute et la dignité des résidents, malgré la réticence d’une partie de ses équipes. Sa rencontre avec Mari, une metteuse en scène japonaise qui se bat contre un cancer, va bouleverser sa trajectoire. En nouant une amitié profonde, les deux femmes engagent ensemble un combat pour “rendre possible l’impossible”.",
+   "synopsis_origin": null,
+   "rating": 8.0,
+   "runtime": 196,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=jTPjA5DqzDc",
+   "poster": "https://image.tmdb.org/t/p/w500/bfWVYzLQnykGlDfnnduqLtofRAJ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/40CATdVXthW3rHFM8JkoCz7uh88.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/9cIYaiPIameOoKTNUJOqR8KPe1U.svg",
+   "imdb_id": "tt36834996",
+   "tmdb_url": "https://www.themoviedb.org/movie/1476614",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36834996",
+   "added_at": "2026-10-23T10:57:49Z",
+   "tagline": "Une nuit. Deux inconnus. Une vie entière de questions.",
+   "directors": [
+    "Ryusuke Hamaguchi"
+   ],
+   "writers": [
+    "Ryusuke Hamaguchi",
+    "Léa Le Dimna"
+   ],
+   "cast": [
+    {
+     "name": "Virginie Efira",
+     "role": "Marie-Lou Fontaine",
+     "photo": "https://image.tmdb.org/t/p/w185/sJFBDkZ2AMAkQBsSZricrUnZv50.jpg"
+    },
+    {
+     "name": "Tao Okamoto",
+     "role": "Mari Morisaki",
+     "photo": "https://image.tmdb.org/t/p/w185/ztnb6OVslOSaTILOvGVpUOCY88W.jpg"
+    },
+    {
+     "name": "長塚京三",
+     "role": "Goro Kiyomiya",
+     "photo": "https://image.tmdb.org/t/p/w185/k2tlJPqCuC7xFbGtvlE6CTtBxno.jpg"
+    },
+    {
+     "name": "黒崎煌代",
+     "role": "Tomoki Kubodera",
+     "photo": "https://image.tmdb.org/t/p/w185/ekCMaO1aODXdcnTphGQTcrumbbV.jpg"
+    },
+    {
+     "name": "Jean-Charles Clichet",
+     "role": "Olivier",
+     "photo": "https://image.tmdb.org/t/p/w185/qEQewXh6NkMTpT4ZlOSPbLVee7S.jpg"
+    },
+    {
+     "name": "Marie Bunel",
+     "role": "Sophie",
+     "photo": "https://image.tmdb.org/t/p/w185/o2dfyNcYoFn5cnYlbPcrGjZCshj.jpg"
+    },
+    {
+     "name": "Romain Cottard",
+     "role": "Damien",
+     "photo": "https://image.tmdb.org/t/p/w185/dWLW4XqHMA6IFe36FUU52mBMOuC.jpg"
+    },
+    {
+     "name": "Marie Denarnaud",
+     "role": "Laurence",
+     "photo": null
+    },
+    {
+     "name": "Gabriel Dahmani",
+     "role": "Djibril",
+     "photo": "https://image.tmdb.org/t/p/w185/rbWYaLoZThJYL9MIZeXXJxc2nvn.jpg"
+    },
+    {
+     "name": "Sephora Pondi",
+     "role": "Adidja",
+     "photo": "https://image.tmdb.org/t/p/w185/p7KmPpKMtB6XbO97ArMPrBaxsgG.jpg"
+    },
+    {
+     "name": "Heidi Becker-Babel",
+     "role": "Marion",
+     "photo": "https://image.tmdb.org/t/p/w185/hyBcf7SNzU8mBEIMJYdwyj0x4fF.jpg"
+    },
+    {
+     "name": "Lazare Gousseau",
+     "role": "Claude",
+     "photo": "https://image.tmdb.org/t/p/w185/pxljWTwQydYiOYtEawqRV3Pe8un.jpg"
+    },
+    {
+     "name": "Rose Bourdon",
+     "role": "Stéphanie",
+     "photo": null
+    },
+    {
+     "name": "Jérôme Chappatte",
+     "role": "Philippe Murano",
+     "photo": null
+    },
+    {
+     "name": "Geneviève Emanuelli",
+     "role": "Micheline",
+     "photo": "https://image.tmdb.org/t/p/w185/pcAqqoYl3gpUbFgGOYFUpbrXKzJ.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "Japon",
+    "France",
+    "Belgique",
+    "Allemagne"
+   ],
+   "original_language": "Japonais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Cinéfrance Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/nVDVcbfYplh43TvxGyj1rGUWiif.png"
+    },
+    {
+     "name": "Office Shirous",
+     "logo": "https://image.tmdb.org/t/p/w185/2RLRrJ3snaerDYUp1pUlwJfbc5Z.png"
+    },
+    {
+     "name": "Bitters End",
+     "logo": "https://image.tmdb.org/t/p/w185/kW2HfJ2R3xBfXRW6jdevcSGavHT.png"
+    },
+    {
+     "name": "Tarantula",
+     "logo": "https://image.tmdb.org/t/p/w185/rfmlWuH9lxt9pgQetWbNwZKSXvZ.png"
+    },
+    {
+     "name": "Heimatfilm",
+     "logo": "https://image.tmdb.org/t/p/w185/tqIQbCdoa2yfPv05wG8mT9EM0gB.png"
+    },
+    {
+     "name": "ARTE France Cinéma",
+     "logo": "https://image.tmdb.org/t/p/w185/huC7HqorvUThGIrENrbcHmQVUA0.png"
+    },
+    {
+     "name": "GapBusters",
+     "logo": "https://image.tmdb.org/t/p/w185/kgCQLJxqmymgg3WR5E7vjvCAqqH.png"
+    },
+    {
+     "name": "Same Player",
+     "logo": "https://image.tmdb.org/t/p/w185/1mZDiaR5yCEe4ayKC8UGx81LtuX.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt37719558",
    "type": "movie",
