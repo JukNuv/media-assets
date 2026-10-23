@@ -1,7 +1,88 @@
 {
  "version": 1,
- "updated": "2026-10-23T11:05:04Z",
+ "updated": "2026-10-23T15:36:35Z",
  "items": [
+  {
+   "id": "movie:tt37961714",
+   "type": "movie",
+   "title": "Contre l'Ouragan",
+   "original_title": "Contra el huracán",
+   "year": 2026,
+   "release_date": "2026-10-23",
+   "overview": "En pleine mer, Wirpul et son demi-frère Candi luttent pour leur survie lorsqu’une tempête inattendue se transforme en ouragan Otis, un ouragan de catégorie 5, au large d’Acapulco.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 96,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/tW3etvnzQjRSCnRb8e1fDAvt6S6.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
+   "logo": "",
+   "imdb_id": "tt37961714",
+   "tmdb_url": "https://www.themoviedb.org/movie/1780005",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37961714",
+   "added_at": "2026-10-23T15:36:33Z",
+   "tagline": null,
+   "directors": [
+    "Jorge Michel Grau"
+   ],
+   "writers": [
+    "Venancio Villalobos",
+    "Jorge Michel Grau",
+    "Jose Leonor Alejandro"
+   ],
+   "cast": [
+    {
+     "name": "Benny Emmanuel",
+     "role": "Wirpul",
+     "photo": "https://image.tmdb.org/t/p/w185/rSqiumttAOg08Auypm5Z7FpdvMS.jpg"
+    },
+    {
+     "name": "Kristyan Ferrer",
+     "role": "Candi",
+     "photo": "https://image.tmdb.org/t/p/w185/kTZDvbShqP4nd0UfzDphZsTR2KU.jpg"
+    },
+    {
+     "name": "Mónica del Carmen",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/mMVTISzRtJWG8z7YEVfJrikkvLF.jpg"
+    },
+    {
+     "name": "Mónica Jiménez",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Andrew Leland Rogers",
+     "role": "Nico",
+     "photo": "https://image.tmdb.org/t/p/w185/uURYtlsWZbQBm2QyEvhnkreJfNy.jpg"
+    },
+    {
+     "name": "Gonzalo Vega Jr.",
+     "role": "Napo",
+     "photo": "https://image.tmdb.org/t/p/w185/538VabzHzFWhqNXv5I854QVq51e.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Mexique"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Perro Azul",
+     "logo": "https://image.tmdb.org/t/p/w185/96bLJuSYllh3jHAHD4uiGVA1OYd.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt39387986",
    "type": "series",
