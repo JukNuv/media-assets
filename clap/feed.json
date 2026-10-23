@@ -1,7 +1,127 @@
 {
  "version": 1,
- "updated": "2026-10-23T10:57:51Z",
+ "updated": "2026-10-23T10:58:09Z",
  "items": [
+  {
+   "id": "movie:tt36841161",
+   "type": "movie",
+   "title": "Shaun le Mouton : La Bêêête d'Halloween",
+   "original_title": "Shaun the Sheep: The Beast of Mossy Bottom",
+   "year": 2026,
+   "release_date": "2026-09-17",
+   "overview": "À Halloween, les habitants de la ferme de Mossy Bottom se réjouissent des festivités, jusqu’à ce que le Fermier maladroit saccage les citrouilles bien-aimées du troupeau. Lorsque Shaun se transforme en scientifique fou pour résoudre le problème, les choses dérapent : le Fermier disparaît et une bête sauvage rôde dans les bois.",
+   "synopsis_origin": null,
+   "rating": 7.4,
+   "runtime": 81,
+   "genres": [
+    "Animation",
+    "Comédie",
+    "Familial",
+    "Aventure",
+    "Science-Fiction"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": "Shaun le Mouton - Saga [Collection]",
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=57hFLYcIXYQ",
+   "poster": "https://image.tmdb.org/t/p/w500/poG8LaprHjz2Ka0c6zCvDrVjEUq.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/mG8tVv1RPAKnARWxKTND5dRgMpw.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/1wYumqqrEpBQY9urxj8hsqaFhkT.png",
+   "imdb_id": "tt36841161",
+   "tmdb_url": "https://www.themoviedb.org/movie/1477104",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36841161",
+   "added_at": "2026-10-23T10:58:07Z",
+   "tagline": "Qu’est-ce qui s’avance là-haut sur la colline ?",
+   "directors": [
+    "Steve Cox",
+    "Matthew Walker"
+   ],
+   "writers": [
+    "Mark Burton",
+    "Giles Pilbrow"
+   ],
+   "cast": [
+    {
+     "name": "Justin Fletcher",
+     "role": "Shaun / Timmy (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/i0cXa3B7P9cWc4j82jowzGIQDaM.jpg"
+    },
+    {
+     "name": "John Sparkes",
+     "role": "The Farmer / Bitzer (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/kP6nILSReaAU0HpoHrs0nOvGLxU.jpg"
+    },
+    {
+     "name": "Nina Sosanya",
+     "role": "The Vet (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/nKqRWTF8hCsyjiSRCNMyShbmvrg.jpg"
+    },
+    {
+     "name": "Kate Harbour",
+     "role": "Timmy's Mum (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/9jqX2oO6Eho43x6Q9dWOI93YJnm.jpg"
+    },
+    {
+     "name": "Rich Webber",
+     "role": "Shirley (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/zE1gW6zPdX5ISULFXn4JYu3SrVm.jpg"
+    },
+    {
+     "name": "Emma Tate",
+     "role": "Hazel (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/in8SZAA5dG6wW1LBCU10j1J7W8V.jpg"
+    },
+    {
+     "name": "Simon Greenall",
+     "role": "The Twins (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/oe6HQ5bqb2uXITUC2s7rXHwfDLN.jpg"
+    },
+    {
+     "name": "Andy Nyman",
+     "role": "Nuts (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/9bN9RVoPWmsmV3VBI7hp4VKD9Kg.jpg"
+    },
+    {
+     "name": "Paul Whitehouse",
+     "role": "Shop Keeper (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/4aacb6fRghFwrT636cYmAYqQ35o.jpg"
+    },
+    {
+     "name": "Roman Kemp",
+     "role": "Pizza Boy (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/pBUoWBX2W30tGVrOlS41Phre2wZ.jpg"
+    },
+    {
+     "name": "Dani Dyer",
+     "role": "Influencer (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/nUNGDY4DT0oNRpGA4B7NEOUIzuf.jpg"
+    },
+    {
+     "name": "Chris Morrell",
+     "role": "The Captain / Nuts (voice)",
+     "photo": null
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "Royaume-Uni",
+    "France"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Aardman",
+     "logo": "https://image.tmdb.org/t/p/w185/8ixoR3cvroUqNDLjaX6AZmJIdRY.png"
+    },
+    {
+     "name": "StudioCanal",
+     "logo": "https://image.tmdb.org/t/p/w185/5LEHONGkZBIoWvp1ygHOF8iyi1M.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt36834996",
    "type": "movie",
