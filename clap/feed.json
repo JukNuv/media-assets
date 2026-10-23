@@ -1,7 +1,94 @@
 {
  "version": 1,
- "updated": "2026-10-23T11:04:57Z",
+ "updated": "2026-10-23T11:05:04Z",
  "items": [
+  {
+   "id": "series:tt39387986",
+   "type": "series",
+   "title": "Fading Grandeur",
+   "original_title": "Grande de España",
+   "year": 2026,
+   "release_date": "2026-10-23",
+   "overview": "Don Leandro, un marquis confronté à une situation financière désastreuse, décide de se séparer du manoir familial délabré qu’il possède à Madrid. Sofía Carrington, une femme d’affaires multimillionnaire, se montre intéressée par l’acquisition de cette propriété. Ce qui semble au départ n’être qu’une simple transaction immobilière se complique rapidement, car la relation entre les deux personnages dépasse le cadre d’une simple négociation financière.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Comédie",
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/4AUgc7JhcLQHNzoa1l0jwxBdK0.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/cRM9fZGjFDhfMKsgjWbJOw2qxHG.jpg",
+   "logo": "",
+   "imdb_id": "tt39387986",
+   "tmdb_url": "https://www.themoviedb.org/tv/335535",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39387986",
+   "added_at": "2026-10-23T11:05:03Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Antonio de la Torre",
+     "role": "Don Leandro",
+     "photo": "https://image.tmdb.org/t/p/w185/d43JMOaio4mTZlov23gM2q8a6Uo.jpg"
+    },
+    {
+     "name": "Alexandra Jiménez",
+     "role": "Sofía Carrington",
+     "photo": "https://image.tmdb.org/t/p/w185/2dRN4aqsNgO9Um2f3FUWSx5WMcx.jpg"
+    },
+    {
+     "name": "Enric Benavent",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/y3uiIImDqR825jDrJNhQSwqrQLo.jpg"
+    },
+    {
+     "name": "Fernando Andina",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/2Cg1olOBdW3xv4FEi5zXw4jrHs6.jpg"
+    },
+    {
+     "name": "Mercedes Sampietro",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/5ZwykqdX9ClgABxC8d9VGSDW4kd.jpg"
+    },
+    {
+     "name": "Celia de Molina",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/uQCEuXPEkz7areLKjbIBfrd6mZk.jpg"
+    },
+    {
+     "name": "Teresa Rabal",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/9veUNCdweNRAHzaRBAtaHxRbveR.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Espagne"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Cuidado con el Perro",
+     "logo": "https://image.tmdb.org/t/p/w185/mxCLIVxtNMrcl283gjzNf9jGkAc.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt39980704",
    "type": "series",
