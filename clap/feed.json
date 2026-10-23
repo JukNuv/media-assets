@@ -1,7 +1,162 @@
 {
  "version": 1,
- "updated": "2026-10-23T07:06:56Z",
+ "updated": "2026-10-23T10:57:43Z",
  "items": [
+  {
+   "id": "movie:tt37719558",
+   "type": "movie",
+   "title": "Anna et les Enfants",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-03",
+   "overview": "Anna est atteinte d’une phobie rare… la phobie des enfants ! Ça n’est pas qu’elle n’aime pas les enfants… c’est juste qu’elle en a peur. Depuis que sa phobie s’est déclenchée, elle évite les enfants à tout prix. Quand elle retombe sur l’ex de sa vie, tout va pour le mieux… jusqu’au jour où elle se rend compte, non seulement qu’il a deux enfants, mais surtout qu’elle va devoir rester seule avec eux pour plusieurs jours… la cohabitation va s’avérer aussi drôle qu’émouvante..",
+   "synopsis_origin": null,
+   "rating": 6.0,
+   "runtime": 90,
+   "genres": [
+    "Comédie",
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=s16G_fOf0sc",
+   "poster": "https://image.tmdb.org/t/p/w500/5EdivY4D1dnI3POKym4GsLnlEAR.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/5qLRwtbjRZ11mjYmoEfpdjHAroN.jpg",
+   "logo": "",
+   "imdb_id": "tt37719558",
+   "tmdb_url": "https://www.themoviedb.org/movie/1483325",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37719558",
+   "added_at": "2026-10-23T10:57:41Z",
+   "tagline": "Elle ne supporte pas les enfants. Lui, il en a deux. Qu'est-ce qui pourrait bien mal tourner ?",
+   "directors": [
+    "Diane Clavier"
+   ],
+   "writers": [
+    "Diane Clavier",
+    "Olivia Côte"
+   ],
+   "cast": [
+    {
+     "name": "Camille Chamoux",
+     "role": "Anna Blanchet",
+     "photo": "https://image.tmdb.org/t/p/w185/yEQBeUdwPiJ4gCybtrirBEiaD0g.jpg"
+    },
+    {
+     "name": "Alban Lenoir",
+     "role": "Alexandre Menin",
+     "photo": "https://image.tmdb.org/t/p/w185/jOWPgqzpvsaxzgBNzDqs2RR5jI6.jpg"
+    },
+    {
+     "name": "Fred Testot",
+     "role": "Mr. Goulet",
+     "photo": "https://image.tmdb.org/t/p/w185/yN14Ju54laFPhacdeXW9Y81arm4.jpg"
+    },
+    {
+     "name": "Mariama Gueye",
+     "role": "Sylviane",
+     "photo": "https://image.tmdb.org/t/p/w185/ppHRpRPYI6vMNWSjTDeESzyUaUi.jpg"
+    },
+    {
+     "name": "Olivia Côte",
+     "role": "Betty",
+     "photo": "https://image.tmdb.org/t/p/w185/1ZOrkqlyDsGDUDEvbrSfU4Gx5iB.jpg"
+    },
+    {
+     "name": "Estéban",
+     "role": "Vigile",
+     "photo": "https://image.tmdb.org/t/p/w185/amXtFeWybKgSn6kd1D9rgm6V1Vp.jpg"
+    },
+    {
+     "name": "Rosalia Cuevas",
+     "role": "Mme Vittorino",
+     "photo": null
+    },
+    {
+     "name": "Guillaume de Beaufort",
+     "role": "Andréa",
+     "photo": null
+    },
+    {
+     "name": "Elina De Leon",
+     "role": "Charlotte",
+     "photo": "https://image.tmdb.org/t/p/w185/bDQIzZvtzMbHTLvt2FfHf7r0gsu.jpg"
+    },
+    {
+     "name": "Léo Delsart",
+     "role": "Marcus",
+     "photo": null
+    },
+    {
+     "name": "Dena Divah",
+     "role": "Mme Azani",
+     "photo": null
+    },
+    {
+     "name": "Bruno Georis",
+     "role": "Docteur Levy",
+     "photo": "https://image.tmdb.org/t/p/w185/k0r0gcXwZYBvPciYS6G1SFMvFfa.jpg"
+    },
+    {
+     "name": "Céline Groussard",
+     "role": "Stéphanie Boilard",
+     "photo": "https://image.tmdb.org/t/p/w185/xi6T8dvfJjZ5q4O0jV1EyeJsOBi.jpg"
+    },
+    {
+     "name": "Alan Kakembo",
+     "role": "Hugo",
+     "photo": null
+    },
+    {
+     "name": "Marie Darah",
+     "role": "Chris",
+     "photo": null
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "France",
+    "Belgique"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Cheyenne Federation",
+     "logo": "https://image.tmdb.org/t/p/w185/qzt3zYa0nrQQJy1VJCmbbHfOGAm.png"
+    },
+    {
+     "name": "Umedia",
+     "logo": null
+    },
+    {
+     "name": "TF1 Films Production",
+     "logo": "https://image.tmdb.org/t/p/w185/9tW5wZEGotn1Ei5pErA88m47XiD.png"
+    },
+    {
+     "name": "Paradis Films",
+     "logo": "https://image.tmdb.org/t/p/w185/b1zTOpnNn5g0nHjhpn3Dx17QaoP.png"
+    },
+    {
+     "name": "SofiTVCine 13",
+     "logo": null
+    },
+    {
+     "name": "screen.brussels",
+     "logo": "https://image.tmdb.org/t/p/w185/bcJuzZ0gnOUGWg52haT0ueAFHlP.png"
+    },
+    {
+     "name": "RTL Play",
+     "logo": null
+    },
+    {
+     "name": "RTL-TVi",
+     "logo": "https://image.tmdb.org/t/p/w185/lyo2nqmPCpXBWvMIQhmVjvZvoHN.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt40649134",
    "type": "series",
