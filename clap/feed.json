@@ -1,7 +1,133 @@
 {
  "version": 1,
- "updated": "2026-10-23T15:36:35Z",
+ "updated": "2026-10-24T08:38:57Z",
  "items": [
+  {
+   "id": "movie:tt36961579",
+   "type": "movie",
+   "title": "François.e",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-01",
+   "overview": "Un scénariste en difficulté prétend à tort être transgenre afin d'obtenir un financement.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": 91,
+   "genres": [
+    "Comédie",
+    "Drame"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=fzbuiqBQf34",
+   "poster": "https://image.tmdb.org/t/p/w500/6Sk3QudoQXCNYhChsQwiW2CJzWW.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/iVDsZzyJpxjU9jHG1ofXdllINyO.jpg",
+   "logo": "",
+   "imdb_id": "tt36961579",
+   "tmdb_url": "https://www.themoviedb.org/movie/1483527",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36961579",
+   "added_at": "2026-10-24T08:38:55Z",
+   "tagline": null,
+   "directors": [
+    "Jean-François Asselin"
+   ],
+   "writers": [
+    "Gabrielle Boulianne-Tremblay",
+    "Jean-François Léger"
+   ],
+   "cast": [
+    {
+     "name": "Louis Morissette",
+     "role": "François",
+     "photo": "https://image.tmdb.org/t/p/w185/tMeYYaaU63l5zv2n1S5iX5LfAPS.jpg"
+    },
+    {
+     "name": "Pascale Drevillon",
+     "role": "Sarah",
+     "photo": "https://image.tmdb.org/t/p/w185/g0fNEn6NwDYkf43oK0KDe9xjxYu.jpg"
+    },
+    {
+     "name": "Geneviève Schmidt",
+     "role": "Catherine",
+     "photo": "https://image.tmdb.org/t/p/w185/uT2auphL1cAUeGOwcEbZi39JyM.jpg"
+    },
+    {
+     "name": "Robin Aubert",
+     "role": "Daniel",
+     "photo": "https://image.tmdb.org/t/p/w185/oJNfhgda4EUUiB6AHYVXy7troGD.jpg"
+    },
+    {
+     "name": "Martin-David Peters",
+     "role": "Étienne",
+     "photo": "https://image.tmdb.org/t/p/w185/jUONOt6r45gUGMskeXf9ZrBnIGU.jpg"
+    },
+    {
+     "name": "Rachel Graton",
+     "role": "Marie",
+     "photo": "https://image.tmdb.org/t/p/w185/bbYbR8tFThnln0RaYukpKESGun4.jpg"
+    },
+    {
+     "name": "Irdens Exantus",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/AvWzQNaLSi0dDlKTH2UDWjiBtEG.jpg"
+    },
+    {
+     "name": "Denis Marchand",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/tQQ6PDzcbRVPTv4TKTxJOO6Fwxx.jpg"
+    },
+    {
+     "name": "Mounia Zahzam",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/z0ocVZ9W82aaPVuG136O2A7oLH2.jpg"
+    },
+    {
+     "name": "Cassandra Latreille",
+     "role": "Noémie",
+     "photo": "https://image.tmdb.org/t/p/w185/8RlpAkVqckW84tKE6HurK1cbJ8A.jpg"
+    },
+    {
+     "name": "Khate Lessard",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/m6RlOSbTqNzypkhrapmQs7SKHQb.jpg"
+    },
+    {
+     "name": "Sasha Boucher-Godmer",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/8iqquaKPpFf9u4ArsGyMAiHKJqW.jpg"
+    },
+    {
+     "name": "Christen Marlot",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/teXo5GlZrIBkpXjpCsxaR0ZBg36.jpg"
+    },
+    {
+     "name": "Cam Poirier",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/wll3S7JGhWt0Rs6HJGlvqgpRih7.jpg"
+    },
+    {
+     "name": "Alexandre Pronovost",
+     "role": "Jérôme",
+     "photo": "https://image.tmdb.org/t/p/w185/l19caF2ftP3uiO7JCa1nav5Rda8.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "KO24",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt37961714",
    "type": "movie",
