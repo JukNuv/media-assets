@@ -1,7 +1,150 @@
 {
  "version": 1,
- "updated": "2026-10-24T10:30:32Z",
+ "updated": "2026-10-24T21:04:06Z",
  "items": [
+  {
+   "id": "movie:tt34584846",
+   "type": "movie",
+   "title": "Man of War",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-03",
+   "overview": "Lorsqu'une travailleuse humanitaire disparaît dans les premières heures de la guerre en Ukraine, une ancienne membre des Navy SEAL et de la CIA traverse ce pays dévasté pour ramener chez elle des mercenaires, des lignes de bataille mouvantes et des fantômes qu'il pensait avoir laissés derrière lui.",
+   "synopsis_origin": null,
+   "rating": 6.6,
+   "runtime": 111,
+   "genres": [
+    "Action",
+    "Thriller",
+    "Guerre"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=q0_t2HOsDsY",
+   "poster": "https://image.tmdb.org/t/p/w500/vt0RqHlqfUzeiBEVQvp43yY2076.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/qA0vLsX9A9kcDE2gQlRfYvje8SA.png",
+   "imdb_id": "tt34584846",
+   "tmdb_url": "https://www.themoviedb.org/movie/1705729",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34584846",
+   "added_at": "2026-10-24T21:04:04Z",
+   "tagline": null,
+   "directors": [
+    "William Kaufman"
+   ],
+   "writers": [
+    "William Kaufman",
+    "Paul Reichelt"
+   ],
+   "cast": [
+    {
+     "name": "LaMonica Garrett",
+     "role": "Michael Connor",
+     "photo": "https://image.tmdb.org/t/p/w185/yE5TBZ2qC5LAPDduBQAERo7EF3r.jpg"
+    },
+    {
+     "name": "Andrew Howard",
+     "role": "Dany Sundakov",
+     "photo": "https://image.tmdb.org/t/p/w185/kba1JeCUYHufjB933G5xPRhO8lV.jpg"
+    },
+    {
+     "name": "Linds Edwards",
+     "role": "Bunny",
+     "photo": "https://image.tmdb.org/t/p/w185/xCUqvvOWLJ2KZzJ52SRRuuD5uyV.jpg"
+    },
+    {
+     "name": "Rosmary Yaneva",
+     "role": "Riley",
+     "photo": "https://image.tmdb.org/t/p/w185/fPBLsL2QHTpjZPLTnwEO9hau46g.jpg"
+    },
+    {
+     "name": "Jason Patric",
+     "role": "Charlie Lewis",
+     "photo": "https://image.tmdb.org/t/p/w185/iv21ZjE90f9QNiNONKF9Lp6ZD68.jpg"
+    },
+    {
+     "name": "Daniel Bernhardt",
+     "role": "Stanismir Koniev",
+     "photo": "https://image.tmdb.org/t/p/w185/3BLz32inDr1jznU6pKQmh20zfhK.jpg"
+    },
+    {
+     "name": "Antoni Davidov",
+     "role": "Laggs",
+     "photo": "https://image.tmdb.org/t/p/w185/1hVknrxOizj2CN8Wbup0SdUzdLG.jpg"
+    },
+    {
+     "name": "François Coetzer",
+     "role": "Bam-Bam",
+     "photo": "https://image.tmdb.org/t/p/w185/rC9qzIPf3fquWMy7hLNnGgOPLjW.jpg"
+    },
+    {
+     "name": "Boyan Anev",
+     "role": "Flo",
+     "photo": "https://image.tmdb.org/t/p/w185/yG0iiY8vGw5r0eo2b7WajIwU2qU.jpg"
+    },
+    {
+     "name": "Greg Burridge",
+     "role": "Zeus",
+     "photo": "https://image.tmdb.org/t/p/w185/3HFBkFDoPuVJAmhtmsYv0dbIirS.jpg"
+    },
+    {
+     "name": "Max Kraus",
+     "role": "Ringo",
+     "photo": "https://image.tmdb.org/t/p/w185/eNDO5cOfyZDmzhadXl4bIUp8OEW.jpg"
+    },
+    {
+     "name": "Danny Augustus",
+     "role": "Vanka",
+     "photo": null
+    },
+    {
+     "name": "Delly Allen",
+     "role": "Lisa",
+     "photo": null
+    },
+    {
+     "name": "Maria-Radena Bozhkova",
+     "role": "Isabel",
+     "photo": "https://image.tmdb.org/t/p/w185/2bm40VD8b59QFdAKjzkpv0juin5.jpg"
+    },
+    {
+     "name": "Alen Angelov",
+     "role": "Boy",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Denton Film",
+     "logo": "https://image.tmdb.org/t/p/w185/29YTwNxKsEWKByHb76JX9bWnRdV.png"
+    },
+    {
+     "name": "Irish Channel Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/iwtCYijs5V7C1WvGCDIBmJfEb0B.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": null
+    },
+    {
+     "name": "Amazon Prime Video with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt31190636",
    "type": "movie",
