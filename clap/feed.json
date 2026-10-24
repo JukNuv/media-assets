@@ -1,7 +1,115 @@
 {
  "version": 1,
- "updated": "2026-10-24T10:30:24Z",
+ "updated": "2026-10-24T10:30:32Z",
  "items": [
+  {
+   "id": "movie:tt31190636",
+   "type": "movie",
+   "title": "Maya & Samar",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-03-20",
+   "overview": "Dans l'Athènes d'aujourd'hui, deux jeunes femmes issues de cultures opposées se lancent dans une liaison brève mais passionnée qui met la vie de l'une d'elles en danger, tout en propulsant l'autre au rang de star du web du jour au lendemain.",
+   "synopsis_origin": "deepl",
+   "rating": 7.6,
+   "runtime": 95,
+   "genres": [
+    "Drame",
+    "Romance",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=j3As7e7iTAM",
+   "poster": "https://image.tmdb.org/t/p/w500/6UdKNWOlZFTiGxOyaOoNZcqMj7t.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/ztDdhv8O92O2pSyoTbdwLwsNYz0.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/zCaR7Nst4pCeUsCCGZOnqqsVOL6.png",
+   "imdb_id": "tt31190636",
+   "tmdb_url": "https://www.themoviedb.org/movie/1513996",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt31190636",
+   "added_at": "2026-10-24T10:30:30Z",
+   "tagline": null,
+   "directors": [
+    "Anita Doron"
+   ],
+   "writers": [
+    "Tamara Berger"
+   ],
+   "cast": [
+    {
+     "name": "Nicolette Pearse",
+     "role": "Maya",
+     "photo": "https://image.tmdb.org/t/p/w185/sz4OnRvRExscAofmxKgTfBAdY2z.jpg"
+    },
+    {
+     "name": "Amanda Babaei Vieira",
+     "role": "Samar",
+     "photo": "https://image.tmdb.org/t/p/w185/mt4hT1VypuVRLhauXln8wJyHHyU.jpg"
+    },
+    {
+     "name": "Agni Scott",
+     "role": "Myrto",
+     "photo": "https://image.tmdb.org/t/p/w185/rEqmvcyuxCx0Wami8cu5wuS0x8j.jpg"
+    },
+    {
+     "name": "Harrison Browne",
+     "role": "Richard",
+     "photo": "https://image.tmdb.org/t/p/w185/6kqfgHOJWNT1h9ldR4OFffLxg5F.jpg"
+    },
+    {
+     "name": "Brenna Coates",
+     "role": "Rebecca",
+     "photo": "https://image.tmdb.org/t/p/w185/xl7K8OWKMK17JqGv4uOXjOMMiP3.jpg"
+    },
+    {
+     "name": "Aris Athanasopoulos",
+     "role": "Alex",
+     "photo": "https://image.tmdb.org/t/p/w185/ecF7j6B3pGxhLUbMbdix6NtmiBg.jpg"
+    },
+    {
+     "name": "Αντώνης Γιαννακός",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/fSZfj7I4PkQSx6jg83xIlNAURdk.jpg"
+    }
+   ],
+   "age_rating": "18",
+   "countries": [
+    "GR",
+    "Canada",
+    "ZA"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Filmiki Etairia",
+     "logo": null
+    },
+    {
+     "name": "Serendipity Point Films",
+     "logo": "https://image.tmdb.org/t/p/w185/A83WG8qZA4JdaudhJl0G3iG6W4M.png"
+    },
+    {
+     "name": "January Media",
+     "logo": "https://image.tmdb.org/t/p/w185/n9LaiOlGCvXAW6qoN3wJEcjiKZM.png"
+    },
+    {
+     "name": "Distant Horizon",
+     "logo": "https://image.tmdb.org/t/p/w185/f0XPj70Qf5ucAtYrTS6eZpwH5nU.png"
+    },
+    {
+     "name": "Crave",
+     "logo": "https://image.tmdb.org/t/p/w185/psBLfwHCfU9A4U9bWmeWF8AlSqr.png"
+    },
+    {
+     "name": "CBC Films",
+     "logo": "https://image.tmdb.org/t/p/w185/2Ec5G6rTVSpXZB95v6rFlAfKiw4.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt8776976",
    "type": "movie",
