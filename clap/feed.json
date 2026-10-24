@@ -1,7 +1,100 @@
 {
  "version": 1,
- "updated": "2026-10-24T08:38:57Z",
+ "updated": "2026-10-24T10:30:24Z",
  "items": [
+  {
+   "id": "movie:tt8776976",
+   "type": "movie",
+   "title": "Nervures",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-12",
+   "overview": "À Saint-Étienne, un vieux village niché dans la forêt, une jeune femme tente d’élucider le mystère entourant la mort soudaine de son père. Alors que des événements étranges se multiplient autour d’elle, ce qu’elle découvre s’avère encore plus sinistre et terrifiant que tout ce qu’elle aurait pu imaginer.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 94,
+   "genres": [
+    "Drame",
+    "Fantastique",
+    "Thriller",
+    "Horreur"
+   ],
+   "lang_tag": "FRENCH",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=q98hSULjW8s",
+   "poster": "https://image.tmdb.org/t/p/w500/Dxf2Hi20bp6HaEy7OqDHsyrXy3.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/g1P3SiJPWrhsxWqPmIKeQG2qRL2.jpg",
+   "logo": "",
+   "imdb_id": "tt8776976",
+   "tmdb_url": "https://www.themoviedb.org/movie/1455066",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt8776976",
+   "added_at": "2026-10-24T10:30:22Z",
+   "tagline": "Retournez à vos racines.",
+   "directors": [
+    "Raymond St-Jean"
+   ],
+   "writers": [
+    "Martin Girard",
+    "Raymond St-Jean"
+   ],
+   "cast": [
+    {
+     "name": "Romane Denis",
+     "role": "Isabelle",
+     "photo": "https://image.tmdb.org/t/p/w185/oUEuOOMHuRaEIimk5YVKfqwciDM.jpg"
+    },
+    {
+     "name": "Marie-Thérèse Fortin",
+     "role": "Thérèse",
+     "photo": "https://image.tmdb.org/t/p/w185/pTMqEBCQZ5TeXHdg0tzJUGBE6Nq.jpg"
+    },
+    {
+     "name": "Sylvain Marcel",
+     "role": "Docteur Toupin",
+     "photo": "https://image.tmdb.org/t/p/w185/5L14S1wXuEcYZGYUA6CiuKNLMAi.jpg"
+    },
+    {
+     "name": "Anana Rydvald",
+     "role": "Nancy",
+     "photo": "https://image.tmdb.org/t/p/w185/1xWKz3AuJEUMRcZs4cbGFW6vTGi.jpg"
+    },
+    {
+     "name": "Richard Fréchette",
+     "role": "Maurice",
+     "photo": "https://image.tmdb.org/t/p/w185/99kwQKg3mG1kctdqbYrJBC38kxX.jpg"
+    },
+    {
+     "name": "Alexandre Castonguay",
+     "role": "Émile",
+     "photo": "https://image.tmdb.org/t/p/w185/eaBN7ZMJM1ouhPcm6tAKCKeg5rw.jpg"
+    },
+    {
+     "name": "Marie-Madeleine Sarr",
+     "role": "Catherine",
+     "photo": "https://image.tmdb.org/t/p/w185/bHAvRJMB7glr9Bv01uRKzPuK7ot.jpg"
+    },
+    {
+     "name": "Léonard Turgeon",
+     "role": "Charles",
+     "photo": "https://image.tmdb.org/t/p/w185/74SvzlKrM0L2TwwWvGXLea1ELnG.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "1976 Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/cZKQQwETnhQQhWRe69CDRceOnAE.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt36961579",
    "type": "movie",
