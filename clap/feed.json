@@ -1,7 +1,140 @@
 {
  "version": 1,
- "updated": "2026-10-25T11:05:32Z",
+ "updated": "2026-10-25T12:03:28Z",
  "items": [
+  {
+   "id": "series:tt36364571",
+   "type": "series",
+   "title": "Eldorado",
+   "original_title": null,
+   "year": null,
+   "release_date": null,
+   "overview": "En 1973, le choc pétrolier marque la fin des Trente Glorieuses. Heureusement, en France, on n’a pas de pétrole mais on a des idées. Un aristocrate belge et un obscur savant italien parviennent à convaincre le puissant groupe Elf Aquitaine de l’existence d’un procédé révolutionnaire permettant de détecter du pétrole depuis les airs",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Drame"
+   ],
+   "status": "En production",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=de--iNHD23M",
+   "poster": "https://image.tmdb.org/t/p/w500/3kdkcqyQWKJF6Pn4rrlvHM8u8Y0.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/oLzpVIqZAEfXrPIPrNTKotBNhcK.jpg",
+   "logo": "",
+   "imdb_id": "tt36364571",
+   "tmdb_url": "https://www.themoviedb.org/tv/279382",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt36364571",
+   "added_at": "2026-10-25T12:03:26Z",
+   "tagline": null,
+   "directors": [
+    "Tarek Haoudy",
+    "Nacim Mehtar"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Jérémie Renier",
+     "role": "Arnaud de Toledo",
+     "photo": "https://image.tmdb.org/t/p/w185/3oBBshsyiBEh4PkR9YDMCl3iyp1.jpg"
+    },
+    {
+     "name": "Karim Leklou",
+     "role": "Léo Sarda",
+     "photo": "https://image.tmdb.org/t/p/w185/bgOpQ2WAwvxLFoRYFsPRAT0esAh.jpg"
+    },
+    {
+     "name": "Marie Colomb",
+     "role": "Emma Zenatti",
+     "photo": "https://image.tmdb.org/t/p/w185/yALH4PtvI9IrgAabjq9OLehW6Bw.jpg"
+    },
+    {
+     "name": "Laurent Capelluto",
+     "role": "Florindo Bonamici",
+     "photo": "https://image.tmdb.org/t/p/w185/4QzdHAvXJs7TJzjnG2WgzAArld1.jpg"
+    },
+    {
+     "name": "Clémentine Fargeas",
+     "role": "Iris de Toledo",
+     "photo": null
+    },
+    {
+     "name": "David Marsais",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/kcCsrBy6zilmuISCOPti7Wje9YU.jpg"
+    },
+    {
+     "name": "Georges Siatidis",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/4rY0awV2NSZ2CcOdSU2fnsCBolp.jpg"
+    },
+    {
+     "name": "Karim Barras",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/Ai3u8gx7VZEptx7O2nvtCbuPCf8.jpg"
+    },
+    {
+     "name": "Stéphane Guillon",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/p1L3jocDjY3fiCHkCSF3hz9M33c.jpg"
+    },
+    {
+     "name": "Patrick Chesnais",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/g0eY9xGHUCIZBJj0QfxNnZQcH98.jpg"
+    },
+    {
+     "name": "Quentin Gouverneur",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Jean-Luc Couchard",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/7Al4UYit5hkEh3auIEGeTMTYdHN.jpg"
+    },
+    {
+     "name": "Laura Sépul",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/rlyHCwbkfQGrMqBuKBuKnBmEiFb.jpg"
+    },
+    {
+     "name": "David Macaluso",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Damien De Dobbeleer",
+     "role": null,
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En production",
+   "production": [
+    {
+     "name": "TOP - The Originals Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/xun5Nx3qtlgYStWlQXjLcSMFsaz.png"
+    },
+    {
+     "name": "ARTE",
+     "logo": "https://image.tmdb.org/t/p/w185/6UIpEURdjnmcJPwgTDRzVRuwADr.png"
+    },
+    {
+     "name": "Beside Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/grDzFY7347YKDLrMYnihbmo8ZOQ.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt21045208",
    "type": "movie",
