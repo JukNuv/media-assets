@@ -1,7 +1,155 @@
 {
  "version": 1,
- "updated": "2026-10-24T21:04:06Z",
+ "updated": "2026-10-25T10:06:41Z",
  "items": [
+  {
+   "id": "movie:tt27674706",
+   "type": "movie",
+   "title": "Oscar Shaw",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-01-09",
+   "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
+   "synopsis_origin": null,
+   "rating": 6.7,
+   "runtime": 93,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "Western"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Philo",
+    "Starz Amazon Channel",
+    "Starz",
+    "Starz Apple TV channel",
+    "Starz Roku Premium Channel"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=ZMlCJQ2SefU",
+   "poster": "https://image.tmdb.org/t/p/w500/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/diKBJ2kJHHfm4nmHTHhprBgfHIF.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/cA61ZZWlq2BQ3pXBytZgH1W0tRO.png",
+   "imdb_id": "tt27674706",
+   "tmdb_url": "https://www.themoviedb.org/movie/1601243",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt27674706",
+   "added_at": "2026-10-25T10:06:40Z",
+   "tagline": null,
+   "directors": [
+    "R. Ellis Frazier",
+    "Justin Nesbitt"
+   ],
+   "writers": [
+    "Don Roff"
+   ],
+   "cast": [
+    {
+     "name": "Michael Jai White",
+     "role": "Oscar Shaw",
+     "photo": "https://image.tmdb.org/t/p/w185/YPoHYuzR37wFpPpwEXZYQlhLln.jpg"
+    },
+    {
+     "name": "Tyrese Gibson",
+     "role": "Ray Jay",
+     "photo": "https://image.tmdb.org/t/p/w185/jxoy4fbXNKFQtBdK73cLXEz3ufS.jpg"
+    },
+    {
+     "name": "Isaiah Washington",
+     "role": "Ernie",
+     "photo": "https://image.tmdb.org/t/p/w185/3yY5h1t7AKZpf4lfdSMwDQvCroQ.jpg"
+    },
+    {
+     "name": "Andrew C. English Jr.",
+     "role": "Tron",
+     "photo": "https://image.tmdb.org/t/p/w185/9PV40l67hhidhIxtLQCrQRf7yd3.jpg"
+    },
+    {
+     "name": "Cecile Cubiló",
+     "role": "Detective Nina Perez",
+     "photo": "https://image.tmdb.org/t/p/w185/9mQO51lWMoc2qC2SwXhtmXjTOwu.jpg"
+    },
+    {
+     "name": "Jeanette Josue",
+     "role": "Vanessa Shaw",
+     "photo": null
+    },
+    {
+     "name": "Hiro Ortiz",
+     "role": "Soo Kwon",
+     "photo": null
+    },
+    {
+     "name": "James Choi",
+     "role": "Jintao kwon",
+     "photo": null
+    },
+    {
+     "name": "Rich Paul",
+     "role": "Chuck Ross",
+     "photo": "https://image.tmdb.org/t/p/w185/mL96WMIyiuPjXrzlrPdkUAmUvAF.jpg"
+    },
+    {
+     "name": "Vince Jolivette",
+     "role": "Commander Archer",
+     "photo": null
+    },
+    {
+     "name": "Jabari Striblin",
+     "role": "Andre",
+     "photo": "https://image.tmdb.org/t/p/w185/vj58mhnK5TpTwzZ9R9eKoSjree8.jpg"
+    },
+    {
+     "name": "Kayo Terrell",
+     "role": "Slay",
+     "photo": null
+    },
+    {
+     "name": "Jesús Carús",
+     "role": "Cesar",
+     "photo": null
+    },
+    {
+     "name": "Irvin Hodrick Jr.",
+     "role": "Whack",
+     "photo": null
+    },
+    {
+     "name": "Isaac Francois",
+     "role": "Brash",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [],
+   "platform_logos": [
+    {
+     "name": "Philo",
+     "logo": null
+    },
+    {
+     "name": "Starz Amazon Channel",
+     "logo": null
+    },
+    {
+     "name": "Starz",
+     "logo": null
+    },
+    {
+     "name": "Starz Apple TV channel",
+     "logo": null
+    },
+    {
+     "name": "Starz Roku Premium Channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt34584846",
    "type": "movie",
