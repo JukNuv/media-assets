@@ -1,7 +1,146 @@
 {
  "version": 1,
- "updated": "2026-10-26T09:01:13Z",
+ "updated": "2026-10-26T14:04:01Z",
  "items": [
+  {
+   "id": "movie:tt13609648",
+   "type": "movie",
+   "title": "Raison et Sentiments",
+   "original_title": "Sense and Sensibility",
+   "year": 2026,
+   "release_date": "2026-09-23",
+   "overview": "Une irrésistible nouvelle version du roman culte de Jane Austin, Raison et Sentiments, qui suit deux sœurs à travers leurs amours, leurs chagrins et le lien qui les unit d'une façon magistrale et profondément proche de nous.",
+   "synopsis_origin": null,
+   "rating": 7.2,
+   "runtime": 132,
+   "genres": [
+    "Drame",
+    "Romance"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=4MUjbis3gz8",
+   "poster": "https://image.tmdb.org/t/p/w500/9XNEI2AYgQIIqXper5kOdGTnyf5.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/rv6dwE4SXAT5f00Ks8YL2kFvnLA.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/iGYAhElKRqn2GwbnHja14z49gOy.png",
+   "imdb_id": "tt13609648",
+   "tmdb_url": "https://www.themoviedb.org/movie/1503762",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt13609648",
+   "added_at": "2026-10-26T14:03:59Z",
+   "tagline": "Personne ne te connaît aussi bien qu'une sœur.",
+   "directors": [
+    "Georgia Oakley"
+   ],
+   "writers": [
+    "Jane Austen",
+    "Diana Reid"
+   ],
+   "cast": [
+    {
+     "name": "Daisy Edgar-Jones",
+     "role": "Elinor Dashwood",
+     "photo": "https://image.tmdb.org/t/p/w185/4Fdc3VSoVhkkEZNx5Zpz3AU6DYz.jpg"
+    },
+    {
+     "name": "Esmé Creed-Miles",
+     "role": "Marianne Dashwood",
+     "photo": "https://image.tmdb.org/t/p/w185/hmGkEC4OWsyDe7ZGVkZ7e1RjViD.jpg"
+    },
+    {
+     "name": "Bodhi Rae Breathnach",
+     "role": "Margaret Dashwood",
+     "photo": "https://image.tmdb.org/t/p/w185/v4PXpYOKUQtcUCp85KAW2bIiS51.jpg"
+    },
+    {
+     "name": "Caitríona Balfe",
+     "role": "Mrs. Dashwood",
+     "photo": "https://image.tmdb.org/t/p/w185/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg"
+    },
+    {
+     "name": "Fiona Shaw",
+     "role": "Mrs. Jennings",
+     "photo": "https://image.tmdb.org/t/p/w185/8X7fZybxtwh2nTvYk6kjRYo9RIY.jpg"
+    },
+    {
+     "name": "George MacKay",
+     "role": "Edward Ferrars",
+     "photo": "https://image.tmdb.org/t/p/w185/wnDAg1CyCbBCklQAZ9I1dj5X6QY.jpg"
+    },
+    {
+     "name": "Herbert Nordrum",
+     "role": "Colonel Brandon",
+     "photo": "https://image.tmdb.org/t/p/w185/wMT9o2WNfLGE4dD8Rkt2Rem4Ljt.jpg"
+    },
+    {
+     "name": "Frank Dillane",
+     "role": "John Willoughby",
+     "photo": "https://image.tmdb.org/t/p/w185/eitUc8e045y8dDfBSm681hU471g.jpg"
+    },
+    {
+     "name": "Tom Brooke",
+     "role": "John Dashwood",
+     "photo": "https://image.tmdb.org/t/p/w185/pUQ3KyfTLPLkBP8KvCcwEyHUMB7.jpg"
+    },
+    {
+     "name": "Stacy Martin",
+     "role": "Fanny Dashwood",
+     "photo": "https://image.tmdb.org/t/p/w185/wLPh456xduwDkGgPpaf1KGH9EWz.jpg"
+    },
+    {
+     "name": "Turlough Convery",
+     "role": "Sir John Middleton",
+     "photo": "https://image.tmdb.org/t/p/w185/xDHf65t9vtxmIAmDxp5yMKZUtPt.jpg"
+    },
+    {
+     "name": "Chloe Pirrie",
+     "role": "Lady Middleton",
+     "photo": "https://image.tmdb.org/t/p/w185/t5pUoG5kDk8F0uNQ1reMD8Cd4V0.jpg"
+    },
+    {
+     "name": "Forrest Bothwell",
+     "role": "Robert Ferrars",
+     "photo": "https://image.tmdb.org/t/p/w185/6jvwsH8x0Q1GFmOCvXONQmtZaRI.jpg"
+    },
+    {
+     "name": "Ceara Coveney",
+     "role": "Lucy Steele",
+     "photo": "https://image.tmdb.org/t/p/w185/1zWEshFJ5dSRK37DlfJlQuZEcoO.jpg"
+    },
+    {
+     "name": "Eliot Sumner",
+     "role": "Mr. Palmer",
+     "photo": "https://image.tmdb.org/t/p/w185/8KLyKNKn1BNVrY3VxAlDDCn8A5c.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "Royaume-Uni",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Focus Features",
+     "logo": "https://image.tmdb.org/t/p/w185/xnFIOeq5cKw09kCWqV7foWDe4AA.png"
+    },
+    {
+     "name": "Working Title",
+     "logo": "https://image.tmdb.org/t/p/w185/16KWBMmfPX0aJzDExDrPxSLj0Pg.png"
+    },
+    {
+     "name": "November Pictures",
+     "logo": null
+    },
+    {
+     "name": "Kiddo Films",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt36313230",
    "type": "movie",
