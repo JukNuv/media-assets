@@ -1,7 +1,145 @@
 {
  "version": 1,
- "updated": "2026-10-26T14:04:01Z",
+ "updated": "2026-10-26T17:24:43Z",
  "items": [
+  {
+   "id": "movie:tt21285562",
+   "type": "movie",
+   "title": "The Dog Stars",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-08-26",
+   "overview": "Dans un futur proche où une pandémie sans nom a décimé la société américaine, Hig, un pilote vit sur une base aérienne abandonnée du Colorado avec son chien et un ex-marine. Lorsqu'une transmission aléatoire passe par la radio de son Cessna 1956, la voix fait naître au plus profond du pilote l'espoir qu'une vie meilleure existe en dehors de leur périmètre étroitement contrôlé...",
+   "synopsis_origin": null,
+   "rating": 6.6,
+   "runtime": 119,
+   "genres": [
+    "Drame",
+    "Thriller",
+    "Aventure"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [
+    "Tele2 Play"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=LIPbg2pz2XM",
+   "poster": "https://image.tmdb.org/t/p/w500/w7c49Qgp3TAUC4hlo0mtgRpLOGG.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/yhCHnkidQdR3lksbdyFxduRXFPK.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/vWXc0etDJQzE1uQSETYHLqSObSP.png",
+   "imdb_id": "tt21285562",
+   "tmdb_url": "https://www.themoviedb.org/movie/1384216",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt21285562",
+   "added_at": "2026-10-26T17:24:41Z",
+   "tagline": "La fin du monde n'était que le début.",
+   "directors": [
+    "Ridley Scott"
+   ],
+   "writers": [
+    "Mark L. Smith",
+    "Peter Heller"
+   ],
+   "cast": [
+    {
+     "name": "Jacob Elordi",
+     "role": "Hig",
+     "photo": "https://image.tmdb.org/t/p/w185/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+    },
+    {
+     "name": "Margaret Qualley",
+     "role": "Cima",
+     "photo": "https://image.tmdb.org/t/p/w185/qk6X0yIAkdkD9l30ztWKYeBQaz8.jpg"
+    },
+    {
+     "name": "Josh Brolin",
+     "role": "Bangley",
+     "photo": "https://image.tmdb.org/t/p/w185/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+    },
+    {
+     "name": "Guy Pearce",
+     "role": "Pops",
+     "photo": "https://image.tmdb.org/t/p/w185/vTqk6Nh3WgqPubkS23eOlMAwmwa.jpg"
+    },
+    {
+     "name": "Allison Janney",
+     "role": "Darlene",
+     "photo": "https://image.tmdb.org/t/p/w185/kSaSnQ9xU8eVNL0mTppab95dZA8.jpg"
+    },
+    {
+     "name": "Benedict Wong",
+     "role": "Aaron",
+     "photo": "https://image.tmdb.org/t/p/w185/yYfLyrC2CE6vBWSJfkpuVKL2POM.jpg"
+    },
+    {
+     "name": "Ewen Bremner",
+     "role": "Crossbow Hunter",
+     "photo": "https://image.tmdb.org/t/p/w185/u80rtfJRqCg4qKcdEPmYv8IkCvu.jpg"
+    },
+    {
+     "name": "James Craze",
+     "role": "Logan",
+     "photo": "https://image.tmdb.org/t/p/w185/stLoQ1f6H7h2qS27AkogQZhNJVG.jpg"
+    },
+    {
+     "name": "Sam Spruell",
+     "role": "John",
+     "photo": "https://image.tmdb.org/t/p/w185/nTyK3HlqdlJZqjpwTVf4Xo5LkYw.jpg"
+    },
+    {
+     "name": "Sai Bennett",
+     "role": "Melissa",
+     "photo": "https://image.tmdb.org/t/p/w185/65YqXx9anAp7fwQNUn4YS8KPhOb.jpg"
+    },
+    {
+     "name": "Sebastian Rokison-Woodall",
+     "role": "Ben",
+     "photo": null
+    },
+    {
+     "name": "Alara-Star Khan",
+     "role": "Matilda",
+     "photo": "https://image.tmdb.org/t/p/w185/9GFBpG1EWmd1mG33YU15E2fGXIB.jpg"
+    },
+    {
+     "name": "Daisy Kakkar",
+     "role": "Mennonite Woman",
+     "photo": null
+    },
+    {
+     "name": "Brendan O'Rourke",
+     "role": "Bar Man - Grand Junction",
+     "photo": null
+    },
+    {
+     "name": "Jean Michael Sinisterra Munoz",
+     "role": "Semi-Naked Monster / Fuddled Brain",
+     "photo": null
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "20th Century Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/h0rjX5vjW5r8yEnUBStFarjcLT4.png"
+    },
+    {
+     "name": "Scott Free Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Tele2 Play",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt13609648",
    "type": "movie",
