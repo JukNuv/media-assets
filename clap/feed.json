@@ -1,7 +1,141 @@
 {
  "version": 1,
- "updated": "2026-10-25T12:03:28Z",
+ "updated": "2026-10-26T09:01:13Z",
  "items": [
+  {
+   "id": "movie:tt36313230",
+   "type": "movie",
+   "title": "Les Parfait(s) : Arnaques en Famille",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-24",
+   "overview": "Chez les Toussaint, du grand-père au petit dernier, l’arnaque est un art qui rapporte. Poursuivis, ils doivent fuir. Seule option : emprunter l’identité d’une famille sans histoire, les Parfait, et se réfugier en Écosse. Entre des collègues trop curieux et une mystérieuse voisine, leur double vie se complique et les faux Parfait se retrouvent face au coup d’une vie. Plans démentiels, déguisements fous, gadgets étonnants… pour réussir, cette famille pas comme les autres devra prouver qu’elle est plus que parfaite.",
+   "synopsis_origin": null,
+   "rating": 6.7,
+   "runtime": 93,
+   "genres": [
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=ceRVtqj9Coc",
+   "poster": "https://image.tmdb.org/t/p/w500/wrVQlyShWb9KUhifSuf4MXWCGQV.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/ihuMtJqRd7Nkcfu2BEmlTDCx9BV.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/6JgqPxn4FcbkhhOpkf8af7BkmAD.png",
+   "imdb_id": "tt36313230",
+   "tmdb_url": "https://www.themoviedb.org/movie/1421401",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36313230",
+   "added_at": "2026-10-26T09:01:12Z",
+   "tagline": null,
+   "directors": [
+    "Ludovic Bernard"
+   ],
+   "writers": [
+    "Ludovic Bernard",
+    "Laurent Turner"
+   ],
+   "cast": [
+    {
+     "name": "Audrey Fleurot",
+     "role": "Magalie Toussaint",
+     "photo": "https://image.tmdb.org/t/p/w185/83wsYI6oRWrtkcKr7ozobh1VWrm.jpg"
+    },
+    {
+     "name": "Ramzy Bedia",
+     "role": "Sam Toussaint",
+     "photo": "https://image.tmdb.org/t/p/w185/fzGqj63WW6NFAK43oVjtYzVy75y.jpg"
+    },
+    {
+     "name": "Alan Cumming",
+     "role": "Sean Mac Callaghan",
+     "photo": "https://image.tmdb.org/t/p/w185/axil8ufunARfqyU4ceZNh36fkVQ.jpg"
+    },
+    {
+     "name": "Alexandre Desrousseaux",
+     "role": "Alex / Stef. de Loze",
+     "photo": "https://image.tmdb.org/t/p/w185/p3cSgFMIHcU7j7Ct673SIPuyvYK.jpg"
+    },
+    {
+     "name": "Bernard Farcy",
+     "role": "André",
+     "photo": "https://image.tmdb.org/t/p/w185/yvrBgUmbpXDWbyv2x5pRrndq4et.jpg"
+    },
+    {
+     "name": "Émilie Caen",
+     "role": "Sandrine Parrot",
+     "photo": "https://image.tmdb.org/t/p/w185/inBbVbSWtYd0I3VjQR9wsrrCGmA.jpg"
+    },
+    {
+     "name": "Bert Seymour",
+     "role": "Steven",
+     "photo": "https://image.tmdb.org/t/p/w185/yVtJrV6I4nV86Q3r7CPrK7n4ff4.jpg"
+    },
+    {
+     "name": "Nawelle Evad",
+     "role": "Eva Toussaint",
+     "photo": null
+    },
+    {
+     "name": "Raphaël Lamaassab",
+     "role": "Hugo Toussaint",
+     "photo": null
+    },
+    {
+     "name": "Nicolas Wanczycki",
+     "role": "Gilles Parfait",
+     "photo": "https://image.tmdb.org/t/p/w185/xksvgEBrpOB26BCga8JDqHZRRqZ.jpg"
+    },
+    {
+     "name": "Luka Peroš",
+     "role": "Dragan Mitrovic",
+     "photo": "https://image.tmdb.org/t/p/w185/lfh7959EpR9gAvrjObNGXaUg2qF.jpg"
+    },
+    {
+     "name": "Hayley-Marie Axe",
+     "role": "Nora MacArthur",
+     "photo": "https://image.tmdb.org/t/p/w185/7P7LSTBkvrh0MFTQVmfHfIYcfuV.jpg"
+    },
+    {
+     "name": "Vincent Lecuyer",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ubL6715RV01kv7KBWSlYvW1n7oS.jpg"
+    },
+    {
+     "name": "Caroline Donnelly",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Steffi Dietz",
+     "role": "Lucia",
+     "photo": null
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "France",
+    "Belgique"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Les Films du 24",
+     "logo": "https://image.tmdb.org/t/p/w185/saew2RWH6qetZyd0AfVoTxUZCRt.png"
+    },
+    {
+     "name": "uMedia",
+     "logo": "https://image.tmdb.org/t/p/w185/tceh2aAORA5JxIZSLQ1GkzTBZDL.png"
+    },
+    {
+     "name": "UGC",
+     "logo": "https://image.tmdb.org/t/p/w185/pzJLNyKypqwAgLR4OjmaxA5WEjm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt36364571",
    "type": "series",
