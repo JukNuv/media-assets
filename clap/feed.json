@@ -1,7 +1,115 @@
 {
  "version": 1,
- "updated": "2026-10-26T17:24:43Z",
+ "updated": "2026-10-26T19:08:14Z",
  "items": [
+  {
+   "id": "movie:tt39319989",
+   "type": "movie",
+   "title": "La servante du mal",
+   "original_title": "Housemaid",
+   "year": 2026,
+   "release_date": "2026-01-06",
+   "overview": "Après que la conscience de sa femme a été transférée dans leur femme de ménage androïde, un veuf se retrouve pris au piège dans un triangle amoureux mortel lorsque l'intelligence artificielle, rongée par la jalousie, va jusqu'à prendre des mesures terrifiantes pour l'empêcher de refaire sa vie avec une autre femme.",
+   "synopsis_origin": "deepl",
+   "rating": 4.1,
+   "runtime": 89,
+   "genres": [
+    "Horreur",
+    "Science-Fiction",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video",
+    "Molotov TV",
+    "Amazon Prime Video with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=npADczmPJBY",
+   "poster": "https://image.tmdb.org/t/p/w500/8pYMq8niA7Mkqt5oT9qommrSfV.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/8onA0yPZ7KOXgvd2P6KanjCRWP.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/byDCb5TigyvIalWkNjlIHKjaIOd.png",
+   "imdb_id": "tt39319989",
+   "tmdb_url": "https://www.themoviedb.org/movie/1611977",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39319989",
+   "added_at": "2026-10-26T19:08:12Z",
+   "tagline": "Une fois qu'on l'a mise en marche, on ne peut plus l'arrêter.",
+   "directors": [
+    "Louise Alston"
+   ],
+   "writers": [
+    "Jose Prendes"
+   ],
+   "cast": [
+    {
+     "name": "Nic Caruccio",
+     "role": "Ben",
+     "photo": "https://image.tmdb.org/t/p/w185/d7hBJxqIHAf3jUM1wjLmnCTlI8A.jpg"
+    },
+    {
+     "name": "Hailey Mauk",
+     "role": "Andi",
+     "photo": "https://image.tmdb.org/t/p/w185/bjuHSoI7q7N1t24VwY0yF7S7TpN.jpg"
+    },
+    {
+     "name": "Juliette Cecile",
+     "role": "Diana",
+     "photo": "https://image.tmdb.org/t/p/w185/yGI5tlgedJiq7a1kv5ZGpSXc3bz.jpg"
+    },
+    {
+     "name": "Damon Le'Andre Smith Jr.",
+     "role": "Mikey",
+     "photo": null
+    },
+    {
+     "name": "Emma Reinagel",
+     "role": "Kayla",
+     "photo": "https://image.tmdb.org/t/p/w185/1TZSD1V2FYHwZl3UDnfX4392MiI.jpg"
+    },
+    {
+     "name": "April Clark",
+     "role": "Shana",
+     "photo": null
+    },
+    {
+     "name": "Jaclyn Albergoni",
+     "role": "Victoria",
+     "photo": null
+    },
+    {
+     "name": "Anthony Jensen",
+     "role": "James",
+     "photo": "https://image.tmdb.org/t/p/w185/4BWRrZ6F2wi99kWJlPSq0wJaKcJ.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "The Asylum",
+     "logo": "https://image.tmdb.org/t/p/w185/ic2bTizdzRLDVzAvN7MXdUg3WQV.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": null
+    },
+    {
+     "name": "Molotov TV",
+     "logo": null
+    },
+    {
+     "name": "Amazon Prime Video with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt21285562",
    "type": "movie",
