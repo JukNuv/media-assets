@@ -1,7 +1,147 @@
 {
  "version": 1,
- "updated": "2026-10-27T10:03:13Z",
+ "updated": "2026-10-27T10:03:22Z",
  "items": [
+  {
+   "id": "movie:tt21109170",
+   "type": "movie",
+   "title": "Signal One",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-05",
+   "overview": "Un informaticien est invité par un milliardaire du secteur des technologies à rejoindre son centre privé situé sur une île des Caraïbes afin d’étudier la matière extraterrestre présente sur Terre. Lorsqu’ils établissent le contact avec un monde au-delà du nôtre, le chaos s’installe et nous nous demandons : viennent-ils en paix ?",
+   "synopsis_origin": null,
+   "rating": 6.0,
+   "runtime": 87,
+   "genres": [
+    "Mystère",
+    "Science-Fiction"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Hulu"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=rJY9BC89igE",
+   "poster": "https://image.tmdb.org/t/p/w500/bi7Aeaozl51cd5K6vAn8tI1lOW0.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/3gN540zmAiJW1v6mFoNiciamxc2.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/xiByUSS5sQUlXwqAgvzCz1iIYyh.png",
+   "imdb_id": "tt21109170",
+   "tmdb_url": "https://www.themoviedb.org/movie/1083884",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt21109170",
+   "added_at": "2026-10-27T10:03:20Z",
+   "tagline": "Le premier contact a été établi.",
+   "directors": [
+    "Jonathan Sobol"
+   ],
+   "writers": [
+    "Jonathan Sobol"
+   ],
+   "cast": [
+    {
+     "name": "Isabelle Fuhrman",
+     "role": "Annika",
+     "photo": "https://image.tmdb.org/t/p/w185/borthNRiTGa7oKZjLKHuUGUrZdq.jpg"
+    },
+    {
+     "name": "Josh Hutcherson",
+     "role": "Charlie",
+     "photo": "https://image.tmdb.org/t/p/w185/GqIyK5mCJXFUXW4FwLM3Zj7UtK.jpg"
+    },
+    {
+     "name": "David Thewlis",
+     "role": "Perry",
+     "photo": "https://image.tmdb.org/t/p/w185/gJqz8h5AKaVvOLS0hm5Vdvel6JB.jpg"
+    },
+    {
+     "name": "Dennis Quaid",
+     "role": "Sam Houston",
+     "photo": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+     "name": "Vanessa Smythe",
+     "role": "Mother",
+     "photo": "https://image.tmdb.org/t/p/w185/aORxfHO9pQ52bN2c4QgCwVZjoXj.jpg"
+    },
+    {
+     "name": "Kiera Allen",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/e3wOaDBdTEZccu38hUgHVFQBS7D.jpg"
+    },
+    {
+     "name": "Raoul Bhaneja",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/yuIZwbt53OJcogTfbsv2UF2TTqE.jpg"
+    },
+    {
+     "name": "Ronnie James Hughes",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Adam Moryto",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/gygnzlLONEAbRS0zSWMTZYnUd9b.jpg"
+    },
+    {
+     "name": "Beatrice Schneider",
+     "role": "Young Klara",
+     "photo": "https://image.tmdb.org/t/p/w185/jXhPH2AFoxOuMop9OGGcCHRAPav.jpg"
+    },
+    {
+     "name": "Stephen Adekolu",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/kgPVIwFPEFhUJBLJDffNsClkz0q.jpg"
+    },
+    {
+     "name": "Jenny Brizard",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ws2qhpv3q9RjpB71y9Wnl5q8WlX.jpg"
+    },
+    {
+     "name": "Shane Allenger",
+     "role": "Ship Captain",
+     "photo": null
+    },
+    {
+     "name": "Wendee Miller",
+     "role": "Religious Guest",
+     "photo": null
+    },
+    {
+     "name": "Talia Aversa",
+     "role": "Young Annika",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Darius Films",
+     "logo": "https://image.tmdb.org/t/p/w185/gDkL1DKC1IaXToq7APrT8vBXK4y.png"
+    },
+    {
+     "name": "Productivity Media",
+     "logo": "https://image.tmdb.org/t/p/w185/5BCREil54GIMdX95OopfIX05YZx.png"
+    },
+    {
+     "name": "MPX Films",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Hulu",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt32261958",
    "type": "movie",
