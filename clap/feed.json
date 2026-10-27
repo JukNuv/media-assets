@@ -1,7 +1,137 @@
 {
  "version": 1,
- "updated": "2026-10-27T10:03:29Z",
+ "updated": "2026-10-27T10:31:52Z",
  "items": [
+  {
+   "id": "movie:tt36583977",
+   "type": "movie",
+   "title": "L'Île des Souvenirs",
+   "original_title": "Forgotten Island",
+   "year": 2026,
+   "release_date": "2026-09-10",
+   "overview": "Jo et Raissa se retrouvent échouées sur le monde fantastique de l'île oubliée de Nakali. Elles découvrent que le seul moyen de rentrer chez elles pourrait bien leur coûter toute une vie de souvenirs et d'émotions.",
+   "synopsis_origin": null,
+   "rating": 7.6,
+   "runtime": 109,
+   "genres": [
+    "Animation",
+    "Aventure",
+    "Fantastique",
+    "Comédie",
+    "Familial"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=K8UZ3rWXKIk",
+   "poster": "https://image.tmdb.org/t/p/w500/cJcOqukOclDsim9Li5fCrquqtsZ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/28By7l4fBrr9ZrMkIxUT4gdpnz.png",
+   "imdb_id": "tt36583977",
+   "tmdb_url": "https://www.themoviedb.org/movie/1465063",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36583977",
+   "added_at": "2026-10-27T10:31:50Z",
+   "tagline": "Votre meilleure amitié mérite qu'on se batte pour elle.",
+   "directors": [
+    "Januel Mercado",
+    "Joel Crawford"
+   ],
+   "writers": [
+    "Joel Crawford",
+    "Januel Mercado"
+   ],
+   "cast": [
+    {
+     "name": "H.E.R.",
+     "role": "Jo (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/3OgApAmRJF6Y79HyHS1BZjNMgZd.jpg"
+    },
+    {
+     "name": "Liza Soberano",
+     "role": "Raissa (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/xsgT139b39OHdLkY87yIabNLi5Y.jpg"
+    },
+    {
+     "name": "Dave Franco",
+     "role": "Raww (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+    },
+    {
+     "name": "Jenny Slate",
+     "role": "Batiba (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/mMxsNO6r966ut0sordYzj2iDOb6.jpg"
+    },
+    {
+     "name": "Manny Jacinto",
+     "role": "Bungi (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/jMbNV4nr5647r6CZJbT6nsnspMz.jpg"
+    },
+    {
+     "name": "Lea Salonga",
+     "role": "Manang (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/cA8lv5GCU5DkZMEeplaVgttrlXr.jpg"
+    },
+    {
+     "name": "Dolly de Leon",
+     "role": "Lola Fatima (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/fwwvPAJaJA3F8P35MYGf8MmYfe8.jpg"
+    },
+    {
+     "name": "Jo Koy",
+     "role": "Datu (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/rbD9UnkYFYsmewSn2YFPI8lL5UI.jpg"
+    },
+    {
+     "name": "Ronny Chieng",
+     "role": "King Truffle Wuffle (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/yRUGjqALyg1LcJO75cO58cVJ2ud.jpg"
+    },
+    {
+     "name": "Kevin McCann",
+     "role": "Prince Mermahn (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/tY9R5lQyA0vI7Bz6COiyyzOtkqJ.jpg"
+    },
+    {
+     "name": "Kailey Crawford",
+     "role": "Young Jo / Classroom Kid 1 (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/qWRa5Ewo7P6yrUqOWhvzFJpG8I8.jpg"
+    },
+    {
+     "name": "Kayla Teruel",
+     "role": "Young Raissa (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/bMgrPLCEv5vmZqD7vgfvwEl95B7.jpg"
+    },
+    {
+     "name": "Amielynn Abellera",
+     "role": "Jane Molina (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/65epo4rlzK95b8oTFyhCQszMppp.jpg"
+    },
+    {
+     "name": "Eugene Cordero",
+     "role": "Barondo / Mr. Lopez (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/waruLSR8lXBjhAFL0J6ihuVY62d.jpg"
+    },
+    {
+     "name": "Eric Bauza",
+     "role": "Gen. Button Wutton / Sarangay (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/afOlsVPQxbtkom604MeCemjlwEV.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "DreamWorks Animation",
+     "logo": "https://image.tmdb.org/t/p/w185/3BPX5VGBov8SDqTV7wC1L1xShAS.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt31349844",
    "type": "movie",
