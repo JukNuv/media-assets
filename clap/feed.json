@@ -1,7 +1,163 @@
 {
  "version": 1,
- "updated": "2026-10-27T11:20:14Z",
+ "updated": "2026-10-27T17:32:55Z",
  "items": [
+  {
+   "id": "movie:tt43475091",
+   "type": "movie",
+   "title": "Papa panique",
+   "original_title": "Um Pai em Apuros",
+   "year": 2026,
+   "release_date": "2026-04-23",
+   "overview": "Roberta, épuisée de gérer seule la maison et les enfants, décide de partir en vacances, laissant son mari s'occuper d'eux. Résultat : la maison est sens dessus dessous, Fred tentant de concilier vie de famille et travail. Entre rires et chaos, le film montre comment une famille peut surmonter les difficultés grâce à l'union.",
+   "synopsis_origin": null,
+   "rating": 7.2,
+   "runtime": 103,
+   "genres": [
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/mbDsGUkPUW8VEatkd9BULsyx6i6.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/pt9wLsvNywyPT3485P30CPRICU.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/s2oSCQIYVigwL7cZKUwc846kzHl.png",
+   "imdb_id": "tt43475091",
+   "tmdb_url": "https://www.themoviedb.org/movie/1315843",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt43475091",
+   "added_at": "2026-10-27T17:32:54Z",
+   "tagline": null,
+   "directors": [
+    "Carolina Durão"
+   ],
+   "writers": [
+    "Fil Braz"
+   ],
+   "cast": [
+    {
+     "name": "Rafael Infante",
+     "role": "Fred",
+     "photo": "https://image.tmdb.org/t/p/w185/2z24XllVe1t8AyaAnGZpCgO84DL.jpg"
+    },
+    {
+     "name": "Dani Calabresa",
+     "role": "Roberta",
+     "photo": "https://image.tmdb.org/t/p/w185/l6HbHImwc7wcxSwYeGcm0gKg6v6.jpg"
+    },
+    {
+     "name": "Babu Santana",
+     "role": "Matheus",
+     "photo": "https://image.tmdb.org/t/p/w185/uEOL1Q3pNMZmzYF3nJcIcgeGAtV.jpg"
+    },
+    {
+     "name": "Dan Ferreira",
+     "role": "Dante",
+     "photo": "https://image.tmdb.org/t/p/w185/eceOx0dUIofJMqeRdSyoTsNxJiG.jpg"
+    },
+    {
+     "name": "Livia La Gatto",
+     "role": "Renata",
+     "photo": "https://image.tmdb.org/t/p/w185/cGAbuf3lVoqhDjnit9NF6RKRj9L.jpg"
+    },
+    {
+     "name": "Macla Tenório",
+     "role": "Brenda",
+     "photo": "https://image.tmdb.org/t/p/w185/1NxdICUF2RRp9a2gv0D75fbi6Nq.jpg"
+    },
+    {
+     "name": "Xande Valois",
+     "role": "João",
+     "photo": "https://image.tmdb.org/t/p/w185/3VhqHLIXP66WBZYigrkr0GREJXf.jpg"
+    },
+    {
+     "name": "Ana Régis",
+     "role": "Simone",
+     "photo": null
+    },
+    {
+     "name": "Docy Moreira",
+     "role": "Beth",
+     "photo": null
+    },
+    {
+     "name": "Rodolfo Vaz",
+     "role": "Pontes",
+     "photo": null
+    },
+    {
+     "name": "Bella Alelaf",
+     "role": "Malu",
+     "photo": "https://image.tmdb.org/t/p/w185/eTEoUxz0j1gvIUc1z3ZqRkjKafN.jpg"
+    },
+    {
+     "name": "Lara Infante",
+     "role": "Clarice",
+     "photo": null
+    },
+    {
+     "name": "Caio Costa",
+     "role": "TomTom",
+     "photo": null
+    },
+    {
+     "name": "Pedro Costa",
+     "role": "TomTom",
+     "photo": null
+    },
+    {
+     "name": "Manu Barbosa",
+     "role": "Bianca",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Brésil"
+   ],
+   "original_language": "Portugais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Glaz Entretenimento",
+     "logo": "https://image.tmdb.org/t/p/w185/pyFi8ylwIbhhdjU1MlReACbxdN3.png"
+    },
+    {
+     "name": "+Galeria",
+     "logo": "https://image.tmdb.org/t/p/w185/6tLVvZZN8YyfBDE0bUXHvJNeisX.png"
+    },
+    {
+     "name": "Star Original Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/eVTzWqrkdybUTGGBFl3gTq0NlRm.png"
+    },
+    {
+     "name": "Buena Vista International Brasil",
+     "logo": "https://image.tmdb.org/t/p/w185/9P9JQcn754Per4baTHwFAqaScTP.png"
+    },
+    {
+     "name": "Agência Nacional do Cinema - ANCINE",
+     "logo": "https://image.tmdb.org/t/p/w185/kyOeH5CwsaILcJItafIMAM4KElB.png"
+    },
+    {
+     "name": "Telefilms",
+     "logo": "https://image.tmdb.org/t/p/w185/88MDpKh5ikzMALnlKqFWFhiFibJ.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt34611096",
    "type": "movie",
