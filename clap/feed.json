@@ -1,7 +1,170 @@
 {
  "version": 1,
- "updated": "2026-10-27T10:03:22Z",
+ "updated": "2026-10-27T10:03:29Z",
  "items": [
+  {
+   "id": "movie:tt31349844",
+   "type": "movie",
+   "title": "Runner",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-07",
+   "overview": "Un ancien soldat se retrouve engagé dans une course contre la montre lorsqu’une livraison médicale essentielle fait de lui et de son partenaire improbable la cible d’un cartel impitoyable. La mission se transforme rapidement en une chasse à l’homme meurtrière, où chaque détour, chaque retard et chaque balle les rapprochent de l’échec. Traqués de toutes parts, ils doivent survivre à cette poursuite et livrer leur cargaison à temps pour sauver la vie d’une petite fille.",
+   "synopsis_origin": null,
+   "rating": 8.3,
+   "runtime": 97,
+   "genres": [
+    "Action",
+    "Comédie"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [
+    "Angel Studios"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=0GpEwQeO6hg",
+   "poster": "https://image.tmdb.org/t/p/w500/6DQkNOhW7p9PwxWTDuZy8tnXozK.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/pAnbApoi6DHwXzoKBfQU4M5Wr8t.png",
+   "imdb_id": "tt31349844",
+   "tmdb_url": "https://www.themoviedb.org/movie/1377237",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt31349844",
+   "added_at": "2026-10-27T10:03:28Z",
+   "tagline": "La livraison le lendemain n’est pas une option.",
+   "directors": [
+    "Scott Waugh"
+   ],
+   "writers": [
+    "Tommy White",
+    "Miles Hubley"
+   ],
+   "cast": [
+    {
+     "name": "Alan Ritchson",
+     "role": "Hank Malone",
+     "photo": "https://image.tmdb.org/t/p/w185/92YNEEpCyugkTzPprJwZpvVtvuK.jpg"
+    },
+    {
+     "name": "Owen Wilson",
+     "role": "Ben Bishop",
+     "photo": "https://image.tmdb.org/t/p/w185/5A46lNOwmpX77jAdhyKxU7e2Hub.jpg"
+    },
+    {
+     "name": "Rodrigo Santoro",
+     "role": "Damian Zaldivar",
+     "photo": "https://image.tmdb.org/t/p/w185/d3MaF9SPHDn2PMYHuqdnO0Csik6.jpg"
+    },
+    {
+     "name": "Leila George",
+     "role": "Kate Baker",
+     "photo": "https://image.tmdb.org/t/p/w185/s46DMiPDGSMq6qad5TL8mG5qfdy.jpg"
+    },
+    {
+     "name": "Kate Box",
+     "role": "Dr. Ainsley",
+     "photo": "https://image.tmdb.org/t/p/w185/zv4NckgNBn6Tc2xhCdNFFx9o9EZ.jpg"
+    },
+    {
+     "name": "Peta Sergeant",
+     "role": "Nurse Julie",
+     "photo": "https://image.tmdb.org/t/p/w185/owkSN29t7P6hpazZKsUMt7FybrP.jpg"
+    },
+    {
+     "name": "Cecilia Toussaint",
+     "role": "Donna Zaldivar",
+     "photo": "https://image.tmdb.org/t/p/w185/2dZRblt3alR4ihcBNasYDI1gwc0.jpg"
+    },
+    {
+     "name": "Geraldine Hakewill",
+     "role": "Monica",
+     "photo": "https://image.tmdb.org/t/p/w185/cMzkT78ZH4qluKg2VumKkF3eTia.jpg"
+    },
+    {
+     "name": "Goran D. Kleut",
+     "role": "Luke",
+     "photo": "https://image.tmdb.org/t/p/w185/vsN8BI3t4c8JHLoLznCZxO9gZ6r.jpg"
+    },
+    {
+     "name": "Scarlett Crabtree",
+     "role": "Ellie Baker",
+     "photo": "https://image.tmdb.org/t/p/w185/3377x3ADVhE5kuPV7JpCByqvF5r.jpg"
+    },
+    {
+     "name": "Gyton Grantley",
+     "role": "Iggy",
+     "photo": "https://image.tmdb.org/t/p/w185/misQO0AOSDeG0xKqnrRQliZT1Ep.jpg"
+    },
+    {
+     "name": "Deirdree Wallace",
+     "role": "AA Group Leader",
+     "photo": null
+    },
+    {
+     "name": "Anthony Cogin",
+     "role": "Senator Roger Cameron",
+     "photo": null
+    },
+    {
+     "name": "Thomas Larkin",
+     "role": "Tech CEO",
+     "photo": "https://image.tmdb.org/t/p/w185/t5NifuXVMEPnwIvZe6JkWuCGCWw.jpg"
+    },
+    {
+     "name": "Beth Waugh",
+     "role": "Stewardess Audrey",
+     "photo": "https://image.tmdb.org/t/p/w185/h36ZKLJRKIQz4BsUotVES2Iekgu.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis",
+    "Australie",
+    "Royaume-Uni"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Broken Road Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/f8NwLg72BByt3eav7lX1lcJfe60.png"
+    },
+    {
+     "name": "AllyCat Entertainment",
+     "logo": null
+    },
+    {
+     "name": "Nickel City Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/27Od860h9Xc7gDS3Pph6yRlUyBI.png"
+    },
+    {
+     "name": "A Higher Standard",
+     "logo": "https://image.tmdb.org/t/p/w185/aj3EiCWM5jKxDJGZh34KV6L9HcE.png"
+    },
+    {
+     "name": "G2 Dispatch",
+     "logo": null
+    },
+    {
+     "name": "International Media Funds Management",
+     "logo": "https://image.tmdb.org/t/p/w185/9IYQkwgJlOzBiWANI6krDsE3QvR.png"
+    },
+    {
+     "name": "Bright White Light",
+     "logo": "https://image.tmdb.org/t/p/w185/lvqsgXsWHX4r5jBOuvbNCpZCnBf.png"
+    },
+    {
+     "name": "2521 Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/2Rc6Dvg3tpIfDzgQE6ycWxNj0kT.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Angel Studios",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt21109170",
    "type": "movie",
