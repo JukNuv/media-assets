@@ -1,7 +1,154 @@
 {
  "version": 1,
- "updated": "2026-10-27T10:31:52Z",
+ "updated": "2026-10-27T11:20:14Z",
  "items": [
+  {
+   "id": "movie:tt34611096",
+   "type": "movie",
+   "title": "The Stunt Driver",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-25",
+   "overview": "Inspiré d'une histoire vraie, un cascadeur canadien fait appel à un agent sportif de renom et à des concepteurs de voitures de course pour tenter un saut record au-dessus du fleuve Saint-Laurent, dans l'espoir d'accéder à la gloire et à la fortune.",
+   "synopsis_origin": "deepl",
+   "rating": 5.0,
+   "runtime": 99,
+   "genres": [
+    "Comédie",
+    "Drame",
+    "Histoire"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=dcbRqIuFAiE",
+   "poster": "https://image.tmdb.org/t/p/w500/jFiMdTG8Hw41A3VxrzLEWtMFIYX.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/5e67ofJqBUK9GlIIPlNalbm8PLn.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/k9vCHe6h3eHvO8xzkCjGdfdyd81.png",
+   "imdb_id": "tt34611096",
+   "tmdb_url": "https://www.themoviedb.org/movie/1562777",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34611096",
+   "added_at": "2026-10-27T11:20:13Z",
+   "tagline": null,
+   "directors": [
+    "Michael Dowse"
+   ],
+   "writers": [
+    "Michael Dowse"
+   ],
+   "cast": [
+    {
+     "name": "Jay Baruchel",
+     "role": "Ken Carter",
+     "photo": "https://image.tmdb.org/t/p/w185/1GYJeQzPcY9Pfmc3FFsBwClkCv7.jpg"
+    },
+    {
+     "name": "Ed Helms",
+     "role": "Dick Keller",
+     "photo": "https://image.tmdb.org/t/p/w185/gPZ8tZaNQGAc3KZRIPp9rgGbEnN.jpg"
+    },
+    {
+     "name": "Ben Foster",
+     "role": "Evel Knievel",
+     "photo": "https://image.tmdb.org/t/p/w185/p5FlM9OOStD9I0Nm3GGlhaiAC5r.jpg"
+    },
+    {
+     "name": "Laurence Leboeuf",
+     "role": "Gloria",
+     "photo": "https://image.tmdb.org/t/p/w185/tbsbBn7A6tFag0eAJjH0NbnS1MX.jpg"
+    },
+    {
+     "name": "Joe Cobden",
+     "role": "Bob Fortier",
+     "photo": "https://image.tmdb.org/t/p/w185/aI26eGubA3kFhJQNoWt4gtQyviM.jpg"
+    },
+    {
+     "name": "Marc Beaupré",
+     "role": "Danny Lafortune",
+     "photo": "https://image.tmdb.org/t/p/w185/qGBBmUfj5xlDWK15po0axpTUm3K.jpg"
+    },
+    {
+     "name": "Dan Bakkedahl",
+     "role": "Bill Wilkins",
+     "photo": "https://image.tmdb.org/t/p/w185/zHDMTZe3Xjvut57oTZixURBNDHi.jpg"
+    },
+    {
+     "name": "Noah Labranche",
+     "role": "Seamus",
+     "photo": "https://image.tmdb.org/t/p/w185/5Sb2tL2Nia31afwn7haYUJoESjD.jpg"
+    },
+    {
+     "name": "Derek Johns",
+     "role": "Trevor",
+     "photo": "https://image.tmdb.org/t/p/w185/7agWChH4XehsSKxRkKHel1NdnPz.jpg"
+    },
+    {
+     "name": "Sophie-Thérèse Stone-Richards",
+     "role": "Goldie (Hypnotist)",
+     "photo": "https://image.tmdb.org/t/p/w185/inB8Wjr3tAKY7vyCYWaliMXEU9W.jpg"
+    },
+    {
+     "name": "Jonathan Cherry",
+     "role": "Ricky - Radio DJ",
+     "photo": "https://image.tmdb.org/t/p/w185/t6aBn5Dmu64XHxA6mdL5bwJ8Qx0.jpg"
+    },
+    {
+     "name": "Mitchell Eric Cohen",
+     "role": "Eli",
+     "photo": null
+    },
+    {
+     "name": "James Malloch",
+     "role": "Senior TV Exec",
+     "photo": "https://image.tmdb.org/t/p/w185/69rewT8cGSHYNVkDsdfmRqNPV44.jpg"
+    },
+    {
+     "name": "Adam Capriolo",
+     "role": "Junior TV Exec",
+     "photo": "https://image.tmdb.org/t/p/w185/ml7Mo5JHsMAoF76uUkRtt0XIx4D.jpg"
+    },
+    {
+     "name": "Nobuya Shimamoto",
+     "role": "Mr. Kimura - Exec. Producer",
+     "photo": "https://image.tmdb.org/t/p/w185/ocn3uQD9E01BTe3bQkeN9r0KE8M.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Canada",
+    "Royaume-Uni"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Film Cardinal",
+     "logo": null
+    },
+    {
+     "name": "Protagonist Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/aomeUwZLIBjGXHfuZq7HTVk7UNb.png"
+    },
+    {
+     "name": "Mongrel Media",
+     "logo": "https://image.tmdb.org/t/p/w185/N9CoGbHpYbA93wogwbKGN3MhDh.png"
+    },
+    {
+     "name": "Crave",
+     "logo": "https://image.tmdb.org/t/p/w185/psBLfwHCfU9A4U9bWmeWF8AlSqr.png"
+    },
+    {
+     "name": "Canada Media Fund | Fonds des médias du Canada",
+     "logo": "https://image.tmdb.org/t/p/w185/eHlBG6INdNO7IfsxVX1kDDBKnJi.png"
+    },
+    {
+     "name": "CBC Films",
+     "logo": "https://image.tmdb.org/t/p/w185/2Ec5G6rTVSpXZB95v6rFlAfKiw4.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt36583977",
    "type": "movie",
