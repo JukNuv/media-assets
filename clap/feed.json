@@ -1,7 +1,158 @@
 {
  "version": 1,
- "updated": "2026-10-28T14:04:53Z",
+ "updated": "2026-10-28T20:03:54Z",
  "items": [
+  {
+   "id": "series:tt30293074",
+   "type": "series",
+   "title": "Comment traduire cet amour ?",
+   "original_title": "이 사랑 통역 되나요?",
+   "year": 2026,
+   "release_date": "2026-01-16",
+   "overview": "Pas facile de se comprendre pour une célébrité et son interprète alors qu'ils parcourent le monde pour une émission de télévision. Trouveront-ils le langage de l'amour ?",
+   "synopsis_origin": null,
+   "rating": 8.4,
+   "runtime": 75,
+   "genres": [
+    "Drame",
+    "Comédie"
+   ],
+   "status": "Terminée",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=lGd0uAEJBQA",
+   "poster": "https://image.tmdb.org/t/p/w500/rzjWCXvQFpYB4GDnVEw61kePUgu.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/x3aUyOT8rW3kzFPE9eIwiJe9AfG.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/ihXgzcYTimzAtwPaVb7NH0yvy0Z.png",
+   "imdb_id": "tt30293074",
+   "tmdb_url": "https://www.themoviedb.org/tv/229891",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt30293074",
+   "added_at": "2026-10-28T20:03:52Z",
+   "tagline": "Certains sentiments ne se traduisent pas…",
+   "directors": [
+    "홍정은",
+    "홍미란",
+    "유영은"
+   ],
+   "seasons": 1,
+   "episodes": 12,
+   "cast": [
+    {
+     "name": "Kim Seon-ho",
+     "role": "Joo Ho-jin",
+     "photo": "https://image.tmdb.org/t/p/w185/alng9fwgzTN1roULyQPKEtKSmk3.jpg"
+    },
+    {
+     "name": "Go Youn-jung",
+     "role": "Cha Mu-hee",
+     "photo": "https://image.tmdb.org/t/p/w185/1AlwvzW8dUvJXreVvzyTXsa6FOh.jpg"
+    },
+    {
+     "name": "福士蒼汰",
+     "role": "Hiro Kurosawa",
+     "photo": "https://image.tmdb.org/t/p/w185/htkmq6HD2PckU8HagGVkL9Qyw1C.jpg"
+    },
+    {
+     "name": "이이담",
+     "role": "Shin Ji-seon",
+     "photo": "https://image.tmdb.org/t/p/w185/raND8efeLH0TmIgs6ZSzgp42the.jpg"
+    },
+    {
+     "name": "최우성",
+     "role": "Kim Yong-woo",
+     "photo": "https://image.tmdb.org/t/p/w185/rtVfcQa6ZNbOky8qllrlyER0XV9.jpg"
+    },
+    {
+     "name": "Kim Won-hae",
+     "role": "Kim Yeong-hwan",
+     "photo": "https://image.tmdb.org/t/p/w185/nWZGktRe2Ele7fLxZt8e492oRir.jpg"
+    },
+    {
+     "name": "Baek Joo-hee",
+     "role": "Cho Yeong-a",
+     "photo": "https://image.tmdb.org/t/p/w185/2WQk6ZY1Cj50WQMrJyUim9cDvdC.jpg"
+    },
+    {
+     "name": "곽민규",
+     "role": "Park PD",
+     "photo": "https://image.tmdb.org/t/p/w185/1YQosUxoE9TPduljeQ9Fb7BRksZ.jpg"
+    },
+    {
+     "name": "玄理",
+     "role": "Nanami",
+     "photo": "https://image.tmdb.org/t/p/w185/u7st8OeVA4E1i20Q9PlN43Keeuf.jpg"
+    },
+    {
+     "name": "Sung Joon",
+     "role": "Na Jin-seok",
+     "photo": "https://image.tmdb.org/t/p/w185/375rx6041ov9kLc6G36CGf4kwx4.jpg"
+    },
+    {
+     "name": "Alberto Mondi",
+     "role": "Andre",
+     "photo": "https://image.tmdb.org/t/p/w185/ul2I998oxAxRAXuL8oIZSLDsb8F.jpg"
+    },
+    {
+     "name": "우미화",
+     "role": "Mu-hee's Aunt",
+     "photo": "https://image.tmdb.org/t/p/w185/vdQM14Su0CKBGiqvCs1X7rHhyei.jpg"
+    },
+    {
+     "name": "신문성",
+     "role": "Mu-hee's Uncle",
+     "photo": "https://image.tmdb.org/t/p/w185/aICrE8zEb5NQkCOp4h7xHj5lCCV.jpg"
+    },
+    {
+     "name": "정보람",
+     "role": "Mu-hee's Stylist",
+     "photo": "https://image.tmdb.org/t/p/w185/qlSH6XEPCzGV8XQ1ufKaHW5tUx1.jpg"
+    },
+    {
+     "name": "Im Cheol-soo",
+     "role": "Kim Jeong-su (Kim PD)",
+     "photo": "https://image.tmdb.org/t/p/w185/6KKNwe9iXNBFhiXcNdpFNEFYCUD.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Corée du Sud"
+   ],
+   "original_language": "Coréen",
+   "tmdb_status": "Terminée",
+   "production": [
+    {
+     "name": "TREE studio",
+     "logo": null
+    },
+    {
+     "name": "IMAGINUS",
+     "logo": null
+    },
+    {
+     "name": "Studio Sot",
+     "logo": null
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt43655467",
    "type": "movie",
