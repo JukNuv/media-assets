@@ -1,7 +1,161 @@
 {
  "version": 1,
- "updated": "2026-10-28T20:03:54Z",
+ "updated": "2026-10-28T21:08:23Z",
  "items": [
+  {
+   "id": "movie:tt40336528",
+   "type": "movie",
+   "title": "Lettres d'amour à Philadelphie",
+   "original_title": "To Philly with Love",
+   "year": 2026,
+   "release_date": "2026-04-18",
+   "overview": "Une enseignante et un archiviste déchiffrent des lettres d'amour datant de la guerre d'Indépendance. Cette aventure palpitante à Philadelphie leur fait découvrir l'histoire et vivre leur propre romance.",
+   "synopsis_origin": null,
+   "rating": 5.7,
+   "runtime": 90,
+   "genres": [
+    "Romance"
+   ],
+   "lang_tag": "FRENCH",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "fuboTV",
+    "Philo",
+    "YouTube TV",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Hallmark TV Amazon Channel"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/hr7AI4AnkucXPaYdoMXN2CSjMax.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/yXGEmt7Fyofr2I3ccWLrZ3tohVq.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/jDwU0WmBu8WM8CJkrF4ZDAk19cB.png",
+   "imdb_id": "tt40336528",
+   "tmdb_url": "https://www.themoviedb.org/movie/1645241",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt40336528",
+   "added_at": "2026-10-28T21:08:22Z",
+   "tagline": null,
+   "directors": [
+    "Amy Force"
+   ],
+   "writers": [],
+   "cast": [
+    {
+     "name": "Rebecca Dalton",
+     "role": "Emma",
+     "photo": "https://image.tmdb.org/t/p/w185/dTsw3WJImhlgsajfzQvkIxqyYD7.jpg"
+    },
+    {
+     "name": "Stephen Huszar",
+     "role": "Nate",
+     "photo": "https://image.tmdb.org/t/p/w185/l5gfPIcngMlJ92IuKRjeFv1Dkta.jpg"
+    },
+    {
+     "name": "Precious Chong",
+     "role": "Diane",
+     "photo": "https://image.tmdb.org/t/p/w185/6eH5IgwiRkL6nNoz5fVDOCBgT70.jpg"
+    },
+    {
+     "name": "Michael Dickson",
+     "role": "Richard Kent",
+     "photo": "https://image.tmdb.org/t/p/w185/fweQ6EXHpKjnnVuAvjHZFpNHOuP.jpg"
+    },
+    {
+     "name": "Mylene Carino",
+     "role": "Linda",
+     "photo": "https://image.tmdb.org/t/p/w185/2NYrSux6oieMyJIbl8IAjdYjqeo.jpg"
+    },
+    {
+     "name": "Lawrene Denkers",
+     "role": "Nancy",
+     "photo": "https://image.tmdb.org/t/p/w185/uDFdK0PVtAHrWZavx8TbatCxRK1.jpg"
+    },
+    {
+     "name": "Monica Rodriguez Knox",
+     "role": "Sonya",
+     "photo": "https://image.tmdb.org/t/p/w185/2Ela65jtumxkIP9wMY0BEh2rLES.jpg"
+    },
+    {
+     "name": "Leslie Ann Coles",
+     "role": "Mrs. Langford",
+     "photo": "https://image.tmdb.org/t/p/w185/2EOydiiQRzSqTforgS8M28WMCMM.jpg"
+    },
+    {
+     "name": "Jacqueline Ashton",
+     "role": "Colonial Tour Guide",
+     "photo": "https://image.tmdb.org/t/p/w185/65lh5yF8rLUwd3Yp38TjIUt0Tgi.jpg"
+    },
+    {
+     "name": "Tazito Garcia",
+     "role": "Buyer",
+     "photo": "https://image.tmdb.org/t/p/w185/llKNE7c8S7OjeOKv61Le158aOkU.jpg"
+    },
+    {
+     "name": "Deanna Mae Lloyd",
+     "role": "Mrs. Pembroke",
+     "photo": "https://image.tmdb.org/t/p/w185/ys0d1qOWYfCPmF7jK7JEJ5v4TgS.jpg"
+    },
+    {
+     "name": "Abigail Nicholson",
+     "role": "VO Mary",
+     "photo": "https://image.tmdb.org/t/p/w185/jGs9tTRDOLkA5Xs3p8uY53kOcZe.jpg"
+    },
+    {
+     "name": "Michael Swatton",
+     "role": "VO Jonathan",
+     "photo": "https://image.tmdb.org/t/p/w185/28SXx8CtFWNCeIjMIcgjiPtnjqK.jpg"
+    },
+    {
+     "name": "Bezaleel Joy Ugo",
+     "role": "Female Student",
+     "photo": null
+    },
+    {
+     "name": "Brett Wolfe",
+     "role": "Frank Callahan",
+     "photo": "https://image.tmdb.org/t/p/w185/eEhb7PMiHX5qnzZMDb7ujrzmzEF.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Hallmark Media",
+     "logo": "https://image.tmdb.org/t/p/w185/tWxubAjwO1QtLLWdnUR1bjS1vvf.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "fuboTV",
+     "logo": null
+    },
+    {
+     "name": "Philo",
+     "logo": null
+    },
+    {
+     "name": "YouTube TV",
+     "logo": null
+    },
+    {
+     "name": "Hallmark+ Amazon Channel",
+     "logo": null
+    },
+    {
+     "name": "Hallmark+ Apple TV channel",
+     "logo": null
+    },
+    {
+     "name": "Hallmark TV Amazon Channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt30293074",
    "type": "series",
