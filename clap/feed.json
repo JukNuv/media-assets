@@ -1,7 +1,141 @@
 {
  "version": 1,
- "updated": "2026-10-28T10:07:47Z",
+ "updated": "2026-10-28T14:04:53Z",
  "items": [
+  {
+   "id": "movie:tt43655467",
+   "type": "movie",
+   "title": "Ali G : J'suis qui ?",
+   "original_title": "Ali G: Who Iz I?",
+   "year": 2026,
+   "release_date": "2026-10-22",
+   "overview": "Après vingt ans passés à \"se la couler douce, fumer et s'envoyer en l'air\", Ali G découvre que sa petite amie de longue date, Julie, est enceinte de 8 mois. Face à une bouche de plus à nourrir, il se bouge enfin et part aux États-Unis pour retrouver sa gloire d'antan. Mais il se heurte vite à des ennemis qui vont menacer son existence et celle de son enfant.",
+   "synopsis_origin": null,
+   "rating": 6.8,
+   "runtime": 89,
+   "genres": [
+    "Comédie"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": "Ali G [Collection]",
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=pV32AcPa-iA",
+   "poster": "https://image.tmdb.org/t/p/w500/uTyVxPeWX8Ai30IQoyDDQONNcq.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/hJcGJLi34zE4RhzsiDR6f7pw50K.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/tkJde756JqpOKItAMJtMpzAIYI7.png",
+   "imdb_id": "tt43655467",
+   "tmdb_url": "https://www.themoviedb.org/movie/1727734",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt43655467",
+   "added_at": "2026-10-28T14:04:51Z",
+   "tagline": "Vivre à fond.",
+   "directors": [
+    "Sacha Baron Cohen"
+   ],
+   "writers": [
+    "Sacha Baron Cohen",
+    "Anthony Hines",
+    "Peter Baynham"
+   ],
+   "cast": [
+    {
+     "name": "Sacha Baron Cohen",
+     "role": "Alistair Leslie 'Ali G' Graham/Colonel Erran Morad/Dr. Nira Cain-N'Degeocello",
+     "photo": "https://image.tmdb.org/t/p/w185/bGzXHu8zwWqUY5gEExSh3deQd2j.jpg"
+    },
+    {
+     "name": "Morgana Robinson",
+     "role": "Julie",
+     "photo": "https://image.tmdb.org/t/p/w185/guBJRfTPeLBd3RxbhzUIi3cl242.jpg"
+    },
+    {
+     "name": "A$AP Rocky",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/gL0NFnIrqLosSbdxAHExOHAMkFH.jpg"
+    },
+    {
+     "name": "Rihanna",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/piXUA7L0gWQNtnDPXtBe24C9FF6.jpg"
+    },
+    {
+     "name": "C. Stewart Rodeheaver",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/3WfT4GuEgDjIGiNoYAsAKrksk53.jpg"
+    },
+    {
+     "name": "Allan Lichtman",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/sHQ0PyyHoFGIbZfK7eXCWPQCm5L.jpg"
+    },
+    {
+     "name": "George Santos",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/ykAgjjc5UdhyTsp0PIKlbKoFIrV.jpg"
+    },
+    {
+     "name": "Clive Russell",
+     "role": "Malcolm “Rocky” Atkins",
+     "photo": "https://image.tmdb.org/t/p/w185/eC37Kmdo5YKNG2MyirCG4tWDxCS.jpg"
+    },
+    {
+     "name": "Tiffany Haddish",
+     "role": "Lab Technician",
+     "photo": "https://image.tmdb.org/t/p/w185/8Db5Q34nvTlaTLnRlwXOiealCbE.jpg"
+    },
+    {
+     "name": "DJ Jazzy Jeff",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/7k1zF7LAn4QgG5HdVBrLmscLMif.jpg"
+    },
+    {
+     "name": "Alpha Miknas",
+     "role": "Manu",
+     "photo": null
+    },
+    {
+     "name": "Newt Gingrich",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/A1ehXjF0gY8bax7tF1be9R1JbkM.jpg"
+    },
+    {
+     "name": "Ralph Norman",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/bFDaTbgVEVvWlbAj6RMYMUuJPGy.jpg"
+    },
+    {
+     "name": "Andy Harris",
+     "role": "Self",
+     "photo": null
+    },
+    {
+     "name": "Joshua Loudermilk",
+     "role": "Self",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Royaume-Uni"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Four by Two Films",
+     "logo": null
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Working Title",
+     "logo": "https://image.tmdb.org/t/p/w185/16KWBMmfPX0aJzDExDrPxSLj0Pg.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt37180686",
    "type": "movie",
