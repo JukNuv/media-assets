@@ -1,7 +1,130 @@
 {
  "version": 1,
- "updated": "2026-10-27T17:32:55Z",
+ "updated": "2026-10-28T08:04:50Z",
  "items": [
+  {
+   "id": "series:tt39050356",
+   "type": "series",
+   "title": "Un jour on fera l'amour",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-22",
+   "overview": "Pendant un été caniculaire, Aurore et Noé, deux trentenaires cabossés passent une soirée dans un bar. Entre drame et comédie romantique, la minisérie “Un jour on fera l'amour” de Jérôme Bonnell capte avec finesse les quarante-huit premières heures d'une rencontre entre deux trentenaires. Meilleure série comédie au Festival de la fiction de La Rochelle 2026.",
+   "synopsis_origin": null,
+   "rating": 10.0,
+   "runtime": 52,
+   "genres": [
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=fQZqpd0bswM",
+   "poster": "https://image.tmdb.org/t/p/w500/6FJuPK36Vo4RhKEmmELvtPrpNq3.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/k3BirjENILkafmtArLmsN4N8w5p.jpg",
+   "logo": "",
+   "imdb_id": "tt39050356",
+   "tmdb_url": "https://www.themoviedb.org/tv/299249",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39050356",
+   "added_at": "2026-10-28T08:04:48Z",
+   "tagline": null,
+   "directors": [
+    "Jérôme Bonnell"
+   ],
+   "seasons": 1,
+   "episodes": 3,
+   "cast": [
+    {
+     "name": "Natacha Krief",
+     "role": "Aurore",
+     "photo": "https://image.tmdb.org/t/p/w185/aOtEIyB7OIVfq5bcwybjbIrNLCC.jpg"
+    },
+    {
+     "name": "Édouard Sulpice",
+     "role": "Noé",
+     "photo": "https://image.tmdb.org/t/p/w185/4hprH6ffD2ehg5TNIKkxUggJQ0w.jpg"
+    },
+    {
+     "name": "Laurent Stocker",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/4EhK8uFnlSjoFXi6Mz7a6dSO5W1.jpg"
+    },
+    {
+     "name": "Olivia Côte",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/1ZOrkqlyDsGDUDEvbrSfU4Gx5iB.jpg"
+    },
+    {
+     "name": "Charlotte Laemmel",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/257x2ZvPtbv3BQcDHhlEa0dnC8A.jpg"
+    },
+    {
+     "name": "Marc Citti",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/2JBiL4zPNzv0b2DxqZcE4B3UaYU.jpg"
+    },
+    {
+     "name": "Iris Pontoz",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Victoria Eber",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/mxJ3Z5sQdCPaDYRRzmnmVmszVq8.jpg"
+    },
+    {
+     "name": "Martin Parlange",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Jeanne Cherhal",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/6p32tN2Yo3y1TdDYTkHJUplwqLZ.jpg"
+    },
+    {
+     "name": "Clément Bertani",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/aXl7sB7iDlPkBPZq4uVgiOnMPqh.jpg"
+    },
+    {
+     "name": "Matthieu Lucci",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/bT2ADMuICq92GzfjSX9bDN5hENg.jpg"
+    },
+    {
+     "name": "Olivier Broche",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/92g3EdByuinF44Rc1fspIo7cUQc.jpg"
+    },
+    {
+     "name": "Chloé Lecerf",
+     "role": null,
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Stromboli Films",
+     "logo": null
+    },
+    {
+     "name": "ARTE",
+     "logo": "https://image.tmdb.org/t/p/w185/6UIpEURdjnmcJPwgTDRzVRuwADr.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt43475091",
    "type": "movie",
