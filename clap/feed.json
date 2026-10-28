@@ -1,7 +1,119 @@
 {
  "version": 1,
- "updated": "2026-10-28T08:04:50Z",
+ "updated": "2026-10-28T10:07:47Z",
  "items": [
+  {
+   "id": "movie:tt37180686",
+   "type": "movie",
+   "title": "Drive - The Pretenders",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-27",
+   "overview": "Une jeune mécanicienne accepte de jouer la fiancée d'un champion automobile en pleine disgrâce, en apparence pour aider à redorer l'image du pilote, en secret pour s'offrir sa chance au volant. Mais le mensonge menace bientôt de tout détruire, y compris ce qui est devenu bien plus qu'un simple arrangement…",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 102,
+   "genres": [
+    "Romance",
+    "Thriller"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=dwwziKYmrmA",
+   "poster": "https://image.tmdb.org/t/p/w500/bLDFCD3vMxeJJ5o8F4FOksnb0Fd.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/4yhMroSvsvdYjZGx6T575aTkyB8.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/vIY7hkuhytQv8EgbeUvxjdUgVFL.png",
+   "imdb_id": "tt37180686",
+   "tmdb_url": "https://www.themoviedb.org/movie/1596275",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37180686",
+   "added_at": "2026-10-28T10:07:45Z",
+   "tagline": "Deux pilotes. Une fausse relation. Et une alchimie qu’aucun des deux n’avait vu venir.",
+   "directors": [
+    "Sergej Moya"
+   ],
+   "writers": [
+    "Chris Silber",
+    "Malina Nwabuonwor",
+    "Tamara Lush"
+   ],
+   "cast": [
+    {
+     "name": "Lisa-Marie Koroll",
+     "role": "Sarah Jenkins",
+     "photo": "https://image.tmdb.org/t/p/w185/kgCzVmxbvS40J3bOK9AMlefmnDr.jpg"
+    },
+    {
+     "name": "Amin Baahmed",
+     "role": "Dante Annunziata",
+     "photo": "https://image.tmdb.org/t/p/w185/oyFyPJkzefovbnRE6DnWwwYLZaD.jpg"
+    },
+    {
+     "name": "Gustav Schmidt",
+     "role": "Ruben",
+     "photo": "https://image.tmdb.org/t/p/w185/okAsgPvMjDEVkLg5S2lyfZbsGvD.jpg"
+    },
+    {
+     "name": "Mišel Matičević",
+     "role": "Bronson",
+     "photo": "https://image.tmdb.org/t/p/w185/jKYzgKIBs4O7eBBMDKk1T5RWYjN.jpg"
+    },
+    {
+     "name": "Lucie Heinze",
+     "role": "Tanya",
+     "photo": "https://image.tmdb.org/t/p/w185/mOOEz6Xx06RGPn6Wqo2Thy4H2XI.jpg"
+    },
+    {
+     "name": "Frederic Linkemann",
+     "role": "Jack",
+     "photo": "https://image.tmdb.org/t/p/w185/8QAKcViNunDHR07kJx6bNMAfEon.jpg"
+    },
+    {
+     "name": "Inka Friedrich",
+     "role": "Irene Jenkins",
+     "photo": "https://image.tmdb.org/t/p/w185/a90LTNdgFE5NHPGTNurWO2IXKhc.jpg"
+    },
+    {
+     "name": "Jeanette Hain",
+     "role": "Sofia Annunziata",
+     "photo": "https://image.tmdb.org/t/p/w185/6FkzcacM6wCKovrE7OIvN74KPMZ.jpg"
+    },
+    {
+     "name": "Philippe Brenninkmeyer",
+     "role": "Richter",
+     "photo": "https://image.tmdb.org/t/p/w185/cfYuU75rDWr5xnpodR7FLbzvv4o.jpg"
+    },
+    {
+     "name": "Steven Gätjen",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/4mCkEUgCeHtfsVnbwyjwPePTWAt.jpg"
+    },
+    {
+     "name": "Leslie Malton",
+     "role": "Eva Maria Fischer",
+     "photo": "https://image.tmdb.org/t/p/w185/sC8tgPm1jF73u2eeK2ZiZ9uI3MA.jpg"
+    },
+    {
+     "name": "Alexander Prince Osei",
+     "role": "Reporter",
+     "photo": "https://image.tmdb.org/t/p/w185/u27pVeDSRlMZ0pn8xwgHmDFzqWe.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Allemagne"
+   ],
+   "original_language": "Allemand",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Bavaria Fiction",
+     "logo": "https://image.tmdb.org/t/p/w185/liznTlaTMPe5rcFO5wSTSJAzyKj.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt39050356",
    "type": "series",
