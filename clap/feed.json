@@ -1,7 +1,87 @@
 {
  "version": 1,
- "updated": "2026-10-29T10:05:14Z",
+ "updated": "2026-10-29T10:05:21Z",
  "items": [
+  {
+   "id": "movie:tt33249097",
+   "type": "movie",
+   "title": "Affection",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-05-08",
+   "overview": "Ellie ne cesse de perdre la mémoire, jusqu'à oublier sa propre famille. Mais à chaque fois qu'elle revient à elle, des bribes d'une autre vie, inconnue et troublante, l'accompagnent.",
+   "synopsis_origin": null,
+   "rating": 5.6,
+   "runtime": 90,
+   "genres": [
+    "Horreur",
+    "Science-Fiction"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "TVING"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=_3IZzygr-HA",
+   "poster": "https://image.tmdb.org/t/p/w500/3b3wC8JFjURlMsFj9gqbv0SyTJs.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/a7VEgrESjAnoAUgonPEDXkzol2f.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/fKxuJQU1DbufnxD7JbhcXMLK2wy.png",
+   "imdb_id": "tt33249097",
+   "tmdb_url": "https://www.themoviedb.org/movie/1339210",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt33249097",
+   "added_at": "2026-10-29T10:05:20Z",
+   "tagline": null,
+   "directors": [
+    "BT Meza"
+   ],
+   "writers": [
+    "BT Meza"
+   ],
+   "cast": [
+    {
+     "name": "Jessica Rothe",
+     "role": "Ellie Carter",
+     "photo": "https://image.tmdb.org/t/p/w185/oItPXy56W0Y5taqIMZilRtnPDMn.jpg"
+    },
+    {
+     "name": "Joseph Cross",
+     "role": "Bruce Carter",
+     "photo": "https://image.tmdb.org/t/p/w185/gQoRzWwHTTI614l0DETXeeVf4kD.jpg"
+    },
+    {
+     "name": "Julianna Layne",
+     "role": "Alice Carter",
+     "photo": "https://image.tmdb.org/t/p/w185/6uHCn1tfMXpA2wrqr9GmnyC1Qco.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Superconductive",
+     "logo": null
+    },
+    {
+     "name": "Minutehand Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/tsuWPN5YdahhDmXkndvXGkikwCV.png"
+    },
+    {
+     "name": "Circa 1888",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "TVING",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt39368183",
    "type": "movie",
