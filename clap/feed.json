@@ -1,7 +1,105 @@
 {
  "version": 1,
- "updated": "2026-10-29T10:05:04Z",
+ "updated": "2026-10-29T10:05:14Z",
  "items": [
+  {
+   "id": "movie:tt39368183",
+   "type": "movie",
+   "title": "Permis de détruire",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-03-11",
+   "overview": "Dominique lutte pour concrétiser son rêve corse entre son cabinet médical en chantier et son combat contre une centrale électrique controversée. Quand Olivier, son ami psychanalyste en plein divorce, débarque pour refaire sa vie sur l’île, les deux pinzuti (Français du continent) aidés de leur ami corse Santu, vont tout faire pour s’intégrer à la culture insulaire pour le meilleur et le pire.",
+   "synopsis_origin": null,
+   "rating": 5.8,
+   "runtime": 97,
+   "genres": [
+    "Comédie"
+   ],
+   "lang_tag": "FRENCH",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=JPeYOmlzlXc",
+   "poster": "https://image.tmdb.org/t/p/w500/gZQmPbQ9jo44jj9h4OSb61j14RD.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/gClzCtZUM5KNvRiQEVxUUKAbxQ3.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/57kQwcCJlOa5KV4NYTVDcldJmTr.png",
+   "imdb_id": "tt39368183",
+   "tmdb_url": "https://www.themoviedb.org/movie/1538731",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39368183",
+   "added_at": "2026-10-29T10:05:12Z",
+   "tagline": null,
+   "directors": [
+    "Éric Fraticelli"
+   ],
+   "writers": [
+    "Éric Fraticelli"
+   ],
+   "cast": [
+    {
+     "name": "Kad Merad",
+     "role": "Dominique",
+     "photo": "https://image.tmdb.org/t/p/w185/n4hjy7VFVgzRx5WVsElv4AKdotB.jpg"
+    },
+    {
+     "name": "Patrick Timsit",
+     "role": "Olivier",
+     "photo": "https://image.tmdb.org/t/p/w185/lS22SWFT4jo4mgfC0HsbgMstPf2.jpg"
+    },
+    {
+     "name": "Éric Fraticelli",
+     "role": "Santu",
+     "photo": "https://image.tmdb.org/t/p/w185/18gc0wr8tZpIDKHqRnoryVSKRjj.jpg"
+    },
+    {
+     "name": "Claude Perron",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/dyR2HjTzWo5qBqUs5msvowQpeu5.jpg"
+    },
+    {
+     "name": "Philippe Corti",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/zVvX5PF5Qt1Ae3CkZqlOanmJgXB.jpg"
+    },
+    {
+     "name": "Marie-Pierre Nouveau",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/oUXfxzmlKrIXB3zkSu0r1OorPD1.jpg"
+    },
+    {
+     "name": "Michel Ferracci",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "La Petite Culotte",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/3dTA36bOoPRva99NgIWKoicnGQc.jpg"
+    },
+    {
+     "name": "Jean-François Perrone",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ArHz4PJ3Up9RUBDyETRQEkpFHOM.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Marvelous Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/1LT1nCWM3A8D2KSLoQkbbFnWGRh.png"
+    },
+    {
+     "name": "Pan Cinéma",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt35856133",
    "type": "movie",
