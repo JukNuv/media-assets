@@ -1,7 +1,134 @@
 {
  "version": 1,
- "updated": "2026-10-29T10:05:21Z",
+ "updated": "2026-10-29T16:30:40Z",
  "items": [
+  {
+   "id": "movie:tt38504402",
+   "type": "movie",
+   "title": "Toi, Moi, Nous",
+   "original_title": "Noi un po' meglio",
+   "year": 2026,
+   "release_date": "2026-10-29",
+   "overview": "Simone, un homme organisé et profondément attaché aux valeurs familiales, partage sa vie avec Lucia, une femme indépendante qui a toujours rejeté l'idée de devenir mère. Malgré leurs différences, leur couple repose sur un amour solide et de perpétuelles négociations. Mais lorsqu'ils décident d'adopter un enfant, leurs convictions et leurs désirs contradictoires refont surface, mettant leur relation à l'épreuve.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Drame",
+    "Comédie"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/kw0sXl9LAikT65wq7NwY3y9g45K.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/u2Fiz8KC804t9Go2jG2KRxiGzRZ.jpg",
+   "logo": "",
+   "imdb_id": "tt38504402",
+   "tmdb_url": "https://www.themoviedb.org/movie/1541477",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt38504402",
+   "added_at": "2026-10-29T16:30:39Z",
+   "tagline": null,
+   "directors": [
+    "Daniele Luchetti"
+   ],
+   "writers": [
+    "Daniele Luchetti",
+    "Enrico Audenino",
+    "Davide Lantieri"
+   ],
+   "cast": [
+    {
+     "name": "Elio Germano",
+     "role": "Simone",
+     "photo": "https://image.tmdb.org/t/p/w185/2Z6SHTOQ9XuKdFlFpKZ2yPCpald.jpg"
+    },
+    {
+     "name": "Maria Chiara Giannetta",
+     "role": "Lucia",
+     "photo": "https://image.tmdb.org/t/p/w185/hej1rYJi1qZ5LuIylFh0gMZqOHF.jpg"
+    },
+    {
+     "name": "Lidia Vitale",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/8IXqzKAqVqeT6b9pP8WGH5mTF7d.jpg"
+    },
+    {
+     "name": "Anna Bonaiuto",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/1istMMsr34yfaYCnNyW8SFVMuU5.jpg"
+    },
+    {
+     "name": "Diop Virginia",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/kyJkL0VMZLYNUEn6jUvVXRSefuo.jpg"
+    },
+    {
+     "name": "Francesca De Martini",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ky2R6fkYU15ALp5PysYTR6DfkIU.jpg"
+    },
+    {
+     "name": "Caterina Guzzanti",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/hhzgOoBFkIexBWGXqxyP3jRwIWc.jpg"
+    },
+    {
+     "name": "Sofia Luchetti",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Filippo Nigro",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/84QswEDfCsGB6hbaOHn68GhkR3S.jpg"
+    },
+    {
+     "name": "Bianca Mastromonaco",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Dajana Roncione",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/sahyuo3rwcFIwaV5kH54t4i5Y3f.jpg"
+    },
+    {
+     "name": "Ilaria Spada",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/prFfk5rFWVN6hzfQop7AQxhp3PV.jpg"
+    },
+    {
+     "name": "Manuela Spartà",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/s84j2Vg5SklD17C4uRlqvTWXDZ4.jpg"
+    },
+    {
+     "name": "Federico Tocci",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/16vYseJbnyqEDiVs9H1mqeU6awN.jpg"
+    },
+    {
+     "name": "Vito Vinci",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/eJVoA5r2CjSMUJpOk7o0mS8W7Tl.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Italie"
+   ],
+   "original_language": "Italien",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Lucky Red",
+     "logo": "https://image.tmdb.org/t/p/w185/KFFOFoztyjV5epvnW5GerPbcvx.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt33249097",
    "type": "movie",
