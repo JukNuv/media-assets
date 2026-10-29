@@ -1,7 +1,164 @@
 {
  "version": 1,
- "updated": "2026-10-28T21:08:23Z",
+ "updated": "2026-10-29T10:05:04Z",
  "items": [
+  {
+   "id": "movie:tt35856133",
+   "type": "movie",
+   "title": "La Bataille de Gaulle : J’écris ton nom",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-26",
+   "overview": "Juin 1940. La France s'effondre et signe l'armistice. Au milieu du chaos, un homme refuse de céder. Seul contre tous, ce général inconnu s'échappe vers Londres pour sauver ce qui reste d'un rêve : la liberté. Sans armée, sans appui, sans espoir. Mais avec une folle conviction : la France, sa France, n'a pas déposé les armes. Il tente un ultime pari : convaincre le monde que la bataille de France n'est ni terminée, ni perdue.",
+   "synopsis_origin": null,
+   "rating": 7.8,
+   "runtime": 160,
+   "genres": [
+    "Histoire",
+    "Drame",
+    "Guerre"
+   ],
+   "lang_tag": "FRENCH",
+   "lang_label": null,
+   "collection": "La Bataille de Gaulle - Saga [Collection]",
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=PCv8lJ5KfIc",
+   "poster": "https://image.tmdb.org/t/p/w500/9qc5CzjnxGpjpuwVlIziVr7ODcL.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/gU93hJIAVsx088tBVumH3Z0jPVM.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/bbJxhhprpLIsnYeZHE2fhx2dtCO.png",
+   "imdb_id": "tt35856133",
+   "tmdb_url": "https://www.themoviedb.org/movie/1165369",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt35856133",
+   "added_at": "2026-10-29T10:05:03Z",
+   "tagline": null,
+   "directors": [
+    "Antonin Baudry"
+   ],
+   "writers": [
+    "Antonin Baudry",
+    "Bérénice Vila"
+   ],
+   "cast": [
+    {
+     "name": "Simon Abkarian",
+     "role": "Charles de Gaulle",
+     "photo": "https://image.tmdb.org/t/p/w185/rpw1AujIl0vJD6cyMDo2ykJ8rZA.jpg"
+    },
+    {
+     "name": "Niels Schneider",
+     "role": "Général Leclerc",
+     "photo": "https://image.tmdb.org/t/p/w185/eG7go6nzgnb791avzYoN7GSqPd6.jpg"
+    },
+    {
+     "name": "Thierry Lhermitte",
+     "role": "Henri Giraud",
+     "photo": "https://image.tmdb.org/t/p/w185/50kQVqmD1XnGRlgTPsVRhECaRae.jpg"
+    },
+    {
+     "name": "Karim Leklou",
+     "role": "Blazej",
+     "photo": "https://image.tmdb.org/t/p/w185/bgOpQ2WAwvxLFoRYFsPRAT0esAh.jpg"
+    },
+    {
+     "name": "Anamaria Vartolomei",
+     "role": "Livia",
+     "photo": "https://image.tmdb.org/t/p/w185/jRU3453OyqirChIl2EEevhliAjq.jpg"
+    },
+    {
+     "name": "Simon Russell Beale",
+     "role": "Winston Churchill",
+     "photo": "https://image.tmdb.org/t/p/w185/uw0ngaqgT8qXwJqVr353cx1mEdB.jpg"
+    },
+    {
+     "name": "Kacey Mottet Klein",
+     "role": "Courcel",
+     "photo": "https://image.tmdb.org/t/p/w185/ggOHPk5DHQzf9t4Qm4sohmtcNVf.jpg"
+    },
+    {
+     "name": "Tom Mison",
+     "role": "Anthony Eden",
+     "photo": "https://image.tmdb.org/t/p/w185/aBDtRCCGgE3Zug2krAhL2IfyvWO.jpg"
+    },
+    {
+     "name": "Loïc Corbery",
+     "role": "René Pleven",
+     "photo": "https://image.tmdb.org/t/p/w185/iAGGz3Z7v2Us45kLhKSnow63IjC.jpg"
+    },
+    {
+     "name": "Stéphane Varupenne",
+     "role": "Georges Bidault",
+     "photo": "https://image.tmdb.org/t/p/w185/njRd1n3QR1yaFAIYeVzkXJ84WjT.jpg"
+    },
+    {
+     "name": "Anthony Calf",
+     "role": "Spears",
+     "photo": "https://image.tmdb.org/t/p/w185/ep0DHaj7Ns4pHZeJzn76xj7jR4H.jpg"
+    },
+    {
+     "name": "Noémie Schmidt",
+     "role": "Susan Travers",
+     "photo": "https://image.tmdb.org/t/p/w185/6fsNemSp3kOTVXXEKegsG4sCi0l.jpg"
+    },
+    {
+     "name": "Soufiane El Khalidy",
+     "role": "Koenig Soldier",
+     "photo": "https://image.tmdb.org/t/p/w185/ncWqYEQeWR3l8bd1TuXcszCZ7Ho.jpg"
+    },
+    {
+     "name": "Tom Neal",
+     "role": "Préfet Amgot",
+     "photo": "https://image.tmdb.org/t/p/w185/zmRRquSiRLUSGN0VBUgK8GgRYV5.jpg"
+    },
+    {
+     "name": "Tom Pannetier",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/r6lvM10DFBYNqoQtCYRM3KjbJTt.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "France",
+    "Belgique",
+    "États-Unis"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Pathé",
+     "logo": "https://image.tmdb.org/t/p/w185/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png"
+    },
+    {
+     "name": "Auvergne-Rhône-Alpes Cinéma",
+     "logo": "https://image.tmdb.org/t/p/w185/sudlIoNIIrKmVWaYD2ZVo9HGogW.png"
+    },
+    {
+     "name": "TF1 Films Production",
+     "logo": "https://image.tmdb.org/t/p/w185/9tW5wZEGotn1Ei5pErA88m47XiD.png"
+    },
+    {
+     "name": "Belvédère",
+     "logo": null
+    },
+    {
+     "name": "Ness Films",
+     "logo": null
+    },
+    {
+     "name": "Beside Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/grDzFY7347YKDLrMYnihbmo8ZOQ.png"
+    },
+    {
+     "name": "Laurent Dassault Rond Point",
+     "logo": null
+    },
+    {
+     "name": "Logical Content Ventures",
+     "logo": "https://image.tmdb.org/t/p/w185/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt40336528",
    "type": "movie",
