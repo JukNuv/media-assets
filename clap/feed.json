@@ -1,7 +1,116 @@
 {
  "version": 1,
- "updated": "2026-10-30T15:28:46Z",
+ "updated": "2026-10-30T16:03:04Z",
  "items": [
+  {
+   "id": "series:tt36458668",
+   "type": "series",
+   "title": "Un job mortel",
+   "original_title": "꿀알바",
+   "year": 2026,
+   "release_date": "2026-10-30",
+   "overview": "Un jeune homme criblé de dettes se voit proposer un job par un mystérieuse agence d'intérim qui propose 50 fois le taux horaire. Sautant sur l'occasion, il va rapidement déchanter. En effet, ce travail va virer rapidement au cauchemar lorsqu'il est confronté à des phénomènes étranges et terrifiants.",
+   "synopsis_origin": null,
+   "rating": 10.0,
+   "runtime": 8,
+   "genres": [
+    "Mystère",
+    "Science-Fiction & Fantastique"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=Sn2ZCxOxsN0",
+   "poster": "https://image.tmdb.org/t/p/w500/nxqMQwNiVVQnuOdOcWIhLwcyxNN.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/cyH2fZUjIJjLmgpF3tgA5CSGz4L.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/gbIk1sF9JLQZ1P53k3OaijgiWX1.png",
+   "imdb_id": "tt36458668",
+   "tmdb_url": "https://www.themoviedb.org/tv/289517",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt36458668",
+   "added_at": "2026-10-30T16:03:02Z",
+   "tagline": "50 fois le salaire minimum garanti : allez-vous accepter cette super opportunité ?",
+   "directors": [
+    "한준희"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Lee Jae-wook",
+     "role": "Byeon Hyuk-joon",
+     "photo": "https://image.tmdb.org/t/p/w185/9dsWM2kiXO4utrg4GctdXDvhOKD.jpg"
+    },
+    {
+     "name": "Go Min-si",
+     "role": "Yeon-joo",
+     "photo": "https://image.tmdb.org/t/p/w185/tgBb9dDyewLlautcmJH9KSXZz1O.jpg"
+    },
+    {
+     "name": "Kim Min-ha",
+     "role": "Byeon Ji-yoon",
+     "photo": "https://image.tmdb.org/t/p/w185/zPNNamrJLWoXADXALQmuTdo6zBS.jpg"
+    },
+    {
+     "name": "이희준",
+     "role": "Kang-joon / Mr. S",
+     "photo": "https://image.tmdb.org/t/p/w185/4slyXnHbKgzmeyJNetBSORgDDEF.jpg"
+    },
+    {
+     "name": "Yoon Byung-hee",
+     "role": "Special appearance",
+     "photo": "https://image.tmdb.org/t/p/w185/77HOYpL0BI6BN4kaTYUMNIlnLM0.jpg"
+    },
+    {
+     "name": "Cho Hyun-chul",
+     "role": "Special appearance",
+     "photo": "https://image.tmdb.org/t/p/w185/i1yEjtwITyedbFCealmBfuaAn3M.jpg"
+    },
+    {
+     "name": "최현욱",
+     "role": "Special appearance",
+     "photo": "https://image.tmdb.org/t/p/w185/2s3xxkSPJMy8WFeyRd1lyFLYofk.jpg"
+    },
+    {
+     "name": "Yoon Kyung-ho",
+     "role": "Special appearance",
+     "photo": "https://image.tmdb.org/t/p/w185/217cVZqyvJypi4OR1uvxoaJxvLm.jpg"
+    },
+    {
+     "name": "Ko Chang-seok",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/zhR1UpGXvh5oEsKNixHHoyfeoZH.jpg"
+    },
+    {
+     "name": "김민주",
+     "role": "Female factory worker 3",
+     "photo": "https://image.tmdb.org/t/p/w185/1McO3gCMU70FGvukSy7ewesOUKx.jpg"
+    },
+    {
+     "name": "김승호",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/eCPJO0r5WvBI3obpamLH5UgxYE7.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Corée du Sud"
+   ],
+   "original_language": "Coréen",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "SHOTCAKE",
+     "logo": null
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt27672817",
    "type": "movie",
