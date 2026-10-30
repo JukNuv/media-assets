@@ -1,7 +1,78 @@
 {
  "version": 1,
- "updated": "2026-10-30T08:04:44Z",
+ "updated": "2026-10-30T12:07:15Z",
  "items": [
+  {
+   "id": "series:tt42767924",
+   "type": "series",
+   "title": "Trouble échange",
+   "original_title": "Bytet",
+   "year": 2026,
+   "release_date": "2026-10-30",
+   "overview": "Un échange de maisons de rêve entre la Sicile et Stockholm tourne mal quand deux couples fortunés sont soudain prêts à tout pour se protéger. Et pour protéger leurs secrets.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 46,
+   "genres": [
+    "Drame",
+    "Mystère"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=ARYGWtBnQEA",
+   "poster": "https://image.tmdb.org/t/p/w500/eRf5F1RtOcAvThZra9cIT5AvxZq.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/mGMCufbqXnY4rQ7snj92uznXqjs.jpg",
+   "logo": "",
+   "imdb_id": "tt42767924",
+   "tmdb_url": "https://www.themoviedb.org/tv/336240",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt42767924",
+   "added_at": "2026-10-30T12:07:13Z",
+   "tagline": null,
+   "directors": [
+    "Amanda Högberg",
+    "Axel Stjärne"
+   ],
+   "seasons": 1,
+   "episodes": 4,
+   "cast": [
+    {
+     "name": "Frida Gustavsson",
+     "role": "Helene",
+     "photo": "https://image.tmdb.org/t/p/w185/jtD5lJSSAc61AWCNKGlQmlyYNWv.jpg"
+    },
+    {
+     "name": "Fares Fares",
+     "role": "Carl",
+     "photo": "https://image.tmdb.org/t/p/w185/rLk2uAENs1cNyWFy039fErxNpLj.jpg"
+    },
+    {
+     "name": "Emma Appleton",
+     "role": "Scarlett",
+     "photo": "https://image.tmdb.org/t/p/w185/gsr6C5aj8IyewAQRlB36yLun8sS.jpg"
+    },
+    {
+     "name": "Jakob Oftebro",
+     "role": "Adam",
+     "photo": "https://image.tmdb.org/t/p/w185/ypyMSXwABVXHjTOfpEHW008cw1A.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Suède"
+   ],
+   "original_language": "Suédois",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt26598805",
    "type": "series",
