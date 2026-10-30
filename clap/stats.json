@@ -1,17 +1,17 @@
 {
  "version": 1,
- "updated": "2026-10-30T12:07:15Z",
+ "updated": "2026-10-30T14:04:05Z",
  "catalogue": {
   "films": 416,
   "series": 233,
   "animation": 83
  },
- "total_added": 432,
- "movies": 282,
+ "total_added": 433,
+ "movies": 283,
  "series": 150,
- "vfq": 94,
- "this_week": 28,
- "this_month": 123,
+ "vfq": 95,
+ "this_week": 29,
+ "this_month": 124,
  "avg_rating": 6.8,
  "avg_runtime": 85,
  "per_day": [
@@ -69,7 +69,7 @@
   ],
   [
    "2026-10-30",
-   2
+   3
   ]
  ],
  "genres": [
@@ -83,7 +83,7 @@
   ],
   [
    "Thriller",
-   81
+   82
   ],
   [
    "Crime",
@@ -103,7 +103,7 @@
   ],
   [
    "Horreur",
-   31
+   32
   ]
  ],
  "since": "2026-06-16"

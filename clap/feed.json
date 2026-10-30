@@ -1,7 +1,123 @@
 {
  "version": 1,
- "updated": "2026-10-30T12:07:15Z",
+ "updated": "2026-10-30T14:04:05Z",
  "items": [
+  {
+   "id": "movie:tt37522541",
+   "type": "movie",
+   "title": "Apocalypse Z : Nouveau Monde",
+   "original_title": "Apocalipsis Z: Nuevo mundo",
+   "year": 2026,
+   "release_date": "2026-10-09",
+   "overview": "L'histoire nous transporte aux îles Canaries, devenues le dernier refuge de l'Europe après l'épidémie du virus TSJ. Lorsqu'une mission spéciale part pour le continent à la recherche de vivres et de matériel essentiels, Roberto se joint à l'équipe avec des intentions douteuses. L'opération périlleuse se transforme en une course désespérée pour la survie, et Roberto et ses camarades se retrouvent au milieu de hordes d'infectés et de groupes aux allégeances divisées. Dès lors, la question existentielle se pose : se sauver soi-même ou tout risquer pour sauver ce qui reste de l'humanité ?",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 96,
+   "genres": [
+    "Horreur",
+    "Thriller"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": "Apocalypse Z - Saga [Collection]",
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=RgGUY7ikPkI",
+   "poster": "https://image.tmdb.org/t/p/w500/y25eTpBLjKaIwHUxRLjdKqqXHjC.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/cDL8QCgJfdYpmSstHzmlmXr6NAf.png",
+   "imdb_id": "tt37522541",
+   "tmdb_url": "https://www.themoviedb.org/movie/1507696",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37522541",
+   "added_at": "2026-10-30T14:04:04Z",
+   "tagline": null,
+   "directors": [
+    "Carles Torrens"
+   ],
+   "writers": [
+    "Manel Loureiro",
+    "Ángel Agudo"
+   ],
+   "cast": [
+    {
+     "name": "Carlos Alcaide",
+     "role": "Roberto",
+     "photo": "https://image.tmdb.org/t/p/w185/rl8fxgvKu56zxf5kIMGVTX3ju7Q.jpg"
+    },
+    {
+     "name": "Julia Martínez",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/jG6sbnktf5PzCLkdVAeGz3kWSH4.jpg"
+    },
+    {
+     "name": "Mónica López",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/7Gm2h0ApsorCUJhUA8gUtxrWzMd.jpg"
+    },
+    {
+     "name": "Tamara Casellas",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/nCXGGmFP7pyNrdUtrsDUIOVjyc.jpg"
+    },
+    {
+     "name": "Santiago Vaca Narvaja",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/sXJgtXMQkwfno6J9BpC3V50awG1.jpg"
+    },
+    {
+     "name": "José María Yázpik",
+     "role": "Pritchenko",
+     "photo": "https://image.tmdb.org/t/p/w185/GEV4PnIhxAAPxIHvsyhdLUjnSv.jpg"
+    },
+    {
+     "name": "Berta Vázquez",
+     "role": "Lucía",
+     "photo": "https://image.tmdb.org/t/p/w185/2QNOI5L03XomONmCR42GPyVYryy.jpg"
+    },
+    {
+     "name": "Axel Medrano",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Pedro Hernández",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Pedro Hernández",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/fCqOynLjB8pqLTxGoiGnX0yeJIV.jpg"
+    },
+    {
+     "name": "Javier Godino",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/qwXxX6gKIphuCXJ2wgeROPjIdic.jpg"
+    },
+    {
+     "name": "Ujin Moreno",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Mario Mayo",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/xzEjSgLCkrwQ1HZ7OY6CbSNM9wM.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Espagne"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Nostromo Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt42767924",
    "type": "series",
