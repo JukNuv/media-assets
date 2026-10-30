@@ -1,7 +1,115 @@
 {
  "version": 1,
- "updated": "2026-10-29T16:30:40Z",
+ "updated": "2026-10-30T08:04:44Z",
  "items": [
+  {
+   "id": "series:tt26598805",
+   "type": "series",
+   "title": "Nocturne",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-29",
+   "overview": "Lorsqu’une victime du célèbre tueur en série Jurek Walter refait surface en vie, l’enquêteur Jonah Lynn entame une course contre la montre pour retrouver sa dernière proie encore portée disparue. Sa protégée Saga Bauer travaille sous couverture pour faire parler le tueur.",
+   "synopsis_origin": null,
+   "rating": 5.5,
+   "runtime": 52,
+   "genres": [
+    "Crime",
+    "Drame",
+    "Mystère"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=AaEy1f2Dgys",
+   "poster": "https://image.tmdb.org/t/p/w500/gwoPlr2g3moHYZH05DyRZVgUf6m.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/kn6ZSYuyeSymOp0gqJVBOMAJrTC.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/z2BkRiYGf48g6OwfpPY0GcZKzfx.png",
+   "imdb_id": "tt26598805",
+   "tmdb_url": "https://www.themoviedb.org/tv/292741",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt26598805",
+   "added_at": "2026-10-30T08:04:43Z",
+   "tagline": "La vérité pour cible. Le tueur pour proie.",
+   "directors": [
+    "Rowan Joffé"
+   ],
+   "seasons": 1,
+   "episodes": 10,
+   "cast": [
+    {
+     "name": "Liev Schreiber",
+     "role": "Jonah Lynn",
+     "photo": "https://image.tmdb.org/t/p/w185/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+    },
+    {
+     "name": "Zazie Beetz",
+     "role": "FBI Agent Saga Bauer",
+     "photo": "https://image.tmdb.org/t/p/w185/sgxzT54GnvgeMnOZgpQQx9csAdd.jpg"
+    },
+    {
+     "name": "Stephen Graham",
+     "role": "Jurek Walter",
+     "photo": "https://image.tmdb.org/t/p/w185/yguEO9zFvuccq87kOJpFLsmUgvs.jpg"
+    },
+    {
+     "name": "Bill Camp",
+     "role": "Chief Dave Ellison",
+     "photo": "https://image.tmdb.org/t/p/w185/wxYyJSltCHwU0MTg838SllOlvNT.jpg"
+    },
+    {
+     "name": "Rory Culkin",
+     "role": "Karl Anders",
+     "photo": "https://image.tmdb.org/t/p/w185/6SkUiLHFlPEEFtKpLc7VrczaqDx.jpg"
+    },
+    {
+     "name": "Chrissy Metz",
+     "role": "Ida Frost",
+     "photo": "https://image.tmdb.org/t/p/w185/d1qBoF1JQdLI8OF99sVeNQqjXZG.jpg"
+    },
+    {
+     "name": "Poorna Jagannathan",
+     "role": "Quinn",
+     "photo": "https://image.tmdb.org/t/p/w185/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg"
+    },
+    {
+     "name": "Gary Carr",
+     "role": "Nathan Pollock",
+     "photo": "https://image.tmdb.org/t/p/w185/nY9pVfJG70QojfwgCiW5Kja4HjU.jpg"
+    },
+    {
+     "name": "Landon Valentin",
+     "role": "Michael Frost",
+     "photo": null
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "A+E Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/rJmXT9sgCKG8uSUO1T93kOTfAzm.png"
+    },
+    {
+     "name": "Range Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/y17qPymSqFnCAsCQMF1VszHDl4h.png"
+    },
+    {
+     "name": "Sleepy Poppy",
+     "logo": null
+    },
+    {
+     "name": "Apple TV",
+     "logo": "https://image.tmdb.org/t/p/w185/bngHRFi794mnMq34gfVcm9nDxN1.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt38504402",
    "type": "movie",
