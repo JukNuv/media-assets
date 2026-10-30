@@ -1,7 +1,126 @@
 {
  "version": 1,
- "updated": "2026-10-30T14:04:05Z",
+ "updated": "2026-10-30T15:28:46Z",
  "items": [
+  {
+   "id": "movie:tt27672817",
+   "type": "movie",
+   "title": "In Waves",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-01",
+   "overview": "À Los Angeles, AJ, lycéen discret, rencontre Kristen. Elle est passionnée de surf, lui de skateboard et de dessin. Ils tombent follement amoureux ; un avenir heureux se profile. Mais tout bascule lorsque Kristen tombe malade. Ensemble, ils se lancent dans un combat contre l’adversité, portés par la force de leur amour, leurs amis et leur passion désormais commune pour le surf et l’océan.",
+   "synopsis_origin": null,
+   "rating": 7.2,
+   "runtime": 91,
+   "genres": [
+    "Animation",
+    "Romance",
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=njvwK8_TSZo",
+   "poster": "https://image.tmdb.org/t/p/w500/3z3gZ6faikQ81EM19zTX4lHfpwL.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/imMuGhPpbCKdukzFigcDVH0c0PA.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/jm6O4HlSvsGwzsMQNr5ZTj9tV5i.png",
+   "imdb_id": "tt27672817",
+   "tmdb_url": "https://www.themoviedb.org/movie/947502",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt27672817",
+   "added_at": "2026-10-30T15:28:44Z",
+   "tagline": "Tout comme une tempête, le chagrin déferle par vagues.",
+   "directors": [
+    "Phuong Mai Nguyen"
+   ],
+   "writers": [
+    "Samuel Doux",
+    "Fanny Burdino"
+   ],
+   "cast": [
+    {
+     "name": "Rio Vega",
+     "role": "AJ (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/lpYtXVBSVVvnLOgu2Fu2RWV99gl.jpg"
+    },
+    {
+     "name": "Lyna Khoudri",
+     "role": "Kristen (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/jYnaHKrATeLl4GMlvhTDazkIr5o.jpg"
+    },
+    {
+     "name": "Paul Kircher",
+     "role": "Eon (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/13tZrN9FfyNLosr9M4TszzUaGC3.jpg"
+    },
+    {
+     "name": "Birane Ba",
+     "role": "Francisco (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/qGyxGJWINhKSStB3kbFQ3sJK7Zb.jpg"
+    },
+    {
+     "name": "Gauthier Battoue",
+     "role": "Jeff (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/3PooWwDmyJMF5wP8LLajgWs4lwB.jpg"
+    },
+    {
+     "name": "Taiana Tully",
+     "role": "La princesse hawaienne (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/86qoudZZAgrmZaVuze4Vk7ykRWT.jpg"
+    },
+    {
+     "name": "Amélia Ewu",
+     "role": "L'infirmière / L'amie de Kristen (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/f6TkXVZTU8Rfs32GhLwvDtvC9AW.jpg"
+    },
+    {
+     "name": "Céline Ronté",
+     "role": "La prof de dessin (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/eXJzZFEA6uywzcmDGH4OpLtPd19.jpg"
+    },
+    {
+     "name": "Clara Soares",
+     "role": "Yvette (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/nPBty1OeKBVbM5EDWmwPHQpmY9Z.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "France",
+    "Belgique",
+    "États-Unis"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Silex Films",
+     "logo": "https://image.tmdb.org/t/p/w185/pKKVgdznp7uNjrgGbRa7ot2Jwsn.png"
+    },
+    {
+     "name": "Panique!",
+     "logo": "https://image.tmdb.org/t/p/w185/i8ALsnHxQ5JsQdoiHY1vxEmoEnJ.png"
+    },
+    {
+     "name": "Charades",
+     "logo": "https://image.tmdb.org/t/p/w185/3oHMY8bVdqo8c9KSQw1ehMc0o3V.png"
+    },
+    {
+     "name": "France 3 Cinéma",
+     "logo": "https://image.tmdb.org/t/p/w185/q5I5RDwMEiqoNmfaJgd2LraEOJY.png"
+    },
+    {
+     "name": "Anonymous Content",
+     "logo": "https://image.tmdb.org/t/p/w185/b8w4LldQolMKiLZw4FQJBcXSDGI.png"
+    },
+    {
+     "name": "Gao Shan Pictures",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt37522541",
    "type": "movie",
