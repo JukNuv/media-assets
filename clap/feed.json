@@ -1,7 +1,153 @@
 {
  "version": 1,
- "updated": "2026-10-31T09:04:44Z",
+ "updated": "2026-10-31T09:04:53Z",
  "items": [
+  {
+   "id": "movie:tt9000310",
+   "type": "movie",
+   "title": "Ghost in the Cell",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-04-16",
+   "overview": "Dans une prison de haute sécurité, l'arrivée d'un nouveau détenu entraîne une série de meurtres barbares. Enfermés dans leurs cellules, les prisonniers doivent s'unir pour démasquer un fantôme surnaturel s'ils ne veulent pas être les victimes de la prochaine mise en scene macabre.",
+   "synopsis_origin": null,
+   "rating": 6.8,
+   "runtime": 106,
+   "genres": [
+    "Horreur",
+    "Comédie",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": "Ghost in the Cell [Collection]",
+   "platforms": [
+    "Netflix"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=otL78_pk_A0",
+   "poster": "https://image.tmdb.org/t/p/w500/zxcMdx0w5Zmg8yZuuiS7CJ8vOea.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/tC9s5FN3HRzIuJr0zPcUcFWNgML.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/mULA7jiTlOGEooGTawg2IOMsa62.png",
+   "imdb_id": "tt9000310",
+   "tmdb_url": "https://www.themoviedb.org/movie/1393326",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt9000310",
+   "added_at": "2026-10-31T09:04:52Z",
+   "tagline": null,
+   "directors": [
+    "Joko Anwar"
+   ],
+   "writers": [
+    "Joko Anwar"
+   ],
+   "cast": [
+    {
+     "name": "Abimana Aryasatya",
+     "role": "Anggoro Ramadhani",
+     "photo": "https://image.tmdb.org/t/p/w185/b4ncXBTGaiPS6cof11vKeh3DuFj.jpg"
+    },
+    {
+     "name": "Bront Palarae",
+     "role": "Jefry Hutama",
+     "photo": "https://image.tmdb.org/t/p/w185/mk7v78F2QPV1jmwjjo19PONugkR.jpg"
+    },
+    {
+     "name": "Dimas Danang",
+     "role": "Irfan Hamdani",
+     "photo": "https://image.tmdb.org/t/p/w185/tDdRwEk68lL3WMKt8iymNrdCgeH.jpg"
+    },
+    {
+     "name": "Endy Arfian",
+     "role": "Dimas Kurnia",
+     "photo": "https://image.tmdb.org/t/p/w185/v9yWVWqD5SeDuU8l8rb71BYmlvI.jpg"
+    },
+    {
+     "name": "Lukman Sardi",
+     "role": "Pendi Mulia",
+     "photo": "https://image.tmdb.org/t/p/w185/pMZiVVu8k5MzGteRgpNVzMybxLm.jpg"
+    },
+    {
+     "name": "Mike Lucock",
+     "role": "Wildan Arifin",
+     "photo": "https://image.tmdb.org/t/p/w185/LtCJOYBn9p8TG6gOHh4GxvKiHi.jpg"
+    },
+    {
+     "name": "Yoga Pratama",
+     "role": "Six Nugraha",
+     "photo": "https://image.tmdb.org/t/p/w185/5MR7UVLeOwLD8LtJTl7fDuUdFsc.jpg"
+    },
+    {
+     "name": "Morgan Oey",
+     "role": "Bimo Gumira",
+     "photo": "https://image.tmdb.org/t/p/w185/fa2IjUgmUrFLxGXkemSrl92r7J2.jpg"
+    },
+    {
+     "name": "Aming Sugandhi",
+     "role": "Gibran \"Tokek\" Nugroho",
+     "photo": "https://image.tmdb.org/t/p/w185/jw7OQBuTAhgA2dc6udULxFivEqE.jpg"
+    },
+    {
+     "name": "Rio Dewanto",
+     "role": "Endy Wahyudi",
+     "photo": "https://image.tmdb.org/t/p/w185/mkukGDtAAsdMUxV8gJI6KW8tQnE.jpg"
+    },
+    {
+     "name": "Tora Sudiro",
+     "role": "Anton Suriadi",
+     "photo": "https://image.tmdb.org/t/p/w185/iDiIkJd3ZJh0NN8IahI6QeZ4NRB.jpg"
+    },
+    {
+     "name": "Almanzo Konoralma",
+     "role": "Budi \"Buki\" Kirianto",
+     "photo": "https://image.tmdb.org/t/p/w185/rISAtFTZqFSyYlr9Gax8XEH0VHR.jpg"
+    },
+    {
+     "name": "Kiki Narendra",
+     "role": "Sapto Hutomo",
+     "photo": "https://image.tmdb.org/t/p/w185/5NQPn3HukEpRic0W9SSpz89X1ZO.jpg"
+    },
+    {
+     "name": "Haydar Salishz",
+     "role": "Donald Supanggah",
+     "photo": "https://image.tmdb.org/t/p/w185/e90G0zioQ2lmTYMGDKPW0Mg4xDf.jpg"
+    },
+    {
+     "name": "Arswendy Bening Swara",
+     "role": "Prakasa Kitabuming",
+     "photo": "https://image.tmdb.org/t/p/w185/fzC4pbmAIeqFqBMoAVa42vHV4vz.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "ID",
+    "Corée du Sud"
+   ],
+   "original_language": "ID",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Come and See Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/rcQ9T6tnlNky6jPXVkswITn1Tsq.png"
+    },
+    {
+     "name": "Rapi Films",
+     "logo": "https://image.tmdb.org/t/p/w185/5zodgZbBTlY5PAviS6KxOCyOlGH.png"
+    },
+    {
+     "name": "Barunson E&A",
+     "logo": "https://image.tmdb.org/t/p/w185/rk3kE5QX2dQtH0pPwCHV12qfebg.png"
+    },
+    {
+     "name": "Legacy Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/y5TYYZWMM6CoNyAMMRL9lJA10yD.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt35453503",
    "type": "movie",
