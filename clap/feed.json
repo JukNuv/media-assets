@@ -1,7 +1,116 @@
 {
  "version": 1,
- "updated": "2026-10-31T09:04:53Z",
+ "updated": "2026-10-31T09:05:00Z",
  "items": [
+  {
+   "id": "movie:tt38999812",
+   "type": "movie",
+   "title": "Le Cadeau D'anniversaire",
+   "original_title": "Das Geschenk",
+   "year": 2026,
+   "release_date": "2026-10-30",
+   "overview": "Marlene Frischmann, mère célibataire, organise la fête d'anniversaire parfaite pour son fils Theo dans la superbe maison de campagne de son frère : ballons, gâteau sans gluten, piñata et même quelques animaux sauvages devraient rendre cette journée inoubliable. Mais cette célébration préparée avec amour ne tarde pas à virer au cauchemar, entre débats enflammés sur l'éducation, la masculinité et les principes parentaux. Un drôle de désordre en partie engendré par Timo, le frère de Marlene, banquier turbulent, Hans, son père excentrique à la dérive, Jenny, sa collègue idéaliste qui rêve de sauver le monde, et un cadeau très spécial. Entre structures familiales dysfonctionnelles, mères surprotectrices prétentieuses et anarchie enfantine, la fête sombre peu à peu dans le chaos.",
+   "synopsis_origin": null,
+   "rating": 8.7,
+   "runtime": 89,
+   "genres": [
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/jks3cfCwBFkAxq2rj2SENF6OiDE.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/pYyr6Lf3dDt0rAvFgdvZFKahJYz.png",
+   "imdb_id": "tt38999812",
+   "tmdb_url": "https://www.themoviedb.org/movie/1789549",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt38999812",
+   "added_at": "2026-10-31T09:04:59Z",
+   "tagline": null,
+   "directors": [
+    "Vanessa Jopp"
+   ],
+   "writers": [
+    "Ben Brooks"
+   ],
+   "cast": [
+    {
+     "name": "Jeanne Goursaud",
+     "role": "Marlene Frischmann",
+     "photo": "https://image.tmdb.org/t/p/w185/d8z3LEQGHCiZIRmMQD55Geq0iqM.jpg"
+    },
+    {
+     "name": "Edin Hasanović",
+     "role": "Timo",
+     "photo": "https://image.tmdb.org/t/p/w185/MW0VhzAHi3oMtnzNuESbpx02Wa.jpg"
+    },
+    {
+     "name": "Heiner Lauterbach",
+     "role": "Hans",
+     "photo": "https://image.tmdb.org/t/p/w185/AuDVCHI4myGKsjVzUCXrVKIqu8x.jpg"
+    },
+    {
+     "name": "Levin Wopp",
+     "role": "Theo Frischmann",
+     "photo": null
+    },
+    {
+     "name": "Sogol Faghani",
+     "role": "Sofia",
+     "photo": "https://image.tmdb.org/t/p/w185/6k89GNKGeuF8TZzOeocg0BhGhC8.jpg"
+    },
+    {
+     "name": "Enzo Brumm",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/4JVcHbpDeeV02lOOC1lDCaKhMmz.jpg"
+    },
+    {
+     "name": "Berit Künnecke",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/8nnxmcyUR3HVAFptYsgWp4mj8KW.jpg"
+    },
+    {
+     "name": "Amal Keller",
+     "role": "Jenny",
+     "photo": "https://image.tmdb.org/t/p/w185/mz7wz765AdVnW5DWaKZSKooC8gh.jpg"
+    },
+    {
+     "name": "Bastian Reiber",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/9z4dFGImqpOMRJx3fDgdY12ocgk.jpg"
+    },
+    {
+     "name": "Paul Henrich",
+     "role": "Arthur",
+     "photo": "https://image.tmdb.org/t/p/w185/jTHVX514yhzcbDnfl4RM7p3MuIw.jpg"
+    },
+    {
+     "name": "Fabian Heibült",
+     "role": "Karl",
+     "photo": null
+    },
+    {
+     "name": "Janusch Baumeister",
+     "role": null,
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Allemagne"
+   ],
+   "original_language": "Allemand",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "UFA Fiction",
+     "logo": "https://image.tmdb.org/t/p/w185/xJo66MG6C99FeO81ddXVswjEmSB.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt9000310",
    "type": "movie",
