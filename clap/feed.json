@@ -1,7 +1,146 @@
 {
  "version": 1,
- "updated": "2026-10-31T09:05:00Z",
+ "updated": "2026-11-01T10:05:35Z",
  "items": [
+  {
+   "id": "movie:tt38793125",
+   "type": "movie",
+   "title": "Collision Course",
+   "original_title": "Colisión",
+   "year": 2026,
+   "release_date": "2026-10-30",
+   "overview": "En pleine crise économique, un groupe de cambrioleurs s'introduit dans une banque à Madrid, déclenchant une série d'événements imprévisibles. Ce qui s'apparentait au départ à un simple braquage se transforme en un jeu de dupes et de peur où tout est affaire de survie : chaque décision compte, chaque geste cache quelque chose et chacun cherche à échapper à un châtiment pire que la prison.",
+   "synopsis_origin": null,
+   "rating": 6.8,
+   "runtime": 106,
+   "genres": [
+    "Drame",
+    "Action",
+    "Crime"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=8hVLhaK619k",
+   "poster": "https://image.tmdb.org/t/p/w500/aDhkTWcQAksTaaacz58Cd0VajV5.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/aVpQX4IVIEWiOCCZoXCffWusniA.png",
+   "imdb_id": "tt38793125",
+   "tmdb_url": "https://www.themoviedb.org/movie/1571955",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt38793125",
+   "added_at": "2026-11-01T10:05:34Z",
+   "tagline": null,
+   "directors": [
+    "Daniel Sánchez Arévalo"
+   ],
+   "writers": [
+    "Daniel Sánchez Arévalo",
+    "Ramón Campos"
+   ],
+   "cast": [
+    {
+     "name": "Laia Costa",
+     "role": "Carla Mencía",
+     "photo": "https://image.tmdb.org/t/p/w185/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg"
+    },
+    {
+     "name": "Karra Elejalde",
+     "role": "Pedro",
+     "photo": "https://image.tmdb.org/t/p/w185/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+    },
+    {
+     "name": "Luis Zahera",
+     "role": "Ernesto",
+     "photo": "https://image.tmdb.org/t/p/w185/ozfRIrvu8i93RJAaeWbaCLKAlPq.jpg"
+    },
+    {
+     "name": "Tamar Novas",
+     "role": "Tomás",
+     "photo": "https://image.tmdb.org/t/p/w185/3MpjB6lxeTUA9EunaV4kAyvOvIG.jpg"
+    },
+    {
+     "name": "Álvaro Cervantes",
+     "role": "Raúl",
+     "photo": "https://image.tmdb.org/t/p/w185/6RAiI4SXIMxLRM1RejLJzMPK7wa.jpg"
+    },
+    {
+     "name": "Lluís Homar",
+     "role": "Luis",
+     "photo": "https://image.tmdb.org/t/p/w185/p1AFBzyZRbHzA6S8q3RWw0YXoAf.jpg"
+    },
+    {
+     "name": "Luz Valdenebro",
+     "role": "Lola",
+     "photo": "https://image.tmdb.org/t/p/w185/mTmN3m2gII511LUYMHBRPmCdvdG.jpg"
+    },
+    {
+     "name": "Víctor Duplá",
+     "role": "Pablo",
+     "photo": "https://image.tmdb.org/t/p/w185/veMvq4qfmVriQpk7SicCk6tEIKa.jpg"
+    },
+    {
+     "name": "Jorge Cabrera",
+     "role": "Turrientes",
+     "photo": "https://image.tmdb.org/t/p/w185/lE1wXFPu11zyxCroaVfYNryvsHn.jpg"
+    },
+    {
+     "name": "Mónica Miranda",
+     "role": "Lucía",
+     "photo": "https://image.tmdb.org/t/p/w185/cSeiAVcFQ5BdG9W6WPt06TyoUT3.jpg"
+    },
+    {
+     "name": "Ismael Martínez",
+     "role": "Berni",
+     "photo": "https://image.tmdb.org/t/p/w185/yCmKNXBSdtBybQrWAIdMfW40fN1.jpg"
+    },
+    {
+     "name": "Chete Guzmán",
+     "role": "Portero Ernesto",
+     "photo": "https://image.tmdb.org/t/p/w185/6qtaU7rYeJCZZ9E0IVj0ro3e1H5.jpg"
+    },
+    {
+     "name": "Susana Hernández",
+     "role": "Profesora Academia",
+     "photo": "https://image.tmdb.org/t/p/w185/fh1YFPT7DpOrOam4vaRde6pWTgZ.jpg"
+    },
+    {
+     "name": "Nacho Marraco",
+     "role": "Dueño Tienda Antigüedades",
+     "photo": "https://image.tmdb.org/t/p/w185/t4KGlJWDnMXJgsTWzJ1XVH1d1IO.jpg"
+    },
+    {
+     "name": "Samuel Viyuela",
+     "role": "Dueño Coche",
+     "photo": "https://image.tmdb.org/t/p/w185/t8svSLqVQJXy4PhcGN6bvACRZXp.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Espagne"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Bambú Producciones",
+     "logo": "https://image.tmdb.org/t/p/w185/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt38999812",
    "type": "movie",
