@@ -1,7 +1,160 @@
 {
  "version": 1,
- "updated": "2026-11-02T07:30:22Z",
+ "updated": "2026-11-02T15:25:43Z",
  "items": [
+  {
+   "id": "movie:tt35538033",
+   "type": "movie",
+   "title": "Resident Evil",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-16",
+   "overview": "Bryan, un coursier médical, est en train d'effectuer une livraison lorsqu'une épidémie soudaine se déclare, le forçant à lutter pour sa survie.",
+   "synopsis_origin": null,
+   "rating": 7.3,
+   "runtime": 95,
+   "genres": [
+    "Horreur",
+    "Science-Fiction",
+    "Aventure"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=JvUuW2n4lC4",
+   "poster": "https://image.tmdb.org/t/p/w500/pICoWjcKSet6sA3yzxOkP8ChwYI.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/9ulobOWQViT7UQt2iYzb5tEVgm9.png",
+   "imdb_id": "tt35538033",
+   "tmdb_url": "https://www.themoviedb.org/movie/1423191",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt35538033",
+   "added_at": "2026-11-02T15:25:42Z",
+   "tagline": "Une nouvelle ère du mal commence.",
+   "directors": [
+    "Zach Cregger"
+   ],
+   "writers": [
+    "Shay Hatten",
+    "Zach Cregger"
+   ],
+   "cast": [
+    {
+     "name": "Austin Abrams",
+     "role": "Bryan",
+     "photo": "https://image.tmdb.org/t/p/w185/nvbJNwyhIICUFcS4lhxj9mGvL5z.jpg"
+    },
+    {
+     "name": "Paul Walter Hauser",
+     "role": "Paul",
+     "photo": "https://image.tmdb.org/t/p/w185/hXjjbYg1Ah8mFf5ZcaakyXzDKMx.jpg"
+    },
+    {
+     "name": "Kali Reis",
+     "role": "Maxine",
+     "photo": "https://image.tmdb.org/t/p/w185/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+    },
+    {
+     "name": "Zach Cherry",
+     "role": "Carl",
+     "photo": "https://image.tmdb.org/t/p/w185/fT3Wv8ef0Vn0daHWAObCp2Bd4Y.jpg"
+    },
+    {
+     "name": "Johnno Wilson",
+     "role": "Officer Wilson",
+     "photo": "https://image.tmdb.org/t/p/w185/eZtBoBE0F7Qb9ZyNpacMOQtmWnM.jpg"
+    },
+    {
+     "name": "Shaun W. Loeser",
+     "role": "Puker",
+     "photo": "https://image.tmdb.org/t/p/w185/pMV7kzy7OHk4X93uRGbrdvuFgQB.jpg"
+    },
+    {
+     "name": "Zach Cregger",
+     "role": "Intercom (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/bpFGFfWYIrZVK7WjwkVLwIoMKEb.jpg"
+    },
+    {
+     "name": "Emily Piggford",
+     "role": "Dr. Maria Stokes",
+     "photo": "https://image.tmdb.org/t/p/w185/ruijvaNNXzGXqGphQXsoHts1Ovc.jpg"
+    },
+    {
+     "name": "Will Merrick",
+     "role": "Dave",
+     "photo": "https://image.tmdb.org/t/p/w185/zqyH01TJ9WW6TaAULCG2ChSbNwI.jpg"
+    },
+    {
+     "name": "Zoé Bellas",
+     "role": "Birdie",
+     "photo": "https://image.tmdb.org/t/p/w185/3nw4EhStA4IcJQxz4Yevm25u5ov.jpg"
+    },
+    {
+     "name": "Chris Lew Kum Hoi",
+     "role": "Stanley",
+     "photo": "https://image.tmdb.org/t/p/w185/7kHYxjhnRErXDRNYaSRemLCx9J7.jpg"
+    },
+    {
+     "name": "Griffin Newman",
+     "role": "Wade",
+     "photo": "https://image.tmdb.org/t/p/w185/vRnjx2UGdMhvFn5coYZJLKHVWbq.jpg"
+    },
+    {
+     "name": "Magdalena Šittová",
+     "role": "Agatha",
+     "photo": "https://image.tmdb.org/t/p/w185/6QDtKNoL6DXwJHpzDrvWG3rKSwa.jpg"
+    },
+    {
+     "name": "Andrea Miltner",
+     "role": "Pedestrian",
+     "photo": "https://image.tmdb.org/t/p/w185/oBdyio9RROvtUgauXJH6kE2dWEY.jpg"
+    },
+    {
+     "name": "Sara Paxton",
+     "role": "Michelle (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/DWrjFhjSLY4EFanCMKNPrUmP2p.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis",
+    "Allemagne",
+    "France"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Constantin Film",
+     "logo": "https://image.tmdb.org/t/p/w185/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png"
+    },
+    {
+     "name": "Subconscious",
+     "logo": "https://image.tmdb.org/t/p/w185/qBN0r3EbLfDwANllIHmQtSRTBaP.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "Davis Films",
+     "logo": "https://image.tmdb.org/t/p/w185/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png"
+    },
+    {
+     "name": "Columbia Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "PlayStation Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png"
+    },
+    {
+     "name": "TriStar Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/eC0bWHVjnjUducyA6YFoEFqnPMC.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt40902212",
    "type": "movie",
