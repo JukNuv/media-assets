@@ -1,7 +1,149 @@
 {
  "version": 1,
- "updated": "2026-11-01T10:05:35Z",
+ "updated": "2026-11-02T07:30:22Z",
  "items": [
+  {
+   "id": "movie:tt40902212",
+   "type": "movie",
+   "title": "R.L. Stine's Pumpkinhead 2",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-09",
+   "overview": "Lorsqu'une nouvelle malédiction s'abat sur Redhaven, Sam et Becka unissent leurs forces pour en percer le mystère. Dans une course contre la montre, ils doivent stopper cette menace avant qu'elle ne fasse sombrer toute la ville.",
+   "synopsis_origin": null,
+   "rating": 5.8,
+   "runtime": 93,
+   "genres": [
+    "Fantastique",
+    "Horreur"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": "R.L. Stine’s Pumpkinhead [Collection]",
+   "platforms": [
+    "Crave",
+    "Crave Amazon Channel"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=3CrkxyWl5WQ",
+   "poster": "https://image.tmdb.org/t/p/w500/4liM7YBglVRk2UVuKsN7YQDmMpr.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/b8DbyTtgq1Vhct3XdZQDEVRBs0G.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/rR45Xdt6OqrTY2GUedIGDlxqqGZ.png",
+   "imdb_id": "tt40902212",
+   "tmdb_url": "https://www.themoviedb.org/movie/1654998",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt40902212",
+   "added_at": "2026-11-02T07:30:21Z",
+   "tagline": null,
+   "directors": [
+    "Jem Garrard"
+   ],
+   "writers": [
+    "R.L. Stine",
+    "Jem Garrard"
+   ],
+   "cast": [
+    {
+     "name": "Bean Reid",
+     "role": "Sam",
+     "photo": "https://image.tmdb.org/t/p/w185/1jYS1uTMVd9CbhxYwjqgJlQ0j1r.jpg"
+    },
+    {
+     "name": "Cassandra Peterson",
+     "role": "Cassandra",
+     "photo": "https://image.tmdb.org/t/p/w185/tXvakSnVSyauOV48qH4Zr0uzKGT.jpg"
+    },
+    {
+     "name": "Adeline Lo",
+     "role": "Becka",
+     "photo": "https://image.tmdb.org/t/p/w185/7qdnYQqZzJP4yYHBxvFhn9H78ek.jpg"
+    },
+    {
+     "name": "Matty Finochio",
+     "role": "Rusty",
+     "photo": "https://image.tmdb.org/t/p/w185/7I2iawz7YHZDbH15V4Om0Tdep9c.jpg"
+    },
+    {
+     "name": "Sebastian Billingsley-Rodriguez",
+     "role": "Evan",
+     "photo": "https://image.tmdb.org/t/p/w185/xhPHlfkz0RgoUGDfMpvz2SCYMlf.jpg"
+    },
+    {
+     "name": "Kendra Anderson",
+     "role": "Cassie",
+     "photo": "https://image.tmdb.org/t/p/w185/eUpDAS5owssdULkD6kT2AaF9pUf.jpg"
+    },
+    {
+     "name": "Seth Isaac Johnson",
+     "role": "Finn",
+     "photo": "https://image.tmdb.org/t/p/w185/8L1vXNiNYx1jOHCuWhU8W1yghmy.jpg"
+    },
+    {
+     "name": "Bob Frazer",
+     "role": "Sheriff",
+     "photo": "https://image.tmdb.org/t/p/w185/alDdLXo3D0C0b17o85QnZJeFWfn.jpg"
+    },
+    {
+     "name": "Robert Moloney",
+     "role": "Mean Uncle Jerry",
+     "photo": "https://image.tmdb.org/t/p/w185/gbmYYq0R6xvuKZQ1kwUBwkN9iso.jpg"
+    },
+    {
+     "name": "Miles Phoenix Foley",
+     "role": "Chad",
+     "photo": null
+    },
+    {
+     "name": "Stephanie Izsak",
+     "role": "Sam's Teacher",
+     "photo": "https://image.tmdb.org/t/p/w185/lQi2AP1x86hskz231Mr18UrduEy.jpg"
+    },
+    {
+     "name": "Cullen Frederickson",
+     "role": "Lily",
+     "photo": null
+    },
+    {
+     "name": "Daniel Bacon",
+     "role": "Police Officer",
+     "photo": "https://image.tmdb.org/t/p/w185/sgY9taaUQ6cATpd4nWCq4wALqVm.jpg"
+    },
+    {
+     "name": "Rorelee Tio",
+     "role": "Stunt Coordinator",
+     "photo": "https://image.tmdb.org/t/p/w185/xuLynMK55lTQ6XHHAzyEBGHPsm.jpg"
+    },
+    {
+     "name": "Serena Ly",
+     "role": null,
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Front Street Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png"
+    },
+    {
+     "name": "Haunting Hour Road Productions",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Crave",
+     "logo": null
+    },
+    {
+     "name": "Crave Amazon Channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt38793125",
    "type": "movie",
