@@ -1,7 +1,171 @@
 {
  "version": 1,
- "updated": "2026-11-03T09:17:19Z",
+ "updated": "2026-11-03T09:17:29Z",
  "items": [
+  {
+   "id": "movie:tt50389959",
+   "type": "movie",
+   "title": "La Légende de Derry",
+   "original_title": "A Story of Derry",
+   "year": 2026,
+   "release_date": "2026-10-31",
+   "overview": "Des centaines d’années avant Pennywise, trois jeunes s’aventurent dans la forêt de l’Ouest où ils rencontrent un esprit ancien terrifiant.",
+   "synopsis_origin": null,
+   "rating": 6.8,
+   "runtime": 29,
+   "genres": [
+    "Drame",
+    "Horreur",
+    "Mystère"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "HBO Max",
+    "HBO Max Amazon Channel"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=iOjzJsHS0M0",
+   "poster": "https://image.tmdb.org/t/p/w500/95jDCfMC1MNXowaXxPpHuWP5zAr.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/z26LxXDMmAIzKr06FPDudCJyvsM.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/vfUPIM8gmJkcn9Eiix432vNeO6n.png",
+   "imdb_id": "tt50389959",
+   "tmdb_url": "https://www.themoviedb.org/movie/1813355",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt50389959",
+   "added_at": "2026-11-03T09:17:27Z",
+   "tagline": null,
+   "directors": [
+    "Tazbah Chavez"
+   ],
+   "writers": [
+    "Cherie Dimaline",
+    "Jasmyne Flournoy",
+    "Stephen King"
+   ],
+   "cast": [
+    {
+     "name": "Kiawentiio",
+     "role": "Neekani",
+     "photo": "https://image.tmdb.org/t/p/w185/wc2giacMf80eXDjZn9JpzhOfOKG.jpg"
+    },
+    {
+     "name": "Isabel DeRoy-Olson",
+     "role": "Kino",
+     "photo": "https://image.tmdb.org/t/p/w185/5Q00DYyruBqaJQuHqnu6qxVnpXT.jpg"
+    },
+    {
+     "name": "Michael Podemski",
+     "role": "Maneese",
+     "photo": "https://image.tmdb.org/t/p/w185/rKhfWIIQhiGKLyhB238wFCDv1nE.jpg"
+    },
+    {
+     "name": "Zahn McClarnon",
+     "role": "Mitig",
+     "photo": "https://image.tmdb.org/t/p/w185/54M2t1gziirkDdvj4SxAl6dXaVO.jpg"
+    },
+    {
+     "name": "MorningStar Angeline",
+     "role": "Sesqui",
+     "photo": "https://image.tmdb.org/t/p/w185/nB1PCopniuETacJofZ254Cr4CFo.jpg"
+    },
+    {
+     "name": "Brandon Oakes",
+     "role": "Apto",
+     "photo": "https://image.tmdb.org/t/p/w185/iiEiwcEaOObQXHoOitU1wstZmMF.jpg"
+    },
+    {
+     "name": "Jennifer Podemski",
+     "role": "Miko",
+     "photo": "https://image.tmdb.org/t/p/w185/5LlDHLrj0QRyQ0IpPgXr419tXRF.jpg"
+    },
+    {
+     "name": "Kimberly Guerrero",
+     "role": "Rose",
+     "photo": "https://image.tmdb.org/t/p/w185/mmadpo2S9FkZ17c2GDOGQwVPH7h.jpg"
+    },
+    {
+     "name": "Brenda Odjick",
+     "role": "Nebowist",
+     "photo": "https://image.tmdb.org/t/p/w185/4KCBWor11HngnJygKA7GJhu3PDQ.jpg"
+    },
+    {
+     "name": "Thosh Collins",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/fOnqZREIdxVllZFgkz7GU1FbXd9.jpg"
+    },
+    {
+     "name": "Eric Trask",
+     "role": "Priest",
+     "photo": "https://image.tmdb.org/t/p/w185/n5cvVnT2zMsVMOrzq0uLgJUpmO.jpg"
+    },
+    {
+     "name": "Steven Thompson",
+     "role": "Warrior",
+     "photo": null
+    },
+    {
+     "name": "Hunter Storm Baker",
+     "role": "Warrior",
+     "photo": null
+    },
+    {
+     "name": "Isaiah Kakepetum",
+     "role": "Warrior",
+     "photo": "https://image.tmdb.org/t/p/w185/wIJvzjr7dUgpMoCJSAEHxikggH4.jpg"
+    },
+    {
+     "name": "Sean Sansom",
+     "role": "Puppeteer",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Rideback",
+     "logo": "https://image.tmdb.org/t/p/w185/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png"
+    },
+    {
+     "name": "Vertigo Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/iJo9zP5QCKyBsmKSOcvXd6UDNih.png"
+    },
+    {
+     "name": "Warner Bros. Television",
+     "logo": "https://image.tmdb.org/t/p/w185/pJJw98MtNFC9cHn3o15G7vaUnnX.png"
+    },
+    {
+     "name": "FiveTen Productions",
+     "logo": null
+    },
+    {
+     "name": "K Plus Ultra",
+     "logo": null
+    },
+    {
+     "name": "Double Dream",
+     "logo": "https://image.tmdb.org/t/p/w185/bdtAEMJpIaVW78c78POabARpotx.png"
+    },
+    {
+     "name": "HBO",
+     "logo": "https://image.tmdb.org/t/p/w185/tuomPhY2UtuPTqqFnKMVHvSb724.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "HBO Max",
+     "logo": null
+    },
+    {
+     "name": "HBO Max Amazon Channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt37458193",
    "type": "movie",
