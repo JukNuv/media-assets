@@ -1,7 +1,182 @@
 {
  "version": 1,
- "updated": "2026-11-02T15:25:43Z",
+ "updated": "2026-11-03T09:16:46Z",
  "items": [
+  {
+   "id": "movie:tt30691214",
+   "type": "movie",
+   "title": "Forbidden Fruits",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-03-26",
+   "overview": "Apple, une employée de Free Eden, dirige secrètement un culte de sorcières dans le sous-sol du centre commercial après les heures de travail - avec ses collègues Cherry et Fig.",
+   "synopsis_origin": null,
+   "rating": 5.8,
+   "runtime": 103,
+   "genres": [
+    "Horreur",
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Philo",
+    "AMC Plus Apple TV channel",
+    "AMC+ Amazon Channel",
+    "AMC+",
+    "Shudder",
+    "Sundance Now"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=0nyUCq9k7_0",
+   "poster": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/jAgJOU5eYbFzHokMa3eD2KFzolS.png",
+   "imdb_id": "tt30691214",
+   "tmdb_url": "https://www.themoviedb.org/movie/1450527",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt30691214",
+   "added_at": "2026-11-03T09:16:44Z",
+   "tagline": "Le coven vient d'arriver.",
+   "directors": [
+    "Meredith Alloway"
+   ],
+   "writers": [
+    "Meredith Alloway",
+    "Lily Houghton"
+   ],
+   "cast": [
+    {
+     "name": "Lili Reinhart",
+     "role": "Apple",
+     "photo": "https://image.tmdb.org/t/p/w185/c7Wm0ZEGX6yqgjqOq4RuKMgtWEJ.jpg"
+    },
+    {
+     "name": "Alexandra Shipp",
+     "role": "Fig",
+     "photo": "https://image.tmdb.org/t/p/w185/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+    },
+    {
+     "name": "Victoria Pedretti",
+     "role": "Cherry",
+     "photo": "https://image.tmdb.org/t/p/w185/lzGbKFIBdecraIkofCB6YAOg1VR.jpg"
+    },
+    {
+     "name": "Lola Tung",
+     "role": "Pumpkin",
+     "photo": "https://image.tmdb.org/t/p/w185/gnkrdZniagAbZQcYSoYcADKOQMg.jpg"
+    },
+    {
+     "name": "Siddharth Sharma",
+     "role": "Norman",
+     "photo": "https://image.tmdb.org/t/p/w185/g1Sk0hNgeRcjcsaoTPh1j8BZiXm.jpg"
+    },
+    {
+     "name": "Emma Chamberlain",
+     "role": "Pickle",
+     "photo": "https://image.tmdb.org/t/p/w185/rSNxhMvEDRezrGeiOHGVG8nmNci.jpg"
+    },
+    {
+     "name": "Gabrielle Union",
+     "role": "Sharon",
+     "photo": "https://image.tmdb.org/t/p/w185/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+    },
+    {
+     "name": "Jordan Duarte",
+     "role": "Texas Dad",
+     "photo": "https://image.tmdb.org/t/p/w185/AsPeKMEkHUf6YtMIYWRHKcab0wm.jpg"
+    },
+    {
+     "name": "Jacqueline Byers",
+     "role": "Momfluencer",
+     "photo": "https://image.tmdb.org/t/p/w185/vgj4zlU5sqJ1EzRgUP3ikRwK4lW.jpg"
+    },
+    {
+     "name": "Zack Thompson",
+     "role": "Fries Boy",
+     "photo": null
+    },
+    {
+     "name": "R Austin Ball",
+     "role": "Johnny Montgomery",
+     "photo": "https://image.tmdb.org/t/p/w185/mOJ21pdMtbN2jyw6MbspITvgmnj.jpg"
+    },
+    {
+     "name": "Harrison Byers",
+     "role": "Momfluencer's Son",
+     "photo": null
+    },
+    {
+     "name": "Caroline Vartanian",
+     "role": "Susan Alexandra Employee",
+     "photo": null
+    },
+    {
+     "name": "Aidan Almanza",
+     "role": "Daine's Employee",
+     "photo": null
+    },
+    {
+     "name": "David Pinard",
+     "role": "Keep Calm and Cookie On Man",
+     "photo": "https://image.tmdb.org/t/p/w185/8vn6LZLFvxm1MhsLLMGzKMfvhgR.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis",
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "MXN Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/tnRjZHsggCvK0hZUjDrGSIARsU8.png"
+    },
+    {
+     "name": "Madhouse Films",
+     "logo": "https://image.tmdb.org/t/p/w185/lYPyF9QE9zlNVxPusUR5uf1TWUB.png"
+    },
+    {
+     "name": "Lollipop Woods",
+     "logo": null
+    },
+    {
+     "name": "100 Zeros",
+     "logo": null
+    },
+    {
+     "name": "Quadrant Motion Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/7IMazR48eP0GrNtCvvla4gdsNse.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Philo",
+     "logo": null
+    },
+    {
+     "name": "AMC Plus Apple TV channel",
+     "logo": null
+    },
+    {
+     "name": "AMC+ Amazon Channel",
+     "logo": null
+    },
+    {
+     "name": "AMC+",
+     "logo": null
+    },
+    {
+     "name": "Shudder",
+     "logo": null
+    },
+    {
+     "name": "Sundance Now",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt35538033",
    "type": "movie",
