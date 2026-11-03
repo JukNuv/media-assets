@@ -1,7 +1,112 @@
 {
  "version": 1,
- "updated": "2026-11-03T09:17:29Z",
+ "updated": "2026-11-03T09:17:36Z",
  "items": [
+  {
+   "id": "movie:tt43655079",
+   "type": "movie",
+   "title": "Confessions d'une accro à Noël",
+   "original_title": "Merry Christmas, Ms. Christmas",
+   "year": 2026,
+   "release_date": "2026-10-26",
+   "overview": "Mélanie Patterson est une passionnée des fêtes de fin d'année, qui met une petite touche de Noël, dans tous les évènements qu'elle organise. Son seul problème : elle dépense toujours trop... Ce qui lui vaut de perdre son emploi. Elle décide alors de se mettre à son compte et de lancer sa nouvelle carrière, à l'occasion du réveillon qu'elle organise chaque année pour tous les habitants de son quartier.",
+   "synopsis_origin": null,
+   "rating": 5.0,
+   "runtime": 90,
+   "genres": [
+    "Téléfilm",
+    "Romance"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "TF1+",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/lLuWqLNkVyWVbV5rtle5cK5yoWA.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/9ApCYxqPSr9OKuxaCeNMxuo4wnd.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/9MvMs47mX1tiZaPLpCdtOWoRSSm.png",
+   "imdb_id": "tt43655079",
+   "tmdb_url": "https://www.themoviedb.org/movie/1789826",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt43655079",
+   "added_at": "2026-11-03T09:17:34Z",
+   "tagline": null,
+   "directors": [
+    "Paul Persic"
+   ],
+   "writers": [
+    "Barbara Kymlicka"
+   ],
+   "cast": [
+    {
+     "name": "Alicia Dea Josipovic",
+     "role": "Mélanie Patterson",
+     "photo": "https://image.tmdb.org/t/p/w185/yfUlxwynk2Z2djsdrUf4C6l5kfD.jpg"
+    },
+    {
+     "name": "Chris Violette",
+     "role": "Evan",
+     "photo": "https://image.tmdb.org/t/p/w185/feoV5wVPhMHMWkUdUARKE1obbbj.jpg"
+    },
+    {
+     "name": "Michael Dickson",
+     "role": "Barry",
+     "photo": "https://image.tmdb.org/t/p/w185/sF2ZXYGNldPDgKuhdYavxFcy59T.jpg"
+    },
+    {
+     "name": "Ariel Gerard",
+     "role": "Brook",
+     "photo": "https://image.tmdb.org/t/p/w185/1taib8logxqRReLjyQ2mpr7AH5A.jpg"
+    },
+    {
+     "name": "Sarah Lackie",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/g5KOZBotgUmnHUdbbv2Lvqr8xl2.jpg"
+    },
+    {
+     "name": "Noah Berc",
+     "role": "Ryan",
+     "photo": "https://image.tmdb.org/t/p/w185/6IXaGhSJGAq9jOuYoMyzN3lehRh.jpg"
+    },
+    {
+     "name": "Jennifer Baker",
+     "role": "Kendra Porter",
+     "photo": "https://image.tmdb.org/t/p/w185/4KToo1eVVyZW5iTxmXq64FDkUOq.jpg"
+    },
+    {
+     "name": "Michael Dickson",
+     "role": "Barry",
+     "photo": "https://image.tmdb.org/t/p/w185/fweQ6EXHpKjnnVuAvjHZFpNHOuP.jpg"
+    },
+    {
+     "name": "Rachel Sellan",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/1T4h8GPtXa2B3NWqzJ90whLZGvK.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "TF1+",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt50389959",
    "type": "movie",
