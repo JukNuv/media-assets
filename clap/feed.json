@@ -1,7 +1,139 @@
 {
  "version": 1,
- "updated": "2026-11-03T09:16:46Z",
+ "updated": "2026-11-03T09:16:54Z",
  "items": [
+  {
+   "id": "movie:tt35856037",
+   "type": "movie",
+   "title": "Your Mother Your Mother Your Mother",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-25",
+   "overview": "Latif, un tueur à gages profondément religieux, a du mal à équilibrer travail, foi et paternité. Lorsque sa femme décède, il se lance dans un voyage désespéré à travers Houston pour protéger ses enfants, affrontant les forces qui se rapprochent de lui – et les croyances qui menacent de s'effondrer à l'intérieur.",
+   "synopsis_origin": null,
+   "rating": 7.3,
+   "runtime": 112,
+   "genres": [
+    "Action",
+    "Crime",
+    "Drame",
+    "Thriller"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=uEcoV-ngH38",
+   "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/jiFLiatBtBALlAzV5R72gzspBad.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/vTWwAyfrTYFLHDD4vF94JzBBBpB.png",
+   "imdb_id": "tt35856037",
+   "tmdb_url": "https://www.themoviedb.org/movie/1437396",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt35856037",
+   "added_at": "2026-11-03T09:16:52Z",
+   "tagline": null,
+   "directors": [
+    "Bassam Tariq"
+   ],
+   "writers": [
+    "Bassam Tariq"
+   ],
+   "cast": [
+    {
+     "name": "Mahershala Ali",
+     "role": "Latif",
+     "photo": "https://image.tmdb.org/t/p/w185/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg"
+    },
+    {
+     "name": "John Cho",
+     "role": "Pastor Kwan",
+     "photo": "https://image.tmdb.org/t/p/w185/4Lar4uy8gk78cEocq6ERPRFWt3e.jpg"
+    },
+    {
+     "name": "Giancarlo Esposito",
+     "role": "Abdul Malik",
+     "photo": "https://image.tmdb.org/t/p/w185/MJOo4QZgMAb3y8QzOUDVFQusQZ.jpg"
+    },
+    {
+     "name": "Abubakr Ali",
+     "role": "Hatty",
+     "photo": "https://image.tmdb.org/t/p/w185/4IalGPv9GtTJJtNRP8L166nX2pT.jpg"
+    },
+    {
+     "name": "Laith Nakli",
+     "role": "Mike Mahmoudi",
+     "photo": "https://image.tmdb.org/t/p/w185/nn78jjIjoSf1Lp6FGBcIffFmwEb.jpg"
+    },
+    {
+     "name": "Adia",
+     "role": "Fatiha",
+     "photo": "https://image.tmdb.org/t/p/w185/o1fYZTDzw4ZE5Vk5Ugmic6IT4Se.jpg"
+    },
+    {
+     "name": "Jahleel Kamara",
+     "role": "Qadir",
+     "photo": "https://image.tmdb.org/t/p/w185/1MqmHDuz8tUgfSlZOhcYbkU2Mj5.jpg"
+    },
+    {
+     "name": "Tiffany Boone",
+     "role": "Fugazi",
+     "photo": "https://image.tmdb.org/t/p/w185/9LwqRFdSzxVtnutDUg98YLq0bSz.jpg"
+    },
+    {
+     "name": "Tramell Tillman",
+     "role": "Talib",
+     "photo": "https://image.tmdb.org/t/p/w185/bEA15zMnkcXlRroYjKrFUWiiK7y.jpg"
+    },
+    {
+     "name": "John Henry Ward",
+     "role": "Elder Wade",
+     "photo": "https://image.tmdb.org/t/p/w185/rxMKmehcUGBXuPhsXFBx7Y4i9ln.jpg"
+    },
+    {
+     "name": "Alyssa Kim",
+     "role": "Tara",
+     "photo": "https://image.tmdb.org/t/p/w185/yCbLqkwKoA0TUJt17YzvFhj7zc1.jpg"
+    },
+    {
+     "name": "Ashley P. Jones",
+     "role": "Dana",
+     "photo": null
+    },
+    {
+     "name": "Aaron Goodson",
+     "role": "Khalis",
+     "photo": "https://image.tmdb.org/t/p/w185/8kLwvH7uXoGcBqbw3oZt4HHqOSu.jpg"
+    },
+    {
+     "name": "Irene Santiago",
+     "role": "Church Lady",
+     "photo": "https://image.tmdb.org/t/p/w185/hlTsBmdOEkwPhowO1dGymLBzZLY.jpg"
+    },
+    {
+     "name": "Nettie Kraft",
+     "role": "WIC Lady",
+     "photo": null
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis",
+    "Royaume-Uni"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Two & Two Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/cJ39EvHmQ7fDEUkiTMZUikhG2eM.png"
+    },
+    {
+     "name": "Orion Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/xAot4SSOIHiWQ2WEnVXYGR1lce9.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt30691214",
    "type": "movie",
