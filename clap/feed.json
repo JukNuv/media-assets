@@ -1,7 +1,144 @@
 {
  "version": 1,
- "updated": "2026-11-03T09:16:54Z",
+ "updated": "2026-11-03T09:17:04Z",
  "items": [
+  {
+   "id": "movie:tt34206385",
+   "type": "movie",
+   "title": "Primetime",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-23",
+   "overview": "Chris Hansen présente l'émission policière « To Catch a Predator ». Diffusée sur NBC Dateline, cette émission tente de filmer des pédophiles présumés avec l'aide des forces de l'ordre et d'une équipe d'appâts se faisant passer pour des mineurs sur Internet. En 2006, Hansen est sur le point de révolutionner le monde de la télévision.",
+   "synopsis_origin": null,
+   "rating": 6.8,
+   "runtime": 110,
+   "genres": [
+    "Drame",
+    "Thriller"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=3ftErNDf5Jc",
+   "poster": "https://image.tmdb.org/t/p/w500/rhF8JALH8wrxKtXSCAB7a09tWsc.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/4cE5EHq7ifeBmsINDtvdwCKecNv.png",
+   "imdb_id": "tt34206385",
+   "tmdb_url": "https://www.themoviedb.org/movie/1375441",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34206385",
+   "added_at": "2026-11-03T09:17:02Z",
+   "tagline": "Êtes-vous prêt à entrer dans l'histoire de la télévision ?",
+   "directors": [
+    "Lance Oppenheim"
+   ],
+   "writers": [
+    "Ajon Singh"
+   ],
+   "cast": [
+    {
+     "name": "Robert Pattinson",
+     "role": "Chris Hansen",
+     "photo": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+     "name": "Merritt Wever",
+     "role": "Andie Bender",
+     "photo": "https://image.tmdb.org/t/p/w185/ldd1WntzQ72DVuNLoko8yMFHH7j.jpg"
+    },
+    {
+     "name": "Skyler Gisondo",
+     "role": "Dan Plum",
+     "photo": "https://image.tmdb.org/t/p/w185/4oywya1Roukq6FJFuWjU5z61WUg.jpg"
+    },
+    {
+     "name": "Matthew Maher",
+     "role": "Xavier Von Erck",
+     "photo": "https://image.tmdb.org/t/p/w185/3RPEUaliXJ9lcoL5R5IbcAOwd5D.jpg"
+    },
+    {
+     "name": "Phoebe Bridgers",
+     "role": "Del",
+     "photo": "https://image.tmdb.org/t/p/w185/3Br0mutrOkKaemjXsh9m6ejFfRx.jpg"
+    },
+    {
+     "name": "Victor Brunette",
+     "role": "Frag",
+     "photo": "https://image.tmdb.org/t/p/w185/oVLryWXSuHFNWceoY61nzOiB1ti.jpg"
+    },
+    {
+     "name": "Bokeem Woodbine",
+     "role": "Cortland Gunn",
+     "photo": "https://image.tmdb.org/t/p/w185/pnPyA5pJn94zUzuLWTNkGBNZxza.jpg"
+    },
+    {
+     "name": "Michael Chachere",
+     "role": "Michael Chachere",
+     "photo": "https://image.tmdb.org/t/p/w185/z3GdHd9fJni93zvqpIyLJvKKH99.jpg"
+    },
+    {
+     "name": "Alex Winter",
+     "role": "Bill Conradt",
+     "photo": "https://image.tmdb.org/t/p/w185/7wPi7qrHrsqy1VJ2wQTatIwKjHH.jpg"
+    },
+    {
+     "name": "Tony Revolori",
+     "role": "MarriedAndLookingForFun31313",
+     "photo": "https://image.tmdb.org/t/p/w185/tSF6XmXDikrKZbFUeoDnafXxKjT.jpg"
+    },
+    {
+     "name": "Bob Ari",
+     "role": "RedBd",
+     "photo": "https://image.tmdb.org/t/p/w185/r3nwKEVVH7kDgklIx1Wg8CqJ3Fh.jpg"
+    },
+    {
+     "name": "Jonathan Lipnicki",
+     "role": "Crazyfrog73",
+     "photo": "https://image.tmdb.org/t/p/w185/sCFCCqFNm5Xyl2eyhzoHH1L8zxF.jpg"
+    },
+    {
+     "name": "Matt Smith",
+     "role": "WrestlingDudeEastTX",
+     "photo": "https://image.tmdb.org/t/p/w185/fKUYro4v4mX8CF46bURyM83wJo3.jpg"
+    },
+    {
+     "name": "Anna Faris",
+     "role": "Mary Hansen",
+     "photo": "https://image.tmdb.org/t/p/w185/tptTb0BQwCpKWETNqzkZzzf5qSZ.jpg"
+    },
+    {
+     "name": "Franco Brocato",
+     "role": "Connor Hansen",
+     "photo": "https://image.tmdb.org/t/p/w185/sHg41pyKf3MlUCN1ysf069YdB1k.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "A24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "Icki Eneo Arlo",
+     "logo": "https://image.tmdb.org/t/p/w185/kTi6RsM6NUmtprzpIFg3NiPPQzq.png"
+    },
+    {
+     "name": "Square Peg",
+     "logo": "https://image.tmdb.org/t/p/w185/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png"
+    },
+    {
+     "name": "Range Media Partners",
+     "logo": "https://image.tmdb.org/t/p/w185/kzQwU2H6woBFti9cqjr9BrVXrst.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt35856037",
    "type": "movie",
