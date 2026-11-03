@@ -1,7 +1,127 @@
 {
  "version": 1,
- "updated": "2026-11-03T09:17:04Z",
+ "updated": "2026-11-03T09:17:11Z",
  "items": [
+  {
+   "id": "movie:tt10377864",
+   "type": "movie",
+   "title": "Beware Boiúna",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-01",
+   "overview": "Une mission médicale au cœur de l'Amazonie se transforme en une lutte désespérée pour la survie lorsqu'un prédateur ancestral colossal se réveille, faisant de la jungle un champ de bataille mortel où la nature décide qui vivra et qui mourra.",
+   "synopsis_origin": "deepl",
+   "rating": 6.4,
+   "runtime": 104,
+   "genres": [
+    "Horreur",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=MQKqgFVU4dQ",
+   "poster": "https://image.tmdb.org/t/p/w500/uW5YMPxJUzT9bkafrCKHXjPTCoQ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/ug82yegbLgpat7COIhqhQ4W8ZBx.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/tXwK1k2mQNQWFoliXDXoUhzT55m.png",
+   "imdb_id": "tt10377864",
+   "tmdb_url": "https://www.themoviedb.org/movie/1244523",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt10377864",
+   "added_at": "2026-11-03T09:17:09Z",
+   "tagline": "Découvrez la terreur à une échelle gigantesque.",
+   "directors": [
+    "Mike P. Nelson"
+   ],
+   "writers": [
+    "Alan B. McElroy",
+    "Tony Giglio"
+   ],
+   "cast": [
+    {
+     "name": "Logan Marshall-Green",
+     "role": "Brennan Malloy",
+     "photo": "https://image.tmdb.org/t/p/w185/oogXh2Osxw43bfjMVCcCH8SGsUB.jpg"
+    },
+    {
+     "name": "Kiana Madeira",
+     "role": "Lena",
+     "photo": "https://image.tmdb.org/t/p/w185/sw5jTOmdHhAZzVMIzSVEDi5g7lz.jpg"
+    },
+    {
+     "name": "Jessica Rothe",
+     "role": "Alli",
+     "photo": "https://image.tmdb.org/t/p/w185/oItPXy56W0Y5taqIMZilRtnPDMn.jpg"
+    },
+    {
+     "name": "Jackson Bews",
+     "role": "Shawn",
+     "photo": "https://image.tmdb.org/t/p/w185/of70BbE1KAq6J1PuUFnEHRyzh3Z.jpg"
+    },
+    {
+     "name": "Juan Pablo Shuk",
+     "role": "Miguel",
+     "photo": "https://image.tmdb.org/t/p/w185/bUJgufFSqWMpa8gEXPTNun8MP8i.jpg"
+    },
+    {
+     "name": "Will Close",
+     "role": "Callum",
+     "photo": null
+    },
+    {
+     "name": "Vicente Peña",
+     "role": "Pedro",
+     "photo": null
+    },
+    {
+     "name": "Jaime Newball",
+     "role": "Raúl",
+     "photo": null
+    },
+    {
+     "name": "Mateo Moreno",
+     "role": "Diego",
+     "photo": null
+    },
+    {
+     "name": "Nelson Camayo",
+     "role": "Guilherme",
+     "photo": "https://image.tmdb.org/t/p/w185/rWlL59TzadOr9jUs73ClyZoM0iO.jpg"
+    },
+    {
+     "name": "Christophe de Geest",
+     "role": "Proctor",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis",
+    "Allemagne",
+    "CO"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Constantin Film",
+     "logo": "https://image.tmdb.org/t/p/w185/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png"
+    },
+    {
+     "name": "JB Pictures",
+     "logo": null
+    },
+    {
+     "name": "Jaguar Bite",
+     "logo": "https://image.tmdb.org/t/p/w185/c7e41WNx0l9UWKwTEHmFxVwNtCd.png"
+    },
+    {
+     "name": "North.Five.Six.",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt34206385",
    "type": "movie",
