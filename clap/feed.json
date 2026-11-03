@@ -1,7 +1,134 @@
 {
  "version": 1,
- "updated": "2026-11-03T09:17:11Z",
+ "updated": "2026-11-03T09:17:19Z",
  "items": [
+  {
+   "id": "movie:tt37458193",
+   "type": "movie",
+   "title": "Entre amies",
+   "original_title": "Minha Melhor Amiga",
+   "year": 2026,
+   "release_date": "2026-09-03",
+   "overview": "Face au syndrome du nid vide, deux amies inséparables suivent leurs filles ados au Portugal et y trouvent l'amour, la fête et un tout nouveau sens à leur amitié.",
+   "synopsis_origin": null,
+   "rating": 8.5,
+   "runtime": 125,
+   "genres": [
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/otyBqxlceDn84gAjFN7f4rjdNi2.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/1TWjcJmcmhCntrcjwiWbM6jQcni.jpg",
+   "logo": "",
+   "imdb_id": "tt37458193",
+   "tmdb_url": "https://www.themoviedb.org/movie/1257147",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37458193",
+   "added_at": "2026-11-03T09:17:17Z",
+   "tagline": null,
+   "directors": [
+    "Susana Garcia"
+   ],
+   "writers": [
+    "Andrea Batitucci",
+    "Ingrid Guimarães",
+    "Luisa Capri"
+   ],
+   "cast": [
+    {
+     "name": "Ingrid Guimarães",
+     "role": "Clara",
+     "photo": "https://image.tmdb.org/t/p/w185/cK9Skq9tN7YdB3n1AiD5VeavxYP.jpg"
+    },
+    {
+     "name": "Mônica Martelli",
+     "role": "Julia",
+     "photo": "https://image.tmdb.org/t/p/w185/yo71UP4C3LITHXcP0r1SG4oo0wT.jpg"
+    },
+    {
+     "name": "Giulia Benite",
+     "role": "Manu",
+     "photo": "https://image.tmdb.org/t/p/w185/jyQK0gnTPzJkKP1CqOAYFx3K0ir.jpg"
+    },
+    {
+     "name": "Gabi Amaral",
+     "role": "Isadora",
+     "photo": "https://image.tmdb.org/t/p/w185/7fe6jT86wbi16rCqSUAPoNLpOoY.jpg"
+    },
+    {
+     "name": "Ricardo Pereira",
+     "role": "Antônio - Médico",
+     "photo": "https://image.tmdb.org/t/p/w185/ka35HapmYDkf1GSzmcDcl3YWEQa.jpg"
+    },
+    {
+     "name": "Michel Melamed",
+     "role": "Breno",
+     "photo": "https://image.tmdb.org/t/p/w185/wAXJBqg77X9pSYLcJGcS7Sf8tAT.jpg"
+    },
+    {
+     "name": "Thaila Ayala",
+     "role": "Elisa",
+     "photo": "https://image.tmdb.org/t/p/w185/cqYxvSXju0RJPV4uhJkDPzsHCae.jpg"
+    },
+    {
+     "name": "Gustavo Machado",
+     "role": "André",
+     "photo": "https://image.tmdb.org/t/p/w185/maiSPgEboi2alwssKiUQDL3iWuK.jpg"
+    },
+    {
+     "name": "Albano Jerónimo",
+     "role": "Nuno",
+     "photo": "https://image.tmdb.org/t/p/w185/qiXVwTbsoY6xEViJZgoqy9sKPfO.jpg"
+    },
+    {
+     "name": "Alejandro Albarracín",
+     "role": "Ramon",
+     "photo": "https://image.tmdb.org/t/p/w185/34RnAj40ZvWAEHDCRXMmXnkUOJi.jpg"
+    },
+    {
+     "name": "Alex Junior",
+     "role": "Andrézinho",
+     "photo": null
+    },
+    {
+     "name": "Sara Freitas",
+     "role": "Atendente Farmácia",
+     "photo": null
+    },
+    {
+     "name": "Lola Fiuza",
+     "role": "Caixa Farmácia",
+     "photo": null
+    },
+    {
+     "name": "Nisia Rocha",
+     "role": "Dona Alberta",
+     "photo": "https://image.tmdb.org/t/p/w185/A3WMbf9lsIqRWpLO3SR8BkB1kWl.jpg"
+    },
+    {
+     "name": "Cintia Rosa",
+     "role": "Dra. Helena",
+     "photo": "https://image.tmdb.org/t/p/w185/khhvKsUW00hYNalibFiUr9vvCju.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Brésil",
+    "PT"
+   ],
+   "original_language": "Portugais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Paris Entretenimento",
+     "logo": "https://image.tmdb.org/t/p/w185/qjk6yikGcCAqMQvi7Jo2juoIMY.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt10377864",
    "type": "movie",
