@@ -1,7 +1,98 @@
 {
  "version": 1,
- "updated": "2026-11-04T12:06:08Z",
+ "updated": "2026-11-04T16:04:02Z",
  "items": [
+  {
+   "id": "series:tt38681812",
+   "type": "series",
+   "title": "Anesthésie",
+   "original_title": "Znieczulenie",
+   "year": 2026,
+   "release_date": "2026-11-04",
+   "overview": "Après une opération audacieuse qui a échoué, un médecin de talent quitte une prestigieuse clinique pour exercer dans un petit hôpital, tout en essayant de reprendre sa vie en main.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 53,
+   "genres": [
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/lKINFJTnN78ykv91wcIwAwjBmMI.png",
+   "imdb_id": "tt38681812",
+   "tmdb_url": "https://www.themoviedb.org/tv/312006",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38681812",
+   "added_at": "2026-11-04T16:04:00Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Leszek Lichota",
+     "role": "Dr. Łazarz",
+     "photo": "https://image.tmdb.org/t/p/w185/4jLHDFGiD1hMjLCiSc0pGH5rC6Q.jpg"
+    },
+    {
+     "name": "Aleksandra Popławska",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/cOdeuRAkVMCeu5MQ9bjBvUNKCeE.jpg"
+    },
+    {
+     "name": "Filip Kowalewicz",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Karolina Gruszka",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/3QFVPgTVGKZ76U8LzdQWIVUBkQe.jpg"
+    },
+    {
+     "name": "Dorota Kolak",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/vMu479AwEce9BNuLG0jMBwfbuH1.jpg"
+    },
+    {
+     "name": "Masza Wągrocka",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ofM13hNiPRCsy5ySgWrpvp8FNi.jpg"
+    },
+    {
+     "name": "Krzysztof Stelmaszyk",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ru421L4sdtLbMY9ncxYmbnevGT8.jpg"
+    },
+    {
+     "name": "Gamou Fall",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/gK3TI3oZbdEDFsQvzSlOB1xttpn.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Pologne"
+   ],
+   "original_language": "Polonais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Akson Studio",
+     "logo": "https://image.tmdb.org/t/p/w185/nnXr9tDsIU7uGjVOFrjsSK2jYuY.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt39325975",
    "type": "series",
