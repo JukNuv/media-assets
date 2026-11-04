@@ -1,7 +1,123 @@
 {
  "version": 1,
- "updated": "2026-11-04T08:05:19Z",
+ "updated": "2026-11-04T10:01:56Z",
  "items": [
+  {
+   "id": "movie:tt36955518",
+   "type": "movie",
+   "title": "Jim Queen",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-17",
+   "overview": "Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays… en hétérosexuels ! Il voit alors tout le monde lui tourner le dos à l’exception de son dernier follower (et premier admirateur), Lucien, un jeune homme qui peine à s’assumer. Ensemble, ils partiront en quête d’un mystérieux remède capable de guérir Jim et d’empêcher l’extinction de l’homosexualité…",
+   "synopsis_origin": null,
+   "rating": 7.9,
+   "runtime": 85,
+   "genres": [
+    "Animation",
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=eJyZKYim5kQ",
+   "poster": "https://image.tmdb.org/t/p/w500/nvmGrOzolKlW1z90rLudSjPm9cG.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/vQw05sfFEVCVpysDAU5C8NU1gMO.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/mXdhQCVGed9Dfus2IWEaqROO3VK.png",
+   "imdb_id": "tt36955518",
+   "tmdb_url": "https://www.themoviedb.org/movie/1061798",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36955518",
+   "added_at": "2026-11-04T10:01:55Z",
+   "tagline": "Un long métrage d'animation de dur à queer",
+   "directors": [
+    "Nicolas Athané",
+    "Marco Nguyen"
+   ],
+   "writers": [
+    "Nicolas Athané",
+    "Marco Nguyen",
+    "Brice Chevillard"
+   ],
+   "cast": [
+    {
+     "name": "Alex Ramirès",
+     "role": "Jim Perfect (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/8rJepLXE50rKig31hrUJLLBtnWC.jpg"
+    },
+    {
+     "name": "Jéremy Gillet",
+     "role": "Lucien (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/spe3Lzq5NZnlBbEtle94eVtuf3h.jpg"
+    },
+    {
+     "name": "Shirley Souagnon",
+     "role": "Nina (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/ho2EcIPzTUz33nJSsW8KIM50NJM.jpg"
+    },
+    {
+     "name": "Francois Sagat",
+     "role": "Pavel (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/xkSAuK2WhFKFvIINOJKAz5rWahm.jpg"
+    },
+    {
+     "name": "Elisabeth Wiener",
+     "role": "Christine Bayer (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/Hzss2T3lZwJwNoRLSgkAKPonOm.jpg"
+    },
+    {
+     "name": "Harald Marlot",
+     "role": "Glamydia (voice)",
+     "photo": null
+    },
+    {
+     "name": "Alexandre Brik",
+     "role": "Robear (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/pzMey0PUuJfgZYG49KOJ5ClmpPU.jpg"
+    },
+    {
+     "name": "Philippe Katerine",
+     "role": "La prostate (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/vGo21vRILgGPT5Q3TTwzLxANemF.jpg"
+    },
+    {
+     "name": "Fabrice Petithuguenin",
+     "role": "Mr. Leather (voice)",
+     "photo": null
+    },
+    {
+     "name": "Brice Chevillard",
+     "role": "Michel / Dr. Ragout / Assistant du docteur (voice)",
+     "photo": null
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "France",
+    "Belgique"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Bobbypills",
+     "logo": "https://image.tmdb.org/t/p/w185/14asAv6f73J1V4smKEC6aiG8ihI.png"
+    },
+    {
+     "name": "uMedia",
+     "logo": "https://image.tmdb.org/t/p/w185/tceh2aAORA5JxIZSLQ1GkzTBZDL.png"
+    },
+    {
+     "name": "RTBF",
+     "logo": "https://image.tmdb.org/t/p/w185/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png"
+    },
+    {
+     "name": "uFund",
+     "logo": "https://image.tmdb.org/t/p/w185/lgkXXc4hyHH6WqVMJVUFrhFIjm5.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt38688809",
    "type": "series",
