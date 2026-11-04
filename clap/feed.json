@@ -1,7 +1,136 @@
 {
  "version": 1,
- "updated": "2026-11-04T11:22:54Z",
+ "updated": "2026-11-04T11:23:22Z",
  "items": [
+  {
+   "id": "movie:tt13611778",
+   "type": "movie",
+   "title": "The Mongoose",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-29",
+   "overview": "Accusé à tort d'un crime et n'ayant rien à perdre, un héros de guerre qui lutte contre le PTSD entraîne la police dans une course-poursuite à tombeau ouvert à travers le pays avec l'aide de ses frères d'armes, tandis qu'un public captivé soutient sa fuite.",
+   "synopsis_origin": null,
+   "rating": 7.7,
+   "runtime": 99,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=ObfsC_wPQr0",
+   "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/iRIhPqqoUHiFBxn8oYf3gCQnaKk.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/qpZRdwryEhQ9XsRuS8PgZVuEF1V.png",
+   "imdb_id": "tt13611778",
+   "tmdb_url": "https://www.themoviedb.org/movie/1294189",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt13611778",
+   "added_at": "2026-11-04T11:23:10Z",
+   "tagline": null,
+   "directors": [
+    "Mark Vanselow"
+   ],
+   "writers": [
+    "Thompson Evans"
+   ],
+   "cast": [
+    {
+     "name": "Liam Neeson",
+     "role": "Ryan 'Fang' Flanagan",
+     "photo": "https://image.tmdb.org/t/p/w185/sRLev3wJioBgun3ZoeAUFpkLy0D.jpg"
+    },
+    {
+     "name": "Marisa Tomei",
+     "role": "Tara",
+     "photo": "https://image.tmdb.org/t/p/w185/5NCCKQooVCQD36R6JL3a1hOeBVn.jpg"
+    },
+    {
+     "name": "Ving Rhames",
+     "role": "Tanker",
+     "photo": "https://image.tmdb.org/t/p/w185/tOVDvu1EQP78AwaUw6uh1wN818E.jpg"
+    },
+    {
+     "name": "Marcus Thomas",
+     "role": "Munch",
+     "photo": "https://image.tmdb.org/t/p/w185/wpsm5roIsSqaOX9ApIJqCxDAqgD.jpg"
+    },
+    {
+     "name": "Michael Chiklis",
+     "role": "Major Walter Pope",
+     "photo": "https://image.tmdb.org/t/p/w185/pAkKjbzxP6Z6Y5zAGpwmWQo1iji.jpg"
+    },
+    {
+     "name": "Maurice Marvel Meredith",
+     "role": "Major James Tilton",
+     "photo": null
+    },
+    {
+     "name": "Brett Tucker",
+     "role": "Todd",
+     "photo": "https://image.tmdb.org/t/p/w185/6IUQyy2pA8PRXX1MEx088JH6pcu.jpg"
+    },
+    {
+     "name": "Ryan Morgan",
+     "role": "Wiz",
+     "photo": "https://image.tmdb.org/t/p/w185/zogTGGsLvQCxvuwkyOtwtbKAz3o.jpg"
+    },
+    {
+     "name": "Laura Coates",
+     "role": "Laura Coates",
+     "photo": "https://image.tmdb.org/t/p/w185/m7mBluZQoWKPvYqDKFsiS0oCnXm.jpg"
+    },
+    {
+     "name": "Geoff Morrell",
+     "role": "Ernie",
+     "photo": "https://image.tmdb.org/t/p/w185/zdbbOZPOb1VeAXh1idj9fKeHE87.jpg"
+    },
+    {
+     "name": "Charles Allen",
+     "role": "Truck Driver Roy",
+     "photo": "https://image.tmdb.org/t/p/w185/gVPFtWlef1tgT78t03MYMXXkB6J.jpg"
+    },
+    {
+     "name": "Jack Kenny",
+     "role": "Gas Station Employee Earl",
+     "photo": "https://image.tmdb.org/t/p/w185/v3A8RFnCNVloc7GIptPfSuJkhdp.jpg"
+    },
+    {
+     "name": "Stella Stocker",
+     "role": "Helene (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/ilRVeYRcQrAeHYLMOPPzLzZMJcC.jpg"
+    },
+    {
+     "name": "Aisha Aidara",
+     "role": "Officer Sanchez",
+     "photo": null
+    },
+    {
+     "name": "Elias Anton",
+     "role": "Officer Costello",
+     "photo": "https://image.tmdb.org/t/p/w185/4hnbwBjxK4lSR5tbNvcgcFSIt4r.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Australie"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Code Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/5WrEKsyGdTfT3T075EukSoIuxSU.png"
+    },
+    {
+     "name": "The Solution",
+     "logo": "https://image.tmdb.org/t/p/w185/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt38515310",
    "type": "movie",
