@@ -1,7 +1,167 @@
 {
  "version": 1,
- "updated": "2026-11-04T16:04:02Z",
+ "updated": "2026-11-04T22:03:10Z",
  "items": [
+  {
+   "id": "movie:tt33515714",
+   "type": "movie",
+   "title": "À voix basse",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-04-22",
+   "overview": "De retour en Tunisie pour les funérailles de son oncle, Lilia retrouve une famille qui ignore tout de sa vie à Paris. Déterminée à éclaircir le mystère de cette mort soudaine, Lilia se retrouve confrontée aux secrets d’une maison où cohabitent trois générations de femmes.",
+   "synopsis_origin": null,
+   "rating": 7.0,
+   "runtime": 113,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "FRENCH",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Be TV Go"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=uRUIQe3KyAU",
+   "poster": "https://image.tmdb.org/t/p/w500/fyNRLWlDZWWAxmvdo6WL2bsD0U0.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/1PSrPsyXJ0XQKkpUpTG7KninVz9.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/9m8S3W4w53vY1brfvtC3gDW9SnJ.png",
+   "imdb_id": "tt33515714",
+   "tmdb_url": "https://www.themoviedb.org/movie/1119547",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt33515714",
+   "added_at": "2026-11-04T22:03:08Z",
+   "tagline": null,
+   "directors": [
+    "Leyla Bouzid"
+   ],
+   "writers": [
+    "Leyla Bouzid"
+   ],
+   "cast": [
+    {
+     "name": "Eya Bouteraa",
+     "role": "Lilia",
+     "photo": "https://image.tmdb.org/t/p/w185/acnWzlfFzsBRdcXi76mgzUeRgQP.jpg"
+    },
+    {
+     "name": "Hiam Abbass",
+     "role": "Wahida",
+     "photo": "https://image.tmdb.org/t/p/w185/2cz9mO3qhUQeGdVHzWkS2Pwx94l.jpg"
+    },
+    {
+     "name": "Marion Barbeau",
+     "role": "Alice",
+     "photo": "https://image.tmdb.org/t/p/w185/9KJZhRxzMMDlwR8A9GpSPXLZ25W.jpg"
+    },
+    {
+     "name": "Feryel Chammari",
+     "role": "Hayet",
+     "photo": null
+    },
+    {
+     "name": "Selma Baccar",
+     "role": "Nefissa",
+     "photo": "https://image.tmdb.org/t/p/w185/qRRKFiwMt2oqODEfm0AbUd94USq.jpg"
+    },
+    {
+     "name": "Karim Remadi",
+     "role": "Daly",
+     "photo": null
+    },
+    {
+     "name": "Lassaad Jamoussi",
+     "role": "Moncef",
+     "photo": null
+    },
+    {
+     "name": "Nadia Belhaj",
+     "role": "Aicha",
+     "photo": null
+    },
+    {
+     "name": "Abdelkrim Bennani",
+     "role": "Lotfi",
+     "photo": null
+    },
+    {
+     "name": "Younes Naouar",
+     "role": "Bedis",
+     "photo": null
+    },
+    {
+     "name": "Ala Ben Hamad",
+     "role": "Policiers",
+     "photo": null
+    },
+    {
+     "name": "Badis Gaalaoui",
+     "role": "Policiers",
+     "photo": null
+    },
+    {
+     "name": "Fethi Mselmani",
+     "role": "Salah",
+     "photo": null
+    },
+    {
+     "name": "Zakaria Ben Ayyed",
+     "role": "Naim",
+     "photo": null
+    },
+    {
+     "name": "Wassim Chakroun",
+     "role": "Sofiene",
+     "photo": null
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "France",
+    "TN"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "UNITÉ",
+     "logo": "https://image.tmdb.org/t/p/w185/sHcbW8s6UWGmlc9tLIHJF9rwoeT.png"
+    },
+    {
+     "name": "Canal+",
+     "logo": "https://image.tmdb.org/t/p/w185/9aotxauvc9685tq9pTcRJszuT06.png"
+    },
+    {
+     "name": "France Télévisions",
+     "logo": "https://image.tmdb.org/t/p/w185/qpFsGoa96SytbWkhtkkpllu5Cch.png"
+    },
+    {
+     "name": "Cine+ OCS",
+     "logo": "https://image.tmdb.org/t/p/w185/hoHN2AyxgZ0XCF6gvSBEk57nzjd.png"
+    },
+    {
+     "name": "CNC",
+     "logo": "https://image.tmdb.org/t/p/w185/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png"
+    },
+    {
+     "name": "Playtime",
+     "logo": "https://image.tmdb.org/t/p/w185/riBQBny2Z3la03Wy8I27Ahn2spC.png"
+    },
+    {
+     "name": "Memento Distribution",
+     "logo": "https://image.tmdb.org/t/p/w185/uvLrOdzyFYkAoijQIMPqFWeVcoX.png"
+    },
+    {
+     "name": "Creative Europe Media",
+     "logo": "https://image.tmdb.org/t/p/w185/zTgOHuAj3Kc9vM9DtIw9Qgcwves.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Be TV Go",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt38681812",
    "type": "series",
