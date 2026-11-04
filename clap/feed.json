@@ -1,7 +1,119 @@
 {
  "version": 1,
- "updated": "2026-11-04T10:01:56Z",
+ "updated": "2026-11-04T11:22:54Z",
  "items": [
+  {
+   "id": "movie:tt38515310",
+   "type": "movie",
+   "title": "Mon beau Noël de chien",
+   "original_title": "A Dog's Perfect Christmas",
+   "year": 2026,
+   "release_date": "2026-11-04",
+   "overview": "Lorsqu'une urgence médicale sépare la famille Goss, le chien Winstead fait tout son possible pour réunir ses humains avant le réveillon de Noël.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 99,
+   "genres": [
+    "Familial",
+    "Comédie",
+    "Drame"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=L18ih13Bf-U",
+   "poster": "https://image.tmdb.org/t/p/w500/TSsdfaD0gGlVqBuy2xYxr3RTaL.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/ldi3LYSHGJINmIKaATfuuKYZfdH.png",
+   "imdb_id": "tt38515310",
+   "tmdb_url": "https://www.themoviedb.org/movie/1570488",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt38515310",
+   "added_at": "2026-11-04T11:22:37Z",
+   "tagline": null,
+   "directors": [
+    "Cathryn Michon"
+   ],
+   "writers": [
+    "W. Bruce Cameron",
+    "Cathryn Michon"
+   ],
+   "cast": [
+    {
+     "name": "Dennis Quaid",
+     "role": "Sander Goss",
+     "photo": "https://image.tmdb.org/t/p/w185/lMaDAJHzsKH7U3dln2B3kY3rOhE.jpg"
+    },
+    {
+     "name": "Milo Ventimiglia",
+     "role": "Hunter Goss",
+     "photo": "https://image.tmdb.org/t/p/w185/9yFPsQCYi9sbPQ0xJGtoAF4Ar6v.jpg"
+    },
+    {
+     "name": "Brooke Lena Johnson",
+     "role": "Ello Goss",
+     "photo": "https://image.tmdb.org/t/p/w185/gcidhYtCeH19FdpMjbVgjvBhbtA.jpg"
+    },
+    {
+     "name": "Kathleen Rose Perkins",
+     "role": "Juliana Goss",
+     "photo": "https://image.tmdb.org/t/p/w185/A6bG3mffBZ7xsr6aszSF2RJ0zIC.jpg"
+    },
+    {
+     "name": "Jennifer Tilly",
+     "role": "Lucille",
+     "photo": "https://image.tmdb.org/t/p/w185/9vYoYF385cVq9oDO3pDpXihP4vz.jpg"
+    },
+    {
+     "name": "Mary Steenburgen",
+     "role": "Claire",
+     "photo": "https://image.tmdb.org/t/p/w185/yJhfuqS3yXW7kLSyvRU6n3b35mq.jpg"
+    },
+    {
+     "name": "Thomas Haden Church",
+     "role": "Winstead (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/74NK9HCYvNafMggSp1PAK5Nwkpe.jpg"
+    },
+    {
+     "name": "Ethan Loomis",
+     "role": "Sean",
+     "photo": null
+    },
+    {
+     "name": "Rebecca Staab",
+     "role": "Barbara Goss",
+     "photo": "https://image.tmdb.org/t/p/w185/AavKqTvgAjqoJHFc4xOipmZJXiV.jpg"
+    },
+    {
+     "name": "Marissa Jaret Winokur",
+     "role": "Nurse Miller",
+     "photo": "https://image.tmdb.org/t/p/w185/9a8Phgwhrjw4e2Fng1ItNDL7QS0.jpg"
+    },
+    {
+     "name": "Lucia Morris",
+     "role": "Brittne Malone",
+     "photo": "https://image.tmdb.org/t/p/w185/zfPzkGZJuC2CKvrSsL0dHO47tzM.jpg"
+    },
+    {
+     "name": "Lisa Chandler",
+     "role": "Sabrina Malone",
+     "photo": "https://image.tmdb.org/t/p/w185/eak6gzmQkFwTGhbYyEykpKaZP4l.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Fezziwig Studios",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt36955518",
    "type": "movie",
