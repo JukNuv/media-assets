@@ -1,7 +1,141 @@
 {
  "version": 1,
- "updated": "2026-11-03T09:17:36Z",
+ "updated": "2026-11-04T08:05:19Z",
  "items": [
+  {
+   "id": "series:tt38688809",
+   "type": "series",
+   "title": "La Comtesse de Monte-Cristo",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-16",
+   "overview": "Marseille, 1815. Mercédès Herrera est prête à tout pour l’homme qu’elle aime, Edmond Dantès, un marin promis à un avenir brillant. Mais leur bonheur est cruellement brisé par une trahison impitoyable. Edmond, accusé à tort, est arraché à Mercédès et jeté dans les profondeurs du Château d'If, sans espoir de retour. Dévastée mais déterminée, Mercédès se lance dans une course effrénée pour le sauver, mais Edmond est tué lors de leur tentative d’évasion et elle-même se retrouve enfermée, condamnée à languir dans une cellule voisine de celle qui a abrité l’amour de sa vie.\n\nDans ce gouffre de douleur, tout semble perdu. Mercédès n'a désormais plus qu'un but, prendre sa revanche sur ceux qui ont détruit sa vie : Fernand, son propre cousin, secrètement amoureux d’elle ; Danglars, un manipulateur ambitieux ; et surtout Héloïse de Villefort, la femme implacable du procureur de la ville...",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Drame"
+   ],
+   "status": "En production",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=LLqT7EFQIJk",
+   "poster": "https://image.tmdb.org/t/p/w500/2NH9iAVr1xLCDNmBoaqvW5XXQbG.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/6Si9SBObUNrrWMqce8PF0XSAqsD.jpg",
+   "logo": "",
+   "imdb_id": "tt38688809",
+   "tmdb_url": "https://www.themoviedb.org/tv/271338",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38688809",
+   "added_at": "2026-11-04T08:05:17Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Audrey Fleurot",
+     "role": "Mercédès Herrera",
+     "photo": "https://image.tmdb.org/t/p/w185/83wsYI6oRWrtkcKr7ozobh1VWrm.jpg"
+    },
+    {
+     "name": "Simon Ehrlacher",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/rEvB41YBE2wEXm3N6FMBulzI7Yw.jpg"
+    },
+    {
+     "name": "Zabou Breitman",
+     "role": "Héloïse de Villefort",
+     "photo": "https://image.tmdb.org/t/p/w185/5BYrIiIiq6kDl6tt0oHufJXLFcU.jpg"
+    },
+    {
+     "name": "Esteban Vial",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/bS61EfCCt77ZpG2fRYZm8cOdVTY.jpg"
+    },
+    {
+     "name": "Marysole Fertard",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/uZphP8KT4xNLfZZ63NNsqEEH1D1.jpg"
+    },
+    {
+     "name": "Thibault Bonenfant",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Kad Merad",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/n4hjy7VFVgzRx5WVsElv4AKdotB.jpg"
+    },
+    {
+     "name": "Fotinì Peluso",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/8IOkyvfqbwQ5oYp5XQXP9WYYx11.jpg"
+    },
+    {
+     "name": "Thierry Godard",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/iIW7YCzXr1VR9TWOKhUon7ghO8V.jpg"
+    },
+    {
+     "name": "Maxime Lélue",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Waël Sersoub",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/urIZNaTVEHeBqaZvIoaCiMiy2yu.jpg"
+    },
+    {
+     "name": "Denis Lavant",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/yFbBnHd70Z0pdq6GIzn8amWvmto.jpg"
+    },
+    {
+     "name": "Éric Elmosnino",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/tBiMY94OLEUWbBaH7GJtAZ3TY37.jpg"
+    },
+    {
+     "name": "Olivia Côte",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/1ZOrkqlyDsGDUDEvbrSfU4Gx5iB.jpg"
+    },
+    {
+     "name": "Slimane Dazi",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/tHh9XviWroQWkKOa2jRPh5EkHTW.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En production",
+   "production": [
+    {
+     "name": "Bahia Blanca",
+     "logo": null
+    },
+    {
+     "name": "TF1",
+     "logo": "https://image.tmdb.org/t/p/w185/zPTy6QDAlCKGeAALZoFEL3QAlut.png"
+    },
+    {
+     "name": "Itinéraire Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/llVFyu0XedaUI4RroWsFN4WIJSC.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/tyHnxjQJLH6h4iDQKhN5iqebWmX.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt43655079",
    "type": "movie",
