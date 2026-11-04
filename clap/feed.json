@@ -1,7 +1,134 @@
 {
  "version": 1,
- "updated": "2026-11-04T12:05:59Z",
+ "updated": "2026-11-04T12:06:08Z",
  "items": [
+  {
+   "id": "series:tt39325975",
+   "type": "series",
+   "title": "L'impératrice remariée",
+   "original_title": "재혼 황후",
+   "year": 2026,
+   "release_date": "2026-11-03",
+   "overview": "Impératrice de l'Empire de l'Est, la brillante Navier règne en parfaite harmonie avec son époux, l'empereur Sovieshu. Mais leur monde s'écroule quand il introduit au palais Lasta, une esclave en fuite, et la prend comme maîtresse. Alors que son titre et son amour sont menacés, Navier reste stoïque. Seul Heinri, prince du Royaume de l'Ouest de passage pour la Nouvelle Année, devine la force et la solitude derrière son masque. Le jour où Sovieshu promet le trône à Lasta, Navier réalise qu'elle ne peut plus subir. Pour ne pas être une impératrice déchue mais celle qui choisit son destin, elle prend une décision qui changera sa vie à jamais.",
+   "synopsis_origin": null,
+   "rating": 8.0,
+   "runtime": 53,
+   "genres": [
+    "Drame",
+    "Science-Fiction & Fantastique"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=W4PBiv5Rg-M",
+   "poster": "https://image.tmdb.org/t/p/w500/1TKAhnnicIIV5k2L8bquwnU1B0s.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/cR7DBBRMFLAwQR4A1FOMcUEe5Hp.png",
+   "imdb_id": "tt39325975",
+   "tmdb_url": "https://www.themoviedb.org/tv/279246",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39325975",
+   "added_at": "2026-11-04T12:06:06Z",
+   "tagline": "J'accepte ce divorce et je demande l'approbation de mon remariage.",
+   "directors": [],
+   "seasons": 1,
+   "episodes": 10,
+   "cast": [
+    {
+     "name": "Shin Min-a",
+     "role": "Navier Ellie Trovi",
+     "photo": "https://image.tmdb.org/t/p/w185/6CjxjYvZBuvbAQTcuoPb8EeVrUI.jpg"
+    },
+    {
+     "name": "Ju Ji-hoon",
+     "role": "Sovieshu Vict",
+     "photo": "https://image.tmdb.org/t/p/w185/7PYfUrBBXhYv5PIsTalJhjbRteg.jpg"
+    },
+    {
+     "name": "이종석",
+     "role": "Heinrey Alles Lazlo",
+     "photo": "https://image.tmdb.org/t/p/w185/eW73DbmKQrqb6xDC52oMbVehw6G.jpg"
+    },
+    {
+     "name": "Lee Se-young",
+     "role": "Rashta Isqua",
+     "photo": "https://image.tmdb.org/t/p/w185/58jlu0lSO0rWEzsWPjGLoEI0NWr.jpg"
+    },
+    {
+     "name": "Lee Bong-ryun",
+     "role": "Eliza",
+     "photo": "https://image.tmdb.org/t/p/w185/AkpzrUGpT0JvRY9Zk6qceKm937l.jpg"
+    },
+    {
+     "name": "Choi Dae-hoon",
+     "role": "McKenna",
+     "photo": "https://image.tmdb.org/t/p/w185/n0jlEkK7JBGfzBl5pC6WxXWRJ6t.jpg"
+    },
+    {
+     "name": "Park Ho-san",
+     "role": "Viscount Lotteshu",
+     "photo": "https://image.tmdb.org/t/p/w185/gL5eN7UvYlseBD0rjdjgjiVKuQJ.jpg"
+    },
+    {
+     "name": "Jeong Young-joo",
+     "role": "Albani",
+     "photo": "https://image.tmdb.org/t/p/w185/oPHCzElm0I0cR6sB1WTutvtKAtI.jpg"
+    },
+    {
+     "name": "차우민",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/z8Lz0Opnl4i7Aj8b7jC4qYP01xJ.jpg"
+    },
+    {
+     "name": "한성민",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/AvBjp8Jbb3G1wC8xKxdPx5H719S.jpg"
+    },
+    {
+     "name": "소이한",
+     "role": "Young Wharton",
+     "photo": "https://image.tmdb.org/t/p/w185/mOyTQubWVQHHpRasNt0JiyrWJNe.jpg"
+    },
+    {
+     "name": "Kim Young-mi",
+     "role": "Young Elysee",
+     "photo": "https://image.tmdb.org/t/p/w185/jKsXDTKrt098ybEg8gT7AYhZv5K.jpg"
+    },
+    {
+     "name": "강유경",
+     "role": "Noblewoman",
+     "photo": "https://image.tmdb.org/t/p/w185/1iBUydYP5IckZlXS6EXr8bmlQOk.jpg"
+    },
+    {
+     "name": "이기택",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/phrd1GiMJgkFnDLKbmDHtO4NWW9.jpg"
+    },
+    {
+     "name": "김택",
+     "role": "Artina",
+     "photo": "https://image.tmdb.org/t/p/w185/uKr935aL0OSVWdQyqzfotM1zKda.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "Corée du Sud"
+   ],
+   "original_language": "Coréen",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Studio N",
+     "logo": "https://image.tmdb.org/t/p/w185/hLiXjOBvOlEA0IdTveoR7MsZwbj.png"
+    },
+    {
+     "name": "Disney+",
+     "logo": "https://image.tmdb.org/t/p/w185/1edZOYAfoyZyZ3rklNSiUpXX30Q.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt15715850",
    "type": "series",
