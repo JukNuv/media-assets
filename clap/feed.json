@@ -1,7 +1,129 @@
 {
  "version": 1,
- "updated": "2026-11-04T11:23:22Z",
+ "updated": "2026-11-04T12:05:59Z",
  "items": [
+  {
+   "id": "series:tt15715850",
+   "type": "series",
+   "title": "The Greatest",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-04",
+   "overview": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.",
+   "synopsis_origin": null,
+   "rating": 3.2,
+   "runtime": null,
+   "genres": [
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=ufIfbNWraIM",
+   "poster": "https://image.tmdb.org/t/p/w500/hu4jco5AOs8NSIctuc9KsRyuSg8.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/w97vcFJsTRrxuZxqo3bbPFwbbTA.png",
+   "imdb_id": "tt15715850",
+   "tmdb_url": "https://www.themoviedb.org/tv/258989",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt15715850",
+   "added_at": "2026-11-04T12:05:58Z",
+   "tagline": "Avant Ali, il était Clay.",
+   "directors": [
+    "Ben Watkins"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Jaalen Best",
+     "role": "Cassius Clay / Muhammad Ali",
+     "photo": "https://image.tmdb.org/t/p/w185/qD1RCdmW9kxACsmnW84JJuVMgnb.jpg"
+    },
+    {
+     "name": "Omari Hardwick",
+     "role": "Cassius 'Cash' Clay Sr.",
+     "photo": "https://image.tmdb.org/t/p/w185/acUogRPe6eyhiK33EavBk3SWGlB.jpg"
+    },
+    {
+     "name": "Dana Gourrier",
+     "role": "Odessa 'Bird' Clay",
+     "photo": "https://image.tmdb.org/t/p/w185/v3krc3R7LKMsHJEm8esPqEa7CR.jpg"
+    },
+    {
+     "name": "Amin Joseph",
+     "role": "Sonny Liston",
+     "photo": "https://image.tmdb.org/t/p/w185/kTr5Lf7NUullsj0g1klTOScwzRp.jpg"
+    },
+    {
+     "name": "Kai Parham",
+     "role": "Rudy Clay",
+     "photo": "https://image.tmdb.org/t/p/w185/1R5T5ejA37qVathStWn0MCiXEao.jpg"
+    },
+    {
+     "name": "Giovanni Ribisi",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg"
+    },
+    {
+     "name": "Reno Wilson",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/odYnlRblq5nQHqFgOAu5zPUJCde.jpg"
+    },
+    {
+     "name": "Erica Tazel",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/9EWz9rv8cN5Xpd7ZPfXY29NeDqc.jpg"
+    },
+    {
+     "name": "Aleks Paunovic",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/k8j9Nr0xS2vEUMV8Wl0y5cC2NeB.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Roc Nation",
+     "logo": "https://image.tmdb.org/t/p/w185/xHP91igtvutWF987tkAA9bQ3H5l.png"
+    },
+    {
+     "name": "Outlier Society",
+     "logo": "https://image.tmdb.org/t/p/w185/baWl2NMe4hiIsoJ94tv32uhYQ7z.png"
+    },
+    {
+     "name": "Polygram Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/zTchoLvjEs5MvY8fEd8rSiAIhYh.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Blue Monday Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6LpW4cbrWpegqKML8NmVNEAGCv.png"
+    },
+    {
+     "name": "Authentic Studios",
+     "logo": null
+    },
+    {
+     "name": "Grace: A Storytelling Company",
+     "logo": "https://image.tmdb.org/t/p/w185/z9sQZJzpd8Ai0lwRDgRYYkxFJIi.png"
+    },
+    {
+     "name": "Prime Video",
+     "logo": "https://image.tmdb.org/t/p/w185/w7HfLNm9CWwRmAMU58udl2L7We7.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt13611778",
    "type": "movie",
