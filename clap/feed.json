@@ -1,7 +1,148 @@
 {
  "version": 1,
- "updated": "2026-11-05T10:07:32Z",
+ "updated": "2026-11-05T14:03:52Z",
  "items": [
+  {
+   "id": "movie:tt31707271",
+   "type": "movie",
+   "title": "Bring the Law",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-02-27",
+   "overview": "Un inspecteur de la criminelle en deuil est choisi pour diriger un groupe de travail à Los Angeles afin de mettre fin aux agissements d'une organisation criminelle. Il ne tarde pas à démêler une conspiration impliquant la corruption de son propre service.",
+   "synopsis_origin": null,
+   "rating": 6.8,
+   "runtime": 95,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=EX43iR032jk",
+   "poster": "https://image.tmdb.org/t/p/w500/xFungFRJrEF9ehC6qGpunpCCQUw.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/iibib9kLskmOodcsOMedXXxRju5.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/wlsKokpzoPxOrrxuSfxxRjjRXGF.png",
+   "imdb_id": "tt31707271",
+   "tmdb_url": "https://www.themoviedb.org/movie/1270041",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt31707271",
+   "added_at": "2026-11-05T14:03:51Z",
+   "tagline": null,
+   "directors": [
+    "Scout Taylor-Compton"
+   ],
+   "writers": [
+    "Josh Ridgway"
+   ],
+   "cast": [
+    {
+     "name": "Brendan Fehr",
+     "role": "Desmond",
+     "photo": "https://image.tmdb.org/t/p/w185/401AgLwGGfGRmzUT5WxjKb9jUv4.jpg"
+    },
+    {
+     "name": "Danielle Harris",
+     "role": "Laura",
+     "photo": "https://image.tmdb.org/t/p/w185/hgoVrVDEujZTZoxpElzXBSlIUyU.jpg"
+    },
+    {
+     "name": "Nicky Whelan",
+     "role": "Melinda",
+     "photo": "https://image.tmdb.org/t/p/w185/eHoAP5fj7p5FKfZPadO5Emtrfy0.jpg"
+    },
+    {
+     "name": "Mickey Rourke",
+     "role": "Gargos",
+     "photo": "https://image.tmdb.org/t/p/w185/yzDh8B2qhQBQJlccMd4Va7tsAzC.jpg"
+    },
+    {
+     "name": "Peter Facinelli",
+     "role": "Jack Keller",
+     "photo": "https://image.tmdb.org/t/p/w185/mmha3A5INmromiCsN8FBSLScVpZ.jpg"
+    },
+    {
+     "name": "Leah Pipes",
+     "role": "Sgt. Julie Davis",
+     "photo": "https://image.tmdb.org/t/p/w185/oFcIgRCEOLobb3KegABEoqHYxlp.jpg"
+    },
+    {
+     "name": "Eva Hamilton",
+     "role": "Raven",
+     "photo": "https://image.tmdb.org/t/p/w185/cj4Mz9uP7H8ynMRkH3wr0ZzwqxW.jpg"
+    },
+    {
+     "name": "Ryan Francis",
+     "role": "Willie",
+     "photo": "https://image.tmdb.org/t/p/w185/4uqKjU32W2sLVdiWJTJzkZh5IJF.jpg"
+    },
+    {
+     "name": "Tyler Gallant",
+     "role": "Chino",
+     "photo": "https://image.tmdb.org/t/p/w185/4uFxi05exmcEcKeaAjLn0QHrS8b.jpg"
+    },
+    {
+     "name": "Randall J. Bacon",
+     "role": "Chief Hu",
+     "photo": "https://image.tmdb.org/t/p/w185/6udR5ntbDRJ5aGNqrA6P9IPjq8G.jpg"
+    },
+    {
+     "name": "Maria Breese",
+     "role": "Kayla",
+     "photo": "https://image.tmdb.org/t/p/w185/ssUfcqTYlqmzhP9tFvrDJRSDPVZ.jpg"
+    },
+    {
+     "name": "Derek Chadwick",
+     "role": "Lewis",
+     "photo": "https://image.tmdb.org/t/p/w185/jBZjQ5N9wlD9phArHd1lqLofH0H.jpg"
+    },
+    {
+     "name": "Anthony Del Negro",
+     "role": "Jonah",
+     "photo": "https://image.tmdb.org/t/p/w185/r6wOE1Y5fwOCaAamdZczpcwPOga.jpg"
+    },
+    {
+     "name": "Katrina Chiovon",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Christopher Genda",
+     "role": "Diner",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Everbright Pictures",
+     "logo": null
+    },
+    {
+     "name": "XpandFilms",
+     "logo": "https://image.tmdb.org/t/p/w185/x5Ls5GGExzx3ValrscyTSuGUd5D.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": null
+    },
+    {
+     "name": "Amazon Prime Video with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt35048304",
    "type": "movie",
