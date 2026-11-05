@@ -1,7 +1,140 @@
 {
  "version": 1,
- "updated": "2026-11-05T10:07:23Z",
+ "updated": "2026-11-05T10:07:32Z",
  "items": [
+  {
+   "id": "movie:tt35048304",
+   "type": "movie",
+   "title": "Il faut sauver le marché de Noël",
+   "original_title": "O Little Christmas Market",
+   "year": 2026,
+   "release_date": "2026-07-11",
+   "overview": "Olivia est une artiste passionnée et profondément attachée aux traditions de sa ville, en particulier à son marché de Noël, un lieu emblématique qui rassemble les habitants chaque année dans une atmosphère chaleureuse et féerique. Mais cette année, la magie des fêtes est menacée par un projet immobilier qui risque de faire disparaître ce rendez-vous incontournable. Bien décidée à défendre ce qui lui tient à cœur, Olivia se lance dans une véritable bataille pour préserver l'esprit de Noël et l'âme de sa ville. Sur son chemin, elle rencontre Grayson, un architecte étroitement lié au projet qui menace le marché. Malgré leurs intérêts opposés, une complicité inattendue commence peu à peu à s'installer entre eux.",
+   "synopsis_origin": null,
+   "rating": 4.0,
+   "runtime": 84,
+   "genres": [
+    "Comédie",
+    "Romance",
+    "Téléfilm"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "TF1+"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=sx5qSoQofyI",
+   "poster": "https://image.tmdb.org/t/p/w500/i8fpddaXHEgIdquaSxIxBq56lsN.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/zBwsD2JQV6eLnxNyIpFzY97X8NI.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/sIk8FgmoP5nRd5o5ZLfXoKyOxm8.png",
+   "imdb_id": "tt35048304",
+   "tmdb_url": "https://www.themoviedb.org/movie/1592343",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt35048304",
+   "added_at": "2026-11-05T10:07:30Z",
+   "tagline": null,
+   "directors": [
+    "Mars Horodyski"
+   ],
+   "writers": [
+    "Nastasha Baron",
+    "Ryan Peckinpaugh"
+   ],
+   "cast": [
+    {
+     "name": "Katherine Barrell",
+     "role": "Olivia Stephen",
+     "photo": "https://image.tmdb.org/t/p/w185/o59OzBD1nBDYM5r3mUpBOIdJmBe.jpg"
+    },
+    {
+     "name": "Stephen Huszar",
+     "role": "Huszar Grayson",
+     "photo": "https://image.tmdb.org/t/p/w185/l5gfPIcngMlJ92IuKRjeFv1Dkta.jpg"
+    },
+    {
+     "name": "Paula Boudreau",
+     "role": "Lenore",
+     "photo": "https://image.tmdb.org/t/p/w185/dG8J9RfmenQraa5JZC7d7Dizdpa.jpg"
+    },
+    {
+     "name": "Ann Pornel",
+     "role": "Zoey",
+     "photo": "https://image.tmdb.org/t/p/w185/kui56OIvZTtvYmV6EEB8Zz57Q3C.jpg"
+    },
+    {
+     "name": "Kent Sheridan",
+     "role": "Bill",
+     "photo": "https://image.tmdb.org/t/p/w185/Ajv5bdt5bRtJP5HOdgKfmDcapSF.jpg"
+    },
+    {
+     "name": "Jonathan Langdon",
+     "role": "Shawn",
+     "photo": "https://image.tmdb.org/t/p/w185/6bM2rZBxLo3w36HGJSOGvJEpfvq.jpg"
+    },
+    {
+     "name": "James Kall",
+     "role": "Archie",
+     "photo": null
+    },
+    {
+     "name": "Vicki Kim",
+     "role": "Janice",
+     "photo": "https://image.tmdb.org/t/p/w185/yoqd3uaWz51BIqT38BndLiA6NBf.jpg"
+    },
+    {
+     "name": "Marcia Bennett",
+     "role": "Mrs. Banks",
+     "photo": "https://image.tmdb.org/t/p/w185/va30xYbQLgI9UvNFv5oNuhiORTC.jpg"
+    },
+    {
+     "name": "Milton Barnes",
+     "role": "Eddie",
+     "photo": "https://image.tmdb.org/t/p/w185/qCP3CVoEQmLopSHuHLOUooP1RDY.jpg"
+    },
+    {
+     "name": "Paloma Nuñez",
+     "role": "Tamara",
+     "photo": null
+    },
+    {
+     "name": "Duane Murray",
+     "role": "Katie's Dad",
+     "photo": "https://image.tmdb.org/t/p/w185/hT3xbEShfQ1KPmfwhlY5k0FfmbW.jpg"
+    },
+    {
+     "name": "Emlyn Murray",
+     "role": "Katie",
+     "photo": null
+    },
+    {
+     "name": "Tyra Sweet",
+     "role": "Train Station Attendant",
+     "photo": "https://image.tmdb.org/t/p/w185/ndzGkJTMsFzpdpJb5aAlmv1iS0b.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Vortex Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/uv80BFKZtQe95CXkRIAeJt8TiLJ.png"
+    },
+    {
+     "name": "Studio TF1 America",
+     "logo": "https://image.tmdb.org/t/p/w185/xiBTudkHBBRWOsAoP0y5A6klyQE.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "TF1+",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt34809883",
    "type": "movie",
