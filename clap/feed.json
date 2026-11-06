@@ -1,7 +1,63 @@
 {
  "version": 1,
- "updated": "2026-11-06T08:03:59Z",
+ "updated": "2026-11-06T12:03:29Z",
  "items": [
+  {
+   "id": "series:tt45114341",
+   "type": "series",
+   "title": "Melania Rea",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-06",
+   "overview": "L'histoire tragique de Melania Rea, dont l'affaire met en lumière un mariage toxique marqué par les mensonges et la manipulation.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/4KFT9LqrMLxuhANz3rKaQfSM0Uw.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/r5ecc4Wjejsp6B507GdZXOPTNMo.jpg",
+   "logo": "",
+   "imdb_id": "tt45114341",
+   "tmdb_url": "https://www.themoviedb.org/tv/339697",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt45114341",
+   "added_at": "2026-11-06T12:03:27Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 4,
+   "cast": [
+    {
+     "name": "Maria Esposito",
+     "role": "Melania Rea",
+     "photo": "https://image.tmdb.org/t/p/w185/ppViWeEsygc19YakUwLhYHMnzBH.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Italie"
+   ],
+   "original_language": "Italien",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Stand By Me",
+     "logo": "https://image.tmdb.org/t/p/w185/lNBzu23tK4dRsHzZVqJ7jb9Oxmo.png"
+    },
+    {
+     "name": "HBO Max",
+     "logo": "https://image.tmdb.org/t/p/w185/gqWI9y0owo9sxgzZD7TXOeILYI9.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt39943756",
    "type": "series",
