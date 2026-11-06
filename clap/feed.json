@@ -1,7 +1,102 @@
 {
  "version": 1,
- "updated": "2026-11-05T14:03:52Z",
+ "updated": "2026-11-06T07:20:27Z",
  "items": [
+  {
+   "id": "movie:tt7526136",
+   "type": "movie",
+   "title": "Heart of the Beast",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-19",
+   "overview": "Après un terrible écrasement d'avion, James Belmont, ancien des forces spéciales, se retrouve perdu au coeur de l'Alaska avec son chien Odin, depuis toujours à ses côtés. Livrés à eux-mêmes dans une nature aussi magnifique qu'impitoyable, ils devront puiser dans leurs dernières forces pour survivre ensemble.",
+   "synopsis_origin": null,
+   "rating": 7.3,
+   "runtime": 101,
+   "genres": [
+    "Aventure",
+    "Thriller"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=3YkxZxIk2P0",
+   "poster": "https://image.tmdb.org/t/p/w500/qjH0jF5cLZiKS97eNn4S2AdpiHW.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/kpqsljPQtWqPKJBTAEtoXtQZ9Ko.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/f4ihrEEyXyhRJ3ZaYKfAb6s8ljv.png",
+   "imdb_id": "tt7526136",
+   "tmdb_url": "https://www.themoviedb.org/movie/1263337",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt7526136",
+   "added_at": "2026-11-06T07:20:25Z",
+   "tagline": "La survie dépend de leur lien.",
+   "directors": [
+    "David Ayer"
+   ],
+   "writers": [
+    "Cameron Alexander"
+   ],
+   "cast": [
+    {
+     "name": "Brad Pitt",
+     "role": "James Belmont",
+     "photo": "https://image.tmdb.org/t/p/w185/ajNaPmXVVMJFg9GWmu6MJzTaXdV.jpg"
+    },
+    {
+     "name": "J.K. Simmons",
+     "role": "Watkins",
+     "photo": "https://image.tmdb.org/t/p/w185/ScmKoJ9eiSUOthAt1PDNLi8Fkw.jpg"
+    },
+    {
+     "name": "Anna Lambe",
+     "role": "Amber",
+     "photo": "https://image.tmdb.org/t/p/w185/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+    },
+    {
+     "name": "Justin Melnick",
+     "role": "Military Soldier",
+     "photo": "https://image.tmdb.org/t/p/w185/sE5W8tononGWHKH2Z6GLeUHXeyP.jpg"
+    },
+    {
+     "name": "Shaun DeZern",
+     "role": "Military Soldier",
+     "photo": "https://image.tmdb.org/t/p/w185/iORM61n9AM6ldFm7C4t8dm9pRLq.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Paramount Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jay6WcMgagAklUt7i9Euwj1pzTF.png"
+    },
+    {
+     "name": "Wild Chickens Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/lyL2Lzk3A4l8pdCruqV5injP6iO.png"
+    },
+    {
+     "name": "Temple Hill Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/5J93SHsuvIV32AE9oSbMi02pqw9.png"
+    },
+    {
+     "name": "Domain Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/kKVYqekveOvLK1IgqdJojLjQvtu.png"
+    },
+    {
+     "name": "GulfStream Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/7hBlD2RPUo6LHgSDSSnyYuXdigU.png"
+    },
+    {
+     "name": "Kino World",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt31707271",
    "type": "movie",
