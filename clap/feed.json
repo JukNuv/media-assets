@@ -1,7 +1,141 @@
 {
  "version": 1,
- "updated": "2026-11-06T16:02:45Z",
+ "updated": "2026-11-06T18:07:34Z",
  "items": [
+  {
+   "id": "movie:tt37803364",
+   "type": "movie",
+   "title": "Possible love",
+   "original_title": "가능한 사랑",
+   "year": 2026,
+   "release_date": "2026-09-23",
+   "overview": "Un employé licencié et son épouse, qui croisent la route d'une documentariste et de son conjoint, affrontent leurs désirs cachés.",
+   "synopsis_origin": null,
+   "rating": 7.7,
+   "runtime": 168,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=zd3qXH9qN70",
+   "poster": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/9RKhjTv0DQJ1UtmDS7GkDYoKQHH.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/5jdF6iuVDkZaRObczlKvR5KVd4n.png",
+   "imdb_id": "tt37803364",
+   "tmdb_url": "https://www.themoviedb.org/movie/1483525",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37803364",
+   "added_at": "2026-11-06T18:07:32Z",
+   "tagline": null,
+   "directors": [
+    "Lee Chang-dong"
+   ],
+   "writers": [
+    "Lee Chang-dong",
+    "Oh Jung-mi"
+   ],
+   "cast": [
+    {
+     "name": "Jeon Do-yeon",
+     "role": "Mi-ok",
+     "photo": "https://image.tmdb.org/t/p/w185/ev2tT7ZbReE06rZy7SX0Mv8evZ7.jpg"
+    },
+    {
+     "name": "Sul Kyung-gu",
+     "role": "Ho-seok",
+     "photo": "https://image.tmdb.org/t/p/w185/teD7AMzfNl4qhQO2b6MAWwLtPVn.jpg"
+    },
+    {
+     "name": "Zo In-sung",
+     "role": "Sang-woo",
+     "photo": "https://image.tmdb.org/t/p/w185/69gbyFI0ET0l0dyjKChlx1Zx269.jpg"
+    },
+    {
+     "name": "Cho Yeo-jeong",
+     "role": "Ye-ji",
+     "photo": "https://image.tmdb.org/t/p/w185/5MgWM8pkUiYkj9MEaEpO0Ir1FD9.jpg"
+    },
+    {
+     "name": "Jo Yu-ri",
+     "role": "Young Mi-ok",
+     "photo": "https://image.tmdb.org/t/p/w185/4GwoDQFPwpaKldOTpGrIJUzBa9h.jpg"
+    },
+    {
+     "name": "최민",
+     "role": "Young Ho-seok",
+     "photo": null
+    },
+    {
+     "name": "정섶",
+     "role": "Cheol",
+     "photo": "https://image.tmdb.org/t/p/w185/vMbZObKiMc2am3OOFWAlxlPHnpn.jpg"
+    },
+    {
+     "name": "강창권",
+     "role": "Min-sik",
+     "photo": null
+    },
+    {
+     "name": "전운종",
+     "role": "Jeong-dae",
+     "photo": "https://image.tmdb.org/t/p/w185/3Ex4iON29UAHgy0BCTS2NukxAnl.jpg"
+    },
+    {
+     "name": "이주환",
+     "role": "Director of Photography",
+     "photo": null
+    },
+    {
+     "name": "이혜린",
+     "role": "Producer",
+     "photo": null
+    },
+    {
+     "name": "이지윤",
+     "role": "Assistant director",
+     "photo": null
+    },
+    {
+     "name": "Kim Hak-sun",
+     "role": "Mi-ok's Factory Owner",
+     "photo": "https://image.tmdb.org/t/p/w185/4SKruoQKCk3k0umArclsDftwuTM.jpg"
+    },
+    {
+     "name": "윤가현",
+     "role": "Mi-ok's Factory Owner's wife",
+     "photo": "https://image.tmdb.org/t/p/w185/wd23Uwo6V5n0t4wzNBQPdA2fTB5.jpg"
+    },
+    {
+     "name": "이한별",
+     "role": "Mi-ok's Factory Owner's daughter",
+     "photo": "https://image.tmdb.org/t/p/w185/rMe2q0c60QDnTZHyRStfzjduKEr.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Corée du Sud",
+    "États-Unis"
+   ],
+   "original_language": "Coréen",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Pinehouse Film",
+     "logo": "https://image.tmdb.org/t/p/w185/7dvA3vHHZgLRImFa3QTA91jIkQL.png"
+    },
+    {
+     "name": "NOWFILM",
+     "logo": "https://image.tmdb.org/t/p/w185/jnGViIMPqocZWBCE3dSzgJ3HS4Z.png"
+    },
+    {
+     "name": "Anonymous Content",
+     "logo": "https://image.tmdb.org/t/p/w185/b8w4LldQolMKiLZw4FQJBcXSDGI.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt37762350",
    "type": "series",
