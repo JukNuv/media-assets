@@ -1,7 +1,104 @@
 {
  "version": 1,
- "updated": "2026-11-06T12:03:29Z",
+ "updated": "2026-11-06T16:02:45Z",
  "items": [
+  {
+   "id": "series:tt37762350",
+   "type": "series",
+   "title": "La Prise du palais",
+   "original_title": "Palacio",
+   "year": 2026,
+   "release_date": "2026-11-05",
+   "overview": "En 1985, les guérilleros du M-19 s'emparent du palais de justice de Bogotá. La série revient sur le siège, la riposte de l'armée et le combat des familles pour obtenir justice.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 64,
+   "genres": [
+    "Drame",
+    "Crime"
+   ],
+   "status": "En production",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
+   "logo": "",
+   "imdb_id": "tt37762350",
+   "tmdb_url": "https://www.themoviedb.org/tv/297491",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt37762350",
+   "added_at": "2026-11-06T16:02:43Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Natalia Reyes",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/9N7FNKUhjtinrNPy8ANvXrB7iEr.jpg"
+    },
+    {
+     "name": "Luna Baxter",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/mS4Ca0NA07rzDHcLiJQEwH7PDiO.jpg"
+    },
+    {
+     "name": "Mariana Gómez",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/InW3rtiA4Ch0tj55rnsl4Bo0ae.jpg"
+    },
+    {
+     "name": "Robinson Díaz",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/6qu272gwn8JwLmKhianszBfGadL.jpg"
+    },
+    {
+     "name": "Santiago Alarcón",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/uT55aiEWGKaEtJiarBgDT8dWucz.jpg"
+    },
+    {
+     "name": "Carlos-Manuel Vesga",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/crm5YcUTtb5pXhZbJsATA8EAoPD.jpg"
+    },
+    {
+     "name": "Jose Restrepo",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/vh6hQ0nG5Ib0JtjP3j2kZMAuwrl.jpg"
+    },
+    {
+     "name": "Camilo Amores",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ojNpJ3zrsZw6NlfpppYyjWzSNmE.jpg"
+    },
+    {
+     "name": "Andrés Castañeda",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/epQCqExic4Jqp3DONrkfbL2tpXe.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "CO"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "En production",
+   "production": [
+    {
+     "name": "Dynamo",
+     "logo": "https://image.tmdb.org/t/p/w185/lyjwhVUoPpfBy87TbPpoMTsULHx.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt45114341",
    "type": "series",
