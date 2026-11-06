@@ -1,7 +1,140 @@
 {
  "version": 1,
- "updated": "2026-11-06T18:07:34Z",
+ "updated": "2026-11-06T22:08:02Z",
  "items": [
+  {
+   "id": "movie:tt34385184",
+   "type": "movie",
+   "title": "Misty Green",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-09",
+   "overview": "Après des années d'excès, la talentueuse actrice, Misty Green, relance sa carrière grâce à un rôle pour lequel elle serait parfaite.",
+   "synopsis_origin": null,
+   "rating": 8.5,
+   "runtime": 103,
+   "genres": [
+    "Drame",
+    "Comédie"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=5SohUK9E_eo",
+   "poster": "https://image.tmdb.org/t/p/w500/dUFtfnSfUK5IUfC5XMlMEY36EAp.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/z3TILXYRqSDRHiuxToiyBqos8I1.png",
+   "imdb_id": "tt34385184",
+   "tmdb_url": "https://www.themoviedb.org/movie/1381221",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34385184",
+   "added_at": "2026-11-06T22:08:00Z",
+   "tagline": null,
+   "directors": [
+    "Chris Rock"
+   ],
+   "writers": [
+    "Chris Rock"
+   ],
+   "cast": [
+    {
+     "name": "Rosalind Eleazar",
+     "role": "Misty Green",
+     "photo": "https://image.tmdb.org/t/p/w185/9Tb1rLSnyCfnZXYixfjWJuQJig9.jpg"
+    },
+    {
+     "name": "Adam Driver",
+     "role": "Zach",
+     "photo": "https://image.tmdb.org/t/p/w185/b5w381C8Z33D1iF30KT4k8tJNsk.jpg"
+    },
+    {
+     "name": "Daniel Kaluuya",
+     "role": "Jordan ‘Jay’ Green",
+     "photo": "https://image.tmdb.org/t/p/w185/jj2kZqJobjom36wlhlYhc38nTwN.jpg"
+    },
+    {
+     "name": "Anna Kendrick",
+     "role": "Naomi",
+     "photo": "https://image.tmdb.org/t/p/w185/i2HIJQcBsUQ3o9HwEeDwou45D60.jpg"
+    },
+    {
+     "name": "Chris Rock",
+     "role": "Jordan Green",
+     "photo": "https://image.tmdb.org/t/p/w185/5lILFeBvX3sC0EfbHhrvMEc7bPD.jpg"
+    },
+    {
+     "name": "Topher Grace",
+     "role": "Randy",
+     "photo": "https://image.tmdb.org/t/p/w185/89sF57Br5lq8nrepS7HLzJ41QD1.jpg"
+    },
+    {
+     "name": "Alexandra Shipp",
+     "role": "Bella",
+     "photo": "https://image.tmdb.org/t/p/w185/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+    },
+    {
+     "name": "Amy Landecker",
+     "role": "Celine",
+     "photo": "https://image.tmdb.org/t/p/w185/6UMXVrMsM4ogTqB63UFHMDB6mqD.jpg"
+    },
+    {
+     "name": "Tracie Thoms",
+     "role": "Rhonda",
+     "photo": "https://image.tmdb.org/t/p/w185/9PKUJJtqFRbZDhme6uDzIu0mRIE.jpg"
+    },
+    {
+     "name": "Necar Zadegan",
+     "role": "Shabnam",
+     "photo": "https://image.tmdb.org/t/p/w185/tKmbHsYfFlxi69mADlQkXN9Kw2j.jpg"
+    },
+    {
+     "name": "Rich Sommer",
+     "role": "Brad",
+     "photo": "https://image.tmdb.org/t/p/w185/cfbJ3nyiyRpSq2mLrbbrbg1k3Dh.jpg"
+    },
+    {
+     "name": "Kelli Garner",
+     "role": "Carol",
+     "photo": "https://image.tmdb.org/t/p/w185/fPdTPPFUy3tZMg4I6Tgg29YX3cx.jpg"
+    },
+    {
+     "name": "Nicole Ari Parker",
+     "role": "Erica",
+     "photo": "https://image.tmdb.org/t/p/w185/uy630vFQOKWpuEDFF2DuCQ1Oiez.jpg"
+    },
+    {
+     "name": "Ice-T",
+     "role": "Ice-T",
+     "photo": "https://image.tmdb.org/t/p/w185/96TdPckI16ggfHcPrSFf6bHYLLe.jpg"
+    },
+    {
+     "name": "Anthony Anderson",
+     "role": "Officer Wood",
+     "photo": "https://image.tmdb.org/t/p/w185/reO1OjwFdtXmiO4LMDaBj6eatzK.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "A24",
+     "logo": "https://image.tmdb.org/t/p/w185/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png"
+    },
+    {
+     "name": "MACRO",
+     "logo": "https://image.tmdb.org/t/p/w185/8aEC7xem9YwHNCDojSFEPQgoFC3.png"
+    },
+    {
+     "name": "Confluential Films",
+     "logo": "https://image.tmdb.org/t/p/w185/rp8g1y3wVKWfyQ21uWuzxKJ5bQn.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt37803364",
    "type": "movie",
