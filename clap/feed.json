@@ -1,7 +1,138 @@
 {
  "version": 1,
- "updated": "2026-11-06T22:08:10Z",
+ "updated": "2026-11-07T10:03:38Z",
  "items": [
+  {
+   "id": "movie:tt33764258",
+   "type": "movie",
+   "title": "L'Odyssée",
+   "original_title": "The Odyssey",
+   "year": 2026,
+   "release_date": "2026-07-15",
+   "overview": "Vingt ans après son départ pour la guerre de Troie, le roi Ulysse rentre enfin à Ithaque, mais son voyage est parsemé d'aventures et d'épreuves.",
+   "synopsis_origin": null,
+   "rating": 7.4,
+   "runtime": 173,
+   "genres": [
+    "Aventure",
+    "Action",
+    "Fantastique"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=9YGuN8sQpL0",
+   "poster": "https://image.tmdb.org/t/p/w500/k12dsDVtARFmr6TbC2hn0c68aw5.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/iDiTY1wA35YWzTmXLTtqaxtN6tc.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/mWQqyMJvnJzduYhAAPtTsmvtbhE.png",
+   "imdb_id": "tt33764258",
+   "tmdb_url": "https://www.themoviedb.org/movie/1368337",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt33764258",
+   "added_at": "2026-11-07T10:03:36Z",
+   "tagline": "Défiez les dieux.",
+   "directors": [
+    "Christopher Nolan"
+   ],
+   "writers": [
+    "Christopher Nolan"
+   ],
+   "cast": [
+    {
+     "name": "Matt Damon",
+     "role": "Odysseus",
+     "photo": "https://image.tmdb.org/t/p/w185/aCvBXTAR9B1qRjIRzMBYhhbm1fR.jpg"
+    },
+    {
+     "name": "Tom Holland",
+     "role": "Telemachus",
+     "photo": "https://image.tmdb.org/t/p/w185/xKBAaPIa1c7tzZD3Y0MhBLv4hPE.jpg"
+    },
+    {
+     "name": "Anne Hathaway",
+     "role": "Penelope",
+     "photo": "https://image.tmdb.org/t/p/w185/s6tflSD20MGz04ZR2R1lZvhmC4Y.jpg"
+    },
+    {
+     "name": "Robert Pattinson",
+     "role": "Antinous",
+     "photo": "https://image.tmdb.org/t/p/w185/3qZ09UE7lN6AtorfXFRYpEtSY93.jpg"
+    },
+    {
+     "name": "Himesh Patel",
+     "role": "Eurylochus",
+     "photo": "https://image.tmdb.org/t/p/w185/icqsXLmU0FxBGTv63kkA0GcrecO.jpg"
+    },
+    {
+     "name": "Charlize Theron",
+     "role": "Calypso",
+     "photo": "https://image.tmdb.org/t/p/w185/gd7ShD0yt4bsR2STeQ19KQ6hvXL.jpg"
+    },
+    {
+     "name": "John Leguizamo",
+     "role": "Eumaeus",
+     "photo": "https://image.tmdb.org/t/p/w185/kwYCdxTlDh9zauUCg4mp2XTCQTw.jpg"
+    },
+    {
+     "name": "Travis Scott",
+     "role": "Bard",
+     "photo": "https://image.tmdb.org/t/p/w185/eBdm7HQS6lLGg4BocgfoJ5qB9yp.jpg"
+    },
+    {
+     "name": "Corey Hawkins",
+     "role": "Polybus",
+     "photo": "https://image.tmdb.org/t/p/w185/wRt0Bc0chN5BSjvYzmg2evgqNzp.jpg"
+    },
+    {
+     "name": "Jarreth J. Merz",
+     "role": "Leodes",
+     "photo": "https://image.tmdb.org/t/p/w185/ze8WDEujZmTXdCLcUy0IaymwlcS.jpg"
+    },
+    {
+     "name": "Niko Nicotera",
+     "role": "Peisander",
+     "photo": "https://image.tmdb.org/t/p/w185/ffSAiwXMmvQP1vJuPguLznNpPOI.jpg"
+    },
+    {
+     "name": "Elliot Page",
+     "role": "Sinon",
+     "photo": "https://image.tmdb.org/t/p/w185/nXO8DE4biVXY4UDYP0NdIY1zvXS.jpg"
+    },
+    {
+     "name": "Shiloh Fernandez",
+     "role": "First Trojan",
+     "photo": "https://image.tmdb.org/t/p/w185/ug0p4QtE1Am7JySNClm7u8iISOB.jpg"
+    },
+    {
+     "name": "Rafi Gavron",
+     "role": "Second Trojan",
+     "photo": "https://image.tmdb.org/t/p/w185/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg"
+    },
+    {
+     "name": "Elyes Gabel",
+     "role": "Elatus",
+     "photo": "https://image.tmdb.org/t/p/w185/z9IqYTYxhVR9ADxaksbPQwiYQns.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "Royaume-Uni",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Universal Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/8lvHyhjr8oUKOOy2dKXoALWKdp0.png"
+    },
+    {
+     "name": "Syncopy",
+     "logo": "https://image.tmdb.org/t/p/w185/3tvBqYsBhxWeHlu62SIJ1el93O7.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt39219651",
    "type": "movie",
