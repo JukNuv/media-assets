@@ -1,7 +1,91 @@
 {
  "version": 1,
- "updated": "2026-11-10T11:39:10Z",
+ "updated": "2026-11-10T11:39:18Z",
  "items": [
+  {
+   "id": "movie:tt29719182",
+   "type": "movie",
+   "title": "Bury the Devil",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-03-06",
+   "overview": "Une infirmière découvre que son dernier patient pourrait cacher de sombres secrets.",
+   "synopsis_origin": null,
+   "rating": 5.7,
+   "runtime": 84,
+   "genres": [
+    "Horreur",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Shadowz Amazon Channel",
+    "Shadowz"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=yHyzU7YMMIU",
+   "poster": "https://image.tmdb.org/t/p/w500/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/nPiCcUe6MQ2aH4Jh2sdNjKLHNW7.png",
+   "imdb_id": "tt29719182",
+   "tmdb_url": "https://www.themoviedb.org/movie/1432706",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt29719182",
+   "added_at": "2026-11-10T11:39:16Z",
+   "tagline": "Rien ne reste caché éternellement.",
+   "directors": [
+    "Adam O'Brien"
+   ],
+   "writers": [
+    "John Petrizzi",
+    "Brad Hodson"
+   ],
+   "cast": [
+    {
+     "name": "Emmanuelle Lussier Martinez",
+     "role": "Julia",
+     "photo": "https://image.tmdb.org/t/p/w185/4skrewfKscsDxiQqgmWUvQpyzaa.jpg"
+    },
+    {
+     "name": "Bill Rowat",
+     "role": "Randall",
+     "photo": "https://image.tmdb.org/t/p/w185/xzce2UhuneIlXLMQdBdchVkFIAV.jpg"
+    },
+    {
+     "name": "Mark Antony Krupa",
+     "role": "Father Thierry",
+     "photo": "https://image.tmdb.org/t/p/w185/ek1qwhzkgj7ayCpEhdpt6fweRj.jpg"
+    },
+    {
+     "name": "Dawn Ford",
+     "role": "Evelyn",
+     "photo": "https://image.tmdb.org/t/p/w185/f6MGyVIEUcCIbCVAy6MZH8NMnuC.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Canada",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Delirium Pictures",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Shadowz Amazon Channel",
+     "logo": null
+    },
+    {
+     "name": "Shadowz",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt36586020",
    "type": "movie",
