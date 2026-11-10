@@ -1,7 +1,84 @@
 {
  "version": 1,
- "updated": "2026-11-07T10:03:38Z",
+ "updated": "2026-11-10T07:19:16Z",
  "items": [
+  {
+   "id": "movie:tt39453578",
+   "type": "movie",
+   "title": "Un bon avocat",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-11",
+   "overview": "Léonard Landry, un avocat pénaliste flamboyant, fait une overdose en pleine plaidoirie. Après sa cure de désintoxication, il ne dispose que d'une semaine pour sauver sa carrière et préparer son propre procès, assisté à contrecœur par un stagiaire tenace nommé Noé. Commence alors une folle course contre la montre, ponctuée de manœuvres juridiques, de tentations et de rebondissements.",
+   "synopsis_origin": null,
+   "rating": 7.2,
+   "runtime": 114,
+   "genres": [
+    "Drame",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=taWfQ6LVFoU",
+   "poster": "https://image.tmdb.org/t/p/w500/iy7Ersw8H4I1U5cA9bFyJpMrTTM.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/jp369XD6SZzGfgGJEzBJBYtQB7j.png",
+   "imdb_id": "tt39453578",
+   "tmdb_url": "https://www.themoviedb.org/movie/1616419",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39453578",
+   "added_at": "2026-11-10T07:19:14Z",
+   "tagline": null,
+   "directors": [
+    "Tristan Séguéla"
+   ],
+   "writers": [
+    "Tristan Séguéla",
+    "Simon Jacquet",
+    "Marcia Romano"
+   ],
+   "cast": [
+    {
+     "name": "Laurent Lafitte",
+     "role": "Léonard Landry",
+     "photo": "https://image.tmdb.org/t/p/w185/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+    },
+    {
+     "name": "Anthony Bajon",
+     "role": "Noé",
+     "photo": "https://image.tmdb.org/t/p/w185/eHpGmQtj4oRHQ3jn9tngWdb6Z9T.jpg"
+    },
+    {
+     "name": "Mélanie Laurent",
+     "role": "Iris Saint Didier",
+     "photo": "https://image.tmdb.org/t/p/w185/i99ogEo4gQyanCmHWYYoS6hsUqL.jpg"
+    },
+    {
+     "name": "Carole Bouquet",
+     "role": "Anne Lamarck",
+     "photo": "https://image.tmdb.org/t/p/w185/nCyI95wVvhXFH1GiornFHsL9YOx.jpg"
+    },
+    {
+     "name": "Gwendal Kerdelhue",
+     "role": "L'homme de main",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Iconoclast Films",
+     "logo": "https://image.tmdb.org/t/p/w185/3niMKWcBpqOh4C1PHAG4FSubsgp.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt33764258",
    "type": "movie",
