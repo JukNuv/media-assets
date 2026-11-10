@@ -1,7 +1,151 @@
 {
  "version": 1,
- "updated": "2026-11-10T11:39:18Z",
+ "updated": "2026-11-10T11:39:26Z",
  "items": [
+  {
+   "id": "movie:tt39149197",
+   "type": "movie",
+   "title": "Ha-Chan, Shake Your Booty!",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-23",
+   "overview": "Haru et Luis adorent participer aux compétitions de danse de salon à Tokyo, mais après une tragédie, Haru se replie sur elle-même. Lorsque ses amis parviennent à la convaincre de revenir au studio, elle tombe sous le charme du nouveau professeur. Alors que le courant passe entre eux, elle doit faire face à ce qui va suivre.",
+   "synopsis_origin": "deepl",
+   "rating": 8.3,
+   "runtime": 122,
+   "genres": [
+    "Comédie",
+    "Drame",
+    "Romance"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=Ik4lJmXgR6U",
+   "poster": "https://image.tmdb.org/t/p/w500/w98RWv9o05OhXYfTvauDrotRZ13.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/4RYWw9VMFPkGgeKYsdUPoI8zQ4s.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/3k6frLAWBpj8w6hSXvbmBkpC9Sl.png",
+   "imdb_id": "tt39149197",
+   "tmdb_url": "https://www.themoviedb.org/movie/1596249",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39149197",
+   "added_at": "2026-11-10T11:39:24Z",
+   "tagline": null,
+   "directors": [
+    "Josef Kubota Wladyka"
+   ],
+   "writers": [
+    "Josef Kubota Wladyka",
+    "Nicholas Huynh"
+   ],
+   "cast": [
+    {
+     "name": "Rinko Kikuchi",
+     "role": "Haru",
+     "photo": "https://image.tmdb.org/t/p/w185/lv4UuorZtC37VaFAHO205u4lS73.jpg"
+    },
+    {
+     "name": "Alberto Guerra",
+     "role": "Fedir",
+     "photo": "https://image.tmdb.org/t/p/w185/aqckvbjXVGeFlx27FJevoby9WBM.jpg"
+    },
+    {
+     "name": "Alejandro Edda",
+     "role": "Luis",
+     "photo": "https://image.tmdb.org/t/p/w185/zqCvFCY9kWd3AkVv5Brwi7pZJ9W.jpg"
+    },
+    {
+     "name": "YOU",
+     "role": "Hiromi",
+     "photo": "https://image.tmdb.org/t/p/w185/dTlCW7FOwVF1kbV1c7OLWXosL0Y.jpg"
+    },
+    {
+     "name": "吉田羊",
+     "role": "Yuki",
+     "photo": "https://image.tmdb.org/t/p/w185/3grR0n3XfGyv6nSB35LjjvKfmCI.jpg"
+    },
+    {
+     "name": "Damián Alcázar",
+     "role": "Jacobo",
+     "photo": "https://image.tmdb.org/t/p/w185/6IAlrZ2yXubmmVaRsF7fdaP3N7C.jpg"
+    },
+    {
+     "name": "Cristina Rodlo",
+     "role": "Cristina",
+     "photo": "https://image.tmdb.org/t/p/w185/7AhjmC2bLjgVoW1gJqAlglbayzK.jpg"
+    },
+    {
+     "name": "Derek Mio",
+     "role": "Peter",
+     "photo": "https://image.tmdb.org/t/p/w185/l0U8noiGumMIOXygyuWrXBaEeWI.jpg"
+    },
+    {
+     "name": "Chelsea Gonzalez",
+     "role": "Gloria",
+     "photo": "https://image.tmdb.org/t/p/w185/38JGIxV3to09Op0M0s2Pg1H0re4.jpg"
+    },
+    {
+     "name": "Keren Louis",
+     "role": "Mila",
+     "photo": "https://image.tmdb.org/t/p/w185/oe6w6SLqZj7t8OPFuqAFrjOQ5iT.jpg"
+    },
+    {
+     "name": "Charlotte Flyte",
+     "role": "Sasha",
+     "photo": null
+    },
+    {
+     "name": "Soji Arai",
+     "role": "Nobuyuki",
+     "photo": "https://image.tmdb.org/t/p/w185/72hCalf77fivfkYkgl6FM2idSjg.jpg"
+    },
+    {
+     "name": "Kosuke Tanaka",
+     "role": "Billy",
+     "photo": null
+    },
+    {
+     "name": "Andrew Zox",
+     "role": "Andy",
+     "photo": null
+    },
+    {
+     "name": "Eriko Yamaguchi",
+     "role": "Interpreter",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis",
+    "Japon"
+   ],
+   "original_language": "Japonais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "THEFOOL",
+     "logo": "https://image.tmdb.org/t/p/w185/l0xdryaUE43LYjJa62Oj7u7k89u.png"
+    },
+    {
+     "name": "Ha-Chan",
+     "logo": null
+    },
+    {
+     "name": "JDM Pictures",
+     "logo": null
+    },
+    {
+     "name": "Beauregard Pictures",
+     "logo": null
+    },
+    {
+     "name": "Prism Pictures",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt29719182",
    "type": "movie",
