@@ -1,7 +1,136 @@
 {
  "version": 1,
- "updated": "2026-11-10T07:19:16Z",
+ "updated": "2026-11-10T11:39:10Z",
  "items": [
+  {
+   "id": "movie:tt36586020",
+   "type": "movie",
+   "title": "Malfaisante",
+   "original_title": "Other Mommy",
+   "year": 2026,
+   "release_date": "2026-10-07",
+   "overview": "Une jeune fille, Bela, développe dans son foyer une relation avec une entité troublante qui ressemble étrangement à sa mère. Son « autre maman » n'est pas que le fruit de son imagination. Cette entité sinistre et manipulatrice a l'intention d'anéantir la famille de Bela.",
+   "synopsis_origin": null,
+   "rating": 5.8,
+   "runtime": 93,
+   "genres": [
+    "Horreur"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=XSya5LXFNTo",
+   "poster": "https://image.tmdb.org/t/p/w500/uLNxn6niIICbkRcRKVOX9aXqRHb.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/A5za5RANzyC4RzQUeBcmnvyqYwW.png",
+   "imdb_id": "tt36586020",
+   "tmdb_url": "https://www.themoviedb.org/movie/1400837",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36586020",
+   "added_at": "2026-11-10T11:39:08Z",
+   "tagline": "Cette fois, ta mère ne te sauvera pas.",
+   "directors": [
+    "Rob Savage"
+   ],
+   "writers": [
+    "Josh Malerman",
+    "Nathan Elston"
+   ],
+   "cast": [
+    {
+     "name": "Jessica Chastain",
+     "role": "Mommy / Other Mommy",
+     "photo": "https://image.tmdb.org/t/p/w185/mR1ELpP0T2Q1ZRSaADPgtrbPGla.jpg"
+    },
+    {
+     "name": "Jay Duplass",
+     "role": "Daddo",
+     "photo": "https://image.tmdb.org/t/p/w185/eUY0JDlqzf5pE9pmdvv4IPU3NYn.jpg"
+    },
+    {
+     "name": "Arabella Olivia Clark",
+     "role": "Bela",
+     "photo": "https://image.tmdb.org/t/p/w185/bwTovaznMIXo9Je01soHBCzmFxn.jpg"
+    },
+    {
+     "name": "Karen Allen",
+     "role": "Grandma Ruth",
+     "photo": "https://image.tmdb.org/t/p/w185/eJszpndpRzrXbSlz7RUlApoTykn.jpg"
+    },
+    {
+     "name": "Arian Moayed",
+     "role": "Uncle Frank",
+     "photo": "https://image.tmdb.org/t/p/w185/hYBqwt0HelUqgKSd1VDUAyvfDME.jpg"
+    },
+    {
+     "name": "Dichen Lachman",
+     "role": "Lois Anthony",
+     "photo": "https://image.tmdb.org/t/p/w185/yLrpMHBNtuUAu3M9EjaYHnn5EEY.jpg"
+    },
+    {
+     "name": "Sean Kaufman",
+     "role": "Kelvin",
+     "photo": "https://image.tmdb.org/t/p/w185/9sMkCOJU6tWIoezXBapA58C4qpH.jpg"
+    },
+    {
+     "name": "Adam Silver",
+     "role": "Brian",
+     "photo": "https://image.tmdb.org/t/p/w185/jE3zEMEYflS3adHtF11YqLAwlVI.jpg"
+    },
+    {
+     "name": "Alec Secăreanu",
+     "role": "Ruiss",
+     "photo": "https://image.tmdb.org/t/p/w185/faV10C9gsWfF7E5HwKoqymhbDPb.jpg"
+    },
+    {
+     "name": "Millie Wood",
+     "role": "Little Girl",
+     "photo": null
+    },
+    {
+     "name": "Travis Nelson",
+     "role": "Tony",
+     "photo": "https://image.tmdb.org/t/p/w185/y5aSsFzlsW21qjXb2gxdla8rsKc.jpg"
+    },
+    {
+     "name": "Carrie Dimaculangan",
+     "role": "Callie",
+     "photo": "https://image.tmdb.org/t/p/w185/be9i55RrygV2ti7vXwr61j8OlCL.jpg"
+    },
+    {
+     "name": "Erin Birgy",
+     "role": "Erin",
+     "photo": null
+    },
+    {
+     "name": "Hayley Spelman",
+     "role": "Other Mommy (Creature)",
+     "photo": "https://image.tmdb.org/t/p/w185/cGy1nKhFlCmsN1SpPZE0GHxOX9M.jpg"
+    },
+    {
+     "name": "Rosie Anne O'Gorman",
+     "role": "Tube Kid 1",
+     "photo": null
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Spin a Black Yarn",
+     "logo": "https://image.tmdb.org/t/p/w185/zJpOzVCUgmlNJJJe8PzS5lsurgW.png"
+    },
+    {
+     "name": "Blumhouse Atomic",
+     "logo": "https://image.tmdb.org/t/p/w185/m9hpJbTXQIJfGSqYqaYDboUyjac.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt39453578",
    "type": "movie",
