@@ -1,7 +1,57 @@
 {
  "version": 1,
- "updated": "2026-11-11T12:04:15Z",
+ "updated": "2026-11-11T18:05:06Z",
  "items": [
+  {
+   "id": "movie:tt38420997",
+   "type": "movie",
+   "title": "Le Gospel de Noël",
+   "original_title": "The Gospel of Christmas",
+   "year": 2026,
+   "release_date": "2026-11-11",
+   "overview": "Un pasteur en proie au doute emménage avec sa famille dans un quartier difficile de New York, où ils doivent sauver une église délabrée de la fermeture avant Noël.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 103,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=lXh2rNl2wdQ",
+   "poster": "https://image.tmdb.org/t/p/w500/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/wd4KBXujUh6LADrjuntXgw4VvM3.png",
+   "imdb_id": "tt38420997",
+   "tmdb_url": "https://www.themoviedb.org/movie/1559980",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt38420997",
+   "added_at": "2026-11-11T18:05:04Z",
+   "tagline": "Tu vois ce que je vois ?",
+   "directors": [
+    "Tyler Perry"
+   ],
+   "writers": [],
+   "cast": [],
+   "age_rating": "10",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Tyler Perry Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/fkZTZ4veYYr3lwr2riVrVAOfeqD.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/tyHnxjQJLH6h4iDQKhN5iqebWmX.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt37214564",
    "type": "series",
