@@ -1,7 +1,54 @@
 {
  "version": 1,
- "updated": "2026-11-11T12:04:06Z",
+ "updated": "2026-11-11T12:04:15Z",
  "items": [
+  {
+   "id": "series:tt37214564",
+   "type": "series",
+   "title": "ChiaroScuro",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-11",
+   "overview": "Après la découverte d'un cadavre dans un musée romain, un expert en art doit faire appel à son instinct et à ses compétences pour aider la police à résoudre un mystère lié à son propre passé.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Comédie",
+    "Crime"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=DKjB0JPhmYc",
+   "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
+   "logo": "",
+   "imdb_id": "tt37214564",
+   "tmdb_url": "https://www.themoviedb.org/tv/336243",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt37214564",
+   "added_at": "2026-11-11T12:04:13Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [],
+   "age_rating": null,
+   "countries": [
+    "Italie"
+   ],
+   "original_language": "Italien",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt8014982",
    "type": "series",
