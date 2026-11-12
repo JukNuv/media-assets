@@ -1,7 +1,134 @@
 {
  "version": 1,
- "updated": "2026-11-12T13:44:05Z",
+ "updated": "2026-11-12T13:44:13Z",
  "items": [
+  {
+   "id": "movie:tt39370926",
+   "type": "movie",
+   "title": "Never Surrender",
+   "original_title": "Serangan Balik",
+   "year": 2026,
+   "release_date": "2026-11-12",
+   "overview": "Un ancien soldat et ses petits-enfants affrontent des criminels sans pitié dans un village isolé. Pour survivre, ils doivent également faire face à leurs peurs et à leurs regrets.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": 137,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=o0d1IA85D9o",
+   "poster": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+   "logo": "",
+   "imdb_id": "tt39370926",
+   "tmdb_url": "https://www.themoviedb.org/movie/1616687",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39370926",
+   "added_at": "2026-11-12T13:44:12Z",
+   "tagline": null,
+   "directors": [
+    "Sidharta Tata"
+   ],
+   "writers": [
+    "Sidharta Tata",
+    "Khalid Kashogi"
+   ],
+   "cast": [
+    {
+     "name": "Lukman Sardi",
+     "role": "Eyang Hari",
+     "photo": "https://image.tmdb.org/t/p/w185/pMZiVVu8k5MzGteRgpNVzMybxLm.jpg"
+    },
+    {
+     "name": "Callista Arum",
+     "role": "Putri",
+     "photo": "https://image.tmdb.org/t/p/w185/1GaAlD5Qeg1KkBND9kCKWtMEmZu.jpg"
+    },
+    {
+     "name": "Sulthan Hamonangan",
+     "role": "Dimas",
+     "photo": "https://image.tmdb.org/t/p/w185/zY4t9gyvxGvZxvQ3IKLeIVmEUuZ.jpg"
+    },
+    {
+     "name": "Derby Romero",
+     "role": "Bastian",
+     "photo": "https://image.tmdb.org/t/p/w185/45F1pXWKSye5YzII0VqzgEGrQJG.jpg"
+    },
+    {
+     "name": "Donny Alamsyah",
+     "role": "Ulo",
+     "photo": "https://image.tmdb.org/t/p/w185/zfv0xvwhealzqRwI0BUQpbzrUuD.jpg"
+    },
+    {
+     "name": "Ismi Melinda",
+     "role": "Jegeg",
+     "photo": "https://image.tmdb.org/t/p/w185/xNyLFkkbbEKzvFIwQ1AbZfL1vqo.jpg"
+    },
+    {
+     "name": "Laras Sardi",
+     "role": "Mayang",
+     "photo": "https://image.tmdb.org/t/p/w185/aOlQuPslY2mgBbfixUHkLqLfEJc.jpg"
+    },
+    {
+     "name": "Dennis Adishwara",
+     "role": "Agus",
+     "photo": "https://image.tmdb.org/t/p/w185/tfpxGYEcLZdiHleucYzQsiyllzr.jpg"
+    },
+    {
+     "name": "Erick Estrada",
+     "role": "Iyang",
+     "photo": "https://image.tmdb.org/t/p/w185/A90SDdRq7smXC45wGIaM478Hxgb.jpg"
+    },
+    {
+     "name": "M. N. Qomaruddin",
+     "role": "Bendot",
+     "photo": "https://image.tmdb.org/t/p/w185/9F7ZbMaHk51XtzuVfJZg8gsdfDL.jpg"
+    },
+    {
+     "name": "Amos Putra",
+     "role": "Tuku",
+     "photo": null
+    },
+    {
+     "name": "Winky Wiryawan",
+     "role": "Colonel Anton",
+     "photo": "https://image.tmdb.org/t/p/w185/m1hCxyJb7hJJ1Mua6OGLIiYDS2l.jpg"
+    },
+    {
+     "name": "Mike Lucock",
+     "role": "Minister",
+     "photo": "https://image.tmdb.org/t/p/w185/LtCJOYBn9p8TG6gOHh4GxvKiHi.jpg"
+    },
+    {
+     "name": "Novi Rahmat Hidayat",
+     "role": "Captain Anjas",
+     "photo": null
+    },
+    {
+     "name": "Ully Triani",
+     "role": "Sari",
+     "photo": "https://image.tmdb.org/t/p/w185/e2VjjKDXd09DYzipnibEdkzQRkc.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "ID"
+   ],
+   "original_language": "ID",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Mowin Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/dZwP2RlrQgDjeZz1ABLDkDYm3CD.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt37675123",
    "type": "movie",
