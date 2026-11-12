@@ -1,7 +1,134 @@
 {
  "version": 1,
- "updated": "2026-11-12T13:44:21Z",
+ "updated": "2026-11-12T15:18:10Z",
  "items": [
+  {
+   "id": "movie:tt39313557",
+   "type": "movie",
+   "title": "Noël dans ta peau",
+   "original_title": "Bara till jul",
+   "year": 2026,
+   "release_date": "2026-11-12",
+   "overview": "Deux sœurs aux personnalités complètement différentes se voient contraintes d'échanger leurs vies quelques semaines avant Noël. Dans leurs nouveaux environnements, elles font face à leurs choix et trouvent l'amour au moment où elles s'y attendaient le moins.",
+   "synopsis_origin": null,
+   "rating": 9.0,
+   "runtime": 103,
+   "genres": [
+    "Romance",
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=dBxrOZsMsrI",
+   "poster": "https://image.tmdb.org/t/p/w500/uUKX2NRLxEtqsd6O8MJ8ucFVxf2.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/znOrr5xogCgGTAZ86hEGptTYL8v.png",
+   "imdb_id": "tt39313557",
+   "tmdb_url": "https://www.themoviedb.org/movie/1757174",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39313557",
+   "added_at": "2026-11-12T15:18:08Z",
+   "tagline": null,
+   "directors": [
+    "Adam Pålsson"
+   ],
+   "writers": [
+    "Christin Magdu",
+    "Eleonor Sager",
+    "Mikael Syrén"
+   ],
+   "cast": [
+    {
+     "name": "Felice Jankell",
+     "role": "Mathilda Stjärne",
+     "photo": "https://image.tmdb.org/t/p/w185/7DbXVbGlWcYESPBtAHwwRvMLwzf.jpg"
+    },
+    {
+     "name": "Happy Jankell",
+     "role": "Freddie Stjärne",
+     "photo": "https://image.tmdb.org/t/p/w185/1HxWCM4tKvr3BE7LbWNi7iSjSCo.jpg"
+    },
+    {
+     "name": "Christian Fandango Sundgren",
+     "role": "Oliver",
+     "photo": "https://image.tmdb.org/t/p/w185/yFzKniD7f5eZWR5cbheKLsoPM9R.jpg"
+    },
+    {
+     "name": "Celie Sparre",
+     "role": "Emma",
+     "photo": "https://image.tmdb.org/t/p/w185/hWlwSfIKMEg7MStKtxW7DPlOidM.jpg"
+    },
+    {
+     "name": "Anastasios Soulis",
+     "role": "Jonas",
+     "photo": "https://image.tmdb.org/t/p/w185/ioaYJiSJd3jtirOETB1dit4XLEi.jpg"
+    },
+    {
+     "name": "Maria Kulle",
+     "role": "Lillian",
+     "photo": "https://image.tmdb.org/t/p/w185/x30VUJlKmycPzG09f5bB8MwgPgl.jpg"
+    },
+    {
+     "name": "Dag Malmberg",
+     "role": "Janne",
+     "photo": "https://image.tmdb.org/t/p/w185/rVVc0e3uUtLPiL3ze87OQYF8BYD.jpg"
+    },
+    {
+     "name": "Bengt Braskered",
+     "role": "Patric",
+     "photo": "https://image.tmdb.org/t/p/w185/dYNbesiCfIwuzXbxBlThl7cmOaP.jpg"
+    },
+    {
+     "name": "Lisa Hu Yu",
+     "role": "Li-Fen",
+     "photo": "https://image.tmdb.org/t/p/w185/e14ORZtfVbhHB2Ox7rAV50onBNc.jpg"
+    },
+    {
+     "name": "Bahar Pars",
+     "role": "Katja",
+     "photo": "https://image.tmdb.org/t/p/w185/grVLm9MNLaiiOn7y9fvWsnRx7J7.jpg"
+    },
+    {
+     "name": "Lydia Capolicchio",
+     "role": "Customer in a flower shop",
+     "photo": "https://image.tmdb.org/t/p/w185/nibMUH6QlkIrezpSjfeGcmnvAqz.jpg"
+    },
+    {
+     "name": "Natasha Träger",
+     "role": "Waitress",
+     "photo": null
+    },
+    {
+     "name": "Jesper Salén",
+     "role": "Doctor",
+     "photo": "https://image.tmdb.org/t/p/w185/4snr7kpyRAHmQrQzH6caQ4RI7Mp.jpg"
+    },
+    {
+     "name": "Elinor Silfversparre",
+     "role": "Hockey girl",
+     "photo": null
+    },
+    {
+     "name": "Sophia Gellerstedt Gutale",
+     "role": "Iris",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Suède"
+   ],
+   "original_language": "Suédois",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Breakable Films",
+     "logo": "https://image.tmdb.org/t/p/w185/8Dd48U9Y5atfm0OYdUVGMZNSBJo.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt36415524",
    "type": "movie",
