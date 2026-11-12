@@ -1,7 +1,107 @@
 {
  "version": 1,
- "updated": "2026-11-12T15:18:10Z",
+ "updated": "2026-11-12T20:07:07Z",
  "items": [
+  {
+   "id": "series:tt31842126",
+   "type": "series",
+   "title": "The Good Daughter",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-12",
+   "overview": "Les sœurs Charlotte et Samantha Quinn ont passé les vingt-huit dernières années à tenter de recoller les morceaux de leurs vies, brisées par une seule nuit de violence. Lorsqu’une nouvelle attaque secoue la petite ville de Pikeville, Charlotte est le premier témoin à arriver sur les lieux. Devenue avocate comme son père, elle est contrainte d’affronter ses propres démons alors que l’affaire réserve une révélation choquante après l’autre. Au final, Samantha et elle en viennent toutes deux à se demander si le prix à payer pour avoir été une « bonne fille » en valait vraiment la peine.",
+   "synopsis_origin": "deepl",
+   "rating": 10.0,
+   "runtime": 47,
+   "genres": [
+    "Drame",
+    "Mystère"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=Kjwbn5AF_3E",
+   "poster": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/ghwfKIgkBKTUBlFHzEtm04LVQgz.png",
+   "imdb_id": "tt31842126",
+   "tmdb_url": "https://www.themoviedb.org/tv/249565",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt31842126",
+   "added_at": "2026-11-12T20:07:05Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Rose Byrne",
+     "role": "Samantha Quinn",
+     "photo": "https://image.tmdb.org/t/p/w185/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg"
+    },
+    {
+     "name": "Meghann Fahy",
+     "role": "Charlotte Quinn",
+     "photo": "https://image.tmdb.org/t/p/w185/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg"
+    },
+    {
+     "name": "Brendan Gleeson",
+     "role": "Rusty",
+     "photo": "https://image.tmdb.org/t/p/w185/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg"
+    },
+    {
+     "name": "Harper Steele",
+     "role": "Lenore",
+     "photo": "https://image.tmdb.org/t/p/w185/jWo1tHt9UDUBaf8m5YgNyH7kOUV.jpg"
+    },
+    {
+     "name": "Michael Dorman",
+     "role": "Ben",
+     "photo": "https://image.tmdb.org/t/p/w185/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg"
+    },
+    {
+     "name": "Audrey Grace Marshall",
+     "role": "Young Sam",
+     "photo": "https://image.tmdb.org/t/p/w185/u9j51KnphsW0zg05nCOXxXKlWex.jpg"
+    },
+    {
+     "name": "Drew Cheek",
+     "role": "Young Charlie",
+     "photo": null
+    },
+    {
+     "name": "Olivia Williams",
+     "role": "Harriet 'Gamma' Quinn",
+     "photo": "https://image.tmdb.org/t/p/w185/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Iron Ocean",
+     "logo": "https://image.tmdb.org/t/p/w185/ceQJgG7uXoYTWJIRBBbExJV7mwE.png"
+    },
+    {
+     "name": "Made Up Stories",
+     "logo": "https://image.tmdb.org/t/p/w185/81WtvTYVr4WsWm2ZLfwR48TrDBT.png"
+    },
+    {
+     "name": "Fifth Season",
+     "logo": "https://image.tmdb.org/t/p/w185/crrgXvLhDO9c57HYrbO4H58Vxmb.png"
+    },
+    {
+     "name": "Peacock",
+     "logo": "https://image.tmdb.org/t/p/w185/gIAcGTjKKr0KOHL5s4O36roJ8p7.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt39313557",
    "type": "movie",
