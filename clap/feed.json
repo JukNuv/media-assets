@@ -1,7 +1,101 @@
 {
  "version": 1,
- "updated": "2026-11-11T18:05:06Z",
+ "updated": "2026-11-12T08:06:36Z",
  "items": [
+  {
+   "id": "series:tt39673782",
+   "type": "series",
+   "title": "Je te tiens",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-11",
+   "overview": "Lorsque Raphaëlle, une jeune assistante sociale, devient l'aide-soignante du grand-père de Mathias, elle tombe sous son charme et celui de sa maîtresse, Macha, une jeune femme libre d'esprit qui travaille comme escort girl. Ce qui commence comme une fascination innocente se mue peu à peu en obsession. Sournoise et déterminée, elle parvient à s'immiscer dans la vie du couple, jusqu'à en prendre le contrôle.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 43,
+   "genres": [
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/eErYVuZT9BGzTCrFb3CrZQdAaMV.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/tM84hlrXrKCsFOl5eC6amMAvngA.jpg",
+   "logo": "",
+   "imdb_id": "tt39673782",
+   "tmdb_url": "https://www.themoviedb.org/tv/338401",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39673782",
+   "added_at": "2026-11-12T08:06:34Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Antoine Pilon",
+     "role": "Mathias",
+     "photo": "https://image.tmdb.org/t/p/w185/kYrhXJu61pXPN29rGV6HofsqlO8.jpg"
+    },
+    {
+     "name": "Juliette Gariépy",
+     "role": "Macha",
+     "photo": "https://image.tmdb.org/t/p/w185/upFgZdi3IBIbsZSkFxknt5KTedi.jpg"
+    },
+    {
+     "name": "Amaryllis Tremblay",
+     "role": "Raphaëlle",
+     "photo": "https://image.tmdb.org/t/p/w185/nEPU7jtzMgP3TzgoOLORvLAgKVY.jpg"
+    },
+    {
+     "name": "Marc Beaupré",
+     "role": "Jocelyn",
+     "photo": "https://image.tmdb.org/t/p/w185/qGBBmUfj5xlDWK15po0axpTUm3K.jpg"
+    },
+    {
+     "name": "Nathalie Coupal",
+     "role": "Anne-Catherine",
+     "photo": "https://image.tmdb.org/t/p/w185/yWIJxy89hPLpOM14nRXWHp4FqOD.jpg"
+    },
+    {
+     "name": "Yanic Truesdale",
+     "role": "François",
+     "photo": "https://image.tmdb.org/t/p/w185/pHXlAs0kdzbi0qOmT8uOFdRJV0j.jpg"
+    },
+    {
+     "name": "Simon Boulerice",
+     "role": "Jasmin",
+     "photo": "https://image.tmdb.org/t/p/w185/uKMC6Oh0cA13P0x5RmLzBd4DzUp.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Bell Media",
+     "logo": "https://image.tmdb.org/t/p/w185/yeOKSwpoVWvntT6LT1kbrEA94dt.png"
+    },
+    {
+     "name": "Passez Go",
+     "logo": "https://image.tmdb.org/t/p/w185/eTkjmoYwvuy01D6kxuQlCmu5cki.png"
+    },
+    {
+     "name": "BellMedia",
+     "logo": "https://image.tmdb.org/t/p/w185/9J7Qfxl7YKXtvv0T2SrVn4metAM.png"
+    },
+    {
+     "name": "Crave",
+     "logo": "https://image.tmdb.org/t/p/w185/xlVkcuR2NqruUHh8gPaAw9BvOCT.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt38420997",
    "type": "movie",
