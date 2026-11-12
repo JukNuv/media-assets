@@ -1,7 +1,115 @@
 {
  "version": 1,
- "updated": "2026-11-12T08:06:36Z",
+ "updated": "2026-11-12T08:06:45Z",
  "items": [
+  {
+   "id": "series:tt33343182",
+   "type": "series",
+   "title": "Singapura",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-02",
+   "overview": "À Singapour, cité ultramoderne où les buildings côtoient la mangrove, Justine et Simon débarquent avec leur fille pour prendre un nouveau départ. Nouveau job, nouvelle vie et nouvelle dynamique pour leur couple.\n\nDans la petite communauté uniformisée des résidents français, Élisa Delestré fait office d’ovni. Torturée et fantasque, c’est un esprit libre qui séduit instantanément Justine.\n\nLe meurtre soudain de cette nouvelle amie bouleverse Justine et la communauté. Les secrets, les mensonges et les trahisons vont secouer l'univers policé des Français de Singapour. Le vernis se craquelle. Ce qui n'échappera pas à Adam Wong, l’inspecteur en charge du dossier.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 52,
+   "genres": [
+    "Crime"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/qQkBS6tijqUFMclcrpzdj8MWEmd.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/peIH5qDOzW4b0wEw2C6rOF6ulVK.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/tCEnr61EBq6A92RDHVGOXQfynOs.png",
+   "imdb_id": "tt33343182",
+   "tmdb_url": "https://www.themoviedb.org/tv/252721",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt33343182",
+   "added_at": "2026-11-12T08:06:43Z",
+   "tagline": "L'enfer existe aussi au paradis.",
+   "directors": [
+    "Elsa Marpeau"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Naïlia Harzoune",
+     "role": "Justine Lacanal",
+     "photo": "https://image.tmdb.org/t/p/w185/82JhrYcccD9nrGias8e7hplRVm6.jpg"
+    },
+    {
+     "name": "Soji Arai",
+     "role": "Adam Wong",
+     "photo": "https://image.tmdb.org/t/p/w185/72hCalf77fivfkYkgl6FM2idSjg.jpg"
+    },
+    {
+     "name": "India Hair",
+     "role": "Clémence Salinas",
+     "photo": "https://image.tmdb.org/t/p/w185/gThHB2y6frehGeYJmOxMtkp7icc.jpg"
+    },
+    {
+     "name": "Ariane Labed",
+     "role": "Elisa Délestré",
+     "photo": "https://image.tmdb.org/t/p/w185/78QyAml6N1HMuHudmrVlKnJfSQY.jpg"
+    },
+    {
+     "name": "Cédric Kahn",
+     "role": "Bertrand Délestré",
+     "photo": "https://image.tmdb.org/t/p/w185/aw4OFv5Cod0gP8WQCVlUzaPvdk7.jpg"
+    },
+    {
+     "name": "Pierre-Yves Cardinal",
+     "role": "Aurélien Decroix",
+     "photo": "https://image.tmdb.org/t/p/w185/6JOP7wsUGzsKjI6rcCkZmyS0D8q.jpg"
+    },
+    {
+     "name": "Florence Loiret Caille",
+     "role": "Chloé Ferrier",
+     "photo": "https://image.tmdb.org/t/p/w185/lNIVTZfgOvxbPIo4YgcXfepHKqF.jpg"
+    },
+    {
+     "name": "Léo Dussollier",
+     "role": "Simon Lacanal",
+     "photo": "https://image.tmdb.org/t/p/w185/rRwjoAAvKtQKldMKDWvTJ2Z5TYy.jpg"
+    },
+    {
+     "name": "Hippolyte Girardot",
+     "role": "Louis Antelme",
+     "photo": "https://image.tmdb.org/t/p/w185/2n4CBW1GEUTkUnNv2HxPpFMnRNm.jpg"
+    },
+    {
+     "name": "Dany Verissimo-Petit",
+     "role": "Destiny",
+     "photo": "https://image.tmdb.org/t/p/w185/sOIdcNgqOciiByAhOSejtK5dMIZ.jpg"
+    },
+    {
+     "name": "Hugo Trophardy",
+     "role": "Léonard Délestré",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Carma Films",
+     "logo": null
+    },
+    {
+     "name": "Canal+",
+     "logo": "https://image.tmdb.org/t/p/w185/9aotxauvc9685tq9pTcRJszuT06.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt39673782",
    "type": "series",
