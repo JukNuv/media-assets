@@ -1,7 +1,153 @@
 {
  "version": 1,
- "updated": "2026-11-12T13:44:13Z",
+ "updated": "2026-11-12T13:44:21Z",
  "items": [
+  {
+   "id": "movie:tt36415524",
+   "type": "movie",
+   "title": "Cash Out 3 - The Gentleman Thief",
+   "original_title": "The Gentleman Thief",
+   "year": 2026,
+   "release_date": "2026-07-31",
+   "overview": "L'incorrigible Shawn réussit, non sans mal, à sortir son frère Mason Goddard de sa retraite pour l'embarquer dans un ultime casse. Mais Mason et son équipe d'experts en cambriolage vont, sans le savoir, s'attaquer au redoutable Abel Salazar qui vient de s'évader de prison. Ce casse de haut vol, apparemment à leur portée, a en réalité été imaginé par Salazar lui-même...",
+   "synopsis_origin": null,
+   "rating": 5.3,
+   "runtime": 97,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller",
+    "Téléfilm"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": "Cash Out [Collection]",
+   "platforms": [
+    "Hulu"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=0LB3yWX1R8Y",
+   "poster": "https://image.tmdb.org/t/p/w500/fk2xhYUoieqRvQYRXS7YCNFZZQi.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/i5ok523drT82dtneSitidIjnPoz.png",
+   "imdb_id": "tt36415524",
+   "tmdb_url": "https://www.themoviedb.org/movie/1458215",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36415524",
+   "added_at": "2026-11-12T13:44:19Z",
+   "tagline": "Ne fais confiance à personne. Prends tout.",
+   "directors": [
+    "Randall Emmett"
+   ],
+   "writers": [
+    "Chris Sivertson"
+   ],
+   "cast": [
+    {
+     "name": "John Travolta",
+     "role": "Mason Goddard",
+     "photo": "https://image.tmdb.org/t/p/w185/ap8eEYfBKTLixmVVpRlq4NslDD5.jpg"
+    },
+    {
+     "name": "Lukas Haas",
+     "role": "Shawn Goddard",
+     "photo": "https://image.tmdb.org/t/p/w185/vabZQXlAhyW2GxQfDM1PhKURA8.jpg"
+    },
+    {
+     "name": "Rebecca De Mornay",
+     "role": "Odessa",
+     "photo": "https://image.tmdb.org/t/p/w185/zC2RrrdZv4UKUtHgCfKD6bJY1Qy.jpg"
+    },
+    {
+     "name": "Danny Pardo",
+     "role": "Abel Salzar",
+     "photo": "https://image.tmdb.org/t/p/w185/jqJkEdkTna0bXPoOQJgt9IXHHJ0.jpg"
+    },
+    {
+     "name": "Beau Bommarito",
+     "role": "Caras",
+     "photo": "https://image.tmdb.org/t/p/w185/y4Bnur5patiUtPXtZhinlKJNKzk.jpg"
+    },
+    {
+     "name": "Emily Skinner",
+     "role": "Violet",
+     "photo": "https://image.tmdb.org/t/p/w185/8yUD1mq0nspMy1bYPV4rQRTvLmF.jpg"
+    },
+    {
+     "name": "Joel Cohen",
+     "role": "Agent Richter",
+     "photo": "https://image.tmdb.org/t/p/w185/26khzGvkwfTdR3f6rNAtQ39Z8OF.jpg"
+    },
+    {
+     "name": "Sam Asghari",
+     "role": "Victor",
+     "photo": "https://image.tmdb.org/t/p/w185/d8YGlwclB355weFnKoKDEz9VXRI.jpg"
+    },
+    {
+     "name": "Natali Yura",
+     "role": "Link",
+     "photo": "https://image.tmdb.org/t/p/w185/hu0yDZwdHZyv24BAyJzrfq2hjPr.jpg"
+    },
+    {
+     "name": "Quavo",
+     "role": "Anton",
+     "photo": "https://image.tmdb.org/t/p/w185/xnNpJvPluhit6LFxLEFlbZwHtoJ.jpg"
+    },
+    {
+     "name": "DJ Khaled",
+     "role": "Louis",
+     "photo": "https://image.tmdb.org/t/p/w185/wTjcJxDlCpTXONYWmI6KnqG1JZ4.jpg"
+    },
+    {
+     "name": "MacKenzie Baker",
+     "role": "Nectar",
+     "photo": null
+    },
+    {
+     "name": "Tim Sitarz",
+     "role": "Rolf",
+     "photo": "https://image.tmdb.org/t/p/w185/ezjFxVPoxg71Dqi3g9r99Uov31K.jpg"
+    },
+    {
+     "name": "Jas Mathur",
+     "role": "Hamish Hawkes",
+     "photo": null
+    },
+    {
+     "name": "Yosef Martin",
+     "role": "Transfer Guard Alex",
+     "photo": null
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Convergence Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/13GyIWMzFvDqJN6I6tZCQYzWr7L.png"
+    },
+    {
+     "name": "Dream Team Films",
+     "logo": "https://image.tmdb.org/t/p/w185/bvGDdMNvxn8cjrCSDOaQUNg4eqA.png"
+    },
+    {
+     "name": "Eyevox Entertainment",
+     "logo": null
+    },
+    {
+     "name": "Limitless Films",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Hulu",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt39370926",
    "type": "movie",
