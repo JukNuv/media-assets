@@ -1,7 +1,110 @@
 {
  "version": 1,
- "updated": "2026-11-12T20:07:07Z",
+ "updated": "2026-11-13T08:04:52Z",
  "items": [
+  {
+   "id": "series:tt32375763",
+   "type": "series",
+   "title": "12 12 12",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-12",
+   "overview": "Un braquage prend 12 mois à préparer, 12 heures à mettre à exécution, et un braqueur qui n'est pas arrêté dans les 12 jours ne le sera jamais. Dans un chassé-croisé haletant de trois temporalités, un agent du FBI et un criminel de carrière se livrent à un jeu dangereux du chat et de la souris, à travers l'Europe.",
+   "synopsis_origin": null,
+   "rating": 10.0,
+   "runtime": 53,
+   "genres": [
+    "Action & Adventure",
+    "Crime",
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=pWdt8WMCqnc",
+   "poster": "https://image.tmdb.org/t/p/w500/2tFZg8g9gGwtGB2CosRsNevMQvu.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/6qCcXg7zXD3Xp5Whk8DwwFQNwAM.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/pczEboTXvQhnOo0VCAFJrd2Y8E2.png",
+   "imdb_id": "tt32375763",
+   "tmdb_url": "https://www.themoviedb.org/tv/254630",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt32375763",
+   "added_at": "2026-11-13T08:04:50Z",
+   "tagline": "12 mois pour se préparer, 12 heures pour frapper, 12 jours pour disparaître.",
+   "directors": [
+    "Dudi Appleton",
+    "Jim Keeble"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Anthony Mackie",
+     "role": "Jack Strickland",
+     "photo": "https://image.tmdb.org/t/p/w185/vecvTm7SimizluJkyIwBxeLbvRm.jpg"
+    },
+    {
+     "name": "Jamie Dornan",
+     "role": "Paul Galvin",
+     "photo": "https://image.tmdb.org/t/p/w185/qmTiAm3LII5moykSriVkJCeysKC.jpg"
+    },
+    {
+     "name": "Jack Kesy",
+     "role": "Bobby Galvin",
+     "photo": "https://image.tmdb.org/t/p/w185/z9lMOGw235m2HeCP4xlwQHXkq5X.jpg"
+    },
+    {
+     "name": "Agathe Rousselle",
+     "role": "Severine",
+     "photo": "https://image.tmdb.org/t/p/w185/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg"
+    },
+    {
+     "name": "Sallie Harmsen",
+     "role": "Lena",
+     "photo": "https://image.tmdb.org/t/p/w185/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg"
+    },
+    {
+     "name": "Kali Reis",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg"
+    },
+    {
+     "name": "José Garcia",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ml8JHunZl2TCBrcaseqtiEfpykm.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Make It With Gravy",
+     "logo": null
+    },
+    {
+     "name": "Inspire Entertainment",
+     "logo": null
+    },
+    {
+     "name": "Anonymous Content",
+     "logo": "https://image.tmdb.org/t/p/w185/b8w4LldQolMKiLZw4FQJBcXSDGI.png"
+    },
+    {
+     "name": "Paramount Television Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/4r6rIxegOrrVeJwqRxpzNrCRQMD.png"
+    },
+    {
+     "name": "Apple TV",
+     "logo": "https://image.tmdb.org/t/p/w185/bngHRFi794mnMq34gfVcm9nDxN1.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt31842126",
    "type": "series",
