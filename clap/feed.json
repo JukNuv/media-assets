@@ -1,7 +1,145 @@
 {
  "version": 1,
- "updated": "2026-11-13T14:07:27Z",
+ "updated": "2026-11-13T14:07:40Z",
  "items": [
+  {
+   "id": "movie:tt15095848",
+   "type": "movie",
+   "title": "Being Heumann",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-06",
+   "overview": "Débrouillarde, défiant l'autorité et fatiguée d'être traitée comme un fardeau, Judy Heumann transforme son indignation en révolution. En 1977, cette dernière et plus de 100 manifestants luttant pour les droits des personnes handicapées envoient un message très clair : le système est défaillant, pas nous.",
+   "synopsis_origin": null,
+   "rating": 7.5,
+   "runtime": 127,
+   "genres": [
+    "Drame",
+    "Histoire"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=CQp2pUXLvJk",
+   "poster": "https://image.tmdb.org/t/p/w500/9Wi0fxpo1e7Wn2cGVNu7niwdEP2.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/xc0ksGEpE4b9fPiCMTdElboIcNi.png",
+   "imdb_id": "tt15095848",
+   "tmdb_url": "https://www.themoviedb.org/movie/1050981",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt15095848",
+   "added_at": "2026-11-13T14:07:38Z",
+   "tagline": "Inspiré d'une véritable révolution.",
+   "directors": [
+    "Sian Heder"
+   ],
+   "writers": [
+    "Rebekah Taussig",
+    "Sian Heder"
+   ],
+   "cast": [
+    {
+     "name": "Ruth Madeley",
+     "role": "Judith 'Judy' Heumann",
+     "photo": "https://image.tmdb.org/t/p/w185/nTO7qTvUkgZ9s2Imejbi2DsrqEF.jpg"
+    },
+    {
+     "name": "Mark Ruffalo",
+     "role": "Joseph Califano",
+     "photo": "https://image.tmdb.org/t/p/w185/5GilHMOt5PAQh6rlUKZzGmaKEI7.jpg"
+    },
+    {
+     "name": "Dylan O'Brien",
+     "role": "Evan White",
+     "photo": "https://image.tmdb.org/t/p/w185/jr08zI0cwDA1kW2iSeeRzwMwRvO.jpg"
+    },
+    {
+     "name": "Madeline Delp",
+     "role": "Kitty Cone",
+     "photo": "https://image.tmdb.org/t/p/w185/fA4Q48Q0z7XRWBNDtAp7t2EP4Tq.jpg"
+    },
+    {
+     "name": "Rob Delaney",
+     "role": "Congressman Miller",
+     "photo": "https://image.tmdb.org/t/p/w185/xirfT1znRkkughLiPemKu3NhkKQ.jpg"
+    },
+    {
+     "name": "Ray Fisher",
+     "role": "Chuck Jackson",
+     "photo": "https://image.tmdb.org/t/p/w185/310snvA05xDOQZDn2fJSp242GHw.jpg"
+    },
+    {
+     "name": "Michael Patrick Thornton",
+     "role": "Ed Roberts",
+     "photo": "https://image.tmdb.org/t/p/w185/t7Z7ubKXOi58K1Li4lcMJk0RkXN.jpg"
+    },
+    {
+     "name": "Antwan Tolliver",
+     "role": "Brad Lomax",
+     "photo": "https://image.tmdb.org/t/p/w185/8f3KJTqDtN2XL3qzVPLXXPKUOV6.jpg"
+    },
+    {
+     "name": "Daniel Durant",
+     "role": "Steve McCleeland",
+     "photo": "https://image.tmdb.org/t/p/w185/iG1GRiYy3JGlnoBKSnuNF6umtp6.jpg"
+    },
+    {
+     "name": "Jon Beavers",
+     "role": "Jim Pechin",
+     "photo": "https://image.tmdb.org/t/p/w185/kUrejsnBmD5eUSm4ftapOiFUqML.jpg"
+    },
+    {
+     "name": "Roberta Colindrez",
+     "role": "Joni Breves",
+     "photo": "https://image.tmdb.org/t/p/w185/kDvrnApQrT73AzVaLDDOhCB0a0p.jpg"
+    },
+    {
+     "name": "Siena Rafter",
+     "role": "Lynette",
+     "photo": "https://image.tmdb.org/t/p/w185/bVrIQ4uu8N548UOK8ma7jL3sA4Z.jpg"
+    },
+    {
+     "name": "Andrew Pilkington",
+     "role": "Hale Zukas",
+     "photo": "https://image.tmdb.org/t/p/w185/zlGdNW9LxKI1vHmeGfqUvWQzEx3.jpg"
+    },
+    {
+     "name": "Rein Barcel",
+     "role": "Cece",
+     "photo": "https://image.tmdb.org/t/p/w185/92HIj1x4WkP3tVTTUbvmc9zuiKN.jpg"
+    },
+    {
+     "name": "Darcee Charington Neal",
+     "role": "Ron Washington",
+     "photo": "https://image.tmdb.org/t/p/w185/rXZwO10NOLBSjyuH5SJb4Ei47Hv.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Permut Presentations",
+     "logo": "https://image.tmdb.org/t/p/w185/x1Jn5NQmf9ptuqRh5lqCQk2kSlg.png"
+    },
+    {
+     "name": "Gravity Squared Entertainment",
+     "logo": null
+    },
+    {
+     "name": "Apple Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/oE7H93u8sy5vvW5EH3fpCp68vvB.png"
+    },
+    {
+     "name": "The Walsh Company",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt38213251",
    "type": "movie",
