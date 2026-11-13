@@ -1,7 +1,87 @@
 {
  "version": 1,
- "updated": "2026-11-13T14:33:51Z",
+ "updated": "2026-11-13T16:04:33Z",
  "items": [
+  {
+   "id": "series:tt38961437",
+   "type": "series",
+   "title": "Silent Night",
+   "original_title": "Wśród nocnej ciszy",
+   "year": 2026,
+   "release_date": "2026-11-13",
+   "overview": "La veille de Noël 1976. De la neige, le silence, l’obscurité. Trois jeunes gens – une femme enceinte, son mari et le frère cadet de celui-ci – sont tués par un bus alors qu’ils se rendaient à la messe de minuit.\n\nPersonne n’a rien vu. Ou peut-être que personne ne veut parler. Au lieu de réponses, il n’y a qu’un mur de silence. L’incident est officiellement classé comme un accident. Mais la mère des victimes et un jeune policier nommé Maczek refusent de croire qu’il s’agisse d’une simple coïncidence. Lui met sa carrière en jeu ; elle risque tout ce qui lui reste. Plus ils creusent, plus des révélations choquantes font surface. Et la vérité ? Elle pourrait bien s’avérer pire que le mensonge.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Crime",
+    "Drame",
+    "Mystère"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/JQ5PUa6arDleXdbmjMs9YjqN3E.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/wvHxaXG7vV3P1nFGLFAuEUCwaTP.png",
+   "imdb_id": "tt38961437",
+   "tmdb_url": "https://www.themoviedb.org/tv/305245",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38961437",
+   "added_at": "2026-11-13T16:04:31Z",
+   "tagline": null,
+   "directors": [
+    "Jan Holoubek"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Tomasz Schuchardt",
+     "role": "prokurator Kiełczkowski",
+     "photo": "https://image.tmdb.org/t/p/w185/2WOX4dBr97itzYzNqEUbxXrYeE3.jpg"
+    },
+    {
+     "name": "Adam Woronowicz",
+     "role": "Władysław Kaleta",
+     "photo": "https://image.tmdb.org/t/p/w185/gEkGZPLM8aI92PgXCQ8UdjfKt2q.jpg"
+    },
+    {
+     "name": "Justyna Wasilewska",
+     "role": "siostra Wojdy Irena Karaś",
+     "photo": "https://image.tmdb.org/t/p/w185/ctQfREYuA2NHiiFfxI8NjNm8Afj.jpg"
+    },
+    {
+     "name": "Tomasz Włosok",
+     "role": "Stanisław Kula",
+     "photo": "https://image.tmdb.org/t/p/w185/bBGaNaQeFMq00zpcc2Tx1aOS13s.jpg"
+    },
+    {
+     "name": "Dariusz Chojnacki",
+     "role": "mechanik Ryszard Mitek",
+     "photo": "https://image.tmdb.org/t/p/w185/uzdik3FJwIbbOKusISw6Wkytqqk.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Pologne"
+   ],
+   "original_language": "Polonais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Lulu Production",
+     "logo": null
+    },
+    {
+     "name": "HBO Max",
+     "logo": "https://image.tmdb.org/t/p/w185/gqWI9y0owo9sxgzZD7TXOeILYI9.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt47791876",
    "type": "movie",
