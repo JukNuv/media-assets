@@ -1,7 +1,110 @@
 {
  "version": 1,
- "updated": "2026-11-13T12:05:48Z",
+ "updated": "2026-11-13T14:07:27Z",
  "items": [
+  {
+   "id": "movie:tt38213251",
+   "type": "movie",
+   "title": "Heartland",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-13",
+   "overview": "Misty Jones, une ancienne star de la country, sort de sa retraite pour enquêter sur la disparition de sa nièce Faith, elle-même une musicienne country en pleine ascension.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Mystère",
+    "Thriller"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=ziIz59enN1c",
+   "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/rKJfXPDkWPsGRuk3axzTAdANZdn.png",
+   "imdb_id": "tt38213251",
+   "tmdb_url": "https://www.themoviedb.org/movie/1543469",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt38213251",
+   "added_at": "2026-11-13T14:07:25Z",
+   "tagline": "Les étoiles les plus brillantes recèlent les secrets les plus sombres.",
+   "directors": [
+    "Shana Feste"
+   ],
+   "writers": [
+    "Shana Feste"
+   ],
+   "cast": [
+    {
+     "name": "Jessica Chastain",
+     "role": "Misty Jones",
+     "photo": "https://image.tmdb.org/t/p/w185/lodMzLKSdrPcBry6TdoDsMN3Vge.jpg"
+    },
+    {
+     "name": "Garrett Hedlund",
+     "role": "Roy Combs",
+     "photo": "https://image.tmdb.org/t/p/w185/9zec61HuFJgiUEzPSt0NfPIj0Xv.jpg"
+    },
+    {
+     "name": "Carter Faith",
+     "role": "Charlie Heart",
+     "photo": "https://image.tmdb.org/t/p/w185/163TNSZfms4EYiXDY0wkUGWwHWa.jpg"
+    },
+    {
+     "name": "Ross Lynch",
+     "role": "Jace",
+     "photo": "https://image.tmdb.org/t/p/w185/AlCEYF6SbZtCoOWBkVZvzdufMjs.jpg"
+    },
+    {
+     "name": "Jennifer Nettles",
+     "role": "Winnie Jo Lean",
+     "photo": "https://image.tmdb.org/t/p/w185/s6IDogtE93cMaMe4EYBjUeXVOV4.jpg"
+    },
+    {
+     "name": "John Hawkes",
+     "role": "Clark",
+     "photo": "https://image.tmdb.org/t/p/w185/nJZ0womUC7r5vKWGkLclQuo8qIi.jpg"
+    },
+    {
+     "name": "Hill Harper",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/gMfTsyGHOBDBw9596ZMpVWAJ0B7.jpg"
+    },
+    {
+     "name": "Norbert Leo Butz",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/2SMyLebGOemP26yL9pp7IFKfqG5.jpg"
+    },
+    {
+     "name": "Ben Dickey",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ovyVt7Z4Y6IsLAmnMIFPXncsbTs.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Chernin Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/8BFxn9NUWSgp0ndih569Gm62xiC.png"
+    },
+    {
+     "name": "Bronx Moving Co.",
+     "logo": null
+    },
+    {
+     "name": "Sandbox Studios",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt38707741",
    "type": "series",
