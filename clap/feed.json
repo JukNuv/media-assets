@@ -1,7 +1,79 @@
 {
  "version": 1,
- "updated": "2026-11-13T14:07:40Z",
+ "updated": "2026-11-13T14:33:51Z",
  "items": [
+  {
+   "id": "movie:tt47791876",
+   "type": "movie",
+   "title": "Snoopy présente : les 12 jours de Noël",
+   "original_title": "Snoopy Presents: 12 Days of Snoopy",
+   "year": 2026,
+   "release_date": "2026-11-12",
+   "overview": "Afin de ne plus figurer sur la liste noire du père Noël, Snoopy fait de son mieux pour avoir une conduite irréprochable.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 33,
+   "genres": [
+    "Animation",
+    "Familial"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Apple TV"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=xUQh-Yj__bA",
+   "poster": "https://image.tmdb.org/t/p/w500/eT8QR7Mu5T140bu6H7cQyBqZ3Rz.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/AkcxwZUldIwD6JSUknmzEgeoN4.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/9FVNp2vD02B2IUAyrbbvJ0f8GoZ.png",
+   "imdb_id": "tt47791876",
+   "tmdb_url": "https://www.themoviedb.org/movie/1780407",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt47791876",
+   "added_at": "2026-11-13T14:33:49Z",
+   "tagline": "Même les bons chiens ont parfois des jours où ils font des bêtises.",
+   "directors": [
+    "Matt Ferguson"
+   ],
+   "writers": [
+    "Alex Galatis"
+   ],
+   "cast": [
+    {
+     "name": "Terry McGurrin",
+     "role": "Snoopy (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/aruw7oreQdYRzyT2oTFWJUVgO3r.jpg"
+    },
+    {
+     "name": "Rob Tinkler",
+     "role": "Woodstock (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/i08td9dgUt51SEeMUbPgHHkbGbt.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "États-Unis",
+    "Canada"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Charles M. Schulz Creative Associates",
+     "logo": "https://image.tmdb.org/t/p/w185/wx2xFdBxcrDFoB2ethHQ8LjiknX.png"
+    },
+    {
+     "name": "WildBrain Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/737HCq9hXnI801p8sSAMJIvCidg.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Apple TV",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt15095848",
    "type": "movie",
