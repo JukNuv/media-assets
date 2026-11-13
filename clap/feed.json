@@ -1,7 +1,107 @@
 {
  "version": 1,
- "updated": "2026-11-13T08:04:52Z",
+ "updated": "2026-11-13T12:05:48Z",
  "items": [
+  {
+   "id": "series:tt38707741",
+   "type": "series",
+   "title": "Murder in Galicia",
+   "original_title": "El crimen de Pazos",
+   "year": 2026,
+   "release_date": "2026-11-13",
+   "overview": "Quand une femme est agressée en pleine nuit, un sergent tenace soupçonne le mari de ne pas être aussi innocent qu'il en a l'air dans ce drame inspiré de faits réels.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Crime",
+    "Mystère",
+    "Drame"
+   ],
+   "status": "Terminée",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/serXtEQvlmOZPijFsrY3PhQt4jO.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/lpwCHWx1d4FiHaeYCWfEv60owAC.png",
+   "imdb_id": "tt38707741",
+   "tmdb_url": "https://www.themoviedb.org/tv/303182",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38707741",
+   "added_at": "2026-11-13T12:05:46Z",
+   "tagline": null,
+   "directors": [
+    "Curro Serrano"
+   ],
+   "seasons": 1,
+   "episodes": 3,
+   "cast": [
+    {
+     "name": "Tristán Ulloa",
+     "role": "Elías",
+     "photo": "https://image.tmdb.org/t/p/w185/sglKcvdU3e8hTy1kOghEbT0GdHS.jpg"
+    },
+    {
+     "name": "Carlos Blanco",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Fer Fraga",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/k88nGh91fLjdnS0etnU8BrkGwlh.jpg"
+    },
+    {
+     "name": "Miguel Borines",
+     "role": "Aniceto",
+     "photo": "https://image.tmdb.org/t/p/w185/zWJ71vcHjuJB7GsMMpO7JElyWdK.jpg"
+    },
+    {
+     "name": "Marta Nieto",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/59261r4l1nqgdnvRPmmCBa7y98M.jpg"
+    },
+    {
+     "name": "Verónica Sánchez",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/4Z7OHkdHIQ9VPp3JBU8QPUzMewR.jpg"
+    },
+    {
+     "name": "Fernando Guillén Cuervo",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/sPzRtxLB9eRnZR6MqFIv4WBzG4u.jpg"
+    },
+    {
+     "name": "Nacho Fresneda",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/hFADbva2aAycgRCSlQtJW9Ua4Rg.jpg"
+    },
+    {
+     "name": "Tito Asorey",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/70F60qTi59F9hiKcKky2pIpV5zK.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Espagne"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "Terminée",
+   "production": [
+    {
+     "name": "Bambú Producciones",
+     "logo": "https://image.tmdb.org/t/p/w185/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt32375763",
    "type": "series",
