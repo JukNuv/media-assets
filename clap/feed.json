@@ -1,7 +1,87 @@
 {
  "version": 1,
- "updated": "2026-11-13T16:04:33Z",
+ "updated": "2026-11-14T08:59:46Z",
  "items": [
+  {
+   "id": "movie:tt42702735",
+   "type": "movie",
+   "title": "125, rue des Malaises",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-16",
+   "overview": "Laurent a pris une décision irrévocable, pas par désespoir, par conviction. Il convoque sa fille pour régler ses affaires, un inconnu arrive et un testament fait des vagues. Ce qui devait être un départ ordonné tourne au chaos et force tout le monde à se demander : à qui appartient notre vie ?",
+   "synopsis_origin": null,
+   "rating": 5.5,
+   "runtime": 94,
+   "genres": [
+    "Comédie",
+    "Drame"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=1j3fvg5OX44",
+   "poster": "https://image.tmdb.org/t/p/w500/kb700zVGmFs2JcInYQb3HcpGRAL.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/3M4Ps0XUYPlcrF7Ah8oEUTa3o6n.jpg",
+   "logo": "",
+   "imdb_id": "tt42702735",
+   "tmdb_url": "https://www.themoviedb.org/movie/1696266",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt42702735",
+   "added_at": "2026-11-14T08:59:44Z",
+   "tagline": "Chaque famille a ses secrets",
+   "directors": [
+    "Louis Bélanger"
+   ],
+   "writers": [
+    "Louis Bélanger",
+    "François Avard"
+   ],
+   "cast": [
+    {
+     "name": "Rémy Girard",
+     "role": "Laurent Perrier",
+     "photo": "https://image.tmdb.org/t/p/w185/enULDDsKvyNoUCZoFg10Mtq1MFk.jpg"
+    },
+    {
+     "name": "Geneviève Schmidt",
+     "role": "Marie-Claude",
+     "photo": "https://image.tmdb.org/t/p/w185/uT2auphL1cAUeGOwcEbZi39JyM.jpg"
+    },
+    {
+     "name": "Pier-Luc Funk",
+     "role": "Jacob Boucher",
+     "photo": "https://image.tmdb.org/t/p/w185/ffE7MUJhX9QvejJL3OuM7ekAtzs.jpg"
+    },
+    {
+     "name": "Claude Legault",
+     "role": "Martin",
+     "photo": "https://image.tmdb.org/t/p/w185/fEYWiaHahxekSj7M7uTfdR4qJ9x.jpg"
+    },
+    {
+     "name": "Guylaine Tremblay",
+     "role": "Chantal Pitre",
+     "photo": "https://image.tmdb.org/t/p/w185/6Ao2tsXBkOgKGu5GA8PCUOih1ur.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "TVA Films",
+     "logo": "https://image.tmdb.org/t/p/w185/3DyEznBXXfh3cvp5MCJXWH4gzhi.png"
+    },
+    {
+     "name": "Cinémaginaire",
+     "logo": "https://image.tmdb.org/t/p/w185/1rwkrpgsc0pWmkvEOabbPzEsGLi.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt38961437",
    "type": "series",
