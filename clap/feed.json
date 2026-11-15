@@ -1,7 +1,96 @@
 {
  "version": 1,
- "updated": "2026-11-14T08:59:46Z",
+ "updated": "2026-11-15T20:03:44Z",
  "items": [
+  {
+   "id": "series:tt35781996",
+   "type": "series",
+   "title": "The Chosen face à la nature avec Bear Grylls",
+   "original_title": "The Chosen in the Wild with Bear Grylls",
+   "year": 2026,
+   "release_date": "2026-08-09",
+   "overview": "Bear a longtemps survécu à des expéditions périlleuses avec le Christ à ses côtés. Aujourd'hui, il emmène les stars de The Chosen affronter l'inconnu.",
+   "synopsis_origin": null,
+   "rating": 1.0,
+   "runtime": 43,
+   "genres": [
+    "Reality",
+    "Action & Adventure"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=wp4BuflDszk",
+   "poster": "https://image.tmdb.org/t/p/w500/3B8EZvb340YdsES35tiVfp0fNzy.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/tabVLK28I4xM6F8I2xUJERUVvQC.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/qYBTAxywWPRMfwd7pvWnFMwejFt.png",
+   "imdb_id": "tt35781996",
+   "tmdb_url": "https://www.themoviedb.org/tv/294141",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt35781996",
+   "added_at": "2026-11-15T20:03:43Z",
+   "tagline": null,
+   "directors": [
+    "Dallas Jenkins",
+    "Bear Grylls"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Bear Grylls",
+     "role": "Self",
+     "photo": "https://image.tmdb.org/t/p/w185/vAjjR7b5lnip01W0OIjvaPynNON.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis",
+    "Royaume-Uni"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "5&2 Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/n3pI0U0pXZjESr0WlLeqZxZnxp0.png"
+    },
+    {
+     "name": "Bear Grylls Ventures",
+     "logo": "https://image.tmdb.org/t/p/w185/x51tiViQhuXfDkqZGbHIG5w9OO.png"
+    },
+    {
+     "name": "The Natural Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/vfMDNgWDbFQoZh5trfw7S0gBRyN.png"
+    },
+    {
+     "name": "Workerbee",
+     "logo": "https://image.tmdb.org/t/p/w185/kU0akgE33j22dZforum4Iidxurb.png"
+    },
+    {
+     "name": "Prime Video",
+     "logo": "https://image.tmdb.org/t/p/w185/w7HfLNm9CWwRmAMU58udl2L7We7.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": null
+    },
+    {
+     "name": "Amazon Prime Video with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt42702735",
    "type": "movie",
