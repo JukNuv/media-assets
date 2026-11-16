@@ -1,7 +1,114 @@
 {
  "version": 1,
- "updated": "2026-11-15T20:03:44Z",
+ "updated": "2026-11-16T07:32:16Z",
  "items": [
+  {
+   "id": "movie:tt29256561",
+   "type": "movie",
+   "title": "The Beast",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-08",
+   "overview": "Lorsqu'une milice coordonne un coup d'État contre les États-Unis, le président découvre l'étendue des capacités offensives de la Bête, la limousine présidentielle.",
+   "synopsis_origin": null,
+   "rating": 5.5,
+   "runtime": 99,
+   "genres": [
+    "Action",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=5ckqV_uf8E0",
+   "poster": "https://image.tmdb.org/t/p/w500/ocg5JfJP19fodcv5uQUApkmZMdI.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/qfrHg2Ew3SCL3RoFm0e3H7bTcEy.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/kO6KowrneLsLdRvv4L2wuGNfT51.png",
+   "imdb_id": "tt29256561",
+   "tmdb_url": "https://www.themoviedb.org/movie/1185344",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt29256561",
+   "added_at": "2026-11-16T07:32:14Z",
+   "tagline": "Vous connaissez l'Air Force One. Découvrez maintenant…",
+   "directors": [
+    "Renny Harlin"
+   ],
+   "writers": [
+    "Umair Aleem"
+   ],
+   "cast": [
+    {
+     "name": "Samuel L. Jackson",
+     "role": "President of the United States",
+     "photo": "https://image.tmdb.org/t/p/w185/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg"
+    },
+    {
+     "name": "Joel Kinnaman",
+     "role": "Agent Taft",
+     "photo": "https://image.tmdb.org/t/p/w185/cVfYzTyQdJ4xtxKPZe7IcW3BJN4.jpg"
+    },
+    {
+     "name": "Guy Burnet",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ksxpXRLJplv8kSfEHPYdboIwNfi.jpg"
+    },
+    {
+     "name": "Eoin Macken",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/9QcWKlulGbdDI8XNCJW88BfPyPv.jpg"
+    },
+    {
+     "name": "Colin Morgan",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/wuRCR2u5MK8IA3MQAMwjF6RGv5k.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Royaume-Uni",
+    "États-Unis",
+    "Espagne",
+    "Allemagne",
+    "Australie"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Fifth Season",
+     "logo": "https://image.tmdb.org/t/p/w185/crrgXvLhDO9c57HYrbO4H58Vxmb.png"
+    },
+    {
+     "name": "Unified Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/kDNZz8imH866Mezx1YhLWljoQTV.png"
+    },
+    {
+     "name": "Bright White Light",
+     "logo": "https://image.tmdb.org/t/p/w185/lvqsgXsWHX4r5jBOuvbNCpZCnBf.png"
+    },
+    {
+     "name": "The Beast Productions",
+     "logo": null
+    },
+    {
+     "name": "Film 44",
+     "logo": "https://image.tmdb.org/t/p/w185/ixRHWYw7SRWHGs0TtnSxj2eVSuV.png"
+    },
+    {
+     "name": "Nostromo Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png"
+    },
+    {
+     "name": "Orca Producción 3",
+     "logo": null
+    },
+    {
+     "name": "International Media Funds Management",
+     "logo": "https://image.tmdb.org/t/p/w185/9IYQkwgJlOzBiWANI6krDsE3QvR.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt35781996",
    "type": "series",
