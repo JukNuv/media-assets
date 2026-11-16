@@ -1,7 +1,154 @@
 {
  "version": 1,
- "updated": "2026-11-16T18:35:50Z",
+ "updated": "2026-11-16T20:07:36Z",
  "items": [
+  {
+   "id": "series:tt45246384",
+   "type": "series",
+   "title": "L'amour sous couverture",
+   "original_title": "나의 유죄인간",
+   "year": 2026,
+   "release_date": "2026-10-19",
+   "overview": "Yoon Yi-jun, successeur du groupe Taekang, est le principal suspect d'un terrible meurtre. Pour découvrir la vérité, l'inspectrice Kang Jae-hee s'infiltre auprès de lui en se faisant passer pour son secrétaire. Mais plus elle se rapproche de la vérité, plus ils se rapprochent l'un de l'autre. Entre Jae-hee sous couverture et Yi-jun qui cache un secret, pourront-ils s'avouer leurs sentiments ?",
+   "synopsis_origin": null,
+   "rating": 9.1,
+   "runtime": 60,
+   "genres": [
+    "Comédie",
+    "Drame",
+    "Crime",
+    "Action & Adventure"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=Q7Xj7sASXSU",
+   "poster": "https://image.tmdb.org/t/p/w500/xima3BlIJxlrONQgZ9mYuSLAq0f.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/lJQboLhI2TuAa3ZDpQaQzoTJToZ.png",
+   "imdb_id": "tt45246384",
+   "tmdb_url": "https://www.themoviedb.org/tv/303745",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt45246384",
+   "added_at": "2026-11-16T20:07:34Z",
+   "tagline": "La ruse est un jeu auquel on peut jouer à deux.",
+   "directors": [
+    "문수정"
+   ],
+   "seasons": 1,
+   "episodes": 12,
+   "cast": [
+    {
+     "name": "Si-wan Yim",
+     "role": "Yoon Yi-jun",
+     "photo": "https://image.tmdb.org/t/p/w185/xhItkYqo5DnFunTLBe65npwi0Me.jpg"
+    },
+    {
+     "name": "Seorina",
+     "role": "Kang Jae-hee",
+     "photo": "https://image.tmdb.org/t/p/w185/nfHLot4nBfqWQKwcXykeol4Owjb.jpg"
+    },
+    {
+     "name": "Kim Jung-hyun",
+     "role": "Kim Si-hyeon",
+     "photo": "https://image.tmdb.org/t/p/w185/hSv3ihM8sK6aGPirXq6j758m05P.jpg"
+    },
+    {
+     "name": "연우",
+     "role": "Lee Hye-jung",
+     "photo": "https://image.tmdb.org/t/p/w185/tn2g5D33zqea9eKTpwVFFneyr2s.jpg"
+    },
+    {
+     "name": "Ryu Seung-soo",
+     "role": "Kang Seok-goo",
+     "photo": "https://image.tmdb.org/t/p/w185/x9XcfwqcXNpk2hIrP6qeR0DDkOs.jpg"
+    },
+    {
+     "name": "Park Jun-myun",
+     "role": "Jo Sook-ja",
+     "photo": "https://image.tmdb.org/t/p/w185/gz5080pQXOKm9TKJEWXRrR1JTui.jpg"
+    },
+    {
+     "name": "정한설",
+     "role": "Assistant Jeong Da-woon",
+     "photo": "https://image.tmdb.org/t/p/w185/7KDxMPlyzT8Ck9RYIoOpHmMc5wy.jpg"
+    },
+    {
+     "name": "Kim Do-yoon",
+     "role": "Park Min-hwan",
+     "photo": "https://image.tmdb.org/t/p/w185/aj6K7PfdgmZN6SyQBFFvMeewGyf.jpg"
+    },
+    {
+     "name": "정유민",
+     "role": "Han Eun-yeong",
+     "photo": "https://image.tmdb.org/t/p/w185/r6WwKqdjhwarud4ArwcD1yO9xYn.jpg"
+    },
+    {
+     "name": "Kim In-kwon",
+     "role": "Park Bong",
+     "photo": "https://image.tmdb.org/t/p/w185/vMPHVFE0FhItp2uMMgGRYq5z5Bj.jpg"
+    },
+    {
+     "name": "김기방",
+     "role": "Jeong Wan-gu",
+     "photo": "https://image.tmdb.org/t/p/w185/h2ZfveXzLXL72mN8MkGxUnUWpvg.jpg"
+    },
+    {
+     "name": "남해준",
+     "role": "Kim Seok-jin",
+     "photo": "https://image.tmdb.org/t/p/w185/wpnFfQsFIfwfXpmWBPAn1X2obLj.jpg"
+    },
+    {
+     "name": "안상우",
+     "role": "Ma Hee-do",
+     "photo": "https://image.tmdb.org/t/p/w185/dHjTMijiOfJ9TH5QfdtwoC5d3PQ.jpg"
+    },
+    {
+     "name": "최진호",
+     "role": "Yoon Tae-sik",
+     "photo": "https://image.tmdb.org/t/p/w185/pl5qsHEGH9beFQwNUXMLYGgn17J.jpg"
+    },
+    {
+     "name": "홍은희",
+     "role": "Yoon Mi-jin",
+     "photo": "https://image.tmdb.org/t/p/w185/r6ZSTldUMUSmkUiaUEysHVpTHAp.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Corée du Sud"
+   ],
+   "original_language": "Coréen",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "CJ ENM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/mv2yDqAgT1ea1eTXZMDr89zX95M.png"
+    },
+    {
+     "name": "피타팻스튜디오",
+     "logo": null
+    },
+    {
+     "name": "tvN",
+     "logo": "https://image.tmdb.org/t/p/w185/4iJILrndsUAvriueBVHe8u0nVqo.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": null
+    },
+    {
+     "name": "Amazon Prime Video with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt43596156",
    "type": "movie",
