@@ -1,7 +1,142 @@
 {
  "version": 1,
- "updated": "2026-11-16T20:07:36Z",
+ "updated": "2026-11-17T08:05:15Z",
  "items": [
+  {
+   "id": "series:tt24512262",
+   "type": "series",
+   "title": "Fightland",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-31",
+   "overview": "Produite par Curtis Jackson aka. \"50 Cent\", cette série dramatique policière vous plonge dans l'univers impitoyable et sans concession de la boxe britannique. L'histoire suit un champion de boxe déchu, ancien détenu, qui revient à Londres pour se venger de la famille mafieuse qu'il tient pour responsable de sa trahison. Starz a commandé huit épisodes. Le tournage vient de commencer à Londres.",
+   "synopsis_origin": null,
+   "rating": 4.7,
+   "runtime": 51,
+   "genres": [
+    "Crime",
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Philo",
+    "Starz Amazon Channel",
+    "Spectrum On Demand",
+    "Starz",
+    "Starz Apple TV channel",
+    "Starz Roku Premium Channel"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=9L1jj4ALxCE",
+   "poster": "https://image.tmdb.org/t/p/w500/wUqUxv3ZhF1spAx4HLxhP1NUK8G.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/a0gOfhPiVGjS55HX9aIXInMVXc5.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/jK3htggZzQ8t00C8A3h0CCqoyAE.png",
+   "imdb_id": "tt24512262",
+   "tmdb_url": "https://www.themoviedb.org/tv/8840",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt24512262",
+   "added_at": "2026-11-17T08:05:14Z",
+   "tagline": null,
+   "directors": [
+    "Daniel Fajemisin-Duncan",
+    "Marlon Smith"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Howard Charles",
+     "role": "Maduka 'Duke' Kilroy",
+     "photo": "https://image.tmdb.org/t/p/w185/dx7mitxEUuRZZj13Pgk9ebzBi32.jpg"
+    },
+    {
+     "name": "Nicholas Pinnock",
+     "role": "Kingsley Marshall",
+     "photo": "https://image.tmdb.org/t/p/w185/ufGrGvx2JPLfFbMrNXAQWZoSI38.jpg"
+    },
+    {
+     "name": "Deborah Ayorinde",
+     "role": "Joy Marshall",
+     "photo": "https://image.tmdb.org/t/p/w185/hTbuFZSSEk5nWD3XxsSzQQ47CPb.jpg"
+    },
+    {
+     "name": "Charles Babalola",
+     "role": "Ezekiel 'Zeek' Marshall",
+     "photo": "https://image.tmdb.org/t/p/w185/eQnrDYXe4aajZCyipX1yPFZGE1j.jpg"
+    },
+    {
+     "name": "Anita-Joy Uwajeh",
+     "role": "Cebella 'Cece' Marshall",
+     "photo": "https://image.tmdb.org/t/p/w185/vwMfsZ3oskcWhRhmlYXIpUTWOtj.jpg"
+    },
+    {
+     "name": "Tahirah Sharif",
+     "role": "Kim Harper",
+     "photo": "https://image.tmdb.org/t/p/w185/2v8qjXOWjxlUpJ3x226ytlTk2Qi.jpg"
+    },
+    {
+     "name": "Tyler Conti",
+     "role": "Justin 'Jay' Hall",
+     "photo": "https://image.tmdb.org/t/p/w185/zBnCIJngqfaWWVQjy9EOhAhMNkC.jpg"
+    },
+    {
+     "name": "Richard Pepple",
+     "role": "Gary 'Gazzer' Kilroy",
+     "photo": "https://image.tmdb.org/t/p/w185/sqWMIksVsCxI0uF4we7yLVtjiSK.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Starz",
+     "logo": "https://image.tmdb.org/t/p/w185/GMDGZk9iDG4WDijY3VgUgJeyus.png"
+    },
+    {
+     "name": "G-Unit Film & Television",
+     "logo": "https://image.tmdb.org/t/p/w185/sLv0CvsijmrzpzPCuiNigJp5YHF.png"
+    },
+    {
+     "name": "Expanded Media",
+     "logo": "https://image.tmdb.org/t/p/w185/gf4AT4bNIhuw8bXnOimVSSkojkR.png"
+    },
+    {
+     "name": "STARZ",
+     "logo": "https://image.tmdb.org/t/p/w185/qx3Y9LCaK4mq1ykFuDIfjshlo3U.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Philo",
+     "logo": null
+    },
+    {
+     "name": "Starz Amazon Channel",
+     "logo": null
+    },
+    {
+     "name": "Spectrum On Demand",
+     "logo": null
+    },
+    {
+     "name": "Starz",
+     "logo": null
+    },
+    {
+     "name": "Starz Apple TV channel",
+     "logo": null
+    },
+    {
+     "name": "Starz Roku Premium Channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt45246384",
    "type": "series",
