@@ -1,7 +1,134 @@
 {
  "version": 1,
- "updated": "2026-11-18T08:03:24Z",
+ "updated": "2026-11-18T11:27:10Z",
  "items": [
+  {
+   "id": "movie:tt6611324",
+   "type": "movie",
+   "title": "Protection (très) rapproché",
+   "original_title": "Guarding Stars",
+   "year": 2026,
+   "release_date": "2026-11-18",
+   "overview": "Une garde du corps à la tête froide rejoint l'acteur qu'elle protège dans son ranch du Montana. Mais se faire passer pour un couple à Noël fait vite naître de vrais sentiments.",
+   "synopsis_origin": null,
+   "rating": 5.7,
+   "runtime": 109,
+   "genres": [
+    "Comédie",
+    "Romance"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=mFvtVPMa5ak",
+   "poster": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/5yB5ISzk2PaRGgE0JL2Hpt7ZgA3.png",
+   "imdb_id": "tt6611324",
+   "tmdb_url": "https://www.themoviedb.org/movie/1551025",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt6611324",
+   "added_at": "2026-11-18T11:27:08Z",
+   "tagline": null,
+   "directors": [
+    "Elizabeth Allen Rosenbaum"
+   ],
+   "writers": [
+    "Katherine Center",
+    "Erin Cardillo",
+    "Richard Keith"
+   ],
+   "cast": [
+    {
+     "name": "Leighton Meester",
+     "role": "Hannah",
+     "photo": "https://image.tmdb.org/t/p/w185/6P8sa2eR2wpNkA1n1NVHREaeXPV.jpg"
+    },
+    {
+     "name": "Jared Padalecki",
+     "role": "Jack",
+     "photo": "https://image.tmdb.org/t/p/w185/dTV5ImKP5uIdFShiG3VFbbjLFWo.jpg"
+    },
+    {
+     "name": "Andie MacDowell",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/akeheO4i3cR1HpSU8yu9HrLcsKm.jpg"
+    },
+    {
+     "name": "Walker Hayes",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/8kC7c8lO9grfgCP5FxLmEKCKMP6.jpg"
+    },
+    {
+     "name": "Noah LaLonde",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/kFN2p5zW8kbsLaEOA4usN88lq86.jpg"
+    },
+    {
+     "name": "Toby Sandeman",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/5ZmXTHbRlbkQDtga4Cbk447osUY.jpg"
+    },
+    {
+     "name": "Phil Brooks",
+     "role": "Doghouse",
+     "photo": "https://image.tmdb.org/t/p/w185/357pyjyvFFJLkwBpTopy2KnyDRA.jpg"
+    },
+    {
+     "name": "Ava Max",
+     "role": "Kennedy Monroe",
+     "photo": "https://image.tmdb.org/t/p/w185/ajW6BTIV8ixeevdNTJl557sVynX.jpg"
+    },
+    {
+     "name": "Jake Foy",
+     "role": "Brody",
+     "photo": "https://image.tmdb.org/t/p/w185/zGdd4rmmyab9YXcsI6un06kzbJ9.jpg"
+    },
+    {
+     "name": "Siobhan Williams",
+     "role": "Ella Mae",
+     "photo": "https://image.tmdb.org/t/p/w185/2vU6JzU9SVBDgjvTUV0nMoaOCZc.jpg"
+    },
+    {
+     "name": "Rachael Ancheril",
+     "role": "Taylor",
+     "photo": "https://image.tmdb.org/t/p/w185/3TI7FK8h8eWIX4gCNhxr77i1NAy.jpg"
+    },
+    {
+     "name": "Giles Panton",
+     "role": "Jesse",
+     "photo": "https://image.tmdb.org/t/p/w185/ixZb1aUaL7yScZYLgUU9LS2Grwk.jpg"
+    },
+    {
+     "name": "Zoe Kosovic",
+     "role": "Clementine",
+     "photo": "https://image.tmdb.org/t/p/w185/txYng7NF0ypn9RwYuj424RPNFAn.jpg"
+    },
+    {
+     "name": "Greg Lawson",
+     "role": "Glen",
+     "photo": "https://image.tmdb.org/t/p/w185/7JzK4hRLX29FJRkHwP2OFGgVxqS.jpg"
+    },
+    {
+     "name": "Tess Degenstein",
+     "role": "Deputy Nadine Turner",
+     "photo": "https://image.tmdb.org/t/p/w185/lV2W5s1oR2Hp3PRQtYnOOv6wCgK.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Little Engine Productions",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt27425453",
    "type": "series",
