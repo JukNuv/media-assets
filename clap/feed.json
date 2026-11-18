@@ -1,7 +1,109 @@
 {
  "version": 1,
- "updated": "2026-11-17T08:05:15Z",
+ "updated": "2026-11-18T08:03:24Z",
  "items": [
+  {
+   "id": "series:tt27425453",
+   "type": "series",
+   "title": "Le Signal 149 kHz",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-01-29",
+   "overview": "En emménageant sur la petite île bretonne de Kernolé, la famille Dormeuil espère prendre un nouveau départ. Olivia, journaliste à succès, est enceinte de son deuxième enfant. Elle a mis sa carrière sur pause pour mener à bien cette grossesse et son mari Paul a trouvé un poste de médecin sur l’île. En revanche, leur fille Camille traîne les pieds. En froid avec sa mère à qui elle reproche d’avoir toujours privilégié sa carrière, l’ado inventive et passionnée de science ne trouve qu’un intérêt à ce déménagement : les puissantes perturbations électromagnétiques présentes sur l’île lui permettront peut-être de prouver sa grande théorie. Camille pense en effet qu’il y a un lien entre les ondes et l’au-delà…",
+   "synopsis_origin": null,
+   "rating": 7.0,
+   "runtime": 44,
+   "genres": [
+    "Drame",
+    "Science-Fiction & Fantastique",
+    "Mystère"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "TF1+"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=e-3RGbHJWNE",
+   "poster": "https://image.tmdb.org/t/p/w500/5jQFBWN7TtDuPEXsKIkEltorSVS.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/rYmmbt90RMIW007FNgNeOoEvV0M.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/12gJkSLXnahgSvR4Eaiq62QplFZ.png",
+   "imdb_id": "tt27425453",
+   "tmdb_url": "https://www.themoviedb.org/tv/229577",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt27425453",
+   "added_at": "2026-11-18T08:03:22Z",
+   "tagline": null,
+   "directors": [
+    "François Uzan"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Clotilde Hesme",
+     "role": "Olivia Dormeuil",
+     "photo": "https://image.tmdb.org/t/p/w185/hPWDBjjk0OJaMdiVRaUBL7jeAcZ.jpg"
+    },
+    {
+     "name": "Grégory Montel",
+     "role": "Paul Dormeuil",
+     "photo": "https://image.tmdb.org/t/p/w185/nImuHSjUgi8v8CaYp5UAZTHbY0j.jpg"
+    },
+    {
+     "name": "Annabelle Lengronne",
+     "role": "Aby Keita",
+     "photo": "https://image.tmdb.org/t/p/w185/qeKZt4lRQTItimExJoe625IOfAy.jpg"
+    },
+    {
+     "name": "Sarah Pachoud",
+     "role": "Camille Dormeuil",
+     "photo": "https://image.tmdb.org/t/p/w185/rJRNdhJoiRbtBiUVGFkFKFovfR9.jpg"
+    },
+    {
+     "name": "Riad Gahmi",
+     "role": "Mehdi",
+     "photo": "https://image.tmdb.org/t/p/w185/1WNfG5O5JJk0lHBCaIwmHgPkybU.jpg"
+    },
+    {
+     "name": "Leina Djema",
+     "role": "Lina",
+     "photo": null
+    },
+    {
+     "name": "Eddy Frogeais",
+     "role": "Thierry (voisin de Marthe)",
+     "photo": "https://image.tmdb.org/t/p/w185/xs0PExhcMzQMbewtkceBnhV2QAt.jpg"
+    },
+    {
+     "name": "Elfie Kluk",
+     "role": "Marthe jeune",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Gaumont Télévision",
+     "logo": null
+    },
+    {
+     "name": "NOVO19",
+     "logo": "https://image.tmdb.org/t/p/w185/2FIoC4KN41WNqN7s4Oejl36KXdF.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "TF1+",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt24512262",
    "type": "series",
