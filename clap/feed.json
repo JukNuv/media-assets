@@ -1,7 +1,74 @@
 {
  "version": 1,
- "updated": "2026-11-18T12:04:13Z",
+ "updated": "2026-11-18T12:04:21Z",
  "items": [
+  {
+   "id": "series:tt44079238",
+   "type": "series",
+   "title": "The Law of Beasts",
+   "original_title": "Prawo bestii",
+   "year": 2026,
+   "release_date": "2026-11-18",
+   "overview": "Lorsque l'affaire d'un enfant tueur en série refait surface, 25 ans plus tard, sous la forme d'un problème juridique et social non résolu, deux anciens amis sont contraints de faire face aux choix qui ont brisé leur amitié et façonné leurs vies.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Drame",
+    "Crime"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/xH8G1Knsus1dTqbSmdIOqHJ0nSu.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+   "logo": "",
+   "imdb_id": "tt44079238",
+   "tmdb_url": "https://www.themoviedb.org/tv/332839",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt44079238",
+   "added_at": "2026-11-18T12:04:20Z",
+   "tagline": null,
+   "directors": [],
+   "seasons": 1,
+   "episodes": 4,
+   "cast": [
+    {
+     "name": "Agnieszka Grochowska",
+     "role": "Anna Bersz",
+     "photo": "https://image.tmdb.org/t/p/w185/9XBjnqR2PWw4KdcyTRaTZCFllxu.jpg"
+    },
+    {
+     "name": "Agnieszka Żulewska",
+     "role": "Agnieszka Grabska",
+     "photo": "https://image.tmdb.org/t/p/w185/4rvcJMkl1Test5C6DFFpqJY2CrJ.jpg"
+    },
+    {
+     "name": "Michał Pawlik",
+     "role": "Mariusz Trynkiewicz",
+     "photo": "https://image.tmdb.org/t/p/w185/loDhKENuDQ6VCijcWVq9WUBvuX9.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Pologne"
+   ],
+   "original_language": "Polonais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Entrego",
+     "logo": null
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt41559886",
    "type": "series",
