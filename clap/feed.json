@@ -1,7 +1,132 @@
 {
  "version": 1,
- "updated": "2026-11-18T11:27:10Z",
+ "updated": "2026-11-18T11:27:18Z",
  "items": [
+  {
+   "id": "movie:tt24818230",
+   "type": "movie",
+   "title": "Madden",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-18",
+   "overview": "Inspiré de la vie d'une icône américaine, MADDEN retrace le parcours de John Madden : de son sacre au Super Bowl avec les Raiders et Al Davis à la création du jeu vidéo Madden NFL, en passant par son statut de voix légendaire du football. Cet hommage célèbre un esprit brillant dont la passion, l'énergie et le lien avec son épouse Virginia ont dépassé le cadre du sport.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 110,
+   "genres": [
+    "Drame",
+    "Histoire"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=cGARSQxuhVI",
+   "poster": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/iNKyRudHcd2oXV5eaWE0LbixkX3.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/jNbyhCjMpaTuofzIGiUvsjJs2eI.png",
+   "imdb_id": "tt24818230",
+   "tmdb_url": "https://www.themoviedb.org/movie/1131943",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt24818230",
+   "added_at": "2026-11-18T11:27:16Z",
+   "tagline": null,
+   "directors": [
+    "David O. Russell"
+   ],
+   "writers": [
+    "David O. Russell",
+    "Cambron Clark"
+   ],
+   "cast": [
+    {
+     "name": "Nicolas Cage",
+     "role": "John Madden",
+     "photo": "https://image.tmdb.org/t/p/w185/y1RtezurZYveYkVNRht7CwEgSYY.jpg"
+    },
+    {
+     "name": "Christian Bale",
+     "role": "Al Davis",
+     "photo": "https://image.tmdb.org/t/p/w185/7Pxez9J8fuPd2Mn9kex13YALrCQ.jpg"
+    },
+    {
+     "name": "John Mulaney",
+     "role": "Trip Hawkins",
+     "photo": "https://image.tmdb.org/t/p/w185/i3dGv3WoIONVLSlOpW4NIaT8Fs2.jpg"
+    },
+    {
+     "name": "Kathryn Hahn",
+     "role": "Virginia Madden",
+     "photo": "https://image.tmdb.org/t/p/w185/9sVllAKfEls3SJD3GoPm2JEZoa5.jpg"
+    },
+    {
+     "name": "Sienna Miller",
+     "role": "Carol Davis",
+     "photo": "https://image.tmdb.org/t/p/w185/lq2mEeDbL98bSz0H7xcHA3F2Rrb.jpg"
+    },
+    {
+     "name": "Shane Gillis",
+     "role": "Vince McGary",
+     "photo": "https://image.tmdb.org/t/p/w185/ijRXBDjfazwne2jxjWEaaWqPw2.jpg"
+    },
+    {
+     "name": "Sergio Duque",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "David Lengel",
+     "role": "Trainer Tony",
+     "photo": "https://image.tmdb.org/t/p/w185/paRZPvkTXF3oc1UbHTFB2syEe9M.jpg"
+    },
+    {
+     "name": "Shawn Alexander Thompson",
+     "role": "Neighbor",
+     "photo": "https://image.tmdb.org/t/p/w185/iFkEg38hL9We4PqCQiAC1mhKkG2.jpg"
+    },
+    {
+     "name": "Hasani Vibez Comer",
+     "role": "Football Player",
+     "photo": "https://image.tmdb.org/t/p/w185/zZSOP3WrKF6Fv3b7Ylr9TsXSnEY.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Escape Artists",
+     "logo": "https://image.tmdb.org/t/p/w185/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png"
+    },
+    {
+     "name": "Skydance Sports",
+     "logo": "https://image.tmdb.org/t/p/w185/vXKfbGDlT9bNCio5BXmiWpOp6Vi.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "ShowKat Productions",
+     "logo": null
+    },
+    {
+     "name": "DreamCrew",
+     "logo": "https://image.tmdb.org/t/p/w185/35qnhOVKH84U5hehax1QvwXfRJt.png"
+    },
+    {
+     "name": "Corazon Camera",
+     "logo": null
+    },
+    {
+     "name": "NFL Films",
+     "logo": "https://image.tmdb.org/t/p/w185/8KtxMsWLOK6zDTNAfi75yg2QvSt.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt6611324",
    "type": "movie",
