@@ -1,7 +1,148 @@
 {
  "version": 1,
- "updated": "2026-11-19T07:44:02Z",
+ "updated": "2026-11-19T07:44:12Z",
  "items": [
+  {
+   "id": "movie:tt19035928",
+   "type": "movie",
+   "title": "L'Enfer des Ardennes",
+   "original_title": "Lucky Strike",
+   "year": 2026,
+   "release_date": "2026-06-26",
+   "overview": "Un soldat américain mène son unité pour bloquer une contre-offensive nazie. Coincés derrière les lignes ennemies, ses hommes sont tués dans une attaque, le laissant seul survivant. Blessé et confronté au froid glacial, il doit rejoindre à pied un point de ralliement. Avec sa radio comme seul lien, il lutte pour survivre aux éléments et aux ennemis qui le guettent à chaque détour.",
+   "synopsis_origin": null,
+   "rating": 6.4,
+   "runtime": 102,
+   "genres": [
+    "Action",
+    "Guerre"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Hulu"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=vtEnjikCXyA",
+   "poster": "https://image.tmdb.org/t/p/w500/si3dGuTfzywPb330JHNPtpTGmam.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/x4INF1gBDdZw0maITchT8WgoDvu.png",
+   "imdb_id": "tt19035928",
+   "tmdb_url": "https://www.themoviedb.org/movie/1594914",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt19035928",
+   "added_at": "2026-11-19T07:44:10Z",
+   "tagline": "Le combat d'un homme pour survivre.",
+   "directors": [
+    "Rod Lurie"
+   ],
+   "writers": [
+    "Rod Lurie",
+    "Marc Frydman"
+   ],
+   "cast": [
+    {
+     "name": "Scott Eastwood",
+     "role": "Castle",
+     "photo": "https://image.tmdb.org/t/p/w185/tKJEy1bFNxvIj7sivsB7Us2ThmY.jpg"
+    },
+    {
+     "name": "Colin Hanks",
+     "role": "Colonel Neale",
+     "photo": "https://image.tmdb.org/t/p/w185/iljyDSiJRcwJL8QXQZ2WTyU1wh5.jpg"
+    },
+    {
+     "name": "Aunjanue Ellis-Taylor",
+     "role": "Mrs. Caldwell",
+     "photo": "https://image.tmdb.org/t/p/w185/e54DfgDyS67xdtomYODFule6Ofa.jpg"
+    },
+    {
+     "name": "Taylor John Smith",
+     "role": "Bellingham",
+     "photo": "https://image.tmdb.org/t/p/w185/6dXZRf8ePa1oxQN9a5hFGEjDoI0.jpg"
+    },
+    {
+     "name": "Lorne MacFadyen",
+     "role": "Major Barrett",
+     "photo": "https://image.tmdb.org/t/p/w185/y1cdclslL2nNkFw5RVj64iAHIIb.jpg"
+    },
+    {
+     "name": "Atanas Srebrev",
+     "role": "General Lauer",
+     "photo": "https://image.tmdb.org/t/p/w185/aW9keIvjMkH9YAMQDEyJayAs7oy.jpg"
+    },
+    {
+     "name": "Alfie Stewart",
+     "role": "Burt Miller",
+     "photo": "https://image.tmdb.org/t/p/w185/2SJ7NrKZ4SDUvBMARPVozFN4Xx0.jpg"
+    },
+    {
+     "name": "Jonathan Yunger",
+     "role": "Cash",
+     "photo": "https://image.tmdb.org/t/p/w185/pnn5PwmyTJSBIjK2n8HPJn2GqtK.jpg"
+    },
+    {
+     "name": "Timothy Blore",
+     "role": "Wilhelm",
+     "photo": "https://image.tmdb.org/t/p/w185/zavAyjmb1yQ2yinNS84X74unAgu.jpg"
+    },
+    {
+     "name": "Laurent Maurel",
+     "role": "Georges Marsaud",
+     "photo": "https://image.tmdb.org/t/p/w185/vEbQJ8VNUyUwy10okhZ8mXjsg9o.jpg"
+    },
+    {
+     "name": "Caroline Piette",
+     "role": "Juliette Marsaud",
+     "photo": "https://image.tmdb.org/t/p/w185/diNg3gD3q86vbk6Xbj3QdwtagKG.jpg"
+    },
+    {
+     "name": "Hazel Rogers",
+     "role": "Nicole Marsaud",
+     "photo": "https://image.tmdb.org/t/p/w185/4AvhvIIRyokLjGDyob34L8LNhhf.jpg"
+    },
+    {
+     "name": "Scott Alda Coffey",
+     "role": "Aventi",
+     "photo": "https://image.tmdb.org/t/p/w185/sdMoFNXIE9R8WdOv0v9QoTKKe1v.jpg"
+    },
+    {
+     "name": "Henry Hughes",
+     "role": "Dauntless",
+     "photo": null
+    },
+    {
+     "name": "Kwame Patterson",
+     "role": "Maren",
+     "photo": "https://image.tmdb.org/t/p/w185/dZUTl38nwCoWFgIAjxxixpKsw0s.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Perfection Hunter Productions",
+     "logo": null
+    },
+    {
+     "name": "Millennium Media",
+     "logo": "https://image.tmdb.org/t/p/w185/kuUIHNwMec4dwOLghDhhZJzHZTd.png"
+    },
+    {
+     "name": "BondIt Media Capital",
+     "logo": "https://image.tmdb.org/t/p/w185/vbtvY4IxgUZk713rkmoTO4MHIac.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Hulu",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt50016818",
    "type": "movie",
@@ -66711,203 +66852,6 @@
     "Rohan Shankar",
     "Priyadarshan",
     "Aakash Kaushik"
-   ],
-   "tagline": null
-  },
-  {
-   "id": "movie:tt36508034",
-   "type": "movie",
-   "title": "Les Enfants de la Résistance",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-02-11",
-   "overview": "Pendant l’occupation allemande durant la seconde guerre mondiale, François, Eusèbe et Lisa, trois enfants courageux, se lancent dans une aventure secrète : résister aux nazis en plein cœur de la France. Sabotages, messages cachés et évasions périlleuses, ils mènent des actions clandestines sous le nez de l’ennemi. L’audace et l’amitié sont leurs seules armes pour lutter contre l’injustice.",
-   "synopsis_origin": null,
-   "rating": 6.5,
-   "runtime": 99,
-   "genres": [
-    "Aventure",
-    "Drame",
-    "Histoire",
-    "Familial"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": "Les Enfants de la Résistance - Saga",
-   "platforms": [
-    "Apple TV Store",
-    "Rakuten TV",
-    "Canal VOD",
-    "Sooner",
-    "Amazon Video",
-    "Pathé Home",
-    "VIVA by videofutur",
-    "Premiere Max",
-    "ARTE VOD"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=wbC_llI8uPw",
-   "poster": "https://image.tmdb.org/t/p/w500/uoBOi1xbfbJ9l8xg76uwI2B4MZX.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/gcpJqXvolJSWoEX8tlPfT9HVOwL.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/mxvK5U6yHRYIDwqYj3OPQkCoGt.png",
-   "imdb_id": "tt36508034",
-   "tmdb_url": "https://www.themoviedb.org/movie/1309400",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36508034",
-   "added_at": "2026-06-16T08:29:47Z",
-   "directors": [
-    "Christophe Barratier"
-   ],
-   "cast": [
-    {
-     "name": "Artus",
-     "role": "Marcel",
-     "photo": "https://image.tmdb.org/t/p/w185/78eYMroV3AyRJDqijnp0FSLPCgZ.jpg"
-    },
-    {
-     "name": "Gérard Jugnot",
-     "role": "Père Proslier",
-     "photo": "https://image.tmdb.org/t/p/w185/8fvIsaf0a5e60IvtNddKCcOZXFO.jpg"
-    },
-    {
-     "name": "Pierre Deladonchamps",
-     "role": "Le maire",
-     "photo": "https://image.tmdb.org/t/p/w185/egIMzrrjVXVTMVsp7nrIXIfP7TD.jpg"
-    },
-    {
-     "name": "Julien Arruti",
-     "role": "Germain",
-     "photo": "https://image.tmdb.org/t/p/w185/8mW9D3GiTU6KNnNYUM1t7NhKPRY.jpg"
-    },
-    {
-     "name": "Oscar Boissière",
-     "role": "Luc",
-     "photo": "https://image.tmdb.org/t/p/w185/fKpfAGw8rIt446VwNWSLt6DPU2d.jpg"
-    },
-    {
-     "name": "Leslie Medina",
-     "role": "Marceline",
-     "photo": "https://image.tmdb.org/t/p/w185/ifvTzHDZAh6lVNNKxGTRBOKw2dV.jpg"
-    },
-    {
-     "name": "Julien Pestel",
-     "role": "Marnier",
-     "photo": null
-    },
-    {
-     "name": "Vanessa Guide",
-     "role": "Julienne",
-     "photo": "https://image.tmdb.org/t/p/w185/s6gnkkXgRgGMGWCPOGjoIpO2kXc.jpg"
-    },
-    {
-     "name": "Lucas Hector",
-     "role": "François",
-     "photo": null
-    },
-    {
-     "name": "Nina Filbrandt",
-     "role": "Lisa",
-     "photo": null
-    },
-    {
-     "name": "Jannis Hain",
-     "role": null,
-     "photo": "https://image.tmdb.org/t/p/w185/4XywsZvRMdgbfMwEUSAYQsIILro.jpg"
-    },
-    {
-     "name": "Dominique Engelhardt",
-     "role": null,
-     "photo": "https://image.tmdb.org/t/p/w185/ro9gBeUhT6Y9PvyrttuJ6coAdNq.jpg"
-    },
-    {
-     "name": "Octave Gerbi",
-     "role": "Eusèbe",
-     "photo": null
-    },
-    {
-     "name": "Franz Lang",
-     "role": "Maître Bonnefoy",
-     "photo": "https://image.tmdb.org/t/p/w185/jKhOJxFmzfmKC1JDkDFQKt7ww4Z.jpg"
-    },
-    {
-     "name": "Gaspard Lacorne",
-     "role": "Jules",
-     "photo": "https://image.tmdb.org/t/p/w185/5fUswzevkR4xcgK0szs6HHQ8Eh.jpg"
-    }
-   ],
-   "age_rating": "TP",
-   "countries": [
-    "France",
-    "Belgique"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Adel Productions",
-     "logo": null
-    },
-    {
-     "name": "StudioCanal",
-     "logo": "https://image.tmdb.org/t/p/w185/5LEHONGkZBIoWvp1ygHOF8iyi1M.png"
-    },
-    {
-     "name": "TF1 Films Production",
-     "logo": "https://image.tmdb.org/t/p/w185/9tW5wZEGotn1Ei5pErA88m47XiD.png"
-    },
-    {
-     "name": "Axel Films",
-     "logo": "https://image.tmdb.org/t/p/w185/eEaB6ztT13s4vhM9iqsMOn7VU7Z.png"
-    },
-    {
-     "name": "Fontana",
-     "logo": null
-    },
-    {
-     "name": "BNP Paribas Fortis",
-     "logo": "https://image.tmdb.org/t/p/w185/jh15xr7Y10ZrgY1BwE3LGwcseu7.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Apple TV Store",
-     "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-    },
-    {
-     "name": "Rakuten TV",
-     "logo": "https://image.tmdb.org/t/p/w92/872dfVu1biZISJ8rO143CZZutPR.png"
-    },
-    {
-     "name": "Canal VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/51fX3l4yElitnfui0IkbMUmfmgF.png"
-    },
-    {
-     "name": "Sooner",
-     "logo": "https://image.tmdb.org/t/p/w92/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
-    },
-    {
-     "name": "Amazon Video",
-     "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-    },
-    {
-     "name": "Pathé Home",
-     "logo": "https://image.tmdb.org/t/p/w92/zbXVTncv6m6ojLjPQJeW7u0SYKp.png"
-    },
-    {
-     "name": "VIVA by videofutur",
-     "logo": "https://image.tmdb.org/t/p/w92/uzTONLCUH92RRMSzs206OYtWVml.png"
-    },
-    {
-     "name": "Premiere Max",
-     "logo": "https://image.tmdb.org/t/p/w92/yERf5EH3GjWMB0ZSWPaov1kCKrR.png"
-    },
-    {
-     "name": "ARTE VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/z32NGSc2wYxQzcOc24iXK8q35A1.png"
-    }
-   ],
-   "tg_id": 5,
-   "writers": [
-    "Christophe Barratier",
-    "Stéphane Keller"
    ],
    "tagline": null
   }
