@@ -1,7 +1,136 @@
 {
  "version": 1,
- "updated": "2026-11-19T12:05:21Z",
+ "updated": "2026-11-19T14:06:28Z",
  "items": [
+  {
+   "id": "movie:tt32332915",
+   "type": "movie",
+   "title": "I Want Your Sex",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-29",
+   "overview": "Lorsque le jeune et innocent Elliot décroche un emploi de rêve auprès d'Erika Tracy, artiste de renom, icône et provocatrice, ses fantasmes deviennent réalité : Erika fait de lui sa muse. Mais Elliot se retrouve vite dépassé par les événements, entraîné par Erika dans un voyage bien plus profond qu'il n'aurait jamais pu l'imaginer, un monde de sexe, d'obsession, de pouvoir, de trahison et de meurtre.",
+   "synopsis_origin": null,
+   "rating": 5.9,
+   "runtime": 101,
+   "genres": [
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=LKtRMqPs7KU",
+   "poster": "https://image.tmdb.org/t/p/w500/z4iVSwpZUSmIxilSfgvciDJROdX.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/hinFa5gPaUkZM0l5TsEb29Brw0H.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/o9xJmqCCgV4CVR99GpPyhaDFl0E.png",
+   "imdb_id": "tt32332915",
+   "tmdb_url": "https://www.themoviedb.org/movie/1288059",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt32332915",
+   "added_at": "2026-11-19T14:06:26Z",
+   "tagline": "Ne t'inquiète pas, ça va te plaire.",
+   "directors": [
+    "Gregg Araki"
+   ],
+   "writers": [
+    "Karley Sciortino",
+    "Gregg Araki"
+   ],
+   "cast": [
+    {
+     "name": "Olivia Wilde",
+     "role": "Erika Tracey",
+     "photo": "https://image.tmdb.org/t/p/w185/wlhbH9ZIs7v4l5tbXLEVroZzdOO.jpg"
+    },
+    {
+     "name": "Cooper Hoffman",
+     "role": "Elliot Bell",
+     "photo": "https://image.tmdb.org/t/p/w185/yvrh3ayw2BJa1tJb3R6RzPVHPX1.jpg"
+    },
+    {
+     "name": "Mason Gooding",
+     "role": "Zap",
+     "photo": "https://image.tmdb.org/t/p/w185/bmlry1xqBzNgv8Chm783ss93Cvg.jpg"
+    },
+    {
+     "name": "Chase Sui Wonders",
+     "role": "Apple",
+     "photo": "https://image.tmdb.org/t/p/w185/xfkTa3vsB6VzQFXj7k7yWysl9C2.jpg"
+    },
+    {
+     "name": "Johnny Knoxville",
+     "role": "Detective Zem",
+     "photo": "https://image.tmdb.org/t/p/w185/7XDKsHsLC4uNYaGsuWG1tQXWRnu.jpg"
+    },
+    {
+     "name": "Margaret Cho",
+     "role": "Detective Zola",
+     "photo": "https://image.tmdb.org/t/p/w185/lsHpa4aRrBMn7LtFX8AdPTFBMGY.jpg"
+    },
+    {
+     "name": "Roxane Mesquida",
+     "role": "Yvette",
+     "photo": "https://image.tmdb.org/t/p/w185/zMj3cn2mK7691lg88eIBZK7EVKx.jpg"
+    },
+    {
+     "name": "Charli xcx",
+     "role": "Minerva",
+     "photo": "https://image.tmdb.org/t/p/w185/xnYIKjdP2anSMmDlFbJN3zZQMkC.jpg"
+    },
+    {
+     "name": "Daveed Diggs",
+     "role": "Vikktor",
+     "photo": "https://image.tmdb.org/t/p/w185/codalhZzB4LvJTSGOnOyrTEsqsF.jpg"
+    },
+    {
+     "name": "Daniel Stevens",
+     "role": "Hot Naked Guy",
+     "photo": "https://image.tmdb.org/t/p/w185/eDXgw3ynGVB3hjMmQKGe1UMKpXy.jpg"
+    },
+    {
+     "name": "Michael Hitchcock",
+     "role": "Bruce #1",
+     "photo": "https://image.tmdb.org/t/p/w185/sLKiaWJtExmjORZCVYHB0cTgmMn.jpg"
+    },
+    {
+     "name": "Nathan Bexton",
+     "role": "Bruce #2",
+     "photo": "https://image.tmdb.org/t/p/w185/ymj0pqEhvKdQd7yzb9SqSHpxvS5.jpg"
+    },
+    {
+     "name": "Darcy Marta",
+     "role": "Margaret Epstein",
+     "photo": "https://image.tmdb.org/t/p/w185/fOwEQjlvgQgFiERQ8kMthh5AjFN.jpg"
+    },
+    {
+     "name": "James Duval",
+     "role": "Justice of the Peace",
+     "photo": "https://image.tmdb.org/t/p/w185/vvasxKKPnxv2qOoXTnaXW3ecGLO.jpg"
+    },
+    {
+     "name": "Coda Marcus",
+     "role": "Studio Assistant (uncredited)",
+     "photo": "https://image.tmdb.org/t/p/w185/w4xX4tjTIZU2lmSBz9f2vcOCvOI.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Black Bear Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/v37N1mFeXNQfvPankg3feBhVvM7.png"
+    },
+    {
+     "name": "Desperate Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/yF64sClfGa10XBWHqbSHZsMBG8d.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt36786185",
    "type": "series",
@@ -66708,147 +66837,6 @@
    "platform_logos": [],
    "tg_id": 11,
    "tagline": null
-  },
-  {
-   "id": "movie:tt31830814",
-   "type": "movie",
-   "title": "Forgive Us All",
-   "original_title": null,
-   "year": 2025,
-   "release_date": "2025-05-08",
-   "overview": "Un virus a transformé les humains en cannibales violents. Une femme réfugiée dans un chalet de montagne doit décider d'aider un étranger fuyant l'organisation totalitaire G.M.A. qui arrive. La seule issue est de traverser la forêt infestée de cannibales.",
-   "synopsis_origin": null,
-   "rating": 5.8,
-   "runtime": 89,
-   "genres": [
-    "Horreur",
-    "Western",
-    "Thriller",
-    "Action"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Canal+"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/bT7sMDsvWNeIGgZ6ZsisNdBcHdq.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/l3qnMiVwuWxBikOpBcYpUHKUBdN.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/1IhicgsZyPntwtjn6byLuT92Bd9.png",
-   "imdb_id": "tt31830814",
-   "tmdb_url": "https://www.themoviedb.org/movie/1443894",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt31830814",
-   "added_at": "2026-06-16T23:42:58Z",
-   "directors": [
-    "Jordana Stott"
-   ],
-   "cast": [
-    {
-     "name": "Lily Sullivan",
-     "role": "Rory",
-     "photo": "https://image.tmdb.org/t/p/w185/sLjxpxV2JX8k3k9VWoIPrzqlh5J.jpg"
-    },
-    {
-     "name": "Callan Mulvey",
-     "role": "Logan",
-     "photo": "https://image.tmdb.org/t/p/w185/wJ8P1yNVmkx1PS1mc6Pi48tphfG.jpg"
-    },
-    {
-     "name": "Richard Roxburgh",
-     "role": "Otto",
-     "photo": "https://image.tmdb.org/t/p/w185/de1XpxnOuW4v4fFWFEjmBqmHaRf.jpg"
-    },
-    {
-     "name": "Lance Giles",
-     "role": "Noah",
-     "photo": "https://image.tmdb.org/t/p/w185/wcmNvJowmgPm4q92BztDnQTJK39.jpg"
-    },
-    {
-     "name": "Bree Peters",
-     "role": "Scout",
-     "photo": "https://image.tmdb.org/t/p/w185/19lMvyMpbalEsFpAoC5H3B09jaU.jpg"
-    },
-    {
-     "name": "Lawrence Makoare",
-     "role": "Brooks",
-     "photo": "https://image.tmdb.org/t/p/w185/gNWX2QLQXzjPzynCwa0azyKYG4M.jpg"
-    },
-    {
-     "name": "Dean O'Gorman",
-     "role": "Lockie",
-     "photo": "https://image.tmdb.org/t/p/w185/2goR6GBeQey7EkTmLufrEi0PZcb.jpg"
-    },
-    {
-     "name": "Bonnie Filer",
-     "role": "Matty",
-     "photo": "https://image.tmdb.org/t/p/w185/d05lOuUpU9liI4RmHEVO9iK7dy1.jpg"
-    },
-    {
-     "name": "Travis Luke",
-     "role": "Connor",
-     "photo": "https://image.tmdb.org/t/p/w185/6EfU9OZTsFRkTcETHkM94athfiJ.jpg"
-    },
-    {
-     "name": "Zack McCracken",
-     "role": "Christine",
-     "photo": "https://image.tmdb.org/t/p/w185/gUmXlwnx4I0k5tUDcckJn6cdWzO.jpg"
-    },
-    {
-     "name": "Luke Hawker",
-     "role": "Howler #1",
-     "photo": "https://image.tmdb.org/t/p/w185/kKLXCalV2OOdtPYWXdGsv7waPXb.jpg"
-    },
-    {
-     "name": "Andre Gwilliam",
-     "role": "Howler #2",
-     "photo": null
-    },
-    {
-     "name": "Freddy Okyere",
-     "role": "Howler #3",
-     "photo": null
-    },
-    {
-     "name": "Jodie Glinster",
-     "role": "Howler #4",
-     "photo": "https://image.tmdb.org/t/p/w185/bny9TNddUXkP0VTbYdkohWcmaAw.jpg"
-    },
-    {
-     "name": "Marie Dorin",
-     "role": "Howler #5",
-     "photo": null
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Nouvelle-Zélande"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Five Films (NZ)",
-     "logo": null
-    },
-    {
-     "name": "Stiles Pictures (NZ)",
-     "logo": null
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Canal+",
-     "logo": "https://image.tmdb.org/t/p/w92/gliWKhLJVdm7QwL1braBCRko5dx.png"
-    }
-   ],
-   "tg_id": 10,
-   "writers": [
-    "Jordana Stott",
-    "Alex Makauskas",
-    "Lance Giles"
-   ],
-   "tagline": "La rédemption dans un monde plongé dans les ténèbres."
   }
  ]
 }
