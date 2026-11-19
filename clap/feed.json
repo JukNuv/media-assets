@@ -1,7 +1,142 @@
 {
  "version": 1,
- "updated": "2026-11-19T07:44:12Z",
+ "updated": "2026-11-19T07:44:19Z",
  "items": [
+  {
+   "id": "movie:tt29494959",
+   "type": "movie",
+   "title": "The Deputy",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-25",
+   "overview": "L’histoire suit Toby Sawyer, un adjoint du shérif à temps partiel dans le Mississippi rural, qui est réveillé en pleine nuit par le chef Krueger pour garder un corps jusqu’à l’arrivée du médecin légiste. Lorsqu’une heure plus tard le cadavre disparaît mystérieusement, Toby se lance dans une recherche effrénée...",
+   "synopsis_origin": null,
+   "rating": 6.4,
+   "runtime": 98,
+   "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=ZvQZ6U0UXPQ",
+   "poster": "https://image.tmdb.org/t/p/w500/qL654LNOfBu49e12jnnQIv6mny.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/3WBGquZOd4iNl288BmWzkp0Fbdy.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/bCmgLJxpjsKsu4eEkWhGkuSAkw2.png",
+   "imdb_id": "tt29494959",
+   "tmdb_url": "https://www.themoviedb.org/movie/1291366",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt29494959",
+   "added_at": "2026-11-19T07:44:17Z",
+   "tagline": "Ne fais confiance à personne.",
+   "directors": [
+    "Matt Sukkar"
+   ],
+   "writers": [
+    "Carlo Bernard",
+    "Victor Gischler"
+   ],
+   "cast": [
+    {
+     "name": "Duke Nicholson",
+     "role": "Toby Sawyer",
+     "photo": "https://image.tmdb.org/t/p/w185/9IAgvNivkUScDrk6VIsp5QPc6IC.jpg"
+    },
+    {
+     "name": "William H. Macy",
+     "role": "Chief Krueger",
+     "photo": "https://image.tmdb.org/t/p/w185/hdVEGSrP8qWlJnt0v5vSVcGOjy7.jpg"
+    },
+    {
+     "name": "Tiffany Haddish",
+     "role": "Amanda Jackson",
+     "photo": "https://image.tmdb.org/t/p/w185/8Db5Q34nvTlaTLnRlwXOiealCbE.jpg"
+    },
+    {
+     "name": "Stephen Dorff",
+     "role": "Billy Banks",
+     "photo": "https://image.tmdb.org/t/p/w185/bhlM1xNzBvc8jTw42YloUKlGTCL.jpg"
+    },
+    {
+     "name": "Devon Ross",
+     "role": "Molly",
+     "photo": "https://image.tmdb.org/t/p/w185/rkHwTd27pB43ORTbI21FLZNWvhZ.jpg"
+    },
+    {
+     "name": "Billie Lourd",
+     "role": "Doris",
+     "photo": "https://image.tmdb.org/t/p/w185/1u8bZL6ZXu5iDbPO3Z0Spetyt34.jpg"
+    },
+    {
+     "name": "Julia Fox",
+     "role": "Cashier Girl",
+     "photo": "https://image.tmdb.org/t/p/w185/AwipgBalCBiOfwXKssxM0NQlz33.jpg"
+    },
+    {
+     "name": "Daniel Diemer",
+     "role": "Jace Jordan",
+     "photo": "https://image.tmdb.org/t/p/w185/dWG4JHn8DKm3VFHlcFYPPxovdak.jpg"
+    },
+    {
+     "name": "Colleen Camp",
+     "role": "Mrs. McCarthy",
+     "photo": "https://image.tmdb.org/t/p/w185/t1IbM9x1vJOzg02tQr68x9F4gI3.jpg"
+    },
+    {
+     "name": "Ben Smith-Petersen",
+     "role": "Derrick Jordan",
+     "photo": "https://image.tmdb.org/t/p/w185/wS3tyds9JHcModpECf7I0xZVXKT.jpg"
+    },
+    {
+     "name": "Ritchie Montgomery",
+     "role": "Mr. Macon",
+     "photo": "https://image.tmdb.org/t/p/w185/5uAXhfX10ImQYl47I04yrL3zQAk.jpg"
+    },
+    {
+     "name": "William Burnham Simmons",
+     "role": "Baby TJ",
+     "photo": null
+    },
+    {
+     "name": "Ryan Conner Simmons",
+     "role": "Baby TJ",
+     "photo": null
+    },
+    {
+     "name": "Craig Stark",
+     "role": "Wayne",
+     "photo": "https://image.tmdb.org/t/p/w185/r6KyyR7OPB1Bo3lBV51YPH9u47T.jpg"
+    },
+    {
+     "name": "Treylan Newton",
+     "role": "Teenage Driver",
+     "photo": "https://image.tmdb.org/t/p/w185/5l8kivOeOFdIHTH3InytfcW1nqV.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Latigo Films",
+     "logo": "https://image.tmdb.org/t/p/w185/9fCtPsxhpASvHIrzju2PAdg2F35.png"
+    },
+    {
+     "name": "HBK F.C.",
+     "logo": null
+    },
+    {
+     "name": "Highland Film Group",
+     "logo": "https://image.tmdb.org/t/p/w185/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt19035928",
    "type": "movie",
@@ -66722,138 +66857,6 @@
     "Anthony Maras"
    ],
    "tagline": "Dans les heures précédant le Jour J, une décision a changé le monde."
-  },
-  {
-   "id": "movie:tt29540862",
-   "type": "movie",
-   "title": "Bhooth Bangla",
-   "original_title": "भूत बंगला",
-   "year": 2026,
-   "release_date": "2026-04-16",
-   "overview": "Dans une vieille maison mystérieuse, des événements étranges mêlent horreur et humour lorsque ses habitants découvrent que le lieu est bel et bien hanté. Tandis que peur et comédie se côtoient, des secrets du passé refont surface et créent chaos et situations improbables. Les rencontres avec ces forces surnaturelles poussent les personnages à affronter leurs peurs tout en déclenchant rires et surprises.",
-   "synopsis_origin": null,
-   "rating": 5.6,
-   "runtime": 163,
-   "genres": [
-    "Horreur",
-    "Comédie"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/nDZdP9NBxvbIabDQflfhKXVTjnz.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/upLz7Mxu9QjLCQrQDc8FgQzmCqq.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/v6gE3UvQhM2SiNlltJYpc38cikD.png",
-   "imdb_id": "tt29540862",
-   "tmdb_url": "https://www.themoviedb.org/movie/1239134",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt29540862",
-   "added_at": "2026-06-16T08:30:23Z",
-   "directors": [
-    "Priyadarshan"
-   ],
-   "cast": [
-    {
-     "name": "Akshay Kumar",
-     "role": "Arjun Acharya",
-     "photo": "https://image.tmdb.org/t/p/w185/sR8nASRtTpiwXqkFHjG2jdRBZ7a.jpg"
-    },
-    {
-     "name": "Wamiqa Gabbi",
-     "role": "Priya",
-     "photo": "https://image.tmdb.org/t/p/w185/e1CNXkH2scGeoabOTowFJJxX2YF.jpg"
-    },
-    {
-     "name": "Paresh Rawal",
-     "role": "Jagdish Kewalramani",
-     "photo": "https://image.tmdb.org/t/p/w185/xFVHMvDC8s4Ab2sLXrdVxMxZ33b.jpg"
-    },
-    {
-     "name": "Tabu",
-     "role": "Yashoda",
-     "photo": "https://image.tmdb.org/t/p/w185/cvt5nvCHr1ICf5u8A2mlzLQ8LsV.jpg"
-    },
-    {
-     "name": "Jisshu Sengupta",
-     "role": "Dr. Vasudev Acharya",
-     "photo": "https://image.tmdb.org/t/p/w185/6Ha4p2iQOHpnKC1uB4NKJ53kHRi.jpg"
-    },
-    {
-     "name": "Rajpal Yadav",
-     "role": "Sundar",
-     "photo": "https://image.tmdb.org/t/p/w185/aJJAU9EPiiXRsWDuy60mXE8U6lT.jpg"
-    },
-    {
-     "name": "Govardhan Asrani",
-     "role": "Shantaram",
-     "photo": "https://image.tmdb.org/t/p/w185/zoZRnIHNkCRq4gKZGaQhbtPrIDj.jpg"
-    },
-    {
-     "name": "Mithila Palkar",
-     "role": "Meera",
-     "photo": "https://image.tmdb.org/t/p/w185/ggqPRbqWEayrM6SCj490gIwQK6t.jpg"
-    },
-    {
-     "name": "Rajesh Sharma",
-     "role": "Dasund Acharya",
-     "photo": "https://image.tmdb.org/t/p/w185/cBmZY1EICMD1q16Fx7GqpHkc6A1.jpg"
-    },
-    {
-     "name": "Manoj Joshi",
-     "role": "Govind Maharaj",
-     "photo": "https://image.tmdb.org/t/p/w185/u7GllU8dO2bkAvRC0i8yszogYqY.jpg"
-    },
-    {
-     "name": "Zakir Hussain",
-     "role": "Vashishtha Guruji",
-     "photo": "https://image.tmdb.org/t/p/w185/etiL0ANjzBhTiyvUblZl6vwIog9.jpg"
-    },
-    {
-     "name": "Perin Monish Malde",
-     "role": "Rahul",
-     "photo": null
-    },
-    {
-     "name": "Bhavna Pani",
-     "role": "Ragini",
-     "photo": "https://image.tmdb.org/t/p/w185/y68I39gW5Bvw0qP1FrEBTKAs1ys.jpg"
-    },
-    {
-     "name": "Alexx O'Nell",
-     "role": "Richard Gardener",
-     "photo": "https://image.tmdb.org/t/p/w185/bHMSI8fDQpVMjbdzu2trX6T9bgm.jpg"
-    },
-    {
-     "name": "Manu Menon",
-     "role": "Kaali",
-     "photo": null
-    }
-   ],
-   "age_rating": "12",
-   "countries": [
-    "Inde"
-   ],
-   "original_language": "Hindi",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Balaji Motion Pictures",
-     "logo": "https://image.tmdb.org/t/p/w185/ApfH8jKJuB0hwZ7a7YhJQQYwj0P.png"
-    },
-    {
-     "name": "Cape of Good Films",
-     "logo": "https://image.tmdb.org/t/p/w185/r7pvX3K2k3iNVBVt4xufCIEIcnP.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 6,
-   "writers": [
-    "Rohan Shankar",
-    "Priyadarshan",
-    "Aakash Kaushik"
-   ],
-   "tagline": null
   }
  ]
 }
