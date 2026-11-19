@@ -1,7 +1,148 @@
 {
  "version": 1,
- "updated": "2026-11-19T20:05:25Z",
+ "updated": "2026-11-19T20:05:36Z",
  "items": [
+  {
+   "id": "series:tt39161219",
+   "type": "series",
+   "title": "Valentina et les 12 signes",
+   "original_title": "Os 12 Signos de Valentina",
+   "year": 2026,
+   "release_date": "2026-11-18",
+   "overview": "Après une rupture dévastatrice, Valentina décide de fréquenter un homme de chaque signe du zodiaque – mais l'univers a d'autres plans.",
+   "synopsis_origin": null,
+   "rating": 5.5,
+   "runtime": 32,
+   "genres": [
+    "Drame",
+    "Comédie"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/g3GfnAxzhfu7eYxpDLLxaqnuk97.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/2rz2oWWCGXFhdiFirEhtKvVLZVG.png",
+   "imdb_id": "tt39161219",
+   "tmdb_url": "https://www.themoviedb.org/tv/318420",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39161219",
+   "added_at": "2026-11-19T20:05:35Z",
+   "tagline": null,
+   "directors": [
+    "Ray Tavares"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Giovanna Grigio",
+     "role": "Isadora Mônaco / Valentina",
+     "photo": "https://image.tmdb.org/t/p/w185/nTwOarEh2m4HaF4TNdzKjA2no4Z.jpg"
+    },
+    {
+     "name": "Lucas Leto",
+     "role": "Lucas",
+     "photo": "https://image.tmdb.org/t/p/w185/uey4o7JAfurz2ZmDCiZsXV65jT6.jpg"
+    },
+    {
+     "name": "José Condessa",
+     "role": "Andrei",
+     "photo": "https://image.tmdb.org/t/p/w185/lgk2AcJPb9Jy2sCXauguX8EqxPf.jpg"
+    },
+    {
+     "name": "Jéssica Marques",
+     "role": "Marina",
+     "photo": "https://image.tmdb.org/t/p/w185/NpuuJkijE2z3TU0Nee0HBzX2sh.jpg"
+    },
+    {
+     "name": "Larissa Bocchino",
+     "role": "Amanda",
+     "photo": "https://image.tmdb.org/t/p/w185/x7NE0146PAkU8dEJa1FNAt1HWCW.jpg"
+    },
+    {
+     "name": "Pedro Ottoni",
+     "role": "Rodrigo",
+     "photo": "https://image.tmdb.org/t/p/w185/7sfFy6qvjjnGD36mza7mYuNwRlk.jpg"
+    },
+    {
+     "name": "Ana Hikari",
+     "role": "Jade",
+     "photo": "https://image.tmdb.org/t/p/w185/qEII0xgC0CZoxdvAb5iinEjnvMA.jpg"
+    },
+    {
+     "name": "Manu Morelli",
+     "role": "Lara",
+     "photo": "https://image.tmdb.org/t/p/w185/1KTnIoPxV2cz5W0U9BfOc8Kk7jR.jpg"
+    },
+    {
+     "name": "Suzana Pires",
+     "role": "Rogéria",
+     "photo": "https://image.tmdb.org/t/p/w185/ymOgQW5pvFeZrO1d1BeqpezcqIy.jpg"
+    },
+    {
+     "name": "Gabriel Santana",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/qvGbpJh2sxWuxInAnAvVXXGqW1B.jpg"
+    },
+    {
+     "name": "Dan Ferreira",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/eceOx0dUIofJMqeRdSyoTsNxJiG.jpg"
+    },
+    {
+     "name": "Igor Fernández",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/fJKsjwHpAQ1kow7imPl1aAjUQFY.jpg"
+    },
+    {
+     "name": "Augusto Trainotti",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/f04BDSHgsq2RuqsyEzXDTcs7Tlh.jpg"
+    },
+    {
+     "name": "Caio Horowicz",
+     "role": "Leo",
+     "photo": "https://image.tmdb.org/t/p/w185/qc8zLNuTo1B6tRlAN3uLILcxC03.jpg"
+    },
+    {
+     "name": "Davi Xiang Li",
+     "role": "Denis",
+     "photo": "https://image.tmdb.org/t/p/w185/13hADHw7Vz5wSoFQfvy9HO1eUrY.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Brésil"
+   ],
+   "original_language": "Portugais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Boutique Filmes",
+     "logo": "https://image.tmdb.org/t/p/w185/erMHHTnahSWabSIvnRA0WamRuLq.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt31844371",
    "type": "series",
@@ -66688,155 +66829,6 @@
    ],
    "tg_id": 14,
    "tagline": null
-  },
-  {
-   "id": "movie:tt36958376",
-   "type": "movie",
-   "title": "À contre-sens 2 : Londres",
-   "original_title": "Your Fault: London",
-   "year": 2026,
-   "release_date": "2026-06-17",
-   "overview": "L'amour entre Nick et Noah est soumis à rude épreuve quand Noah part à l'université d'Oxford tandis que Nick reste à Londres pour travailler dans l'entreprise de son père. Loin l'un de l'autre, ils sont confrontés à des pressions croissantes. La jalousie, l'ambition et d'autres forces cherchent à les séparer. Ils risqueront tout pour prouver que leur relation peut survivre envers et contre tout.",
-   "synopsis_origin": null,
-   "rating": 7.4,
-   "runtime": 123,
-   "genres": [
-    "Romance",
-    "Drame"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": "À Contre-Sens : Londres - Saga",
-   "platforms": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=2lOEMBlyj3I",
-   "poster": "https://image.tmdb.org/t/p/w500/gWVO8FmD9onEYYsZU1LMJgRNTbm.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/qdSB8vvIb4VHqmWBgliOcJZ5rd1.png",
-   "imdb_id": "tt36958376",
-   "tmdb_url": "https://www.themoviedb.org/movie/1477317",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36958376",
-   "added_at": "2026-06-17T10:05:43Z",
-   "directors": [
-    "Dani Girdwood",
-    "Charlotte Fassler"
-   ],
-   "cast": [
-    {
-     "name": "Asha Banks",
-     "role": "Noah",
-     "photo": "https://image.tmdb.org/t/p/w185/vZi45Xn17QMaOXmAOvkCEjB3QFr.jpg"
-    },
-    {
-     "name": "Matthew Broome",
-     "role": "Nick",
-     "photo": "https://image.tmdb.org/t/p/w185/nSjPuDG5IVQfyMU8TkZl0ZQkLu6.jpg"
-    },
-    {
-     "name": "Louisa Binder",
-     "role": "Sophia",
-     "photo": "https://image.tmdb.org/t/p/w185/cE3763PmrLLomSN2uO0WSKx4UzU.jpg"
-    },
-    {
-     "name": "Joel Nankervis",
-     "role": "Michael",
-     "photo": "https://image.tmdb.org/t/p/w185/p9gyKYXICMSMf6U7y2m2psQGoLX.jpg"
-    },
-    {
-     "name": "Scarlett Rayner",
-     "role": "Briar",
-     "photo": "https://image.tmdb.org/t/p/w185/cKPCR1A20nyg3gKwJqXBLDycoNN.jpg"
-    },
-    {
-     "name": "Orlando Norman",
-     "role": "Cruz",
-     "photo": "https://image.tmdb.org/t/p/w185/s1xzQEuIPYlnrRvWWvnmGIUl3dU.jpg"
-    },
-    {
-     "name": "Ray Fearon",
-     "role": "William",
-     "photo": "https://image.tmdb.org/t/p/w185/ou2cqhqdhfQoKVEBpIh0P3sKZti.jpg"
-    },
-    {
-     "name": "Enva Lewis",
-     "role": "Jenna",
-     "photo": "https://image.tmdb.org/t/p/w185/hFBuqi7NFiFgHho2J2IM43nZcrG.jpg"
-    },
-    {
-     "name": "Eve Macklin",
-     "role": "Ella",
-     "photo": "https://image.tmdb.org/t/p/w185/7e1bpd3iTst0PvCk4A7LVfUgNut.jpg"
-    },
-    {
-     "name": "Nicole Ansari-Cox",
-     "role": "Professor Olivia Woodgate",
-     "photo": "https://image.tmdb.org/t/p/w185/Qa4zWGLkDEjedoHbNlMG0e9giq.jpg"
-    },
-    {
-     "name": "Sam Buchanan",
-     "role": "Ronnie",
-     "photo": "https://image.tmdb.org/t/p/w185/au5WjiUcUjheDEJ8BEXRFXhsIS8.jpg"
-    },
-    {
-     "name": "Kerim Hassan",
-     "role": "Lion",
-     "photo": "https://image.tmdb.org/t/p/w185/b1LNPysqfX5XmCkF8En67RR3aPI.jpg"
-    },
-    {
-     "name": "Sekou Diaby",
-     "role": null,
-     "photo": "https://image.tmdb.org/t/p/w185/hMMfgROdg2PCnShii47JyRUAnHC.jpg"
-    },
-    {
-     "name": "Seosaimhin Hennelly",
-     "role": "Maddie",
-     "photo": "https://image.tmdb.org/t/p/w185/8heIOV5B3M1097TFTIJLpEZN8hu.jpg"
-    },
-    {
-     "name": "Harvey Almond",
-     "role": "Tom",
-     "photo": "https://image.tmdb.org/t/p/w185/wD1I53ej2ggLO42WPTv2fJyzuu7.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Espagne",
-    "Royaume-Uni",
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Pokeepsie Films",
-     "logo": "https://image.tmdb.org/t/p/w185/fVXreZkiJTOq1cCi6htSQlPSy7R.png"
-    },
-    {
-     "name": "42",
-     "logo": "https://image.tmdb.org/t/p/w185/rzpfuMEMDQnmqp0YTFMEqgfDrxY.png"
-    },
-    {
-     "name": "Amazon MGM Studios",
-     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Amazon Prime Video",
-     "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-    },
-    {
-     "name": "Amazon Prime Video with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-    }
-   ],
-   "tg_id": 12,
-   "writers": [
-    "Mercedes Ron"
-   ],
-   "tagline": "Comment faire pour préserver le véritable amour une fois qu'on l'a trouvé ?"
   }
  ]
 }
