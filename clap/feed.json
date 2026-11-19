@@ -1,7 +1,144 @@
 {
  "version": 1,
- "updated": "2026-11-19T07:44:19Z",
+ "updated": "2026-11-19T07:44:56Z",
  "items": [
+  {
+   "id": "movie:tt20259240",
+   "type": "movie",
+   "title": "La Fille dans les nuages",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-22",
+   "overview": "Providence, une jeune parisienne, découvre qu’elle est la voisine de l’auteur des romans jeunesse dont elle est fan. Quand l’écrivain lui avoue les avoir rédigés avec une plume qui rend réel tout ce qu’on écrit avec et lui confie l’objet magique, elle réalise qu’elle peut accomplir tous ses rêves et s’envole pour un incroyable voyage…",
+   "synopsis_origin": null,
+   "rating": 8.0,
+   "runtime": 88,
+   "genres": [
+    "Animation",
+    "Aventure",
+    "Fantastique"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=UdLKENyhjKM",
+   "poster": "https://image.tmdb.org/t/p/w500/mWv4HUYAUkjLAPnmkiyoCU2cx0Q.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/jqiFaPLr3f6MLjHI7dPzEvJRwag.jpg",
+   "logo": "",
+   "imdb_id": "tt20259240",
+   "tmdb_url": "https://www.themoviedb.org/movie/1151265",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt20259240",
+   "added_at": "2026-11-19T07:44:55Z",
+   "tagline": "Tout ce qu'elle écrit devient réel !",
+   "directors": [
+    "Philippe Riche"
+   ],
+   "writers": [
+    "Romain Puértolas",
+    "Luc Bossi",
+    "Philippe Riche"
+   ],
+   "cast": [
+    {
+     "name": "Louane",
+     "role": "Providence",
+     "photo": "https://image.tmdb.org/t/p/w185/oJjhFbzwsNLJ7VMJjzQxyNgrWF6.jpg"
+    },
+    {
+     "name": "Jamel Debbouze",
+     "role": "Le cochon d’Inde de Providence",
+     "photo": "https://image.tmdb.org/t/p/w185/aiqWSWbRJ6rrjxxVE6y2Xb3KdSp.jpg"
+    },
+    {
+     "name": "Grégoire Ludig",
+     "role": "Tonton Jason, l'oncle de Providence",
+     "photo": "https://image.tmdb.org/t/p/w185/4rQhpGNkgmgEmayXL6U1ngky6C9.jpg"
+    },
+    {
+     "name": "Patrick Brûll",
+     "role": "Octavius",
+     "photo": "https://image.tmdb.org/t/p/w185/wQ3PJqSLhosaRKgCygvEB8BQr1i.jpg"
+    },
+    {
+     "name": "Clémentine Domptail",
+     "role": "Befana",
+     "photo": "https://image.tmdb.org/t/p/w185/9dMTmhKZr14UnfF9UwtfTVo0MsN.jpg"
+    },
+    {
+     "name": "Pauline Moulène",
+     "role": "Emma",
+     "photo": "https://image.tmdb.org/t/p/w185/2XX8dOKlg8KChdyGrTjnZRyqQxu.jpg"
+    },
+    {
+     "name": "Érik Stouvenaker",
+     "role": "Necato",
+     "photo": "https://image.tmdb.org/t/p/w185/v3jzMNADp7oCi2ZHr9c2URLkEqo.jpg"
+    },
+    {
+     "name": "Kaycie Chase",
+     "role": "Zelalem",
+     "photo": "https://image.tmdb.org/t/p/w185/ooIErFvITaLJdfEwozvsdySYVNu.jpg"
+    },
+    {
+     "name": "Damien Laquet",
+     "role": "Présentateur",
+     "photo": "https://image.tmdb.org/t/p/w185/uirV30dHR6iVMn5SlR1CcFLduN8.jpg"
+    },
+    {
+     "name": "Paul Borne",
+     "role": "Petit Moine",
+     "photo": "https://image.tmdb.org/t/p/w185/vjhn44K5M5A3eSdqslscrNCtBSY.jpg"
+    },
+    {
+     "name": "Jean-François Rossion",
+     "role": "Gros Moine",
+     "photo": "https://image.tmdb.org/t/p/w185/4HtbeFsPsxLK576ByhVsFP6CchM.jpg"
+    },
+    {
+     "name": "Bénédicte Philippon",
+     "role": "Vieille Nonne",
+     "photo": "https://image.tmdb.org/t/p/w185/ay3YPzlFFIpUKTgzkPLcUhZhD5Z.jpg"
+    },
+    {
+     "name": "François Raison",
+     "role": "Marquis flamant rose",
+     "photo": "https://image.tmdb.org/t/p/w185/o4n99SNAkhlSejN8awJklFwstkd.jpg"
+    },
+    {
+     "name": "Catherine Hosmalin",
+     "role": "Duchesse flamant rose",
+     "photo": "https://image.tmdb.org/t/p/w185/apbDf8w63QeBp3QwX4jjeVGFp3C.jpg"
+    },
+    {
+     "name": "Renaud Dehesdin",
+     "role": "Baron flamant rose",
+     "photo": "https://image.tmdb.org/t/p/w185/aigcLxepgvmcJjK9NXLAmqpnMSe.jpg"
+    }
+   ],
+   "age_rating": "10",
+   "countries": [
+    "France",
+    "Belgique"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Brio Films",
+     "logo": null
+    },
+    {
+     "name": "SCOPE Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/tWXanyy8XwpcOPannNJ33QUcXp5.png"
+    },
+    {
+     "name": "Panama Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/cosh8pqTyzlhgmKnAMHuUUlqyIc.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt29494959",
    "type": "movie",
@@ -66720,143 +66857,6 @@
     "Nancey Silvers"
    ],
    "tagline": null
-  },
-  {
-   "id": "movie:tt32547691",
-   "type": "movie",
-   "title": "Pressure",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-05-28",
-   "overview": "Dans les 72 heures précédant le jour J, alors que le destin du monde libre est en jeu, le général Dwight D. Eisenhower et le capitaine James Stagg sont confrontés à un choix impossible : lancer la plus vaste et la plus périlleuse invasion maritime de l'histoire, ou risquer de perdre la guerre.",
-   "synopsis_origin": null,
-   "rating": 7.7,
-   "runtime": 101,
-   "genres": [
-    "Thriller",
-    "Histoire",
-    "Guerre"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": "https://www.youtube.com/watch?v=YcMDIjk7JsE",
-   "poster": "https://image.tmdb.org/t/p/w500/czMJ6rsqJZFt01eGUT5n0DXoCEd.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/A28r04yW2BQgEniLt5inopfryWE.png",
-   "imdb_id": "tt32547691",
-   "tmdb_url": "https://www.themoviedb.org/movie/1318413",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt32547691",
-   "added_at": "2026-06-16T14:11:24Z",
-   "directors": [
-    "Anthony Maras"
-   ],
-   "cast": [
-    {
-     "name": "Andrew Scott",
-     "role": "James Stagg",
-     "photo": "https://image.tmdb.org/t/p/w185/4F8XpjyQCvtuu21WFm5d8RF5Rl.jpg"
-    },
-    {
-     "name": "Brendan Fraser",
-     "role": "Dwight ‘Ike’ Eisenhower",
-     "photo": "https://image.tmdb.org/t/p/w185/tFj5PaWWQbb8rHBBhu1EHklznph.jpg"
-    },
-    {
-     "name": "Kerry Condon",
-     "role": "Kay Summersby",
-     "photo": "https://image.tmdb.org/t/p/w185/bLP627Ar30kSqy5ZIYVJioCprOH.jpg"
-    },
-    {
-     "name": "Chris Messina",
-     "role": "Irving Krick",
-     "photo": "https://image.tmdb.org/t/p/w185/l9DbQTK5pI6SOGpmfbADGLhdOYS.jpg"
-    },
-    {
-     "name": "Damian Lewis",
-     "role": "Bernard ‘Monty’ Montgomery",
-     "photo": "https://image.tmdb.org/t/p/w185/puOXtVatFnAxoOmsFO8z7KTfyJW.jpg"
-    },
-    {
-     "name": "Tamsin Topolski",
-     "role": "Liz Stagg",
-     "photo": "https://image.tmdb.org/t/p/w185/fsOY0Fe3KX8zseeaYjzOy5htLUl.jpg"
-    },
-    {
-     "name": "Jojo Macari",
-     "role": "Andrew Carter",
-     "photo": "https://image.tmdb.org/t/p/w185/fYv8j4AA3wzJzqHPRXKBcLVH0cq.jpg"
-    },
-    {
-     "name": "Con O'Neill",
-     "role": "Air Marshal Leigh-Mallory",
-     "photo": "https://image.tmdb.org/t/p/w185/7Fnj1dB9kStTuy29eEVK4IuOxWO.jpg"
-    },
-    {
-     "name": "Alexander Hanson",
-     "role": "General Omar Bradley",
-     "photo": "https://image.tmdb.org/t/p/w185/zo0sKiQ5EOSG5Fp1vCc29izlR1t.jpg"
-    },
-    {
-     "name": "Robert Portal",
-     "role": "Admiral Bertram Ramsay",
-     "photo": "https://image.tmdb.org/t/p/w185/n1HEjfvZrxTShTZ1HncsWJ5Sib7.jpg"
-    },
-    {
-     "name": "Joshua Hill",
-     "role": "Casey",
-     "photo": "https://image.tmdb.org/t/p/w185/uuVzrUh2VoeJqrkf7ewgJtQxsCK.jpg"
-    },
-    {
-     "name": "Toby Williams",
-     "role": "Bryant",
-     "photo": "https://image.tmdb.org/t/p/w185/xI5MmBquOBgeha2Iik2a6HL2Com.jpg"
-    },
-    {
-     "name": "Richard Clothier",
-     "role": "Flight Officer Murray",
-     "photo": "https://image.tmdb.org/t/p/w185/6jXifv63xSKKquCrwGDCTcHdgx7.jpg"
-    },
-    {
-     "name": "Michael Benz",
-     "role": "Flight Officer Hamilton",
-     "photo": "https://image.tmdb.org/t/p/w185/qb3oEBOpc11maO2CeM7SgbfWQEq.jpg"
-    },
-    {
-     "name": "Crispin Letts",
-     "role": "Reverend Draper",
-     "photo": "https://image.tmdb.org/t/p/w185/yBbbBnKUsVKQHIWMCtS9Efk68wx.jpg"
-    }
-   ],
-   "age_rating": "12",
-   "countries": [
-    "Royaume-Uni",
-    "France"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Working Title",
-     "logo": "https://image.tmdb.org/t/p/w185/16KWBMmfPX0aJzDExDrPxSLj0Pg.png"
-    },
-    {
-     "name": "StudioCanal UK",
-     "logo": "https://image.tmdb.org/t/p/w185/fWQ9uEqIKuPukxrbZEUIrkPRrjs.png"
-    },
-    {
-     "name": "StudioCanal",
-     "logo": "https://image.tmdb.org/t/p/w185/5LEHONGkZBIoWvp1ygHOF8iyi1M.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 7,
-   "writers": [
-    "David Haig",
-    "Anthony Maras"
-   ],
-   "tagline": "Dans les heures précédant le Jour J, une décision a changé le monde."
   }
  ]
 }
