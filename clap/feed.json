@@ -1,7 +1,92 @@
 {
  "version": 1,
- "updated": "2026-11-18T12:04:21Z",
+ "updated": "2026-11-19T07:44:02Z",
  "items": [
+  {
+   "id": "movie:tt50016818",
+   "type": "movie",
+   "title": "Avec toi pour toujours",
+   "original_title": "Son Yemek",
+   "year": 2026,
+   "release_date": "2026-11-18",
+   "overview": "Le destin croisé de Bekir, un agent mystérieux, et d'une jeune pianiste talentueuse. Après s'être rencontrés lors d'une mission secrète, une romance passionnée s'enflamme avant que Bekir ne disparaisse brusquement. Des années plus tard, leurs chemins se croisent à nouveau, les forçant à naviguer entre amour, nostalgie et choix impossibles.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 122,
+   "genres": [
+    "Romance",
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/xisz1kj0k9o4nYYKZAfmii9dvDo.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/u3riq0UYL2aowB6u1xScMfDUFmr.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/iftOUdxxqw1XCqavZwuvIOfUVGE.png",
+   "imdb_id": "tt50016818",
+   "tmdb_url": "https://www.themoviedb.org/movie/1561834",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt50016818",
+   "added_at": "2026-11-19T07:44:01Z",
+   "tagline": null,
+   "directors": [
+    "Özcan Deniz"
+   ],
+   "writers": [
+    "Özcan Deniz"
+   ],
+   "cast": [
+    {
+     "name": "Öykü Karayel",
+     "role": "Canan",
+     "photo": "https://image.tmdb.org/t/p/w185/rzMUT2OMgnlsDLKUIdPDM0q2mgf.jpg"
+    },
+    {
+     "name": "Özcan Deniz",
+     "role": "Bekir",
+     "photo": "https://image.tmdb.org/t/p/w185/1xugZDdp0vskwozHBSTCIFQPjCV.jpg"
+    },
+    {
+     "name": "Nejat İşler",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/xFhmBekB2odhRY335lJ6rWiIdyw.jpg"
+    },
+    {
+     "name": "Helin Kandemir",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/9ivMPksoFlRaL1eKRTZu4mkScOQ.jpg"
+    },
+    {
+     "name": "Gonca Vuslateri",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/wu2gvPyKKAGEVn1VX5WmHJ5szYI.jpg"
+    },
+    {
+     "name": "Tilbe Saran",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ciN8qfqgII8T45jAAspqv722qXZ.jpg"
+    },
+    {
+     "name": "Özgür Emre Yıldırım",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/pekejv4I94Hp1UbLq3G3ksf3jkB.jpg"
+    },
+    {
+     "name": "Ceyda Düvenci",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/1lmyMdhQCPuxo8gIjwLpZTUwEza.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "TR"
+   ],
+   "original_language": "Turc",
+   "tmdb_status": "Sorti",
+   "production": [],
+   "platform_logos": []
+  },
   {
    "id": "series:tt44079238",
    "type": "series",
