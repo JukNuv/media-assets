@@ -1,7 +1,142 @@
 {
  "version": 1,
- "updated": "2026-11-19T14:06:28Z",
+ "updated": "2026-11-19T20:05:25Z",
  "items": [
+  {
+   "id": "series:tt31844371",
+   "type": "series",
+   "title": "Vienna Game",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-18",
+   "overview": "Tandis que Napoléon Bonaparte est envoyé en exil à l'île d'Elbe, les rois comme les princes héritiers, les ministres comme les espions, les dames nobles comme les maîtresses, les soldats de fortune comme les inventeurs, les artistes comme les concubines, font la fête et discutent à Vienne. Le destin de l'Europe se joue alors sur la piste de danse et dans le boudoir. Les délégations de l'Angleterre, de la Russie, de l'Autriche, de la France et de la Prusse contribuent de manière déterminante à l'organisation du congrès. Des femmes puissantes usent alors de leur influence pour orienter les pourparlers en faveur de la paix. Un jeu de chance, d'argent, d'amour et de pouvoir - le Congrès de Vienne en coulisses !",
+   "synopsis_origin": null,
+   "rating": 9.0,
+   "runtime": 53,
+   "genres": [
+    "Comédie"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Disney Plus"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=mljy5fcPjec",
+   "poster": "https://image.tmdb.org/t/p/w500/uJ4firkLeu1aUN8sHc7Zys0LwNQ.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
+   "logo": "",
+   "imdb_id": "tt31844371",
+   "tmdb_url": "https://www.themoviedb.org/tv/288120",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt31844371",
+   "added_at": "2026-11-19T20:05:24Z",
+   "tagline": null,
+   "directors": [
+    "Hannu Salonen"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Fritz Karl",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/jvkg9ugmuCjAM4OOQyEmIeiVWn1.jpg"
+    },
+    {
+     "name": "Marlene Tanczik",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/6qVj3ksOEwSa0vSXC7ItzqFdgFn.jpg"
+    },
+    {
+     "name": "Daniel Donskoy",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/a7wtm3P5mUnqSGO0HBQ1viGgAUK.jpg"
+    },
+    {
+     "name": "Alexander Scheer",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/z5t37qxBzEGyRprD8TWFbNbolOP.jpg"
+    },
+    {
+     "name": "Vladimir Burlakov",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/zIpN4PwIDQSNgUvR2D3cNXYn0Ae.jpg"
+    },
+    {
+     "name": "Erwin Steinhauer",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/tRrQY9H5EWoxaDzBAb487OjC7bS.jpg"
+    },
+    {
+     "name": "Emma Nova",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/a0jQjeeIxCQT2eHeFepc80cspI7.jpg"
+    },
+    {
+     "name": "Julia Anna Grob",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/qMG5G7Q9qglz338cJabOiCo5rWD.jpg"
+    },
+    {
+     "name": "Trystan Pütter",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/9dQt0NZnD4UGCozxT6C581E9BxU.jpg"
+    },
+    {
+     "name": "Heikko Deutschmann",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/qVdY5ZwW5FE4c031H2bFDviQJzH.jpg"
+    },
+    {
+     "name": "Corinna Pumm",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/hYcIxExEnABKGewzO2CtYoDLevo.jpg"
+    },
+    {
+     "name": "Louis-Do de Lencquesaing",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/rnELz71XUPNUyJZXuyWXIHADM1U.jpg"
+    },
+    {
+     "name": "Ben Miles",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/mT3BqoFUkyktXLvefQA6VxaGHJz.jpg"
+    },
+    {
+     "name": "Axel Milberg",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/eK1Kkda8rOZMgo5BYBUVeYenOwj.jpg"
+    },
+    {
+     "name": "Serge Falck",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/nrIhEcGBxOPm9757KZd3ys3oBEU.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Autriche"
+   ],
+   "original_language": "Allemand",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Satel Film",
+     "logo": "https://image.tmdb.org/t/p/w185/tTPVO2jX1Zy5UhLRyqywA0BZvwR.png"
+    },
+    {
+     "name": "Disney+",
+     "logo": "https://image.tmdb.org/t/p/w185/1edZOYAfoyZyZ3rklNSiUpXX30Q.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Disney Plus",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt32332915",
    "type": "movie",
@@ -66702,141 +66837,6 @@
     "Mercedes Ron"
    ],
    "tagline": "Comment faire pour préserver le véritable amour une fois qu'on l'a trouvé ?"
-  },
-  {
-   "id": "series:tt38075182",
-   "type": "series",
-   "title": "Zodiaque",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-06-18",
-   "overview": "Les enfants paieront pour les crimes de leurs parents. À Aix-en-Provence, la riche famille Escoffier est frappée par une série de meurtres mystérieux qui portent la marque du Zodiaque, un tueur en série qui a sévi dans la région vingt ans plus tôt, mais que tous croyaient mort...",
-   "synopsis_origin": null,
-   "rating": 5.0,
-   "runtime": 52,
-   "genres": [
-    "Crime",
-    "Drame",
-    "Mystère"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/lzLMDotulp6Q8TF4Jwyif9Fefzx.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/vRDCneZvHABkRedhkjJpSTzuVMo.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/9ysP5NFDP0Sl2Ryy9vsKZLMQ6Lq.png",
-   "imdb_id": "tt38075182",
-   "tmdb_url": "https://www.themoviedb.org/tv/299934",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38075182",
-   "added_at": "2026-06-17T00:07:21Z",
-   "directors": [
-    "Franck Ollivier",
-    "Malina Detcheva"
-   ],
-   "seasons": 1,
-   "episodes": 6,
-   "cast": [
-    {
-     "name": "Francis Huster",
-     "role": "Antoine Keller",
-     "photo": "https://image.tmdb.org/t/p/w185/lMe0m7E9bE6omevGSPgoEo9GTQX.jpg"
-    },
-    {
-     "name": "Erika Sainte",
-     "role": "Garance Lombardi",
-     "photo": "https://image.tmdb.org/t/p/w185/wG17jUn2HhOF122eygdhqSvSVjN.jpg"
-    },
-    {
-     "name": "Lannick Gautry",
-     "role": "Vincent Escoffier",
-     "photo": "https://image.tmdb.org/t/p/w185/h94QUkKrwUncYhJ1eMz23kBAJuc.jpg"
-    },
-    {
-     "name": "Marine Delterme",
-     "role": "Béatrice Escoffier",
-     "photo": "https://image.tmdb.org/t/p/w185/fGTPi9B7jbihULR4bDw8UbNw2ZF.jpg"
-    },
-    {
-     "name": "Marie-Christine Barrault",
-     "role": "Hélène Escoffier",
-     "photo": "https://image.tmdb.org/t/p/w185/sVJxEzQupuhk1n2g4HpisKGXSSY.jpg"
-    },
-    {
-     "name": "Zoï Sévérin",
-     "role": "Stella Lombardi",
-     "photo": "https://image.tmdb.org/t/p/w185/lmJdASSePA8lje0uKhASAdjbHBh.jpg"
-    },
-    {
-     "name": "Philypa Phoenix",
-     "role": "Nadia Roman",
-     "photo": "https://image.tmdb.org/t/p/w185/ogUECZEtp7w3FS8LhWpCJtnkX43.jpg"
-    },
-    {
-     "name": "Arthur Jugnot",
-     "role": "Lucas Escoffier",
-     "photo": "https://image.tmdb.org/t/p/w185/2FeivhYfpoEh0XsmisJ2ojlmepO.jpg"
-    },
-    {
-     "name": "Alex Doux",
-     "role": "Adrien Escoffier",
-     "photo": "https://image.tmdb.org/t/p/w185/rkyNvGsNfydW76tOqwGGTcw14Zp.jpg"
-    },
-    {
-     "name": "Annelise Hesme",
-     "role": "Fiona Lombardi",
-     "photo": "https://image.tmdb.org/t/p/w185/jRG99KD7bo0HysPWThLiGNPXbdI.jpg"
-    },
-    {
-     "name": "Catherine Marchal",
-     "role": "Fanny Lefur",
-     "photo": "https://image.tmdb.org/t/p/w185/pgG31TWAUazWDV7E7h6XtcBmw0O.jpg"
-    },
-    {
-     "name": "Simon Rérolle",
-     "role": "Mathieu Lefur",
-     "photo": "https://image.tmdb.org/t/p/w185/mb0iJHI9XsvznkMLHgMfCm7t7Nc.jpg"
-    },
-    {
-     "name": "Abdellah Boujalal",
-     "role": "Théo Escoffier",
-     "photo": "https://image.tmdb.org/t/p/w185/61rAHrTrTLa651FuA4wenZwGzpq.jpg"
-    },
-    {
-     "name": "Youcef Agal",
-     "role": "Simon",
-     "photo": "https://image.tmdb.org/t/p/w185/zqKQnhSWdUwSo5ySRpQQ5xlJp22.jpg"
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "France"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Felicita Films",
-     "logo": null
-    },
-    {
-     "name": "Partita Films",
-     "logo": null
-    },
-    {
-     "name": "TF1 Production",
-     "logo": "https://image.tmdb.org/t/p/w185/n4OA4cWRIjyGPVz6y7BXydyHSKU.png"
-    },
-    {
-     "name": "TF1",
-     "logo": "https://image.tmdb.org/t/p/w185/fqsd09CrijoGu6qfoNIdgUQmVGO.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 11,
-   "tagline": null
   }
  ]
 }
