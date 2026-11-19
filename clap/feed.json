@@ -1,7 +1,109 @@
 {
  "version": 1,
- "updated": "2026-11-19T07:44:56Z",
+ "updated": "2026-11-19T12:05:21Z",
  "items": [
+  {
+   "id": "series:tt36786185",
+   "type": "series",
+   "title": "The Altruists",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-19",
+   "overview": "Suivez la romance tumultueuse entre le cofondateur de FTX, Sam Bankman-Fried, et sa compagne Caroline Ellison, ainsi que leurs tentatives ambitieuses de révolutionner le système financier, qui ont abouti à une fraude de 36 milliards de dollars.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 59,
+   "genres": [
+    "Drame",
+    "Crime"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=EXGRPuJxPwM",
+   "poster": "https://image.tmdb.org/t/p/w500/foTyGlJ1jJh8QID5KwjsMytsJTV.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/cSZZcMspcaQt1jopPM30rs0TrTz.png",
+   "imdb_id": "tt36786185",
+   "tmdb_url": "https://www.themoviedb.org/tv/308007",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt36786185",
+   "added_at": "2026-11-19T12:05:19Z",
+   "tagline": "Il en a fallu deux pour empocher des milliards.",
+   "directors": [
+    "Graham Moore"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Julia Garner",
+     "role": "Caroline Ellison",
+     "photo": "https://image.tmdb.org/t/p/w185/ud1RXbvW70J89iqeic7no8olxvb.jpg"
+    },
+    {
+     "name": "Anthony Boyle",
+     "role": "Sam Bankman-Fried",
+     "photo": "https://image.tmdb.org/t/p/w185/fDq2OMypUzQQD5kaXUFak5MIFkO.jpg"
+    },
+    {
+     "name": "Alex Lawther",
+     "role": "Sam Trabucco",
+     "photo": "https://image.tmdb.org/t/p/w185/zZZP8VrYIYXBZfoRxSYeAd4phsO.jpg"
+    },
+    {
+     "name": "Karan Soni",
+     "role": "Nishad Singh",
+     "photo": "https://image.tmdb.org/t/p/w185/t3eNrzRKy3wTVCUiEp002UXbjxX.jpg"
+    },
+    {
+     "name": "Naomi Okada",
+     "role": "Claire Watanabe",
+     "photo": "https://image.tmdb.org/t/p/w185/7NDnlA00W6BMgTrdhqUGZh5XXfW.jpg"
+    },
+    {
+     "name": "Madison Hu",
+     "role": "Constance Wang",
+     "photo": "https://image.tmdb.org/t/p/w185/hRkUbgWata6SWTf9HqaOOVZO6nn.jpg"
+    },
+    {
+     "name": "Matt Rife",
+     "role": "Ryan Salame",
+     "photo": "https://image.tmdb.org/t/p/w185/htkMef7qxya47Fbei9t9t1k5l7O.jpg"
+    },
+    {
+     "name": "Eugene Young",
+     "role": "Gary Wang",
+     "photo": "https://image.tmdb.org/t/p/w185/huyeokrJXwgPyroMqWCtnD9gMNo.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Vox Media Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/diJMSJKV5CTC7r6fhTXizF347nF.png"
+    },
+    {
+     "name": "Higher Ground",
+     "logo": "https://image.tmdb.org/t/p/w185/eotra9uY7zyivEzDL4bFdn7Elm4.png"
+    },
+    {
+     "name": "New York Magazine",
+     "logo": "https://image.tmdb.org/t/p/w185/h3tQWDXnGbI8QCahRey0oZ9jvS5.png"
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt20259240",
    "type": "movie",
@@ -66747,116 +66849,6 @@
     "Lance Giles"
    ],
    "tagline": "La rédemption dans un monde plongé dans les ténèbres."
-  },
-  {
-   "id": "movie:tt37941703",
-   "type": "movie",
-   "title": "Love, Again",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-05-09",
-   "overview": "Lorsque son mari de 30 ans est diagnostiqué avec l'Alzheimer, une femme trouve du réconfort dans les bras de l'un de ses amis.",
-   "synopsis_origin": null,
-   "rating": 7.5,
-   "runtime": 87,
-   "genres": [
-    "Téléfilm",
-    "Drame"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/dCAkIMWESPHYxn6nfVYLrjeLeE8.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/psYqs0yDmTRZnZVzLjZFiFlEdwO.jpg",
-   "logo": "",
-   "imdb_id": "tt37941703",
-   "tmdb_url": "https://www.themoviedb.org/movie/1653453",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37941703",
-   "added_at": "2026-06-16T18:42:50Z",
-   "directors": [
-    "David I. Strasser"
-   ],
-   "cast": [
-    {
-     "name": "Valerie Bertinelli",
-     "role": "Caroline",
-     "photo": "https://image.tmdb.org/t/p/w185/4RfjZrYOOK8220rYSilsAxw1w5K.jpg"
-    },
-    {
-     "name": "Henry Czerny",
-     "role": "Henry",
-     "photo": "https://image.tmdb.org/t/p/w185/zOWZzRmliKf9032IOOq0a3jXhVv.jpg"
-    },
-    {
-     "name": "Eric McCormack",
-     "role": "Leo",
-     "photo": "https://image.tmdb.org/t/p/w185/nAVgJZeptg0ay0adsYhnrGf9Jsc.jpg"
-    },
-    {
-     "name": "Max Lloyd-Jones",
-     "role": "Adam",
-     "photo": "https://image.tmdb.org/t/p/w185/4ZXdk1YXG3xYonid1DPDOVKsNPE.jpg"
-    },
-    {
-     "name": "Mackenzie Cardwell",
-     "role": "Rachel",
-     "photo": "https://image.tmdb.org/t/p/w185/1abo9JyhTROTG27GznuIOL7h7ax.jpg"
-    },
-    {
-     "name": "Lossen Chambers",
-     "role": "Brenda",
-     "photo": "https://image.tmdb.org/t/p/w185/yu16CosxAx5KrRIfAcbZKOrtzQB.jpg"
-    },
-    {
-     "name": "Samantha Ferris",
-     "role": "Tracey Bennett",
-     "photo": "https://image.tmdb.org/t/p/w185/sRCEJNz2wPPhNDrKUBKWjTbOEhc.jpg"
-    },
-    {
-     "name": "Parmiss Sehat",
-     "role": "Alana Marks",
-     "photo": "https://image.tmdb.org/t/p/w185/xUHPF4kA2Osr6eNYMmHu690VEL1.jpg"
-    },
-    {
-     "name": "Gabriel Prevost",
-     "role": "Dr. Stern",
-     "photo": "https://image.tmdb.org/t/p/w185/nZzF2VZ81cO1n5hrfj0KMHbeYZ3.jpg"
-    },
-    {
-     "name": "Kurt Long",
-     "role": "Dr. Jensen",
-     "photo": "https://image.tmdb.org/t/p/w185/mIkFooEOxYU0AG26RFGWEb9CtEV.jpg"
-    },
-    {
-     "name": "Mark Brandon",
-     "role": "Joe Stern",
-     "photo": "https://image.tmdb.org/t/p/w185/tlghFTHocWRGd010vni5ZhbvlVp.jpg"
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "Canada"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Front Street Pictures",
-     "logo": "https://image.tmdb.org/t/p/w185/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png"
-    },
-    {
-     "name": "Lifetime",
-     "logo": "https://image.tmdb.org/t/p/w185/bVTF0p5xlPfQhQIuBLr9BFtrKip.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 8,
-   "writers": [
-    "Nancey Silvers"
-   ],
-   "tagline": null
   }
  ]
 }
