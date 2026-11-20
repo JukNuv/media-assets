@@ -1,7 +1,96 @@
 {
  "version": 1,
- "updated": "2026-11-20T07:30:33Z",
+ "updated": "2026-11-20T08:03:25Z",
  "items": [
+  {
+   "id": "series:tt43620104",
+   "type": "series",
+   "title": "Mascarade",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-20",
+   "overview": "Ils ont joué dans plein de films, il n'en a vu aucun. Voici Mascarade, le jeu où Monsieur Loris doit démasquer des figures du cinéma français.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Comédie"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=otrDFSTau4g",
+   "poster": "https://image.tmdb.org/t/p/w500/gdDUz1FqDDN2criezLPyQ3j0qdu.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/1J4KaCuH7w0xYiEdXz9P8ePxO89.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/qcpvveST6F4oWv2C8gTs2whugPC.png",
+   "imdb_id": "tt43620104",
+   "tmdb_url": "https://www.themoviedb.org/tv/338549",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt43620104",
+   "added_at": "2026-11-20T08:03:23Z",
+   "tagline": null,
+   "directors": [
+    "Loris Giuliano"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Loris Giuliano",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/d9wUVA8rDWD7Z6283aZVCu3YwAR.jpg"
+    },
+    {
+     "name": "François Damiens",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/agHzt46feTHdFK9YdgRjmnqFUtS.jpg"
+    },
+    {
+     "name": "Marina Foïs",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/dLPo5cyKoH4Y8TNRkl2GIrd4Oae.jpg"
+    },
+    {
+     "name": "Laurent Lafitte",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/9mTtfK5F9WMoYqvUvqlugnsX6SS.jpg"
+    },
+    {
+     "name": "Géraldine Nakache",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/mlJZWY6ZuCNklAeubVsv4ejJtNR.jpg"
+    },
+    {
+     "name": "Pierre Niney",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/z1GlY8YJcBbrnPKJyr7499qDqvQ.jpg"
+    },
+    {
+     "name": "Raphaël Quenard",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/lMLzNtZKalKX1tO0QHKlfZphg7m.jpg"
+    },
+    {
+     "name": "Alison Wheeler",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/vXu8wliioM43z57SnQsGdUKgPVC.jpg"
+    },
+    {
+     "name": "Jean-Pascal Zadi",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/wkI3RmKxNMtxNBOfSpgMgQsR53K.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En cours",
+   "production": [],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt18351090",
    "type": "movie",
@@ -66694,150 +66783,6 @@
    ],
    "platform_logos": [],
    "tg_id": 16,
-   "tagline": null
-  },
-  {
-   "id": "series:tt35668375",
-   "type": "series",
-   "title": "Glory",
-   "original_title": "ग्लोरी",
-   "year": 2026,
-   "release_date": "2026-05-01",
-   "overview": "Après un incident violent qui déchire une famille, un entraîneur de boxe renommé est contraint de faire face à ses deux fils à nouveau. Alors qu’ils poursuivent leurs rêves olympiques, des conflits enfouis refont surface et la vengeance menace de détruire tout ce qu’ils ont construit.",
-   "synopsis_origin": null,
-   "rating": 7.2,
-   "runtime": 55,
-   "genres": [
-    "Drame",
-    "Mystère",
-    "Action & Adventure"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/juAQ7fFQGu2n3A2gW5tfNub1cW8.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/o9rD068PXoATK5H5Z3W2sJ4fA60.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/lworqYyJxq1DiPEJsRfwo81fg2m.png",
-   "imdb_id": "tt35668375",
-   "tmdb_url": "https://www.themoviedb.org/tv/283657",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt35668375",
-   "added_at": "2026-06-17T19:04:39Z",
-   "directors": [
-    "Karan Anshuman",
-    "Karmanya Ahuja"
-   ],
-   "seasons": 2,
-   "episodes": 7,
-   "cast": [
-    {
-     "name": "दिव्येंदु शर्मा",
-     "role": "Devender Singh",
-     "photo": "https://image.tmdb.org/t/p/w185/rGlCCQtOBiNJULfB5w0FXgPPKw0.jpg"
-    },
-    {
-     "name": "Pulkit Samrat",
-     "role": "Ravinder Singh",
-     "photo": "https://image.tmdb.org/t/p/w185/rS6AGPGqQfyKO3QSOeXZQQAIQgT.jpg"
-    },
-    {
-     "name": "Suvinder Vicky",
-     "role": "Raghubir Singh",
-     "photo": "https://image.tmdb.org/t/p/w185/6T3Y0jvLMdMw19ShLZvLNHIkaSD.jpg"
-    },
-    {
-     "name": "आशुतोष राना",
-     "role": "Viju Sangwan",
-     "photo": "https://image.tmdb.org/t/p/w185/jFlhAoEP3KGEXO3SXCA4YLM2Goc.jpg"
-    },
-    {
-     "name": "Sayani Gupta",
-     "role": "Joyna Hazarika",
-     "photo": "https://image.tmdb.org/t/p/w185/ZswP4g0UHDYvZLI2HlWzEcbvEN.jpg"
-    },
-    {
-     "name": "Kashmira Pardesi",
-     "role": "Bharti Shekhawat",
-     "photo": "https://image.tmdb.org/t/p/w185/3nT10oCJ9xU5Me6UzC3vGdBIlxG.jpg"
-    },
-    {
-     "name": "Zakir Hussain",
-     "role": "DSP Phogat",
-     "photo": "https://image.tmdb.org/t/p/w185/etiL0ANjzBhTiyvUblZl6vwIog9.jpg"
-    },
-    {
-     "name": "Vishal Vashishtha",
-     "role": "Arvind Shekhawat",
-     "photo": "https://image.tmdb.org/t/p/w185/gxvmaEsTW1HnhnHLZOb7CNQmJIp.jpg"
-    },
-    {
-     "name": "Sikandar Kher",
-     "role": "Kookie Yadav",
-     "photo": "https://image.tmdb.org/t/p/w185/sULXachczStfQLegNVmxcvuUTWZ.jpg"
-    },
-    {
-     "name": "Kunal Thakur",
-     "role": "Raka Singh Beniwal",
-     "photo": "https://image.tmdb.org/t/p/w185/jN469r2ZQ2fzM88r8ZqJ3szxknL.jpg"
-    },
-    {
-     "name": "Manuj Sharma",
-     "role": "SI Barsola",
-     "photo": "https://image.tmdb.org/t/p/w185/nKu9KOh5zYf6yqwlomqxviCwHYK.jpg"
-    },
-    {
-     "name": "Renji Panicker",
-     "role": "Kesava Panicker",
-     "photo": "https://image.tmdb.org/t/p/w185/ladi1ITpyay8RFpC1eAMZgMPc5e.jpg"
-    },
-    {
-     "name": "Yugam Sood",
-     "role": "Nihal Singh",
-     "photo": null
-    },
-    {
-     "name": "Yashpal Sharma",
-     "role": "Dhanda",
-     "photo": "https://image.tmdb.org/t/p/w185/hYDZkMl6u3rM2cASabpHgrvA0mf.jpg"
-    },
-    {
-     "name": "Kamaljeet Rana",
-     "role": "Dharam Thakur",
-     "photo": "https://image.tmdb.org/t/p/w185/auzC4XACy9ZF6AoqFmmcJgejZO9.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Inde"
-   ],
-   "original_language": "Hindi",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "Atomic Films (IN)",
-     "logo": null
-    },
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 15,
    "tagline": null
   }
  ]
