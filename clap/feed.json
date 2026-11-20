@@ -1,7 +1,146 @@
 {
  "version": 1,
- "updated": "2026-11-20T12:02:49Z",
+ "updated": "2026-11-20T13:54:53Z",
  "items": [
+  {
+   "id": "movie:tt14413964",
+   "type": "movie",
+   "title": "Soeurs de sort",
+   "original_title": "Steps",
+   "year": 2026,
+   "release_date": "2026-11-20",
+   "overview": "L'histoire de Cendrillon revisitée… mais racontée cette fois-ci du point de vue de Lilith, l'une des soi-disant « méchantes » belles-sœurs.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 92,
+   "genres": [
+    "Animation",
+    "Fantastique",
+    "Comédie",
+    "Familial",
+    "Aventure"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=4f9bMBWkSI4",
+   "poster": "https://image.tmdb.org/t/p/w500/rZmdm70Li2znSd9N4ZyrMkoKWkw.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/jvyG7hSjMWGRJ7QVKVHKXaKyKvj.png",
+   "imdb_id": "tt14413964",
+   "tmdb_url": "https://www.themoviedb.org/movie/1595124",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt14413964",
+   "added_at": "2026-11-20T13:54:51Z",
+   "tagline": "À minuit, on part.",
+   "directors": [
+    "Alyce Tzue"
+   ],
+   "writers": [
+    "Ava Tramer",
+    "James Madejski",
+    "Jen Chuck"
+   ],
+   "cast": [
+    {
+     "name": "Ali Wong",
+     "role": "Lilith (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/vpVDlzPIIzgwdO23MbbwvfmPtXQ.jpg"
+    },
+    {
+     "name": "Amanda Seyfried",
+     "role": "Cinderella (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/gtBUIpZ3dvLpOMIVORxE6sHSyZj.jpg"
+    },
+    {
+     "name": "Stephanie Hsu",
+     "role": "Margot (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/8gb3lfIHKQAGOQyeC4ynQPsCiHr.jpg"
+    },
+    {
+     "name": "Bette Midler",
+     "role": "Fairy Godmother (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/ooPKeoLvwacY6BRj99u7uvZCYlF.jpg"
+    },
+    {
+     "name": "Nikki Glaser",
+     "role": "Priscilla (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/zF2UyqN6000VpUkgXVnM9JHuAhW.jpg"
+    },
+    {
+     "name": "Peter Dinklage",
+     "role": "Roderick (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+     "name": "Daniel Radcliffe",
+     "role": "The Prince (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/uUFfo8RANo7tuckB6AZAnESne55.jpg"
+    },
+    {
+     "name": "Young Mazino",
+     "role": "Gef (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/cRuVRx1DMe2hBkz5pssVqdpCtaQ.jpg"
+    },
+    {
+     "name": "Luis Martinez",
+     "role": "Cracktor (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/7SFDHneUnbTVbtlN90tKPHIbrVB.jpg"
+    },
+    {
+     "name": "Gwendoline Yeo",
+     "role": "Li Mei (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/qcT51wtWxdS51q9FQcDC455HrqY.jpg"
+    },
+    {
+     "name": "Matt Lowe",
+     "role": "Edmund (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/u137BVOu2worxWBIWNkwW35b60X.jpg"
+    },
+    {
+     "name": "Bruce Nozick",
+     "role": "Herald (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/vBJoGttECEWVt28HtupPmrNOst1.jpg"
+    },
+    {
+     "name": "LaNisa Renee Frederick",
+     "role": "Painterazzi (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/4LU8JGpjxtij6aKxL5FSVCtBaU6.jpg"
+    },
+    {
+     "name": "Chloe Kuo",
+     "role": "Young Lilith (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/yDJnRzpzSuZniqsbNivw9IAhGh7.jpg"
+    },
+    {
+     "name": "Emma Jagger",
+     "role": "Young Cinderella (voice)",
+     "photo": "https://image.tmdb.org/t/p/w185/cpeeNsVMbh1bOYIlgu3CngqV9uc.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "États-Unis",
+    "Australie"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Paper Kite Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/aIjT1pYb83Hluuq39idD41r71ze.png"
+    },
+    {
+     "name": "Netflix Animation Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/AqUAfMC270bGGK09Nh3mycwT1hY.png"
+    },
+    {
+     "name": "Animal Logic",
+     "logo": "https://image.tmdb.org/t/p/w185/kEUAzsG2hZcCV7rmSCozgLhGWaa.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt38336631",
    "type": "series",
@@ -66596,153 +66735,6 @@
     "Anthony Marciano"
    ],
    "tagline": null
-  },
-  {
-   "id": "series:tt9169516",
-   "type": "series",
-   "title": "Ne t'enfuis plus",
-   "original_title": "Run Away",
-   "year": 2026,
-   "release_date": "2026-01-01",
-   "overview": "Un père qui recherche désespérément sa fille se retrouve impliqué dans une affaire de meurtre et découvre des secrets qui pourraient détruire sa famille à jamais.",
-   "synopsis_origin": null,
-   "rating": 6.7,
-   "runtime": 46,
-   "genres": [
-    "Drame",
-    "Mystère"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/csNEsCQQNYWkuhLxf0sX5hdNpcF.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/kIq50LRi5kOOtOqeb5KwS2fOOE9.png",
-   "imdb_id": "tt9169516",
-   "tmdb_url": "https://www.themoviedb.org/tv/244244",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt9169516",
-   "added_at": "2026-06-17T22:24:48Z",
-   "directors": [
-    "Harlan Coben"
-   ],
-   "seasons": 1,
-   "episodes": 8,
-   "cast": [
-    {
-     "name": "James Nesbitt",
-     "role": "Simon Greene",
-     "photo": "https://image.tmdb.org/t/p/w185/lQiGZcwUXbCqpF055Ia5jxdZ2Ma.jpg"
-    },
-    {
-     "name": "Alfred Enoch",
-     "role": "Isaac Fagbenle",
-     "photo": "https://image.tmdb.org/t/p/w185/eEVvPHmxRBcEGqtoTujncmwNDhR.jpg"
-    },
-    {
-     "name": "Minnie Driver",
-     "role": "Ingrid Greene",
-     "photo": "https://image.tmdb.org/t/p/w185/2uwaHwpoutbXMuYY5v2dhWU0hml.jpg"
-    },
-    {
-     "name": "Ruth Jones",
-     "role": "Elena Ravenscroft",
-     "photo": "https://image.tmdb.org/t/p/w185/agBI9yM61lF8e70gkc27eu47b5R.jpg"
-    },
-    {
-     "name": "Ellie de Lange",
-     "role": "Paige Greene",
-     "photo": "https://image.tmdb.org/t/p/w185/uBXl2MEH3tmfg8KCcdiRRAZtHg4.jpg"
-    },
-    {
-     "name": "Lucian Msamati",
-     "role": "Cornelius Faber",
-     "photo": "https://image.tmdb.org/t/p/w185/vGPnCNjSL4JwVQ4yqh0XLK2GpXM.jpg"
-    },
-    {
-     "name": "Amy Gledhill",
-     "role": "Ruby Todd",
-     "photo": "https://image.tmdb.org/t/p/w185/xq08DIRhu4V6KRm5hQV4CxdxPuT.jpg"
-    },
-    {
-     "name": "Annette Badland",
-     "role": "Lou",
-     "photo": "https://image.tmdb.org/t/p/w185/6ZoUX6K4WI2MZrhXb21vU5Mtc6P.jpg"
-    },
-    {
-     "name": "Jon Pointing",
-     "role": "Ash",
-     "photo": "https://image.tmdb.org/t/p/w185/44uiVF37L3jsIq90bBWVFUh8XAB.jpg"
-    },
-    {
-     "name": "Maeve Courtier-Lilley",
-     "role": "Dee Dee",
-     "photo": "https://image.tmdb.org/t/p/w185/b8gS6PXvdxrLqwZLLHvS0s8ZkJk.jpg"
-    },
-    {
-     "name": "Ingrid Oliver",
-     "role": "Yvonne Previdi",
-     "photo": "https://image.tmdb.org/t/p/w185/mHlw4Zn1OFqShcVe3bBnCgIF7cI.jpg"
-    },
-    {
-     "name": "Mark Bazeley",
-     "role": "Jay Stanfield",
-     "photo": "https://image.tmdb.org/t/p/w185/odZ7QyXz8vzoiBPPoqPRMs7y4e4.jpg"
-    },
-    {
-     "name": "Ben Galvin",
-     "role": "Doug Mulzer",
-     "photo": "https://image.tmdb.org/t/p/w185/bwyvHzcybwtNPAzUEGRuv5jVbJI.jpg"
-    },
-    {
-     "name": "Ellie Henry",
-     "role": "Anya Greene",
-     "photo": "https://image.tmdb.org/t/p/w185/maHYB5gU1WEI3gWoLmkQ68y2vkR.jpg"
-    },
-    {
-     "name": "Adrian Greensmith",
-     "role": "Sam Greene",
-     "photo": "https://image.tmdb.org/t/p/w185/6DytXLvZoFH5C0kRNjUIrIPDEZ.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Royaume-Uni",
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "Quay Street Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/hohpZLahlITzZLzXj3umcf7C3d2.png"
-    },
-    {
-     "name": "Final Twist Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/4CiIJO7QTquUWkw2gyLvRyk0ds2.png"
-    },
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 17,
-   "tagline": "Jusqu'où iras-tu pour la ramener ?"
   }
  ]
 }
