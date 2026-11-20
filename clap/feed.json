@@ -1,7 +1,122 @@
 {
  "version": 1,
- "updated": "2026-11-19T20:05:36Z",
+ "updated": "2026-11-20T07:30:33Z",
  "items": [
+  {
+   "id": "movie:tt18351090",
+   "type": "movie",
+   "title": "Menteurs Parfaits",
+   "original_title": "Perfectos mentirosos",
+   "year": 2026,
+   "release_date": "2026-11-20",
+   "overview": "Dans cette adaptation du roman d'Alex Mírez, Jude Derry infiltre l'université privée de Tagus et le cercle des frères Cash afin de découvrir la vérité sur la mort de son frère. Ce qui commence comme une quête de vengeance se transforme en un dangereux triangle de séduction, d'attirance interdite et de mensonges, la rapprochant d'une vérité qu'elle n'est peut-être pas prête à affronter.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Drame",
+    "Romance",
+    "Thriller"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=ctVBkbC1ptI",
+   "poster": "https://image.tmdb.org/t/p/w500/sOlqGOWwHgasYT2tyd9qXKLZCJ0.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/mdBElS5YjpZPkB9DNYjgxwWgXcv.jpg",
+   "logo": "",
+   "imdb_id": "tt18351090",
+   "tmdb_url": "https://www.themoviedb.org/movie/1568060",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt18351090",
+   "added_at": "2026-11-20T07:30:31Z",
+   "tagline": null,
+   "directors": [
+    "Jesús Colmenar"
+   ],
+   "writers": [
+    "Jesús Colmenar",
+    "Ángela Armero"
+   ],
+   "cast": [
+    {
+     "name": "Irene Balmes",
+     "role": "Jude Derry",
+     "photo": "https://image.tmdb.org/t/p/w185/cFDWfFAnx1d1muSJKS1Z4NONqjD.jpg"
+    },
+    {
+     "name": "Gleb Abrosimov",
+     "role": "Aegan Cash",
+     "photo": "https://image.tmdb.org/t/p/w185/7FxcYwxyp5t5RfP0wuRXelhVcd5.jpg"
+    },
+    {
+     "name": "Pau Simon",
+     "role": "Adrik Cash",
+     "photo": "https://image.tmdb.org/t/p/w185/6oyosrmBUREw3Nq9cwKXlkn9pJe.jpg"
+    },
+    {
+     "name": "Pablo Scapigliati",
+     "role": "Aleixandre Cash",
+     "photo": "https://image.tmdb.org/t/p/w185/8VDS2NnHHoinvCuqi9MdEJaUwVx.jpg"
+    },
+    {
+     "name": "Asier Etxeandia",
+     "role": "Adrian Cash",
+     "photo": "https://image.tmdb.org/t/p/w185/pi0zU6nfgUk7tulpgZaVtVZqHBY.jpg"
+    },
+    {
+     "name": "Silvia Kal",
+     "role": "Michelle Cash",
+     "photo": "https://image.tmdb.org/t/p/w185/uqVS85yR6eIJwjWmtRUOX6aDdZV.jpg"
+    },
+    {
+     "name": "Irene Ferreiro",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/d7m9xzfBdRJQBLAHrVvt5y3oNo4.jpg"
+    },
+    {
+     "name": "Manuela Calle",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/vevzhH6YvwBaZrCbbMhCSD3cQb7.jpg"
+    },
+    {
+     "name": "Verónica Moral",
+     "role": "Prof. Lauris",
+     "photo": null
+    },
+    {
+     "name": "Muriel Sanchez",
+     "role": "Madre de Eli",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Espagne",
+    "États-Unis"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "En post-production",
+   "production": [
+    {
+     "name": "Federation Spain",
+     "logo": null
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "WEBTOON Productions",
+     "logo": null
+    },
+    {
+     "name": "Wattpad WEBTOON Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/5jZX93pvheCYowROn9LAz499FC5.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt39161219",
    "type": "series",
@@ -66723,111 +66838,6 @@
     }
    ],
    "tg_id": 15,
-   "tagline": null
-  },
-  {
-   "id": "series:tt33322230",
-   "type": "series",
-   "title": "Les Enfants de plomb",
-   "original_title": "Ołowiane dzieci",
-   "year": 2026,
-   "release_date": "2026-02-11",
-   "overview": "Lorsqu'une jeune médecin découvre que des enfants vivant près d'une fonderie souffrent de saturnisme, elle met en péril sa carrière et sa propre sécurité pour les sauver.",
-   "synopsis_origin": null,
-   "rating": 7.8,
-   "runtime": 66,
-   "genres": [
-    "Drame",
-    "War & Politics"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/zWAttKbTTg4sDeiFkMXMy9GSrjb.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/dAoSF04qV27Wlwdn3cJwY1oYQrH.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/t1oKjElEYGx4E8quUShHMVs0tUt.png",
-   "imdb_id": "tt33322230",
-   "tmdb_url": "https://www.themoviedb.org/tv/270444",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt33322230",
-   "added_at": "2026-06-17T15:04:55Z",
-   "directors": [],
-   "seasons": 1,
-   "episodes": 6,
-   "cast": [
-    {
-     "name": "Joanna Kulig",
-     "role": "Jolanta Wadowska-Król",
-     "photo": "https://image.tmdb.org/t/p/w185/hlRdav6dSvfzyDnSSMooVh9GVxh.jpg"
-    },
-    {
-     "name": "Agata Kulesza",
-     "role": "Professor Berger",
-     "photo": "https://image.tmdb.org/t/p/w185/qOk64HBbyZeJ4o1k9ScOMOtqOXR.jpg"
-    },
-    {
-     "name": "Kinga Preis",
-     "role": "Wiesia Wilczek",
-     "photo": "https://image.tmdb.org/t/p/w185/x6iEzBIWIJxSgCVLU6ksZyYP8NF.jpg"
-    },
-    {
-     "name": "Michał Żurawski",
-     "role": "Hubert Niedziela",
-     "photo": "https://image.tmdb.org/t/p/w185/7Z6MOsobKG31At2cgxa1v3IeG4T.jpg"
-    },
-    {
-     "name": "Marian Dziędziel",
-     "role": "Jerzy Ziętek",
-     "photo": "https://image.tmdb.org/t/p/w185/9hbduQcQMzdBrEwpfh2pnSrBR3h.jpg"
-    },
-    {
-     "name": "Sebastian Pawlak",
-     "role": "Zbyszek Król",
-     "photo": "https://image.tmdb.org/t/p/w185/aahiiItl6e5TCdOK8UNI1i3mhDY.jpg"
-    },
-    {
-     "name": "Zbigniew Zamachowski",
-     "role": "Zdzisław Grudzień",
-     "photo": "https://image.tmdb.org/t/p/w185/qUi05ZXhKoOMOgBkonKOLuIMf0n.jpg"
-    },
-    {
-     "name": "Artur Paczesny",
-     "role": "Priest",
-     "photo": "https://image.tmdb.org/t/p/w185/tybBVOxNuLY1KiovbdNKrDO2fXh.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Pologne"
-   ],
-   "original_language": "Polonais",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "Orient Film",
-     "logo": "https://image.tmdb.org/t/p/w185/vlS72xE2u0jf82STcje0PD96KN.png"
-    },
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 14,
    "tagline": null
   }
  ]
