@@ -1,7 +1,138 @@
 {
  "version": 1,
- "updated": "2026-11-20T13:54:53Z",
+ "updated": "2026-11-20T18:08:11Z",
  "items": [
+  {
+   "id": "movie:tt37846373",
+   "type": "movie",
+   "title": "De la Comédie-Française",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-22",
+   "overview": "Dans 3 heures, Nina dévoile sa première mise en scène à la Comédie-Française. Mais dans l’agitation des dernières répétitions, rien ne se passe comme prévu : retards, coups de stress, problèmes techniques et problèmes d’égo secouent la troupe. Pourtant, Nina n’a pas d’autre choix que d’aller jusqu’au bout car s’il y a bien une règle d’or à la Comédie-Française, c’est qu’on n’annule pas. Commence alors une course contre la montre pour sauver la représentation.",
+   "synopsis_origin": null,
+   "rating": 6.8,
+   "runtime": 75,
+   "genres": [
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=vYSoVcuFxNg",
+   "poster": "https://image.tmdb.org/t/p/w500/3ykToOKrgIlKBOkxpRscXNAkzET.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/5ikboX1fj7GVjVpgcdkR4E6j16A.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/malYLyoLvIXX4wicTjCpijOMZ04.svg",
+   "imdb_id": "tt37846373",
+   "tmdb_url": "https://www.themoviedb.org/movie/1496491",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37846373",
+   "added_at": "2026-11-20T18:08:09Z",
+   "tagline": null,
+   "directors": [
+    "Bertrand Usclat",
+    "Martin Darondeau"
+   ],
+   "writers": [
+    "Bertrand Usclat",
+    "Martin Darondeau",
+    "Clémence Dargent"
+   ],
+   "cast": [
+    {
+     "name": "Pauline Clément",
+     "role": "Nina Cardi",
+     "photo": "https://image.tmdb.org/t/p/w185/nHAaTn6N7yIFWxcgwylIGZDLiC6.jpg"
+    },
+    {
+     "name": "Laurent Stocker",
+     "role": "Philippe Vialle",
+     "photo": "https://image.tmdb.org/t/p/w185/4EhK8uFnlSjoFXi6Mz7a6dSO5W1.jpg"
+    },
+    {
+     "name": "Julien Frison",
+     "role": "Antoine de Nombel",
+     "photo": "https://image.tmdb.org/t/p/w185/8WjUdv56Ipwzbc2fyWGSuO6y5OM.jpg"
+    },
+    {
+     "name": "Marina Hands",
+     "role": "Emilie Hamel",
+     "photo": "https://image.tmdb.org/t/p/w185/nj7gw15uQLxImwsC8iNC2QzKLgJ.jpg"
+    },
+    {
+     "name": "Adeline D'Hermy",
+     "role": "Suzanne Paturel",
+     "photo": "https://image.tmdb.org/t/p/w185/lx16ybQmFwP2WSQNT4Yyrwd9QxZ.jpg"
+    },
+    {
+     "name": "Danièle Lebrun",
+     "role": "Nadine Guimard",
+     "photo": "https://image.tmdb.org/t/p/w185/ljsBazO34i1e2xuFTVZOzBMN2of.jpg"
+    },
+    {
+     "name": "Sefa Yeboah",
+     "role": "Issa, l'ouvreur",
+     "photo": "https://image.tmdb.org/t/p/w185/gW7m5JDTjqVYp2FOrOcdn0d0nWO.jpg"
+    },
+    {
+     "name": "Christian Hecq",
+     "role": "Jacques, le régisseur",
+     "photo": "https://image.tmdb.org/t/p/w185/tWQB5qzKdSjlrWrizmC20RRqpE3.jpg"
+    },
+    {
+     "name": "Serge Bagdassarian",
+     "role": "Thibault, l'administrateur général",
+     "photo": "https://image.tmdb.org/t/p/w185/sXXnFr4TD8NgQtYuWAUdXQ1MpM2.jpg"
+    },
+    {
+     "name": "Sephora Pondi",
+     "role": "Mélanie, la maquilleuse",
+     "photo": "https://image.tmdb.org/t/p/w185/p7KmPpKMtB6XbO97ArMPrBaxsgG.jpg"
+    },
+    {
+     "name": "Florence Viala",
+     "role": "Fabienne, la costumière",
+     "photo": "https://image.tmdb.org/t/p/w185/8L2OF9Yo0GbxGrXihOqPDJ969VK.jpg"
+    },
+    {
+     "name": "Guillaume Gallienne",
+     "role": "Stéphane, le gardien",
+     "photo": "https://image.tmdb.org/t/p/w185/nponKvpwED1CivIY3f2NlQGLWE9.jpg"
+    },
+    {
+     "name": "Benjamin Lavernhe",
+     "role": "Molière",
+     "photo": "https://image.tmdb.org/t/p/w185/e0wFxLvNHS0XmdRKpMeIytDFZmO.jpg"
+    },
+    {
+     "name": "Françoise Gillard",
+     "role": "La ministre de la Culture",
+     "photo": "https://image.tmdb.org/t/p/w185/k497wFgnDnHed1YiNwPenVYz6Zs.jpg"
+    },
+    {
+     "name": "Nicolas Chupin",
+     "role": "Bastien, le père de Sacha",
+     "photo": "https://image.tmdb.org/t/p/w185/dLP97PyuAlJz2vxHmBWg0rGiSlg.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Atelier de Production",
+     "logo": "https://image.tmdb.org/t/p/w185/7116YZNSKt5xKXgO9inx6bH0bq8.png"
+    },
+    {
+     "name": "Zinc",
+     "logo": "https://image.tmdb.org/t/p/w185/4epaEfUBBbjoBvgo99dunfqcARN.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt14413964",
    "type": "movie",
@@ -66534,205 +66665,6 @@
    "tg_id": 19,
    "writers": [
     "Alice Winocour"
-   ],
-   "tagline": null
-  },
-  {
-   "id": "movie:tt36313062",
-   "type": "movie",
-   "title": "Le rêve américain",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-02-18",
-   "overview": "Personne n'aurait parié sur Jérémy, coincé derrière le comptoir d’un vidéo club à Amiens, ou sur Bouna, lorsqu'il faisait des ménages à l’aéroport d’Orly. Sans contacts, sans argent et avec un niveau d'anglais plus qu’approximatif, rien ne les prédestinait à devenir des agents qui comptent en NBA.  Inspiré d’une histoire vraie, ce film raconte le parcours de deux outsiders qui, grâce à leur passion absolue pour le basket et leur amitié indéfectible, ont bravé tous les obstacles pour réaliser leur Rêve Américain.",
-   "synopsis_origin": null,
-   "rating": 7.4,
-   "runtime": 122,
-   "genres": [
-    "Comédie"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "SFR Play",
-    "Apple TV Store",
-    "Rakuten TV",
-    "Canal VOD",
-    "Sooner",
-    "Amazon Video",
-    "TF1+",
-    "Pathé Home",
-    "VIVA by videofutur",
-    "Premiere Max",
-    "ARTE VOD"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=X-wf0nW8E1Q",
-   "poster": "https://image.tmdb.org/t/p/w500/uXGqYv2cahBG062OQ93oMqWQCs5.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/bQPWY2u154jJ5koDp9KcM67Wioi.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/faVChLtRijiKDT4aMshWJ89iGx7.png",
-   "imdb_id": "tt36313062",
-   "tmdb_url": "https://www.themoviedb.org/movie/1365378",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36313062",
-   "added_at": "2026-06-17T22:43:03Z",
-   "directors": [
-    "Anthony Marciano"
-   ],
-   "cast": [
-    {
-     "name": "Jean-Pascal Zadi",
-     "role": "Bouna Ndiaye",
-     "photo": "https://image.tmdb.org/t/p/w185/wkI3RmKxNMtxNBOfSpgMgQsR53K.jpg"
-    },
-    {
-     "name": "Raphaël Quenard",
-     "role": "Jérémy Medjana",
-     "photo": "https://image.tmdb.org/t/p/w185/lMLzNtZKalKX1tO0QHKlfZphg7m.jpg"
-    },
-    {
-     "name": "Gregory Defleur",
-     "role": null,
-     "photo": "https://image.tmdb.org/t/p/w185/x17Y35kVZAIcDKVuEiW1tBUruFq.jpg"
-    },
-    {
-     "name": "David Clark",
-     "role": "L'Organisateur",
-     "photo": "https://image.tmdb.org/t/p/w185/k0daka5I6ZKGI7pKHI340h3U2tr.jpg"
-    },
-    {
-     "name": "Josh Casaubon",
-     "role": "Sean Barnes",
-     "photo": "https://image.tmdb.org/t/p/w185/7i9sGrVLfOQGCHctGuT71rzQD7O.jpg"
-    },
-    {
-     "name": "Etienne Guillou-Kervern",
-     "role": "Gilles Ménez",
-     "photo": "https://image.tmdb.org/t/p/w185/hbNAiy6lw4yKb1oA5hFvSANVP6b.jpg"
-    },
-    {
-     "name": "Gabriel Caballero",
-     "role": "Florian",
-     "photo": "https://image.tmdb.org/t/p/w185/2P6RMhpMvi8jhbWGcVlDOZkH7R1.jpg"
-    },
-    {
-     "name": "Momar Sakanoko",
-     "role": "Sacha",
-     "photo": null
-    },
-    {
-     "name": "Magalie Langrais",
-     "role": "Fille De Layden",
-     "photo": null
-    },
-    {
-     "name": "Olivier Lamarche",
-     "role": "Gary",
-     "photo": "https://image.tmdb.org/t/p/w185/cXildSlWlEY1mEav9L51dfLfdhO.jpg"
-    },
-    {
-     "name": "Olga Mouak",
-     "role": "Fatoumata",
-     "photo": "https://image.tmdb.org/t/p/w185/fMbCPf2BkcSk4g1d0WjqeIvUKDv.jpg"
-    },
-    {
-     "name": "Tracy Gotoas",
-     "role": "Aby",
-     "photo": "https://image.tmdb.org/t/p/w185/sj3SKfnvMTklXRXvClHUwfs4orh.jpg"
-    },
-    {
-     "name": "Marlise Ngadem Bete",
-     "role": "La mère de Bouna",
-     "photo": "https://image.tmdb.org/t/p/w185/8M0FovbTd2JEtNgbT1pBRU1ZUWf.jpg"
-    },
-    {
-     "name": "Yilin Yang",
-     "role": "Zhu",
-     "photo": "https://image.tmdb.org/t/p/w185/s5NPAywEWMxRXbtioC12jJ8C9HV.jpg"
-    },
-    {
-     "name": "Djibi Diakhaté",
-     "role": "Didier M'Benga",
-     "photo": null
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "France",
-    "Canada"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Quad Films",
-     "logo": "https://image.tmdb.org/t/p/w185/9v4haQC4xxHgWCIfFpohzvQP39u.png"
-    },
-    {
-     "name": "France 2 Cinéma",
-     "logo": "https://image.tmdb.org/t/p/w185/9OQ0rm55xtlgX7KcAKMUePJSrQc.png"
-    },
-    {
-     "name": "Gaumont",
-     "logo": "https://image.tmdb.org/t/p/w185/h4zSRszvKHr1tjqEp8voJVahuza.png"
-    },
-    {
-     "name": "Proball Consulting",
-     "logo": null
-    },
-    {
-     "name": "MJ Sports Management",
-     "logo": null
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "SFR Play",
-     "logo": "https://image.tmdb.org/t/p/w92/9yt7CjnySiiOtRFknNWCz3gSyXz.png"
-    },
-    {
-     "name": "Apple TV Store",
-     "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-    },
-    {
-     "name": "Rakuten TV",
-     "logo": "https://image.tmdb.org/t/p/w92/872dfVu1biZISJ8rO143CZZutPR.png"
-    },
-    {
-     "name": "Canal VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/51fX3l4yElitnfui0IkbMUmfmgF.png"
-    },
-    {
-     "name": "Sooner",
-     "logo": "https://image.tmdb.org/t/p/w92/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
-    },
-    {
-     "name": "Amazon Video",
-     "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-    },
-    {
-     "name": "TF1+",
-     "logo": "https://image.tmdb.org/t/p/w92/j5w5U61YwOM6Adiaa5zuEVqrpP8.png"
-    },
-    {
-     "name": "Pathé Home",
-     "logo": "https://image.tmdb.org/t/p/w92/zbXVTncv6m6ojLjPQJeW7u0SYKp.png"
-    },
-    {
-     "name": "VIVA by videofutur",
-     "logo": "https://image.tmdb.org/t/p/w92/uzTONLCUH92RRMSzs206OYtWVml.png"
-    },
-    {
-     "name": "Premiere Max",
-     "logo": "https://image.tmdb.org/t/p/w92/yERf5EH3GjWMB0ZSWPaov1kCKrR.png"
-    },
-    {
-     "name": "ARTE VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/z32NGSc2wYxQzcOc24iXK8q35A1.png"
-    }
-   ],
-   "tg_id": 18,
-   "writers": [
-    "Anthony Marciano"
    ],
    "tagline": null
   }
