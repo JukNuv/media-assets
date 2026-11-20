@@ -1,7 +1,97 @@
 {
  "version": 1,
- "updated": "2026-11-20T08:03:25Z",
+ "updated": "2026-11-20T12:02:49Z",
  "items": [
+  {
+   "id": "series:tt38336631",
+   "type": "series",
+   "title": "The Blue Road",
+   "original_title": "푸른길",
+   "year": 2026,
+   "release_date": "2026-11-20",
+   "overview": "Quand d'atroces meurtres avec de mystérieux messages impliquent deux pays, deux inspecteurs font équipe au-delà des frontières. Mais la sombre vérité s'avère dangereusement proche.",
+   "synopsis_origin": null,
+   "rating": 10.0,
+   "runtime": 48,
+   "genres": [
+    "Crime",
+    "Mystère"
+   ],
+   "status": "Terminée",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=n1omQI6g3v0",
+   "poster": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/jjVu38OY11pNEHQrFNWp2kH6TX5.png",
+   "imdb_id": "tt38336631",
+   "tmdb_url": "https://www.themoviedb.org/tv/300523",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38336631",
+   "added_at": "2026-11-20T12:02:47Z",
+   "tagline": "Des meurtres brutaux, au-delà des frontières : la vérité tordue vous attend.",
+   "directors": [
+    "한준희",
+    "조유진"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Son Seok-koo",
+     "role": "Kim Seok",
+     "photo": "https://image.tmdb.org/t/p/w185/natZWFVBAWLKWCYebgVGywHtsME.jpg"
+    },
+    {
+     "name": "Eita Nagayama",
+     "role": "Inose",
+     "photo": "https://image.tmdb.org/t/p/w185/10Q2xdJyMJ4Bngx8NDYtFbBcWLQ.jpg"
+    },
+    {
+     "name": "Kim Shin-rok",
+     "role": "Ri Yoon-ok",
+     "photo": "https://image.tmdb.org/t/p/w185/x4zo2mSbehnQY80PbuldAZ7ruGm.jpg"
+    },
+    {
+     "name": "최성은",
+     "role": "Government agent",
+     "photo": "https://image.tmdb.org/t/p/w185/sbtcXMrHoFVyX2Mw5s5NDryaUaM.jpg"
+    },
+    {
+     "name": "Jung Jae-young",
+     "role": "Mysterious man",
+     "photo": "https://image.tmdb.org/t/p/w185/xeiFPl5GOHemLGGMpvzeiK0Nlpm.jpg"
+    },
+    {
+     "name": "나호원",
+     "role": "Express bus driver",
+     "photo": "https://image.tmdb.org/t/p/w185/9lmM8KcpUPDy7NYzyfTIOoVIdkC.jpg"
+    },
+    {
+     "name": "배건희",
+     "role": "Yakuza cell leader",
+     "photo": "https://image.tmdb.org/t/p/w185/p1qr9gLqMNX9qenVQZMdYLmckkv.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Corée du Sud"
+   ],
+   "original_language": "Coréen",
+   "tmdb_status": "Terminée",
+   "production": [
+    {
+     "name": "SHOTCAKE",
+     "logo": null
+    },
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt43620104",
    "type": "series",
@@ -66653,137 +66743,6 @@
    ],
    "tg_id": 17,
    "tagline": "Jusqu'où iras-tu pour la ramener ?"
-  },
-  {
-   "id": "series:tt39317974",
-   "type": "series",
-   "title": "Indomptables",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-01-07",
-   "overview": "Une grande saga familiale aux accents country, qui raconte l´histoire de deux clans, celui de la très influente famille Richer, propriétaire des Entreprises Richer, menée par Philippe, un homme admiré de tous; et celui des redoutables Martineau, producteurs agricoles, mal-aimés dans la communauté et dirigés par le rustre Michel.",
-   "synopsis_origin": null,
-   "rating": null,
-   "runtime": 43,
-   "genres": [
-    "Drame"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/mKXvScJKWpS9DzraWTMOSMdYGNv.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/cngBkbCAiXbjjq6Vv7ZiciPbwKS.jpg",
-   "logo": "",
-   "imdb_id": "tt39317974",
-   "tmdb_url": "https://www.themoviedb.org/tv/310311",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39317974",
-   "added_at": "2026-06-17T19:04:41Z",
-   "directors": [],
-   "seasons": 1,
-   "episodes": 17,
-   "cast": [
-    {
-     "name": "Benoît Gouin",
-     "role": "Philippe Richer",
-     "photo": "https://image.tmdb.org/t/p/w185/gk9ATIRu5EeMoK0VYNK7TOS7XDc.jpg"
-    },
-    {
-     "name": "Marianne Fortier",
-     "role": "Samuelle Richer",
-     "photo": "https://image.tmdb.org/t/p/w185/m6gRtt6whrLGqcxtoiG40p84voS.jpg"
-    },
-    {
-     "name": "Marilou Morin",
-     "role": "Julie Cloutier",
-     "photo": "https://image.tmdb.org/t/p/w185/u4MmaOusr7DFcP0wNyI19KlVQrt.jpg"
-    },
-    {
-     "name": "Catherine Paquin-Béchard",
-     "role": "Jessica Martineau",
-     "photo": "https://image.tmdb.org/t/p/w185/5vVYSLX9IK4lNJIHVCgtvwzomll.jpg"
-    },
-    {
-     "name": "Geneviève Rochette",
-     "role": "Évelyne Lavoie-Richer",
-     "photo": "https://image.tmdb.org/t/p/w185/dLmEkfReu53d5JYV3hcKArpYaZJ.jpg"
-    },
-    {
-     "name": "Félix-Antoine Duval",
-     "role": "Sébastien Martineau",
-     "photo": "https://image.tmdb.org/t/p/w185/15Q69Dz9Aq9YOdNIKJWWeIhmuB8.jpg"
-    },
-    {
-     "name": "Olivier Renaud",
-     "role": "Ryan Cardinal",
-     "photo": "https://image.tmdb.org/t/p/w185/r1PKI00FM4kovA2AQfnWhC1BU13.jpg"
-    },
-    {
-     "name": "Émile Ouellette",
-     "role": "Paul Richer",
-     "photo": "https://image.tmdb.org/t/p/w185/26S644rB5KA2J9X3QBKkENQqqeQ.jpg"
-    },
-    {
-     "name": "Félix-Antoine Bénard",
-     "role": "Louis Martineau",
-     "photo": "https://image.tmdb.org/t/p/w185/exazoduXozNhJQbrfdRBTPoA5CL.jpg"
-    },
-    {
-     "name": "Alexandre Bacon",
-     "role": "Nicolas Richer",
-     "photo": "https://image.tmdb.org/t/p/w185/tDwsKcoatoAvbjEZOqwgnKCuWTo.jpg"
-    },
-    {
-     "name": "Stéphane Demers",
-     "role": "Michel Martineau",
-     "photo": "https://image.tmdb.org/t/p/w185/2v9QG0p2etSzCj44D23PPkbjIfO.jpg"
-    },
-    {
-     "name": "Chanel Mings",
-     "role": "Chanelle Pelletier",
-     "photo": "https://image.tmdb.org/t/p/w185/gpndHW9wp2mJTM80g8WIpJnbanp.jpg"
-    },
-    {
-     "name": "Hubert Proulx",
-     "role": "David Beaufort",
-     "photo": "https://image.tmdb.org/t/p/w185/iWuY4HC7SitXXg1lrP67dXSCgbq.jpg"
-    },
-    {
-     "name": "Stéphane Jacques",
-     "role": "René Vaillancourt",
-     "photo": "https://image.tmdb.org/t/p/w185/rLWOmgzfYfm0due2db4vNQrbk0V.jpg"
-    },
-    {
-     "name": "Jean-Moïse Martin",
-     "role": "Marc-André Delorme",
-     "photo": "https://image.tmdb.org/t/p/w185/ihMm8Qh3pCN6Nmb1gSwSHcIdAxm.jpg"
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "Canada"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Productions Déferlantes",
-     "logo": "https://image.tmdb.org/t/p/w185/k8kLDysuADf5nDn0JIjV1mcSIPR.png"
-    },
-    {
-     "name": "TVA",
-     "logo": "https://image.tmdb.org/t/p/w185/gc3SsJUQa7mGnHLds13zzoxG3zd.png"
-    },
-    {
-     "name": "illico+",
-     "logo": "https://image.tmdb.org/t/p/w185/mknFA0acZOG2DYemX6FY1yaiY6W.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 16,
-   "tagline": null
   }
  ]
 }
