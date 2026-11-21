@@ -1,7 +1,143 @@
 {
  "version": 1,
- "updated": "2026-11-20T18:08:11Z",
+ "updated": "2026-11-21T19:50:46Z",
  "items": [
+  {
+   "id": "movie:tt33402927",
+   "type": "movie",
+   "title": "Vicentina demande pardon",
+   "original_title": "Vicentina Pede Desculpas",
+   "year": 2026,
+   "release_date": "2026-11-05",
+   "overview": "Un accident mortel. Une mère rongée par la culpabilité. Des familles en deuil. Vicentina veut réparer le mal causé par son fils. Mais est-il trop tard pour obtenir le pardon ?",
+   "synopsis_origin": null,
+   "rating": 8.4,
+   "runtime": 148,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "TRUEFRENCH",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Netflix",
+    "Netflix Standard with Ads"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/j3jheqT8incVBBtB9dTXdvavu2i.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/u4Kik19IGHSEebJEs0U1JP2J4BG.png",
+   "imdb_id": "tt33402927",
+   "tmdb_url": "https://www.themoviedb.org/movie/1307474",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt33402927",
+   "added_at": "2026-11-21T19:50:45Z",
+   "tagline": null,
+   "directors": [
+    "Gabriel Martins"
+   ],
+   "writers": [
+    "Gabriel Martins"
+   ],
+   "cast": [
+    {
+     "name": "Rejane Faria",
+     "role": "Vicentina",
+     "photo": "https://image.tmdb.org/t/p/w185/iie8IOxVZF6JXB416EanhE2bqkT.jpg"
+    },
+    {
+     "name": "Maíra Azevedo",
+     "role": "Joana",
+     "photo": "https://image.tmdb.org/t/p/w185/xYQfXAbP55oGag2JYAP0opVtVRX.jpg"
+    },
+    {
+     "name": "Thalma de Freitas",
+     "role": "Cleide",
+     "photo": "https://image.tmdb.org/t/p/w185/l5V2w20y5NhvyTOCaEx0dW3CWE.jpg"
+    },
+    {
+     "name": "Grace Passô",
+     "role": "Isabel",
+     "photo": "https://image.tmdb.org/t/p/w185/xzomAlvVQor81adGhWjf94F6rP0.jpg"
+    },
+    {
+     "name": "Giovanna Heliodoro",
+     "role": "Gisele",
+     "photo": null
+    },
+    {
+     "name": "Renato Novaes",
+     "role": "Wesley/Bruno",
+     "photo": "https://image.tmdb.org/t/p/w185/gXdCJC9QPTC60gRwR2ZRPVCCkqX.jpg"
+    },
+    {
+     "name": "Karine Teles",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/tuefwgcWVmjlTs11mvRaxtyKiLp.jpg"
+    },
+    {
+     "name": "Flávio Bauraqui",
+     "role": "Luiz",
+     "photo": "https://image.tmdb.org/t/p/w185/kqTAOpegEqpssNhrlSYgrFJGX5Y.jpg"
+    },
+    {
+     "name": "Giovanni Venturini",
+     "role": "Fred",
+     "photo": "https://image.tmdb.org/t/p/w185/5a9aRC7a7J4qRlXebuT4Al1Rmax.jpg"
+    },
+    {
+     "name": "Marisa Revert",
+     "role": "Vera",
+     "photo": null
+    },
+    {
+     "name": "Fernanda Vianna",
+     "role": "Marta",
+     "photo": "https://image.tmdb.org/t/p/w185/9YxnEdbyc0gSdz140gyBKkRBK3O.jpg"
+    },
+    {
+     "name": "Clébia Sousa",
+     "role": "Solange",
+     "photo": "https://image.tmdb.org/t/p/w185/kv16b3s2xZFL5uCP3RwZltFaWz4.jpg"
+    },
+    {
+     "name": "Fábio Leal",
+     "role": "Victor",
+     "photo": "https://image.tmdb.org/t/p/w185/jxC38r6LxQ1ncPUkpgo1D4CNs1w.jpg"
+    },
+    {
+     "name": "Docy Moreira",
+     "role": "Marluce",
+     "photo": null
+    },
+    {
+     "name": "Carlos Francisco",
+     "role": "Antônio",
+     "photo": "https://image.tmdb.org/t/p/w185/ihf4bN4GuScyA2QwlzVCnPqOuOo.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Brésil"
+   ],
+   "original_language": "Portugais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Filmes de Plástico",
+     "logo": "https://image.tmdb.org/t/p/w185/wPQrM2TrAnYi93HkRlmu7vYvZhX.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Netflix",
+     "logo": null
+    },
+    {
+     "name": "Netflix Standard with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt37846373",
    "type": "movie",
@@ -66474,197 +66610,6 @@
     "Morade Aïssaoui",
     "Sledge Bidounga",
     "Kamel Guemra"
-   ],
-   "tagline": null
-  },
-  {
-   "id": "movie:tt34688195",
-   "type": "movie",
-   "title": "Coutures",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-02-18",
-   "overview": "À Paris, dans le tumulte de la Fashion Week, Maxine, une réalisatrice américaine apprend une nouvelle qui va bouleverser sa vie. Elle croise alors le chemin d’Ada, une jeune mannequin Sud‐Soudanaise ayant quitté son pays, et Angèle, une maquilleuse française aspirant à une autre vie. Entre ces trois femmes aux horizons pourtant si différents se tisse une solidarité insoupçonnée. Sous le vernis glamour se révèle une forme de révolte silencieuse : celle de femmes qui recousent, chacune à sa manière, les fils de leur propre histoire.",
-   "synopsis_origin": null,
-   "rating": 6.3,
-   "runtime": 106,
-   "genres": [
-    "Drame"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Canal+",
-    "Apple TV Store",
-    "Rakuten TV",
-    "Canal VOD",
-    "Sooner",
-    "Amazon Video",
-    "TF1+",
-    "Pathé Home",
-    "VIVA by videofutur",
-    "Premiere Max",
-    "Arte VOD"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=UsUDEFfZiys",
-   "poster": "https://image.tmdb.org/t/p/w500/zN2hnZzj3DjJH2CzB76kDo1zYFu.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/5lEkxVkhxYyLYQu59q8mwypzpez.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/u7V9GU4D28sFS39xIH6pEBtksA.png",
-   "imdb_id": "tt34688195",
-   "tmdb_url": "https://www.themoviedb.org/movie/1390382",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34688195",
-   "added_at": "2026-06-17T22:43:05Z",
-   "directors": [
-    "Alice Winocour"
-   ],
-   "cast": [
-    {
-     "name": "Angelina Jolie",
-     "role": "Maxine Walker",
-     "photo": "https://image.tmdb.org/t/p/w185/bXNxIKcJ5cNNW8QFrBPWcfTSu9x.jpg"
-    },
-    {
-     "name": "Anyier Anei",
-     "role": "Ada",
-     "photo": "https://image.tmdb.org/t/p/w185/3jjM2S7X13ONA4s45nr2o4HkDZE.jpg"
-    },
-    {
-     "name": "Ella Rumpf",
-     "role": "Angèle",
-     "photo": "https://image.tmdb.org/t/p/w185/4igT9ZxHs26m6ttyMcZH50NrWgd.jpg"
-    },
-    {
-     "name": "Louis Garrel",
-     "role": "Anton",
-     "photo": "https://image.tmdb.org/t/p/w185/iKJ1SL0im6tJVnE777HNLX2kUeG.jpg"
-    },
-    {
-     "name": "Vincent Lindon",
-     "role": "Dr. Laurent Hansen",
-     "photo": "https://image.tmdb.org/t/p/w185/tjRKMKfsIH7MrqtN7cMPIZubSXa.jpg"
-    },
-    {
-     "name": "Garance Marillier",
-     "role": "Christine",
-     "photo": "https://image.tmdb.org/t/p/w185/gPIOhXZDUYE8wDbL5s12H7i6uzK.jpg"
-    },
-    {
-     "name": "Grégoire Colin",
-     "role": "Le directeur d'image",
-     "photo": "https://image.tmdb.org/t/p/w185/jtolsceVVsMT1wWi8m8pdtaUE4f.jpg"
-    },
-    {
-     "name": "Aurore Clément",
-     "role": "Anne",
-     "photo": "https://image.tmdb.org/t/p/w185/mS97i9fMcFAu1RqYbFlh3g4JdE4.jpg"
-    },
-    {
-     "name": "Yuliia Ratner",
-     "role": "Julia",
-     "photo": null
-    },
-    {
-     "name": "Mona Tougaard",
-     "role": "Mona",
-     "photo": null
-    },
-    {
-     "name": "Hunter David",
-     "role": "Hunter",
-     "photo": null
-    },
-    {
-     "name": "Joana Preiss",
-     "role": "Joana",
-     "photo": "https://image.tmdb.org/t/p/w185/aP3PslnXvprm0MMcAv8FuVwr3bg.jpg"
-    },
-    {
-     "name": "Finnegan Oldfield",
-     "role": "Tim",
-     "photo": "https://image.tmdb.org/t/p/w185/mvc8BnamGxAyU4gfe5K7TvgB9OZ.jpg"
-    },
-    {
-     "name": "Nicolas Avinée",
-     "role": "Assistant Maxine",
-     "photo": "https://image.tmdb.org/t/p/w185/dpL7oZ04F1cbdbgMjn21Zw43wNk.jpg"
-    },
-    {
-     "name": "Nina Marker",
-     "role": "Nina",
-     "photo": null
-    }
-   ],
-   "age_rating": "TP",
-   "countries": [
-    "France",
-    "États-Unis"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "CG Cinéma",
-     "logo": "https://image.tmdb.org/t/p/w185/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png"
-    },
-    {
-     "name": "Closer Media",
-     "logo": "https://image.tmdb.org/t/p/w185/7M5wbBecXNrhM7u0Mxg4kvj8wZv.png"
-    },
-    {
-     "name": "France 3 Cinéma",
-     "logo": "https://image.tmdb.org/t/p/w185/q5I5RDwMEiqoNmfaJgd2LraEOJY.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Canal+",
-     "logo": "https://image.tmdb.org/t/p/w92/gliWKhLJVdm7QwL1braBCRko5dx.png"
-    },
-    {
-     "name": "Apple TV Store",
-     "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-    },
-    {
-     "name": "Rakuten TV",
-     "logo": "https://image.tmdb.org/t/p/w92/872dfVu1biZISJ8rO143CZZutPR.png"
-    },
-    {
-     "name": "Canal VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/51fX3l4yElitnfui0IkbMUmfmgF.png"
-    },
-    {
-     "name": "Sooner",
-     "logo": "https://image.tmdb.org/t/p/w92/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
-    },
-    {
-     "name": "Amazon Video",
-     "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-    },
-    {
-     "name": "TF1+",
-     "logo": "https://image.tmdb.org/t/p/w92/j5w5U61YwOM6Adiaa5zuEVqrpP8.png"
-    },
-    {
-     "name": "Pathé Home",
-     "logo": "https://image.tmdb.org/t/p/w92/zbXVTncv6m6ojLjPQJeW7u0SYKp.png"
-    },
-    {
-     "name": "VIVA by videofutur",
-     "logo": "https://image.tmdb.org/t/p/w92/uzTONLCUH92RRMSzs206OYtWVml.png"
-    },
-    {
-     "name": "Premiere Max",
-     "logo": "https://image.tmdb.org/t/p/w92/yERf5EH3GjWMB0ZSWPaov1kCKrR.png"
-    },
-    {
-     "name": "Arte VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/z32NGSc2wYxQzcOc24iXK8q35A1.png"
-    }
-   ],
-   "tg_id": 19,
-   "writers": [
-    "Alice Winocour"
    ],
    "tagline": null
   }
