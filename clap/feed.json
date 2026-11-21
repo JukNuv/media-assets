@@ -1,7 +1,114 @@
 {
  "version": 1,
- "updated": "2026-11-21T19:50:46Z",
+ "updated": "2026-11-21T19:50:55Z",
  "items": [
+  {
+   "id": "movie:tt37456019",
+   "type": "movie",
+   "title": "Triple je",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-19",
+   "overview": "Ils se ressemblent comme trois gouttes d’eau… mais n’ont rien d’autre en commun ! À 45 ans, Richard Deltour, cadre rigide et tradi, découvre du jour au lendemain qu’il a deux frères jumeaux ! Le premier, David, dirige une association LGBTQIA+ et milite pour un monde plus inclusif. Le second, José, arnaqueur sans talent, enchaîne les galères avec un certain panache, mais la dernière en date pourrait bien lui coûter la vie. Pour Richard, ces retrouvailles virent à la catastrophe : il a maintenant une semaine pour ne pas perdre son job, et surtout son épouse, Alice, qui s’apprête à le quitter. Ces triplés que tout oppose vont devoir apprendre à se supporter, et aussi à s’entraider… Et qui sait, peut-être même arriveront-ils à s’apprécier un peu ? Voire à s’aimer ?",
+   "synopsis_origin": null,
+   "rating": 5.7,
+   "runtime": 90,
+   "genres": [
+    "Comédie",
+    "Téléfilm"
+   ],
+   "lang_tag": "FRENCH",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Molotov TV"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/9vArUYMgYvkOGCtSjMXcqandKIn.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/dl6Z0aQL3sGgdSQ3X8Lvwaj3czM.jpg",
+   "logo": "",
+   "imdb_id": "tt37456019",
+   "tmdb_url": "https://www.themoviedb.org/movie/1509399",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37456019",
+   "added_at": "2026-11-21T19:50:53Z",
+   "tagline": null,
+   "directors": [
+    "Gaël Leforestier"
+   ],
+   "writers": [
+    "Gaël Leforestier",
+    "Julien Leimdorfer",
+    "Jean-Luc Cano"
+   ],
+   "cast": [
+    {
+     "name": "Arnaud Ducret",
+     "role": "Richard Deltour / David / José",
+     "photo": "https://image.tmdb.org/t/p/w185/k4wixf8xKSym0GTcYFRov6PgEj7.jpg"
+    },
+    {
+     "name": "Barbara Schulz",
+     "role": "Alice",
+     "photo": "https://image.tmdb.org/t/p/w185/dVKszfah7xsde8WGtrk2QX3rrNJ.jpg"
+    },
+    {
+     "name": "Julien Boisselier",
+     "role": "Patrice Charron",
+     "photo": "https://image.tmdb.org/t/p/w185/eHlVjvfMoc6VjvfkM04hODA1VCu.jpg"
+    },
+    {
+     "name": "François Levantal",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/8whjE5A9QxoPXho6dfmfOTmbRZM.jpg"
+    },
+    {
+     "name": "Noam Sinseau",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/2fYZL7bRA5IqyV0B61judlUlSyt.jpg"
+    },
+    {
+     "name": "Kody Kim",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/b88y3dTfTz1JoEgw2rDxCP27j8Z.jpg"
+    },
+    {
+     "name": "Marie Vincent",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/jemW4PS7X0qoHrB7nYufe8Bvlor.jpg"
+    },
+    {
+     "name": "Firmine Richard",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/nuwDEFzuA9Lh2rCqIjfL6GL7zXC.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Calt Story",
+     "logo": null
+    },
+    {
+     "name": "M6",
+     "logo": "https://image.tmdb.org/t/p/w185/g7p4vSwqsIo6zYptyN3hoDxFp7y.png"
+    },
+    {
+     "name": "KB Studios",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Molotov TV",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt33402927",
    "type": "movie",
@@ -66434,183 +66541,6 @@
     }
    ],
    "tg_id": 23,
-   "tagline": null
-  },
-  {
-   "id": "movie:tt35890599",
-   "type": "movie",
-   "title": "N121 Bus de nuit",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-02-04",
-   "overview": "Oscar, Simon et Aïssa, trois amis d’enfance, vont à Paris pour fêter une bonne nouvelle. Mais dans le bus de nuit qui les ramène chez eux, le N121, un échange entre passagers dégénère et la situation dérape.",
-   "synopsis_origin": null,
-   "rating": 6.1,
-   "runtime": 90,
-   "genres": [
-    "Thriller"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Apple TV Store",
-    "Rakuten TV",
-    "Canal VOD",
-    "Sooner",
-    "Amazon Video",
-    "VIVA by videofutur",
-    "Premiere Max",
-    "ARTE VOD"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=jBD-u_WfVhM",
-   "poster": "https://image.tmdb.org/t/p/w500/kyqgCGP7GkAeBD5wTErqoABzY1u.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/2Pibybzy2hSe74KTNAxja4OJ5hj.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/nwIfcILrAFbFN1ITrQidDRKN2Lz.png",
-   "imdb_id": "tt35890599",
-   "tmdb_url": "https://www.themoviedb.org/movie/1433929",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt35890599",
-   "added_at": "2026-06-18T06:03:22Z",
-   "directors": [
-    "Morade Aïssaoui"
-   ],
-   "cast": [
-    {
-     "name": "Riadh Belaïche",
-     "role": "Aïssa",
-     "photo": "https://image.tmdb.org/t/p/w185/225hxWQ49iK5pFbyZes5YhDDecc.jpg"
-    },
-    {
-     "name": "Bakary Diombera",
-     "role": "Oscar",
-     "photo": "https://image.tmdb.org/t/p/w185/3huF1EzLjKDF58up144qsftH6YZ.jpg"
-    },
-    {
-     "name": "Gaspard Gevin-Hié",
-     "role": "Simon",
-     "photo": "https://image.tmdb.org/t/p/w185/jC37cl2MapwNsHjOXecOlSJg31d.jpg"
-    },
-    {
-     "name": "Mylène Jampanoï",
-     "role": "Johanna",
-     "photo": "https://image.tmdb.org/t/p/w185/mTEI86ajYXgOLimGrOKxtHFV1Ek.jpg"
-    },
-    {
-     "name": "Paola Locatelli",
-     "role": "Mona",
-     "photo": "https://image.tmdb.org/t/p/w185/mWojsDCUKV6LwfMjVYTrDCLSEyO.jpg"
-    },
-    {
-     "name": "Arben Bajraktaraj",
-     "role": "Dimitri",
-     "photo": "https://image.tmdb.org/t/p/w185/gohEi2zGCW40tah5ZJGZlHukmfB.jpg"
-    },
-    {
-     "name": "Jérémie Covillault",
-     "role": "Barth",
-     "photo": "https://image.tmdb.org/t/p/w185/z2Iya5Rm5UA31RDzBIkrabFboSQ.jpg"
-    },
-    {
-     "name": "Damien Jouillerot",
-     "role": "Philippe",
-     "photo": "https://image.tmdb.org/t/p/w185/tVlPUpSCg4fONZFGpq4kZDuTfzp.jpg"
-    },
-    {
-     "name": "Audrey Marnay",
-     "role": "Josiane",
-     "photo": "https://image.tmdb.org/t/p/w185/fdTJyq0jRzLXOwECNmeJ7gbU0mw.jpg"
-    },
-    {
-     "name": "Aissatou Diallo Sagna",
-     "role": "Aminata",
-     "photo": "https://image.tmdb.org/t/p/w185/s3rXeI9GT9KKHu6ZScuD9zFuEK6.jpg"
-    },
-    {
-     "name": "Laurence Oltuski",
-     "role": "Marie-Andrée",
-     "photo": null
-    },
-    {
-     "name": "Azad Boutella",
-     "role": "Abdel Ali",
-     "photo": "https://image.tmdb.org/t/p/w185/sZao6CNQsfM9qdWhqa74DUK0Gdf.jpg"
-    },
-    {
-     "name": "Lucie Charles-Alfred",
-     "role": "Sarrah",
-     "photo": "https://image.tmdb.org/t/p/w185/dGsyrX7TNn7aszRqGJwo3LKgvw6.jpg"
-    },
-    {
-     "name": "Bounsy Luang Phinith",
-     "role": "Mathieu",
-     "photo": null
-    },
-    {
-     "name": "Beidja Yahiaoui",
-     "role": "Samia",
-     "photo": "https://image.tmdb.org/t/p/w185/3AdyfYbErDhAaC78bbxVmQWSq1L.jpg"
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "France"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Ripley films",
-     "logo": null
-    },
-    {
-     "name": "Cheyenne Federation",
-     "logo": "https://image.tmdb.org/t/p/w185/qzt3zYa0nrQQJy1VJCmbbHfOGAm.png"
-    },
-    {
-     "name": "Wild Bunch",
-     "logo": "https://image.tmdb.org/t/p/w185/3tfzS2CrX6Ntbu927XzHXEPDA6y.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Apple TV Store",
-     "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-    },
-    {
-     "name": "Rakuten TV",
-     "logo": "https://image.tmdb.org/t/p/w92/872dfVu1biZISJ8rO143CZZutPR.png"
-    },
-    {
-     "name": "Canal VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/51fX3l4yElitnfui0IkbMUmfmgF.png"
-    },
-    {
-     "name": "Sooner",
-     "logo": "https://image.tmdb.org/t/p/w92/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
-    },
-    {
-     "name": "Amazon Video",
-     "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-    },
-    {
-     "name": "VIVA by videofutur",
-     "logo": "https://image.tmdb.org/t/p/w92/uzTONLCUH92RRMSzs206OYtWVml.png"
-    },
-    {
-     "name": "Premiere Max",
-     "logo": "https://image.tmdb.org/t/p/w92/yERf5EH3GjWMB0ZSWPaov1kCKrR.png"
-    },
-    {
-     "name": "ARTE VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/z32NGSc2wYxQzcOc24iXK8q35A1.png"
-    }
-   ],
-   "tg_id": 22,
-   "writers": [
-    "Morade Aïssaoui",
-    "Sledge Bidounga",
-    "Kamel Guemra"
-   ],
    "tagline": null
   }
  ]
