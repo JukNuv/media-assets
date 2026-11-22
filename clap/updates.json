@@ -1,12 +1,12 @@
 {
   "updated": "2026-11-22",
   "cinebox": {
-    "versionCode": 12,
-    "versionName": "1.0.11",
-    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.11/CineBoX-1.0.11.apk",
-    "sha256": "838e0b259a22a226b6b53c820b1ae03958f28ca6c7283a7bd5b21f7c2d656014",
-    "size": 41318139,
-    "notes": "La télécommande de votre télévision : lancer un titre, sources, langues, épisodes, clavier et voix. Plusieurs télévisions avec l'avatar du profil qui regarde. Fire TV Stick pris en charge avec CineBoX Link."
+    "versionCode": 13,
+    "versionName": "1.0.12",
+    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.12/CineBoX-1.0.12.apk",
+    "sha256": "04d66ac7faa11e49c94d5b1b83c2b2360cd514cb920402b09384f4f4bff4b7b7",
+    "size": 41318143,
+    "notes": "Bande-annonce en plein écran : touchez la photo d'un acteur ou de l'équipe pour ouvrir sa fiche."
   },
   "link": {
     "versionCode": 12,
