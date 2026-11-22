@@ -1,0 +1,39 @@
+{
+  "updated": "2026-11-22",
+  "cinebox": {
+    "versionCode": 12,
+    "versionName": "1.0.11",
+    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.11/CineBoX-1.0.11.apk",
+    "sha256": "838e0b259a22a226b6b53c820b1ae03958f28ca6c7283a7bd5b21f7c2d656014",
+    "size": 41318139,
+    "notes": "La télécommande de votre télévision : lancer un titre, sources, langues, épisodes, clavier et voix. Plusieurs télévisions avec l'avatar du profil qui regarde. Fire TV Stick pris en charge avec CineBoX Link."
+  },
+  "link": {
+    "versionCode": 12,
+    "versionName": "1.0.11",
+    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.11/CineBoX-Link-1.0.11.apk",
+    "sha256": "ec9b4fd8ba521ae28ea8a1b0e885cdec63d19772afcfc00797c7c948cfdc88ca",
+    "size": 731692,
+    "notes": "Commandes complètes (flèches, OK, retour, texte) sans télécommande Google, pour Fire TV Stick. Indique ce que joue la télévision."
+  },
+  "nuvio_tv": {
+    "package": "com.nuviodebug.com",
+    "versionCode": 1078,
+    "versionName": "1.1.0-scrob.1",
+    "arm64": {
+      "versionCode": 1078,
+      "versionName": "1.1.0-scrob.1",
+      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.0-scrob.1-1078/Nuvio-TV-avec-Scrob-arm64.apk",
+      "sha256": "e21f4395efe0557383afbf8b2412f39621dfb52003586d64af17a2dc0124cb37",
+      "size": 75748917
+    },
+    "armv7": {
+      "versionCode": 1078,
+      "versionName": "1.1.0-scrob.1",
+      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.0-scrob.1-1078/Nuvio-TV-avec-Scrob-armv7.apk",
+      "sha256": "8381237a3cd3a9ba9bd2b7aaf67f6d21a6fb8d4ad7f99fa6c5f1a50fdbd67a14",
+      "size": 73871509
+    },
+    "notes": "Sources, langues et infos du flux depuis le téléphone, reprise locale en attendant Scrob, ce que joue la télévision et le profil actif."
+  }
+}
