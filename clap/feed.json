@@ -1,7 +1,161 @@
 {
  "version": 1,
- "updated": "2026-11-21T19:50:55Z",
+ "updated": "2026-11-22T08:03:16Z",
  "items": [
+  {
+   "id": "series:tt23734948",
+   "type": "series",
+   "title": "The Pendragon Cycle: Rise of the Merlin",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-01-22",
+   "overview": "Merlin, fils immortel du barde Taliesin et de la princesse atlante Charis, est au cœur de son enfance tragique, de sa descente aux enfers et de sa disparition mystérieuse, donnant naissance à la légende qui l'entoure. Se déroulant avant la naissance du roi Arthur, l'histoire raconte la réapparition de Merlin, que l'on croyait mort ou un mythe, dans la Bretagne post-romaine, afin d'unir les royaumes divisés et menacés par les envahisseurs saxons.",
+   "synopsis_origin": null,
+   "rating": 7.8,
+   "runtime": 69,
+   "genres": [
+    "Science-Fiction & Fantastique",
+    "Action & Adventure",
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video",
+    "Amazon Prime Video with Ads"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=RkmT-kZIHNU",
+   "poster": "https://image.tmdb.org/t/p/w500/wXfTsO7pqAqo94f0AHaas9rjBNh.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/lDmFwAaHL1kXnAfZeUTieAdUTko.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/5ifL8RLNkrqche05zaspnrcVqba.png",
+   "imdb_id": "tt23734948",
+   "tmdb_url": "https://www.themoviedb.org/tv/235685",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt23734948",
+   "added_at": "2026-11-22T08:03:14Z",
+   "tagline": null,
+   "directors": [
+    "Jeremy Boreing"
+   ],
+   "seasons": 1,
+   "episodes": 7,
+   "cast": [
+    {
+     "name": "Tom Sharp",
+     "role": "Merlin",
+     "photo": "https://image.tmdb.org/t/p/w185/mqH0Wnm2SP5d2kXjdD55X5beRX4.jpg"
+    },
+    {
+     "name": "Rose Reid",
+     "role": "Charis",
+     "photo": "https://image.tmdb.org/t/p/w185/mtYxHu4GC3Imdf0jwF5OOy8Sv0T.jpg"
+    },
+    {
+     "name": "Paul Clerkin",
+     "role": "Hafgan",
+     "photo": "https://image.tmdb.org/t/p/w185/aZjlLMj3j8vXDOKkfuShfNPkiyU.jpg"
+    },
+    {
+     "name": "Brett Cooper",
+     "role": "Ganieda",
+     "photo": "https://image.tmdb.org/t/p/w185/roOmM60pHoOnFLU0N1zSbrnhbSR.jpg"
+    },
+    {
+     "name": "Alex Laurence - Phillips",
+     "role": "Pelleas",
+     "photo": "https://image.tmdb.org/t/p/w185/wojMWPIqH4A05EjynaEFtqXYhX3.jpg"
+    },
+    {
+     "name": "George Prentice",
+     "role": "Dafyd",
+     "photo": "https://image.tmdb.org/t/p/w185/cODkiIUZsfui6n9TZoLlC607H5Y.jpg"
+    },
+    {
+     "name": "Duran Fulton Brown",
+     "role": "Elphin",
+     "photo": "https://image.tmdb.org/t/p/w185/hasK4qDs9aEWcJahT6QBj2WihAr.jpg"
+    },
+    {
+     "name": "Emree Franklin",
+     "role": "Morgian",
+     "photo": "https://image.tmdb.org/t/p/w185/4VlmDkvdq5sjbvnR6xAjQ2zcxTy.jpg"
+    },
+    {
+     "name": "Myles Clohessy",
+     "role": "Uther",
+     "photo": "https://image.tmdb.org/t/p/w185/7qhWkGv1W4taPFBVZ43U0snlrDm.jpg"
+    },
+    {
+     "name": "Finney Cassidy",
+     "role": "Aurelius",
+     "photo": "https://image.tmdb.org/t/p/w185/jbi9p7Cme0rGWPqFt5sUqpNJiaZ.jpg"
+    },
+    {
+     "name": "Rebecka Johnston",
+     "role": "Rhonwyn",
+     "photo": "https://image.tmdb.org/t/p/w185/gV37gbJwiXXL78JZr0aEKSdZMos.jpg"
+    },
+    {
+     "name": "Barry John Kinsella",
+     "role": "Cuall",
+     "photo": "https://image.tmdb.org/t/p/w185/9ld1S0A0cUeh0LGkfIehNfhrPsc.jpg"
+    },
+    {
+     "name": "Andrew Readman",
+     "role": "The Wanderer",
+     "photo": "https://image.tmdb.org/t/p/w185/iyf6Iv5TyMFsXkCENrPhRnqVQTg.jpg"
+    },
+    {
+     "name": "Christopher Sciueref",
+     "role": "Pendaran",
+     "photo": "https://image.tmdb.org/t/p/w185/f2PnkyHfph7NCgxTJQZfpWeF9gF.jpg"
+    },
+    {
+     "name": "James Arden",
+     "role": "Taliesin",
+     "photo": "https://image.tmdb.org/t/p/w185/rnUXwN2HUBCD41oKQg2xoOYrPDG.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Bonfire Legend",
+     "logo": "https://image.tmdb.org/t/p/w185/5vQU9dfSiYNQyTuciY8T3tUfI4a.png"
+    },
+    {
+     "name": "Hero Squared",
+     "logo": "https://image.tmdb.org/t/p/w185/4QVWLiNT8svS71FU2qsRErGeIar.png"
+    },
+    {
+     "name": "Tirian Films",
+     "logo": "https://image.tmdb.org/t/p/w185/y9AzjDZZq3h7INjtP9iShwPNjhh.png"
+    },
+    {
+     "name": "The Daily Wire",
+     "logo": "https://image.tmdb.org/t/p/w185/mvaGPN20adMWEUsVHzB3iI7yn7o.png"
+    },
+    {
+     "name": "DailyWire+",
+     "logo": "https://image.tmdb.org/t/p/w185/sX27wxgwZbJRuKRQ8MBxPXMp1s0.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": null
+    },
+    {
+     "name": "Amazon Prime Video with Ads",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt37456019",
    "type": "movie",
@@ -66410,138 +66564,6 @@
    ],
    "tg_id": 24,
    "tagline": "Détective privé. Scandale public."
-  },
-  {
-   "id": "series:tt23220752",
-   "type": "series",
-   "title": "Agent from Above",
-   "original_title": "乩身",
-   "year": 2026,
-   "release_date": "2026-04-02",
-   "overview": "Lié par un pacte divin, Han Chieh combat les démons sur Terre. Quand il découvre le plan d'un vieil ennemi prêt à envahir le monde, le sort de l'humanité repose entre ses mains.",
-   "synopsis_origin": null,
-   "rating": 7.4,
-   "runtime": 45,
-   "genres": [
-    "Drame",
-    "Action & Adventure",
-    "Science-Fiction & Fantastique"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/ShizRVGvyFCmGqv7tFA0hxzQ8E.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/u3R0lU5C9CQ9aMqGspdzw5CnxeF.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/eJDBWGsLlNQALTG93B8Ey6QgdE4.png",
-   "imdb_id": "tt23220752",
-   "tmdb_url": "https://www.themoviedb.org/tv/213703",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt23220752",
-   "added_at": "2026-06-18T07:03:35Z",
-   "directors": [
-    "Xing Zi"
-   ],
-   "seasons": 1,
-   "episodes": 8,
-   "cast": [
-    {
-     "name": "柯震東",
-     "role": "Han Chieh",
-     "photo": "https://image.tmdb.org/t/p/w185/ysiKZ8Vp6xd19Uoklzagbr0LK1a.jpg"
-    },
-    {
-     "name": "陳姸霏",
-     "role": "Yeh Tzu",
-     "photo": "https://image.tmdb.org/t/p/w185/4f5VBRG7XLNO22UTZrBmCCkGqXj.jpg"
-    },
-    {
-     "name": "王柏傑",
-     "role": "Nezha (Third Crown Prince)",
-     "photo": "https://image.tmdb.org/t/p/w185/6tvYMx0HdBMEOB01rcQ7hUjo3CD.jpg"
-    },
-    {
-     "name": "薛仕凌",
-     "role": "Wu Tien Chi",
-     "photo": "https://image.tmdb.org/t/p/w185/rBJJWEmvf1bpw8BSEW2g60202cV.jpg"
-    },
-    {
-     "name": "楊銘威",
-     "role": "Chang Min",
-     "photo": "https://image.tmdb.org/t/p/w185/rQEcdcMy8zeFMVcAWAOOyQQvCwR.jpg"
-    },
-    {
-     "name": "Chen Yi-wen",
-     "role": "Chen Chi Sha",
-     "photo": "https://image.tmdb.org/t/p/w185/svFlxUu5ItDWYvDRR1JNrRZFHAU.jpg"
-    },
-    {
-     "name": "林鶴軒",
-     "role": "Wang Hsiao Ming",
-     "photo": "https://image.tmdb.org/t/p/w185/reNOAJalfV5aBVuE0hZaz5GJlSy.jpg"
-    },
-    {
-     "name": "Leon Dai",
-     "role": "Demon King of Sixth Heaven",
-     "photo": "https://image.tmdb.org/t/p/w185/goUmabqYbnDBc1HocW2pW8lNjln.jpg"
-    },
-    {
-     "name": "趙正平",
-     "role": "Chao",
-     "photo": "https://image.tmdb.org/t/p/w185/zXO1jybx37kd3WlLf1GS7GaCnBg.jpg"
-    },
-    {
-     "name": "郭子乾",
-     "role": "Shen Lung Crown Prince",
-     "photo": "https://image.tmdb.org/t/p/w185/w1wo6Q66r3bxZzGnMAOwNvDsxUP.jpg"
-    },
-    {
-     "name": "隋棠",
-     "role": "Chiang Hua Chih",
-     "photo": "https://image.tmdb.org/t/p/w185/rI8XoREa1s4MeZVffzcU85uXvk5.jpg"
-    },
-    {
-     "name": "黃嘉千",
-     "role": "Sister Lo",
-     "photo": "https://image.tmdb.org/t/p/w185/lUmnnTcWnjzlpO3gMoVAj4RIdfW.jpg"
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "TW"
-   ],
-   "original_language": "Chinois",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "MM2 Entertainment",
-     "logo": "https://image.tmdb.org/t/p/w185/l1lnXmGse9lO7Pz1Z49SrSk3Y6J.png"
-    },
-    {
-     "name": "Good Films Workshop",
-     "logo": null
-    },
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 23,
-   "tagline": null
   }
  ]
 }
