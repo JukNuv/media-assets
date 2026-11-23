@@ -1,20 +1,20 @@
 {
   "updated": "2026-11-23",
   "cinebox": {
-    "versionCode": 14,
-    "versionName": "1.0.13",
-    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.13/CineBoX-1.0.13.apk",
-    "sha256": "ba7dbd1f246fc761ab96919e74f12e4066fcbe8e69592367868c2fadac0974bc",
-    "size": 41372955,
-    "notes": "Ce qui joue sur votre télé s'affiche aussi avec Nuvio officiel. Notification de lecteur sur l'écran verrouillé (option). Un guide pas à pas pour configurer la télécommande."
+    "versionCode": 15,
+    "versionName": "1.0.14",
+    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.14/CineBoX-1.0.14.apk",
+    "sha256": "d9cda470f6775ad617ff1c6f2c9d1637624f869defe38fa5488111dd47037ff3",
+    "size": 41372951,
+    "notes": "Une télécommande repensée, plus haute et plus grande. Elle affiche le titre et les raccourcis même sans Scrob. Les fenêtres prennent toute la hauteur quand il y a beaucoup à montrer. Drapeau du Canada pour la VFQ."
   },
   "link": {
-    "versionCode": 14,
-    "versionName": "1.0.13",
-    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.13/CineBoX-Link-1.0.13.apk",
-    "sha256": "ea82700cd592bf9f5d12b49c3b778be0e38cc5383eda66cd04747bbc3afece31",
-    "size": 738483,
-    "notes": "La carte des mises à jour se rafraîchit toute seule après une installation. Nuvio Scrob est nommé correctement."
+    "versionCode": 15,
+    "versionName": "1.0.14",
+    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.14/CineBoX-Link-1.0.14.apk",
+    "sha256": "f110c0fd066dd9a60374830ca8d6f11f750453e49a24f5bc9d48ca275418098b",
+    "size": 739485,
+    "notes": "Plus rapide et plus fiable pendant une lecture : la télévision n'apparaît plus « hors ligne » à tort."
   },
   "nuvio_tv": {
     "package": "com.nuviodebug.com",
