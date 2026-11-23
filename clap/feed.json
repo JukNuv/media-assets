@@ -1,7 +1,140 @@
 {
  "version": 1,
- "updated": "2026-11-23T13:10:59Z",
+ "updated": "2026-11-23T18:05:51Z",
  "items": [
+  {
+   "id": "movie:tt37510326",
+   "type": "movie",
+   "title": "The Social Reckoning",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-07",
+   "overview": "L'histoire s'inspire de \"The Facebook Files\" du Wall Street Journal, une série d'articles publiés en octobre 2021 par Jeff Horowitz, qui ont révélé les rouages internes ainsi que les nombreux dommages causés par le plus grand réseau social au monde.",
+   "synopsis_origin": null,
+   "rating": 7.0,
+   "runtime": 113,
+   "genres": [
+    "Drame",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": "The Social Network - Saga [Collection]",
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=nBuhQZfJPJg",
+   "poster": "https://image.tmdb.org/t/p/w500/tF1P9HZEBJQ8w1KyBlS3zMS2Ogp.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/wXTaGcqX3jvdXSKCJAkl5jZyrKp.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/cYJulf2GTqqzsnPE1Zy6TmirzOO.png",
+   "imdb_id": "tt37510326",
+   "tmdb_url": "https://www.themoviedb.org/movie/1281331",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37510326",
+   "added_at": "2026-11-23T18:05:49Z",
+   "tagline": "Toute révolution commence par une prise de conscience.",
+   "directors": [
+    "Aaron Sorkin"
+   ],
+   "writers": [
+    "Aaron Sorkin"
+   ],
+   "cast": [
+    {
+     "name": "Mikey Madison",
+     "role": "Frances",
+     "photo": "https://image.tmdb.org/t/p/w185/nsWQNYBTBYE2TCzGpyXTpA0TTEz.jpg"
+    },
+    {
+     "name": "Jeremy Allen White",
+     "role": "Jeff",
+     "photo": "https://image.tmdb.org/t/p/w185/pXRADDRhprgaQ4Bri44NH3bYeu6.jpg"
+    },
+    {
+     "name": "Jeremy Strong",
+     "role": "Mark",
+     "photo": "https://image.tmdb.org/t/p/w185/jcMhXWICSi4QjQttJVhFSiKVvpF.jpg"
+    },
+    {
+     "name": "Wunmi Mosaku",
+     "role": "Raya",
+     "photo": "https://image.tmdb.org/t/p/w185/vp7qDA7cYZj0MDYk1k4wysmznnN.jpg"
+    },
+    {
+     "name": "Betty Gilpin",
+     "role": "Christina",
+     "photo": "https://image.tmdb.org/t/p/w185/bNY6pwoztA95dzFCcvDQCs7TbbF.jpg"
+    },
+    {
+     "name": "Billy Magnussen",
+     "role": "Teddy",
+     "photo": "https://image.tmdb.org/t/p/w185/ugyx7Wn2uAWsNlR5eX4yWFsGV2Y.jpg"
+    },
+    {
+     "name": "Bill Burr",
+     "role": "Charlie",
+     "photo": "https://image.tmdb.org/t/p/w185/4U95TX23X97OK9csaKVwzqAjFUV.jpg"
+    },
+    {
+     "name": "Gbenga Akinnagbe",
+     "role": "Andy",
+     "photo": "https://image.tmdb.org/t/p/w185/vtoCsXFdvTCP1zkAZARpfnSZ9Pz.jpg"
+    },
+    {
+     "name": "Nelson Franklin",
+     "role": "Tom",
+     "photo": "https://image.tmdb.org/t/p/w185/2YYnTxpFmS5i9qRkb6H4Nxky2px.jpg"
+    },
+    {
+     "name": "Joseph Brooks",
+     "role": "Brendan",
+     "photo": "https://image.tmdb.org/t/p/w185/zv1yfTYn5GLWQIInAtg13pPtiPb.jpg"
+    },
+    {
+     "name": "Portia Doubleday",
+     "role": "Kayleigh",
+     "photo": "https://image.tmdb.org/t/p/w185/6lPDPTlxnFcTJF5dzmmPHVmH8ey.jpg"
+    },
+    {
+     "name": "Patrick Fischler",
+     "role": "Robbie",
+     "photo": "https://image.tmdb.org/t/p/w185/vVj7GjHL9hOilbKwViXZpnUlbcQ.jpg"
+    },
+    {
+     "name": "Anna Lambe",
+     "role": "Morgan",
+     "photo": "https://image.tmdb.org/t/p/w185/cKm5ZnAOVc6nD8KAgSDMJdZclYH.jpg"
+    },
+    {
+     "name": "Aidan Laprete",
+     "role": "Zach",
+     "photo": "https://image.tmdb.org/t/p/w185/ipfzLeDycmV9qqpiyN4yzGj8Ure.jpg"
+    },
+    {
+     "name": "Kelley Pereira",
+     "role": "Evelyn",
+     "photo": "https://image.tmdb.org/t/p/w185/AvlYJ6QXyb0gGmj93jL276mA3Oi.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Columbia Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/71BqEFAF4V3qjjMPCpLuyJFB9A.png"
+    },
+    {
+     "name": "Alcon Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png"
+    },
+    {
+     "name": "TSG Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/qx9K6bFWJupwde0xQDwOvXkOaL8.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt43338262",
    "type": "movie",
@@ -66385,124 +66518,6 @@
    ],
    "platform_logos": [],
    "tg_id": 27,
-   "tagline": null
-  },
-  {
-   "id": "series:tt33812140",
-   "type": "series",
-   "title": "The Lady Grace Mysteries",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-04-20",
-   "overview": "L'histoire de Lady Grace Cavendish, la première détective adolescente, travaillant comme espionne privée pour la reine Elizabeth I et naviguant dans les eaux dangereuses de la politique royale, dans une cour anglaise pleine de complots, de menaces et de mystères.",
-   "synopsis_origin": null,
-   "rating": null,
-   "runtime": 24,
-   "genres": [
-    "Mystère",
-    "Action & Adventure"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "SFR Play",
-    "France TV Amazon Channel"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/gFuywgTzxCB5fHkLcVFXm6o3IA2.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/oPK9aTq4pf1Rj4hfcmAU9mJtscT.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/cXVXIhorN36iUHAEHzZpVsTRw0S.png",
-   "imdb_id": "tt33812140",
-   "tmdb_url": "https://www.themoviedb.org/tv/320494",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt33812140",
-   "added_at": "2026-06-18T07:03:41Z",
-   "directors": [],
-   "seasons": 1,
-   "episodes": 10,
-   "cast": [
-    {
-     "name": "Evie Coles",
-     "role": "Lady Grace Cavendish",
-     "photo": null
-    },
-    {
-     "name": "Carys John",
-     "role": "Ellie Bunting",
-     "photo": null
-    },
-    {
-     "name": "Rafael Alessandro",
-     "role": "Masou Fallaize",
-     "photo": null
-    },
-    {
-     "name": "Rebecca Scott",
-     "role": "Queen Elizabeth I",
-     "photo": "https://image.tmdb.org/t/p/w185/sGFEjsVuZH3Z7PxSWGyZzoSb5IY.jpg"
-    },
-    {
-     "name": "Twinkle Jaiswal",
-     "role": "Lady Sarah Bartelmy",
-     "photo": "https://image.tmdb.org/t/p/w185/6UleGzQgXFrQfzPTGCySlUv3jGH.jpg"
-    },
-    {
-     "name": "Fintan Buckard",
-     "role": "Lord Oliver Osborne",
-     "photo": null
-    },
-    {
-     "name": "Georgia Farrow",
-     "role": "Lady Jane Coningsby",
-     "photo": null
-    },
-    {
-     "name": "Gabeen Khan",
-     "role": "Lord Francis Walsingham",
-     "photo": "https://image.tmdb.org/t/p/w185/4l3XaqSFYiccfVZeOY1H0xL9Tjf.jpg"
-    },
-    {
-     "name": "Tracey Wilkinson",
-     "role": "Mrs. Champernowne",
-     "photo": "https://image.tmdb.org/t/p/w185/tqwg61aRiRPB5rLNX1iEybRXB09.jpg"
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "Royaume-Uni"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Coolabi Group",
-     "logo": "https://image.tmdb.org/t/p/w185/8S60TroLPMFpaPOjIN3QGq80phw.png"
-    },
-    {
-     "name": "Cottonwood Media",
-     "logo": "https://image.tmdb.org/t/p/w185/4D1lCji53gWFPEK3AiWVR7AMOE6.png"
-    },
-    {
-     "name": "Be-FILMS",
-     "logo": "https://image.tmdb.org/t/p/w185/sAW9KzIfOs4LgXEXqaWrEUTGkRQ.png"
-    },
-    {
-     "name": "CBBC",
-     "logo": "https://image.tmdb.org/t/p/w185/12roOdtGhLUriCtk1Qwu9eD5Nab.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "SFR Play",
-     "logo": "https://image.tmdb.org/t/p/w92/9yt7CjnySiiOtRFknNWCz3gSyXz.png"
-    },
-    {
-     "name": "France TV Amazon Channel",
-     "logo": "https://image.tmdb.org/t/p/w92/dZtmGfUhFagm7YNk1Idol1T2t7e.png"
-    }
-   ],
-   "tg_id": 26,
    "tagline": null
   }
  ]
