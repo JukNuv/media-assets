@@ -9,31 +9,31 @@
     "notes": "Ce qui joue sur votre télé s'affiche aussi avec Nuvio officiel. Notification de lecteur sur l'écran verrouillé (option). Un guide pas à pas pour configurer la télécommande."
   },
   "link": {
-    "versionCode": 13,
-    "versionName": "1.0.12",
-    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.12/CineBoX-Link-1.0.12.apk",
-    "sha256": "80d5fe66f1dd1343d96da00926d594d0d18e96718b6b275296b68e329174b0cf",
-    "size": 737677,
-    "notes": "Plus clair : les options facultatives sont regroupées. Permet d'afficher ce que joue Nuvio officiel sur le téléphone."
+    "versionCode": 14,
+    "versionName": "1.0.13",
+    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.13/CineBoX-Link-1.0.13.apk",
+    "sha256": "ea82700cd592bf9f5d12b49c3b778be0e38cc5383eda66cd04747bbc3afece31",
+    "size": 738483,
+    "notes": "La carte des mises à jour se rafraîchit toute seule après une installation. Nuvio Scrob est nommé correctement."
   },
   "nuvio_tv": {
     "package": "com.nuviodebug.com",
-    "versionCode": 1083,
-    "versionName": "1.1.1-scrob.2",
+    "versionCode": 1084,
+    "versionName": "1.1.1-scrob.3",
     "arm64": {
-      "versionCode": 1083,
-      "versionName": "1.1.1-scrob.2",
-      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.2-1083/Nuvio-TV-avec-Scrob-arm64.apk",
-      "sha256": "49b022e48a1e28f0fbde81dcde6cdf6a9ea87573ae2f6bd916760bf07ab2cfc4",
-      "size": 75784129
+      "versionCode": 1084,
+      "versionName": "1.1.1-scrob.3",
+      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.3-1084/Nuvio-TV-avec-Scrob-arm64.apk",
+      "sha256": "dff6d7ccd6e3b22a4232ff48e1ce054d7700f051c5177627c85790125b260576",
+      "size": 75784505
     },
     "armv7": {
-      "versionCode": 1083,
-      "versionName": "1.1.1-scrob.2",
-      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.2-1083/Nuvio-TV-avec-Scrob-armv7.apk",
-      "sha256": "ba634ad2058b3a7923c7204ebad9c06f5bc2d18d928d1ae53105b62e220e0a27",
-      "size": 73906721
+      "versionCode": 1084,
+      "versionName": "1.1.1-scrob.3",
+      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.3-1084/Nuvio-TV-avec-Scrob-armv7.apk",
+      "sha256": "37b11b628b57eac3595e9e61f80c2bcebdc07d212861595970dcb9ac0f6dc968",
+      "size": 73907093
     },
-    "notes": "Nouveau nom, nouvelle icône et nouvelle tuile. Mise à jour vers Nuvio 1.1.1."
+    "notes": "Les mises à jour de Nuvio Scrob passent uniquement par CineBoX Link : l'onglet « À propos » ne va plus chercher la version officielle de Nuvio."
   }
 }
