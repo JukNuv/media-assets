@@ -1,7 +1,105 @@
 {
  "version": 1,
- "updated": "2026-11-22T08:03:16Z",
+ "updated": "2026-11-23T13:10:47Z",
  "items": [
+  {
+   "id": "movie:tt39316936",
+   "type": "movie",
+   "title": "Noël à la page",
+   "original_title": "Clashing Through the Snow",
+   "year": 2026,
+   "release_date": "2026-11-23",
+   "overview": "Coincés par une tempête de neige durant les fêtes de fin d’année, Ryan Mitchell et Hannah Hendricks, deux éditeurs que tout oppose, doivent se rendre en voiture à New York, où chacun espère sauver sa carrière. Après un parcours semé d’embûches et de détours dans des petites villes, l’esprit des fêtes transforme leur rivalité farouche en une chose inattendue.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 107,
+   "genres": [
+    "Comédie",
+    "Romance"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=5DeNk2k1Ahk",
+   "poster": "https://image.tmdb.org/t/p/w500/8KKRRkvbIFrvwFzvg8026PquZWv.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/blbDI4RZpPXr5NLlhuwBbc5lUqI.png",
+   "imdb_id": "tt39316936",
+   "tmdb_url": "https://www.themoviedb.org/movie/1611767",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39316936",
+   "added_at": "2026-11-23T13:10:45Z",
+   "tagline": "Toute leur mauvaises décisions seront-elles à chérir ?",
+   "directors": [
+    "Carlson Young"
+   ],
+   "writers": [
+    "Daniel Mackey",
+    "Rebecca Ewing"
+   ],
+   "cast": [
+    {
+     "name": "Christopher Briney",
+     "role": "Ryan",
+     "photo": "https://image.tmdb.org/t/p/w185/1M21pqg3Lf8n6gwI9l9RX1PuPjw.jpg"
+    },
+    {
+     "name": "Michelle Randolph",
+     "role": "Hannah",
+     "photo": "https://image.tmdb.org/t/p/w185/5W3DB2THOjE4L4Hhc68CzcQiwuK.jpg"
+    },
+    {
+     "name": "Lukas Gage",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/xXknCnXtRBmqg38TkMuPFtugt5s.jpg"
+    },
+    {
+     "name": "Paris Hilton",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/8ywcy0guTGiL6JIPvnFtELMlwuu.jpg"
+    },
+    {
+     "name": "Julia Fox",
+     "role": "Bianca Hart",
+     "photo": "https://image.tmdb.org/t/p/w185/AwipgBalCBiOfwXKssxM0NQlz33.jpg"
+    },
+    {
+     "name": "P.J. Byrne",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/1JVBaxRy3OxkHymD3nwBd5kVWWL.jpg"
+    },
+    {
+     "name": "Andrew Schulz",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/fdeYq1EraYvlYM3VmGXjIaSGoTz.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Industry Entertainment Partners",
+     "logo": "https://image.tmdb.org/t/p/w185/4TYjUVu74lX3r4ht1ppZxEpj1a4.png"
+    },
+    {
+     "name": "Luber-Roklin Entertainment",
+     "logo": null
+    },
+    {
+     "name": "Wonderland Sound and Vision",
+     "logo": "https://image.tmdb.org/t/p/w185/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt23734948",
    "type": "series",
@@ -66418,152 +66516,6 @@
    ],
    "tg_id": 25,
    "tagline": "Elle a tout sauf un statut. Lui, c'est tout ce qu'il a."
-  },
-  {
-   "id": "series:tt37063558",
-   "type": "series",
-   "title": "R.J. Decker",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-03-03",
-   "overview": "RJ Decker, photographe de presse et ancien détenu tombé en disgrâce, se lance en tant que détective privé dans le milieu criminel haut en couleur du sud de la Floride. Il s'attaque à des affaires aussi étranges que bizarres, avec l'aide de son ex journaliste, de sa femme, inspectrice de police, et d'une mystérieuse nouvelle bienfaitrice, une femme de son passé qui pourrait bien être sa plus grande alliée… ou son aller simple pour la prison.",
-   "synopsis_origin": null,
-   "rating": 7.6,
-   "runtime": 43,
-   "genres": [
-    "Crime",
-    "Mystère"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Disney Plus"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/zXAWr4gSWmD3iWEZziLCPeW3osS.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/uahJs4jteV8pfVXPlBgBzjmoqFa.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/xUUuBTC45GvntUWOhFyguxczGLA.png",
-   "imdb_id": "tt37063558",
-   "tmdb_url": "https://www.themoviedb.org/tv/302074",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt37063558",
-   "added_at": "2026-06-18T07:03:36Z",
-   "directors": [
-    "Carl Hiaasen",
-    "Rob Doherty"
-   ],
-   "seasons": 2,
-   "episodes": 14,
-   "cast": [
-    {
-     "name": "Scott Speedman",
-     "role": "R.J. Decker",
-     "photo": "https://image.tmdb.org/t/p/w185/tGgD96WOhmuQU4e6ZTU5IEx4W9E.jpg"
-    },
-    {
-     "name": "Jaina Lee Ortiz",
-     "role": "Emi Ochoa",
-     "photo": "https://image.tmdb.org/t/p/w185/ikGhIZ1vXkkr2ocZO2xWjWEex5D.jpg"
-    },
-    {
-     "name": "Kevin Rankin",
-     "role": "Aloysius 'Wish' Aiken",
-     "photo": "https://image.tmdb.org/t/p/w185/fOW5R6BSgRvMrt2R7KAxSk7L4H2.jpg"
-    },
-    {
-     "name": "Adelaide Clemens",
-     "role": "Catherine Delacroix",
-     "photo": "https://image.tmdb.org/t/p/w185/z8eA9Jh7IvDJoGHmhZj6FmJJ67C.jpg"
-    },
-    {
-     "name": "Bevin Bru",
-     "role": "Melody 'Mel' Abreu",
-     "photo": "https://image.tmdb.org/t/p/w185/pWhwtggClHRmUu215Q921qKUCUP.jpg"
-    },
-    {
-     "name": "Melodie Rose Romano",
-     "role": "Sofia",
-     "photo": "https://image.tmdb.org/t/p/w185/3iysNU5ng0L1y2RA7d37bXUCMJV.jpg"
-    },
-    {
-     "name": "Matthew Cornwell",
-     "role": "Bill Ragsdale",
-     "photo": "https://image.tmdb.org/t/p/w185/4rSNMqK16jSU6zZUkn9Xca82dnd.jpg"
-    },
-    {
-     "name": "David Zayas",
-     "role": "Victor Ochoa",
-     "photo": "https://image.tmdb.org/t/p/w185/w1E8n9gl2HcZEhfBOXdVzMvIlzg.jpg"
-    },
-    {
-     "name": "Reinaldo Faberlle",
-     "role": "Ray",
-     "photo": "https://image.tmdb.org/t/p/w185/vVsxgN6hsbqeXMk9Gn0VvNbTSy2.jpg"
-    },
-    {
-     "name": "Anthony B. Jenkins",
-     "role": "Darius",
-     "photo": "https://image.tmdb.org/t/p/w185/v0hZpeChlytBx0MwUhkKoeFpedF.jpg"
-    },
-    {
-     "name": "Stephen Bishop",
-     "role": "Bruce Vinkour",
-     "photo": "https://image.tmdb.org/t/p/w185/duiEwqhUI8gnMWHQ3K2DKO4Xo3w.jpg"
-    },
-    {
-     "name": "Maximo Salas",
-     "role": "Lucas Ochoa",
-     "photo": "https://image.tmdb.org/t/p/w185/4oGutSuffj8UCfnxyzg5atuSe2d.jpg"
-    },
-    {
-     "name": "Elaine Hendrix",
-     "role": "Janis Lake",
-     "photo": "https://image.tmdb.org/t/p/w185/ajnxlCCO0IYQeaL2KOJwjFWkFG0.jpg"
-    },
-    {
-     "name": "Hunter Burke",
-     "role": "Clay Gregory",
-     "photo": "https://image.tmdb.org/t/p/w185/ibR2TL9jwKVDr9E3VJRnPcgcvHN.jpg"
-    },
-    {
-     "name": "David Darrow",
-     "role": "Wade Ennis",
-     "photo": "https://image.tmdb.org/t/p/w185/wibq1cdqFU0Ir5C9Tp5F8Gtvo9O.jpg"
-    }
-   ],
-   "age_rating": "12",
-   "countries": [
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "20th Television",
-     "logo": "https://image.tmdb.org/t/p/w185/8rFlu5iytnjsciYXZDw90ktllCI.png"
-    },
-    {
-     "name": "Timberman/Beverly Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/iT5fXEYjz1pzCejNmKNCylxxh4a.png"
-    },
-    {
-     "name": "Hill of Beans Productions",
-     "logo": null
-    },
-    {
-     "name": "ABC",
-     "logo": "https://image.tmdb.org/t/p/w185/2uy2ZWcplrSObIyt4x0Y9rkG6qO.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Disney Plus",
-     "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-    }
-   ],
-   "tg_id": 24,
-   "tagline": "Détective privé. Scandale public."
   }
  ]
 }
