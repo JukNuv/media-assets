@@ -1,39 +1,39 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "cinebox": {
-    "versionCode": 13,
-    "versionName": "1.0.12",
-    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.12/CineBoX-1.0.12.apk",
-    "sha256": "04d66ac7faa11e49c94d5b1b83c2b2360cd514cb920402b09384f4f4bff4b7b7",
-    "size": 41318143,
-    "notes": "Bande-annonce en plein écran : touchez la photo d'un acteur ou de l'équipe pour ouvrir sa fiche."
+    "versionCode": 14,
+    "versionName": "1.0.13",
+    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.13/CineBoX-1.0.13.apk",
+    "sha256": "ba7dbd1f246fc761ab96919e74f12e4066fcbe8e69592367868c2fadac0974bc",
+    "size": 41372955,
+    "notes": "Ce qui joue sur votre télé s'affiche aussi avec Nuvio officiel. Notification de lecteur sur l'écran verrouillé (option). Un guide pas à pas pour configurer la télécommande."
   },
   "link": {
-    "versionCode": 12,
-    "versionName": "1.0.11",
-    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.11/CineBoX-Link-1.0.11.apk",
-    "sha256": "ec9b4fd8ba521ae28ea8a1b0e885cdec63d19772afcfc00797c7c948cfdc88ca",
-    "size": 731692,
-    "notes": "Commandes complètes (flèches, OK, retour, texte) sans télécommande Google, pour Fire TV Stick. Indique ce que joue la télévision."
+    "versionCode": 13,
+    "versionName": "1.0.12",
+    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.12/CineBoX-Link-1.0.12.apk",
+    "sha256": "80d5fe66f1dd1343d96da00926d594d0d18e96718b6b275296b68e329174b0cf",
+    "size": 737677,
+    "notes": "Plus clair : les options facultatives sont regroupées. Permet d'afficher ce que joue Nuvio officiel sur le téléphone."
   },
   "nuvio_tv": {
     "package": "com.nuviodebug.com",
-    "versionCode": 1078,
-    "versionName": "1.1.0-scrob.1",
+    "versionCode": 1083,
+    "versionName": "1.1.1-scrob.2",
     "arm64": {
-      "versionCode": 1078,
-      "versionName": "1.1.0-scrob.1",
-      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.0-scrob.1-1078/Nuvio-TV-avec-Scrob-arm64.apk",
-      "sha256": "e21f4395efe0557383afbf8b2412f39621dfb52003586d64af17a2dc0124cb37",
-      "size": 75748917
+      "versionCode": 1083,
+      "versionName": "1.1.1-scrob.2",
+      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.2-1083/Nuvio-TV-avec-Scrob-arm64.apk",
+      "sha256": "49b022e48a1e28f0fbde81dcde6cdf6a9ea87573ae2f6bd916760bf07ab2cfc4",
+      "size": 75784129
     },
     "armv7": {
-      "versionCode": 1078,
-      "versionName": "1.1.0-scrob.1",
-      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.0-scrob.1-1078/Nuvio-TV-avec-Scrob-armv7.apk",
-      "sha256": "8381237a3cd3a9ba9bd2b7aaf67f6d21a6fb8d4ad7f99fa6c5f1a50fdbd67a14",
-      "size": 73871509
+      "versionCode": 1083,
+      "versionName": "1.1.1-scrob.2",
+      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.2-1083/Nuvio-TV-avec-Scrob-armv7.apk",
+      "sha256": "ba634ad2058b3a7923c7204ebad9c06f5bc2d18d928d1ae53105b62e220e0a27",
+      "size": 73906721
     },
-    "notes": "Sources, langues et infos du flux depuis le téléphone, reprise locale en attendant Scrob, ce que joue la télévision et le profil actif."
+    "notes": "Nouveau nom, nouvelle icône et nouvelle tuile. Mise à jour vers Nuvio 1.1.1."
   }
 }
