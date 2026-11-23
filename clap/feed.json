@@ -1,7 +1,132 @@
 {
  "version": 1,
- "updated": "2026-11-23T13:10:47Z",
+ "updated": "2026-11-23T13:10:59Z",
  "items": [
+  {
+   "id": "movie:tt43338262",
+   "type": "movie",
+   "title": "Une affaire turque",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-29",
+   "overview": "Mathieu s'est éloigné de sa communauté turc en banlieue parisienne pour grimper l'échelle sociale. Avocat déterminé, il travaille dur pour devenir associé dans un cabinet d'affaires influent à Paris. L'irruption dans sa vie d'un jeune turc en situation précaire ayant besoin d'aide va le précipiter dans une affaire de corruption mettant en péril tout ce qu'il a bâti.",
+   "synopsis_origin": null,
+   "rating": 7.3,
+   "runtime": 92,
+   "genres": [
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=KVqZYeWNpkQ",
+   "poster": "https://image.tmdb.org/t/p/w500/9cW9EKM4QeXiGbsNyqzDFYf5UN2.jpg",
+   "backdrop": "",
+   "logo": "",
+   "imdb_id": "tt43338262",
+   "tmdb_url": "https://www.themoviedb.org/movie/1488613",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt43338262",
+   "added_at": "2026-11-23T13:10:57Z",
+   "tagline": null,
+   "directors": [
+    "Hüseyin Aydın Gürsoy"
+   ],
+   "writers": [
+    "Hüseyin Aydın Gürsoy",
+    "Ludovic du Clary"
+   ],
+   "cast": [
+    {
+     "name": "Lionel Erdogan",
+     "role": "Mathieu Mustafa Duman",
+     "photo": "https://image.tmdb.org/t/p/w185/tMx1Hr93OUzuoqVwD5nhit6xwdp.jpg"
+    },
+    {
+     "name": "Charles Berling",
+     "role": "Claude Delval",
+     "photo": "https://image.tmdb.org/t/p/w185/2xPeQoFms6hn8fi5wQx3CEjL70Z.jpg"
+    },
+    {
+     "name": "Metehan Aygün",
+     "role": "Abdullah Özkan",
+     "photo": "https://image.tmdb.org/t/p/w185/9jBBD4KxKC2DYUKZOBkRLDbzkMx.jpg"
+    },
+    {
+     "name": "Lubna Azabal",
+     "role": "Faïza Benseddik",
+     "photo": "https://image.tmdb.org/t/p/w185/qjsoXqKJPnmoMs1eyeTLBKKShYQ.jpg"
+    },
+    {
+     "name": "Maud Wyler",
+     "role": "Clotilde",
+     "photo": "https://image.tmdb.org/t/p/w185/mOOZU8SgmuMHTiPJjq8AbcEzcow.jpg"
+    },
+    {
+     "name": "Sedef Ecer",
+     "role": "Hatice Duman",
+     "photo": "https://image.tmdb.org/t/p/w185/t3agofXrftomg1LR8oCBudQviCa.jpg"
+    },
+    {
+     "name": "Hatice Özer",
+     "role": "Serap Duman",
+     "photo": null
+    },
+    {
+     "name": "Lou Howard",
+     "role": "Anya",
+     "photo": null
+    },
+    {
+     "name": "Ramazan Öztürk",
+     "role": "Turgut Özkan",
+     "photo": null
+    },
+    {
+     "name": "Nathalie Jeannet",
+     "role": "Annick Delval",
+     "photo": null
+    },
+    {
+     "name": "Xavier de Guillebon",
+     "role": "Directeur technique Novaltech",
+     "photo": "https://image.tmdb.org/t/p/w185/nJodWtr4S6Gzo8XdvE9EUzFN2a9.jpg"
+    },
+    {
+     "name": "Armand Eloi",
+     "role": "Député Daguzan",
+     "photo": "https://image.tmdb.org/t/p/w185/xRjbHoxZ0QPxtkFSc3G3pnqroKL.jpg"
+    },
+    {
+     "name": "Pierre-Alain Chapuis",
+     "role": "Député Janssens",
+     "photo": "https://image.tmdb.org/t/p/w185/b3yPnxuvtd818WmUlOUL8AHMiNB.jpg"
+    },
+    {
+     "name": "Doğuş Can Uyanıker",
+     "role": "Doğuş",
+     "photo": null
+    },
+    {
+     "name": "Murat Subaşı",
+     "role": "Murat",
+     "photo": "https://image.tmdb.org/t/p/w185/rrCj01tmstp2bJ3o0qK4l1pdFMJ.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Les Films du Clan",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt39316936",
    "type": "movie",
@@ -66379,143 +66504,6 @@
    ],
    "tg_id": 26,
    "tagline": null
-  },
-  {
-   "id": "series:tt39333617",
-   "type": "series",
-   "title": "Perfect Crown",
-   "original_title": "21세기 대군부인",
-   "year": 2026,
-   "release_date": "2026-04-10",
-   "overview": "Bienvenue en Corée du Sud, dans une monarchie constitutionnelle du 21e siècle où se mêlent tradition et modernité, et où le glamour masque une hiérarchie bien ancrée dans la société. Seong Hui-ju, cadette d'une riche famille et PDG talentueuse, a tout pour elle. Mais son statut de roturière lui vaut le mépris de l'élite. Lassée de la pression exercée par sa famille pour qu'elle se marie, Hui-ju prend son avenir en main. Après avoir rencontré le grand-prince Ian au banquet du roi, elle lui propose un mariage de convenance. Elle a tout, sauf un titre, et lui n'a justement que son titre. Ce couple du siècle parviendra-t-il à briser les barrières sociales pour forger son propre destin ?",
-   "synopsis_origin": null,
-   "rating": 9.0,
-   "runtime": 73,
-   "genres": [
-    "Comédie",
-    "Drame"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Disney Plus"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/z6on6DbEKpE9gOr8lvjj3xebGtd.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/6ekykPwvAywJRjFEnUoCFWTO9O3.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/cgs9tWqSqwycLPGEu9x7XSD1bZ7.png",
-   "imdb_id": "tt39333617",
-   "tmdb_url": "https://www.themoviedb.org/tv/278573",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39333617",
-   "added_at": "2026-06-18T07:03:38Z",
-   "directors": [
-    "Yoo A-in"
-   ],
-   "seasons": 1,
-   "episodes": 12,
-   "cast": [
-    {
-     "name": "IU",
-     "role": "Seong Hui-ju",
-     "photo": "https://image.tmdb.org/t/p/w185/uNhKOO9lIAFXF11LM6gjCrX2CJz.jpg"
-    },
-    {
-     "name": "Byeon Woo-seok",
-     "role": "Grand Prince I-an",
-     "photo": "https://image.tmdb.org/t/p/w185/iACGQCFJZUMsy4ywEzNiPokXFB9.jpg"
-    },
-    {
-     "name": "Steve Sanghyun Noh",
-     "role": "Min Jeong-u",
-     "photo": "https://image.tmdb.org/t/p/w185/wdevvu2YLIvAPVEkScjO9JGbioq.jpg"
-    },
-    {
-     "name": "Gong Seung-yeon",
-     "role": "Yun I-rang",
-     "photo": "https://image.tmdb.org/t/p/w185/yHZsZH9AHJbaRiHSWiKQamIeHWa.jpg"
-    },
-    {
-     "name": "Yoo Su-bin",
-     "role": "Choi Hyeon",
-     "photo": "https://image.tmdb.org/t/p/w185/vulO1ngz0s3jUBXQbW2ADuyK3Fa.jpg"
-    },
-    {
-     "name": "Lee Yeon",
-     "role": "Do Hye-jeong",
-     "photo": "https://image.tmdb.org/t/p/w185/uTZMewSjjx4MxDYAaZrhbl1fAGX.jpg"
-    },
-    {
-     "name": "Kim Eun-ho",
-     "role": "Yi Yoon",
-     "photo": "https://image.tmdb.org/t/p/w185/to4KLVOUtfer0eQItQUHLsZ0XxN.jpg"
-    },
-    {
-     "name": "Lee Jae-won",
-     "role": "Seong Tae-ju",
-     "photo": "https://image.tmdb.org/t/p/w185/6oBaF1eyZAnTYJtBj9xRUqPjXVK.jpg"
-    },
-    {
-     "name": "Chae Seo-an",
-     "role": "Han Da-young",
-     "photo": "https://image.tmdb.org/t/p/w185/7YvErJJbG4TwI74c0e89x9l1gWJ.jpg"
-    },
-    {
-     "name": "Park Jun-myun",
-     "role": "Choi Jin-sook",
-     "photo": "https://image.tmdb.org/t/p/w185/gz5080pQXOKm9TKJEWXRrR1JTui.jpg"
-    },
-    {
-     "name": "Lee Si-hoon",
-     "role": "Kim Young-moon",
-     "photo": "https://image.tmdb.org/t/p/w185/2x0EMRjvqhR9M4DYFFOKqx5TDoa.jpg"
-    },
-    {
-     "name": "Choi Ji-su",
-     "role": "Lee A-reum",
-     "photo": "https://image.tmdb.org/t/p/w185/sXoffvP04nvOX4Vu95LGfHxJAPF.jpg"
-    },
-    {
-     "name": "Jeong Ji-an",
-     "role": "Kim Young-sun",
-     "photo": "https://image.tmdb.org/t/p/w185/21WS3KaDGhVsOG9sdhcK20sLVIg.jpg"
-    },
-    {
-     "name": "Jin Se-rim",
-     "role": "Yoo Ji-soo",
-     "photo": "https://image.tmdb.org/t/p/w185/qPnzrEDTLZNIyEcmYcJ7PVmYl4V.jpg"
-    },
-    {
-     "name": "Jo Jae-yun",
-     "role": "Lord Inpyeong",
-     "photo": "https://image.tmdb.org/t/p/w185/eFAeusBo0tXQ1Ul596YKl5dV4Rv.jpg"
-    }
-   ],
-   "age_rating": "12",
-   "countries": [
-    "Corée du Sud"
-   ],
-   "original_language": "Coréen",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "MBC",
-     "logo": "https://image.tmdb.org/t/p/w185/muK9W0KLV8KfEnR7MYu0YpfpdnO.png"
-    },
-    {
-     "name": "Kakao Entertainment",
-     "logo": "https://image.tmdb.org/t/p/w185/1aHsO2tVEdJfIBYCy0G4VpWYDY8.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Disney Plus",
-     "logo": "https://image.tmdb.org/t/p/w92/5eZ872CghnHFLB1j8grszbrx0dx.png"
-    }
-   ],
-   "tg_id": 25,
-   "tagline": "Elle a tout sauf un statut. Lui, c'est tout ce qu'il a."
   }
  ]
 }
