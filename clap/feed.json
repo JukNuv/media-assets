@@ -1,7 +1,135 @@
 {
  "version": 1,
- "updated": "2026-11-23T18:05:51Z",
+ "updated": "2026-11-23T22:03:06Z",
  "items": [
+  {
+   "id": "movie:tt41662804",
+   "type": "movie",
+   "title": "Microstar",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-07-08",
+   "overview": "Influenceur beauté fauché, Gabriel Rose rêve de devenir comédien. Mais il n’a ni le talent ni les contacts. Après un énième casting raté, il rencontre Stanislas, un fils à papa de la jeunesse dorée, qui lui propose de lancer une marque de bijoux. Gabriel y voit l’opportunité d’accéder au gotha parisien, où tout semble facile, en apparence… En parallèle, il se lie avec Pauline, une jeune chercheuse en écologie politique. Tiraillé entre deux mondes, Gabriel cherche sa place entre image et réalité, désir d’ascension, et besoin d’amour.",
+   "synopsis_origin": null,
+   "rating": 7.0,
+   "runtime": 87,
+   "genres": [
+    "Comédie"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/mgkVfPKIbsGA1xcBojVHAuOfaot.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/kyp1UVDWYGRyTNB60GXhwsesfg7.jpg",
+   "logo": "",
+   "imdb_id": "tt41662804",
+   "tmdb_url": "https://www.themoviedb.org/movie/1482377",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt41662804",
+   "added_at": "2026-11-23T22:03:05Z",
+   "tagline": null,
+   "directors": [
+    "Léopold Kraus"
+   ],
+   "writers": [
+    "Léopold Kraus"
+   ],
+   "cast": [
+    {
+     "name": "Abraham Wapler",
+     "role": "Gabriel Rose",
+     "photo": "https://image.tmdb.org/t/p/w185/1lk4CT2e8lFXgqpJlIGSJwk1lzM.jpg"
+    },
+    {
+     "name": "Raïka Hazanavicius",
+     "role": "Pauline",
+     "photo": "https://image.tmdb.org/t/p/w185/dCOXjzfLCiLznRSOAyN54XFri8X.jpg"
+    },
+    {
+     "name": "Félix Lefebvre",
+     "role": "Stanislas",
+     "photo": "https://image.tmdb.org/t/p/w185/aiQom9876RCmh9JN9tPsvYrxE9Y.jpg"
+    },
+    {
+     "name": "Fred Tousch",
+     "role": "Papou",
+     "photo": "https://image.tmdb.org/t/p/w185/12lhBsgTjv08WYsVQtQjgRsAjjH.jpg"
+    },
+    {
+     "name": "Maddie Kulicka",
+     "role": "Ruby",
+     "photo": null
+    },
+    {
+     "name": "Michael Zindel",
+     "role": "Theo",
+     "photo": "https://image.tmdb.org/t/p/w185/b1rbIVnewjse5UPRKi4asjsvHQO.jpg"
+    },
+    {
+     "name": "Lionel Abelanski",
+     "role": "Dr. Chantome",
+     "photo": "https://image.tmdb.org/t/p/w185/z1cw7HrXU6IKpwhkZwN8iXK8qEa.jpg"
+    },
+    {
+     "name": "Hugo Becker",
+     "role": "Casting director",
+     "photo": "https://image.tmdb.org/t/p/w185/pKz5MqqwmpEMbI8xR8royhChHnu.jpg"
+    },
+    {
+     "name": "François Vincentelli",
+     "role": "Stanislas father",
+     "photo": "https://image.tmdb.org/t/p/w185/hXZeZJMJpr94O74A5cocZ8WGMk0.jpg"
+    },
+    {
+     "name": "Anja Verderosa",
+     "role": "Léa",
+     "photo": "https://image.tmdb.org/t/p/w185/g5rC9idxvYjPTlVtkAYwEwYxCVF.jpg"
+    },
+    {
+     "name": "Vincent Arfa",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Zoé Garcia",
+     "role": "Alma",
+     "photo": "https://image.tmdb.org/t/p/w185/alBs6QVCSNvnz4zoHXYRXw1GHYq.jpg"
+    },
+    {
+     "name": "Louis Andrieu",
+     "role": "Romain",
+     "photo": "https://image.tmdb.org/t/p/w185/6Bi9nVuiGPR8Vw6iQ3CCAJE9Bi7.jpg"
+    },
+    {
+     "name": "Louise Cachat",
+     "role": "Juliette",
+     "photo": null
+    },
+    {
+     "name": "Aurore Streich",
+     "role": null,
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Les Films du Kiosque",
+     "logo": "https://image.tmdb.org/t/p/w185/eKuMbpKtI0T8T4LmPsldgNbCaIE.png"
+    },
+    {
+     "name": "Topshot Films",
+     "logo": "https://image.tmdb.org/t/p/w185/nHs0bGl0s8voUbrrkzPwbwWwrM.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt37510326",
    "type": "movie",
@@ -66415,109 +66543,6 @@
     "Pascal Bonitzer",
     "Georges Simenon"
    ],
-   "tagline": null
-  },
-  {
-   "id": "series:tt41023696",
-   "type": "series",
-   "title": "Prescott",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-05-21",
-   "overview": "Valérie Trudeau (Catherine Chabot), une mère combative propriétaire du motel familial situé près de la frontière américaine et du pénitencier régional. Son quotidien bascule lorsqu'elle découvre un cadavre sur son terrain. Épaulée par son fils travaillant au pénitencier, elle décide de mener sa propre enquête, devenant la cible de ses ennemis jurés.",
-   "synopsis_origin": null,
-   "rating": 8.0,
-   "runtime": 43,
-   "genres": [
-    "Drame"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/bCuoO8OsxokoNZ8NkwCYYIIW14Y.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/6G9jxAuY4y9aJad48sqyRiCM87V.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/zHIqWkv4kVg6obiDiDRjKQ0G6qx.png",
-   "imdb_id": "tt41023696",
-   "tmdb_url": "https://www.themoviedb.org/tv/323153",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt41023696",
-   "added_at": "2026-06-18T07:03:43Z",
-   "directors": [
-    "Julien Hurteau"
-   ],
-   "seasons": 1,
-   "episodes": 10,
-   "cast": [
-    {
-     "name": "Catherine Chabot",
-     "role": "Valérie Trudeau",
-     "photo": "https://image.tmdb.org/t/p/w185/bdQin1vMmV7G7F39jG9Mz0JsNa2.jpg"
-    },
-    {
-     "name": "Lévi Doré",
-     "role": "Jordan Trudeau",
-     "photo": "https://image.tmdb.org/t/p/w185/oQJcLr5iXuqvWZiGPRWx4I1UFuU.jpg"
-    },
-    {
-     "name": "Jean L'Italien",
-     "role": "Gilles Meunier",
-     "photo": "https://image.tmdb.org/t/p/w185/qBQg7NfcL8UiNYNC5Tqiifc1mEt.jpg"
-    },
-    {
-     "name": "Marc Beaupré",
-     "role": "Shawn Meunier",
-     "photo": "https://image.tmdb.org/t/p/w185/qGBBmUfj5xlDWK15po0axpTUm3K.jpg"
-    },
-    {
-     "name": "Étienne Pilon",
-     "role": "Patrick Lemay",
-     "photo": "https://image.tmdb.org/t/p/w185/gLaJErKl1Qkx3UeF0VVRrVBPTZ1.jpg"
-    },
-    {
-     "name": "Caroline Néron",
-     "role": "Chantal Drolet",
-     "photo": "https://image.tmdb.org/t/p/w185/hQUQNcqp4oJuC2RmDA2B4CDHzbI.jpg"
-    },
-    {
-     "name": "Marilyse Bourke",
-     "role": "Claire Sullivan",
-     "photo": "https://image.tmdb.org/t/p/w185/qf60LBd3ShZTgf33XOSGpk4QAzV.jpg"
-    },
-    {
-     "name": "Léokim Beaumier-Lépine",
-     "role": "Derek Meunier",
-     "photo": "https://image.tmdb.org/t/p/w185/iZNFLuL78vYiEDPgNFjTjroCv0X.jpg"
-    },
-    {
-     "name": "Noah Parker",
-     "role": "Lukas Drolet",
-     "photo": "https://image.tmdb.org/t/p/w185/1D5Z8c0y7coKpHmtWOQREdyL4M3.jpg"
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "Canada"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Pixcom",
-     "logo": "https://image.tmdb.org/t/p/w185/nZodxvfkjT16oaynQO3QQlFHFtV.png"
-    },
-    {
-     "name": "Québecor Contenu",
-     "logo": null
-    },
-    {
-     "name": "illico+",
-     "logo": "https://image.tmdb.org/t/p/w185/mknFA0acZOG2DYemX6FY1yaiY6W.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 27,
    "tagline": null
   }
  ]
