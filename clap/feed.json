@@ -1,7 +1,142 @@
 {
  "version": 1,
- "updated": "2026-11-24T07:17:30Z",
+ "updated": "2026-11-24T08:04:00Z",
  "items": [
+  {
+   "id": "series:tt38044662",
+   "type": "series",
+   "title": "Snake Killer",
+   "original_title": "Slangedræber",
+   "year": 2026,
+   "release_date": "2026-01-16",
+   "overview": "Lorsque son informateur est assassiné, Brian « Smiley » Petersen et ses collègues de la brigade des stupéfiants de la tristement célèbre « Uropatruljen » s'engagent dans une lutte contre un syndicat du crime, en recourant à des méthodes extrêmes qui dépassent souvent les limites de la légalité.",
+   "synopsis_origin": null,
+   "rating": 9.0,
+   "runtime": 57,
+   "genres": [
+    "Crime"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Amazon Prime Video"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=mvFp6CNaT7Y",
+   "poster": "https://image.tmdb.org/t/p/w500/vYDbSXtjrMAZedjUNQAVKVYO5BV.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/kHHwPGFIb3lyzIsoEHAOU6VRCeg.jpg",
+   "logo": "",
+   "imdb_id": "tt38044662",
+   "tmdb_url": "https://www.themoviedb.org/tv/309129",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38044662",
+   "added_at": "2026-11-24T08:03:59Z",
+   "tagline": null,
+   "directors": [
+    "Anders Ølholm"
+   ],
+   "seasons": 1,
+   "episodes": 4,
+   "cast": [
+    {
+     "name": "Pilou Asbæk",
+     "role": "Brian 'Smiley' Petersen",
+     "photo": "https://image.tmdb.org/t/p/w185/hUJAtjbYG7rqm54aoWtNWeeKjTY.jpg"
+    },
+    {
+     "name": "Lars Ranthe",
+     "role": "Jim Nolsøe",
+     "photo": "https://image.tmdb.org/t/p/w185/9kaqquzzGBBa1zXD8QAcMn42XUu.jpg"
+    },
+    {
+     "name": "Mira Elias Obling",
+     "role": "Louise Knudsen",
+     "photo": "https://image.tmdb.org/t/p/w185/zS17efuRrQPMcrppJKaTBYORV68.jpg"
+    },
+    {
+     "name": "Joen Højerslev",
+     "role": "Klaus 'Cosmo' Telling",
+     "photo": "https://image.tmdb.org/t/p/w185/LuHMKVKFU8PQ66e6t8TqdGhfKI.jpg"
+    },
+    {
+     "name": "Joey Moe",
+     "role": "Deon Thomsen",
+     "photo": "https://image.tmdb.org/t/p/w185/txo6ZMtkQbGerO8OodB9fEpacco.jpg"
+    },
+    {
+     "name": "Hans Henrik Clemensen",
+     "role": "Jørn Warming",
+     "photo": "https://image.tmdb.org/t/p/w185/fgNej2PQHrBNcENpzUR6d4ci5dE.jpg"
+    },
+    {
+     "name": "Ali Al-Bayate",
+     "role": "Edmond Khaleghi",
+     "photo": "https://image.tmdb.org/t/p/w185/yXMmHMHMuuw2YRXm8HGtZisjgbt.jpg"
+    },
+    {
+     "name": "Mikael Birkkjær",
+     "role": "Henrik Lundberg",
+     "photo": "https://image.tmdb.org/t/p/w185/mAKWxBOuLkNtRZj8UtnLUK2O3RV.jpg"
+    },
+    {
+     "name": "Julie Rudbæk",
+     "role": "Lisa Dahlin",
+     "photo": "https://image.tmdb.org/t/p/w185/x3jjn0ThkShHbqGtyrza687y2hR.jpg"
+    },
+    {
+     "name": "Hamun Maghsodlo",
+     "role": "Kourosh Khamali",
+     "photo": "https://image.tmdb.org/t/p/w185/5pnq94rBuUgpvso7KNM1ykptIYH.jpg"
+    },
+    {
+     "name": "Mads Duelund",
+     "role": "Glenn Rasmussen",
+     "photo": "https://image.tmdb.org/t/p/w185/eY6q83xTKgsZuh5wiPjzy6k0PUl.jpg"
+    },
+    {
+     "name": "Anders Budde",
+     "role": "Niels 'Niller' Vejby",
+     "photo": "https://image.tmdb.org/t/p/w185/j6nFRw7O4TnnhjCXhdf9aSBs58x.jpg"
+    },
+    {
+     "name": "Mogens Eckert",
+     "role": "Smiley's advokat",
+     "photo": "https://image.tmdb.org/t/p/w185/pdEciLlPhdxOWX6lm21iISfeFd6.jpg"
+    },
+    {
+     "name": "Anders Rekalos",
+     "role": "Moustakas",
+     "photo": null
+    },
+    {
+     "name": "Sara Forghani",
+     "role": "Roshan Khaleghi",
+     "photo": "https://image.tmdb.org/t/p/w185/gstoez4xZruZGLpKzfUb8DTw0ri.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Danemark"
+   ],
+   "original_language": "Danois",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Nordisk Film Denmark",
+     "logo": "https://image.tmdb.org/t/p/w185/obOynoztBEhDNfHsDXBqOuQLAZk.png"
+    },
+    {
+     "name": "Prime Video",
+     "logo": "https://image.tmdb.org/t/p/w185/w7HfLNm9CWwRmAMU58udl2L7We7.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Amazon Prime Video",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt29611136",
    "type": "movie",
@@ -66365,152 +66500,6 @@
     "Kyle Rideout"
    ],
    "tagline": "Tente ta chance."
-  },
-  {
-   "id": "series:tt38225248",
-   "type": "series",
-   "title": "Lost Media",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-03-14",
-   "overview": "Huit vidéos que personne n’était censé voir refont surface. Un étrange trou noir qui se forme pendant un bulletin météo. La retransmission d’un homme en costume cravate sur un astéroïde. Un tour de magie qui tourne très mal. Chacun de ces fichiers nous plonge dans les abysses mentales de ces personnages, entre malaise et délire, et hantise. Huit histoires. Huit cauchemars. Un seul secret.",
-   "synopsis_origin": null,
-   "rating": 4.0,
-   "runtime": 13,
-   "genres": [
-    "Mystère"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Canal+",
-    "Canal+ Séries"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=6fKwxnXlqaw",
-   "poster": "https://image.tmdb.org/t/p/w500/hPnE4NYmO4qoZnO3mVz52q6cdr9.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/fgWud0qxwGOKPLKp911z4DHV0go.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/8IcOafF0y7iLEpEOqbLpOveIyTJ.png",
-   "imdb_id": "tt38225248",
-   "tmdb_url": "https://www.themoviedb.org/tv/311005",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38225248",
-   "added_at": "2026-06-18T15:02:49Z",
-   "directors": [
-    "Timothée Hochet",
-    "Lucas Pastor"
-   ],
-   "seasons": 1,
-   "episodes": 8,
-   "cast": [
-    {
-     "name": "Enya Baroux",
-     "role": "Léa",
-     "photo": "https://image.tmdb.org/t/p/w185/nG2UL3cOG0syBYkQNroGhA3L8a3.jpg"
-    },
-    {
-     "name": "Kad Merad",
-     "role": "?",
-     "photo": "https://image.tmdb.org/t/p/w185/gngKQqFCe4MSasBSyGRDI74RJfJ.jpg"
-    },
-    {
-     "name": "Lucas Pastor",
-     "role": "Narrateur de Mimichat",
-     "photo": "https://image.tmdb.org/t/p/w185/mFcjXBgz7y7G9k6kE3Soa6Gpn40.jpg"
-    },
-    {
-     "name": "Emmanuel Curtil",
-     "role": "Voix caméra 1",
-     "photo": "https://image.tmdb.org/t/p/w185/tQO8K30BgUC9SIEvj9I2286hsbF.jpg"
-    },
-    {
-     "name": "Philippe Peythieu",
-     "role": "Voix caméra 2",
-     "photo": "https://image.tmdb.org/t/p/w185/iBqOqtM4Dn2KOWpIj0LVp0u58kz.jpg"
-    },
-    {
-     "name": "Timothée Mebodo",
-     "role": "Patron",
-     "photo": null
-    },
-    {
-     "name": "Marc Monvoisin",
-     "role": "Corps dans le coffre",
-     "photo": null
-    },
-    {
-     "name": "Eloïse Tanguay Simard",
-     "role": "Ana",
-     "photo": "https://image.tmdb.org/t/p/w185/weitG9N89SE4CBGXPD5kL8KSb8v.jpg"
-    },
-    {
-     "name": "Philippe Touzel",
-     "role": "Greg",
-     "photo": "https://image.tmdb.org/t/p/w185/cPM9OXwd7963WfJRtHeMBXYhDmq.jpg"
-    },
-    {
-     "name": "Karine Bell",
-     "role": "Mère d'Ana",
-     "photo": null
-    },
-    {
-     "name": "Nicky Naudé",
-     "role": "Père d'Ana",
-     "photo": "https://image.tmdb.org/t/p/w185/rYepc4NHmUMZB4ogKHXCFECvFPu.jpg"
-    },
-    {
-     "name": "Amélie Abrieu",
-     "role": "Amie d'Ana",
-     "photo": null
-    },
-    {
-     "name": "Sébastien Dravnieks",
-     "role": "Ami d'Ana",
-     "photo": null
-    },
-    {
-     "name": "Alison Wheeler",
-     "role": "Émilie",
-     "photo": "https://image.tmdb.org/t/p/w185/vXu8wliioM43z57SnQsGdUKgPVC.jpg"
-    },
-    {
-     "name": "Johann Cuny",
-     "role": "Présentateur",
-     "photo": "https://image.tmdb.org/t/p/w185/Aif3HsBMfR1rZuiP4irom3oZWrw.jpg"
-    }
-   ],
-   "age_rating": "10",
-   "countries": [
-    "France"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Stupefy Productions",
-     "logo": null
-    },
-    {
-     "name": "Pictanovo",
-     "logo": "https://image.tmdb.org/t/p/w185/hrZzmOGhzhv473sIInHtSNwQOhT.png"
-    },
-    {
-     "name": "Canal+",
-     "logo": "https://image.tmdb.org/t/p/w185/9aotxauvc9685tq9pTcRJszuT06.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Canal+",
-     "logo": "https://image.tmdb.org/t/p/w92/gliWKhLJVdm7QwL1braBCRko5dx.png"
-    },
-    {
-     "name": "Canal+ Séries",
-     "logo": "https://image.tmdb.org/t/p/w92/fIfIIugqRNkW0YmfypjJB2X7xsX.png"
-    }
-   ],
-   "tg_id": 30,
-   "tagline": "Huit histoires. Huit cauchemars. Un seul secret."
   }
  ]
 }
