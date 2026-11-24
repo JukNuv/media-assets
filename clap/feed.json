@@ -1,7 +1,166 @@
 {
  "version": 1,
- "updated": "2026-11-24T08:04:00Z",
+ "updated": "2026-11-24T22:07:36Z",
  "items": [
+  {
+   "id": "movie:tt14129116",
+   "type": "movie",
+   "title": "A Talent for Murder",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-23",
+   "overview": "La solitude de Patricia Highsmith dans les Alpes suisses est interrompue par Edward, un jeune agent littéraire envoyé par sa maison d'édition pour la convaincre d'écrire un dernier roman de Tom Ripley. Highsmith utilise son imagination macabre pour effrayer Edward, mais avant qu'ils ne s'en rendent compte, une collaboration s'instaure entre eux.",
+   "synopsis_origin": null,
+   "rating": 6.9,
+   "runtime": 106,
+   "genres": [
+    "Thriller",
+    "Drame",
+    "Crime"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=2AMYg6UmmjM",
+   "poster": "https://image.tmdb.org/t/p/w500/lwVW13sbXyGa1bsLcaMwS0c9zMo.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/b3EGc5Ucj7wIeUjFc64Wq4IYgkp.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/mtrj1JEaLllN63oLSAXQVLCPvhB.png",
+   "imdb_id": "tt14129116",
+   "tmdb_url": "https://www.themoviedb.org/movie/1084409",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt14129116",
+   "added_at": "2026-11-24T22:07:34Z",
+   "tagline": "C'est à la fin que l'intrigue commence.",
+   "directors": [
+    "Anton Corbijn"
+   ],
+   "writers": [
+    "Joanna Murray-Smith"
+   ],
+   "cast": [
+    {
+     "name": "Helen Mirren",
+     "role": "Patricia Highsmith",
+     "photo": "https://image.tmdb.org/t/p/w185/y56z4xzud2UEO4uWsiUgUPfXx7t.jpg"
+    },
+    {
+     "name": "Alden Ehrenreich",
+     "role": "Edward Ridgeway",
+     "photo": "https://image.tmdb.org/t/p/w185/hPbiRySz3k5XEZ3DwJtExnNTKiG.jpg"
+    },
+    {
+     "name": "Olivia Cooke",
+     "role": "Clementine Balfour",
+     "photo": "https://image.tmdb.org/t/p/w185/wf71ctooNlVmiT8dxx0QmRAzyiX.jpg"
+    },
+    {
+     "name": "Juliet Stevenson",
+     "role": "Peggy",
+     "photo": "https://image.tmdb.org/t/p/w185/qiS6E7t5EbqRpWToggQwC3xIdDF.jpg"
+    },
+    {
+     "name": "James Faulkner",
+     "role": "Douglas Balfour",
+     "photo": "https://image.tmdb.org/t/p/w185/969qmhcUDkb0Ms8sduDXIymsqRe.jpg"
+    },
+    {
+     "name": "Brid Brennan",
+     "role": "Kathryn Grierson",
+     "photo": "https://image.tmdb.org/t/p/w185/8Dgw95jGHm0mwQEBc9KO3BkTGpV.jpg"
+    },
+    {
+     "name": "Maddalena Vallecchi Williams",
+     "role": "Eleanor",
+     "photo": "https://image.tmdb.org/t/p/w185/qPQSAlBd5zGUGEN2raNtYVZrY6h.jpg"
+    },
+    {
+     "name": "Nikolai Selikovsky",
+     "role": "Doctor",
+     "photo": "https://image.tmdb.org/t/p/w185/leU4nMagtH84vDGps4qm1Kr4Pi9.jpg"
+    },
+    {
+     "name": "Luca Ferrini",
+     "role": "Priest",
+     "photo": "https://image.tmdb.org/t/p/w185/cayKmX8gtSsNu88WxxdMwE1rwry.jpg"
+    },
+    {
+     "name": "Norbert Ortner",
+     "role": "Taxi Driver",
+     "photo": "https://image.tmdb.org/t/p/w185/6QHfZlcrpSec8vVHpSLFoOvwByt.jpg"
+    },
+    {
+     "name": "Alma Leiberg",
+     "role": "Housekeeper",
+     "photo": "https://image.tmdb.org/t/p/w185/lYunLyB27P8hP7781NaQDHXIk2e.jpg"
+    },
+    {
+     "name": "Enrico Mutti",
+     "role": "Elegant italian man",
+     "photo": "https://image.tmdb.org/t/p/w185/cdcU9i3IEEIML3RgrkQJmpIxGMK.jpg"
+    },
+    {
+     "name": "Eduardo Xavier De Silva",
+     "role": "Bradley Appleby",
+     "photo": null
+    },
+    {
+     "name": "Giulia Lin",
+     "role": "Tilly",
+     "photo": "https://image.tmdb.org/t/p/w185/5tAxorx8fpEUN5wXblA3TglvGlz.jpg"
+    },
+    {
+     "name": "Orlando Anselmetti",
+     "role": "Waiter (Roman Bar)",
+     "photo": null
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Australie",
+    "Irlande",
+    "Royaume-Uni",
+    "Italie",
+    "Suisse",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Lunar Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/yOrpaFmcb3666Moo1pkrLfKpdOy.png"
+    },
+    {
+     "name": "Lucky Red",
+     "logo": "https://image.tmdb.org/t/p/w185/KFFOFoztyjV5epvnW5GerPbcvx.png"
+    },
+    {
+     "name": "Zurich Avenue",
+     "logo": "https://image.tmdb.org/t/p/w185/8QEHr8gHpOXAeclRhfFO2sNCln0.png"
+    },
+    {
+     "name": "LD Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/5jxaT7zoJKtnwqxniiJ9iJLsJru.png"
+    },
+    {
+     "name": "Magnolia Mae Films",
+     "logo": "https://image.tmdb.org/t/p/w185/cmVLAX3oq6g4C667symaZx6qcw4.png"
+    },
+    {
+     "name": "Head Gear Films",
+     "logo": "https://image.tmdb.org/t/p/w185/ok7CQyn0RPEuI0upznPoo93YE6H.png"
+    },
+    {
+     "name": "Metrol Technology",
+     "logo": "https://image.tmdb.org/t/p/w185/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png"
+    },
+    {
+     "name": "Brouhaha Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/63KGHkv2ir0WdhIKuVXDltukmTT.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt38044662",
    "type": "series",
@@ -66364,142 +66523,6 @@
    "platform_logos": [],
    "tg_id": 32,
    "tagline": null
-  },
-  {
-   "id": "movie:tt22005882",
-   "type": "movie",
-   "title": "Youngblood",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-03-06",
-   "overview": "Le prodige du hockey, Dean Youngblood, rejoint les Hamilton Bulldogs et espère réaliser enfin son rêve d'être sélectionné dans la National Hockey League.",
-   "synopsis_origin": null,
-   "rating": 6.2,
-   "runtime": 105,
-   "genres": [
-    "Drame"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/th2M8sf8rYRsNMNdzQlM4NmJL7E.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/gcSvsTjZIIXnUZ4ZWGn62whGmS5.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/lSEsfOGiodiQP4175EtfMjVoqO7.png",
-   "imdb_id": "tt22005882",
-   "tmdb_url": "https://www.themoviedb.org/movie/1022046",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt22005882",
-   "added_at": "2026-06-19T06:05:32Z",
-   "directors": [
-    "Hubert Davis"
-   ],
-   "cast": [
-    {
-     "name": "Ashton James",
-     "role": "Dean Youngblood",
-     "photo": "https://image.tmdb.org/t/p/w185/bNx5Sfunn4jlUc34hrQ8hgJUD9K.jpg"
-    },
-    {
-     "name": "Henri Picard",
-     "role": "Denis Sutton",
-     "photo": "https://image.tmdb.org/t/p/w185/sPGPhXkJygFSbH6gp6ZkDRc2Y6x.jpg"
-    },
-    {
-     "name": "Blair Underwood",
-     "role": "Blane Youngblood",
-     "photo": "https://image.tmdb.org/t/p/w185/3e6my8gZYS3L2OP4ZTN1psQDYIT.jpg"
-    },
-    {
-     "name": "Shawn Doyle",
-     "role": "Murray Chadwick",
-     "photo": "https://image.tmdb.org/t/p/w185/s5Y7kLgxmXeDx0pozhmA7V91yZf.jpg"
-    },
-    {
-     "name": "Alexandra McDonald",
-     "role": "Jesse Chadwick",
-     "photo": "https://image.tmdb.org/t/p/w185/pnyvgLOfBHFugJFe4k7s4DMpokJ.jpg"
-    },
-    {
-     "name": "Emidio Lopes",
-     "role": "Kelly Youngblood",
-     "photo": "https://image.tmdb.org/t/p/w185/8xdUzp1m0OkVmhQeYLwXwCtng3z.jpg"
-    },
-    {
-     "name": "Oluniké Adeliyi",
-     "role": "Ruby Youngblood",
-     "photo": "https://image.tmdb.org/t/p/w185/mhyvUy5d9ZaEXfziSnKBEnDxJKh.jpg"
-    },
-    {
-     "name": "Tamara Podemski",
-     "role": "Ms. Mcgill",
-     "photo": "https://image.tmdb.org/t/p/w185/nqcdt9ko2XGA5XXqGX6ybxD5AKw.jpg"
-    },
-    {
-     "name": "Keris Hope Hill",
-     "role": "Winnie",
-     "photo": "https://image.tmdb.org/t/p/w185/fAyRGU7lce2Pvh6a4Jh7yb9qoSy.jpg"
-    },
-    {
-     "name": "Donald MacLean Jr.",
-     "role": "Carl Racki",
-     "photo": "https://image.tmdb.org/t/p/w185/jYRYxYOADVOeDGtMHmkJiAXxLMq.jpg"
-    },
-    {
-     "name": "Joris Jarsky",
-     "role": "GM Lucas Turco",
-     "photo": "https://image.tmdb.org/t/p/w185/snXBT36DDvxDhRyym44Zs55eKUf.jpg"
-    },
-    {
-     "name": "Allan Hawco",
-     "role": "Coach Hall",
-     "photo": "https://image.tmdb.org/t/p/w185/qvZoHjkmbjdA0W6C0evynt26DJ8.jpg"
-    },
-    {
-     "name": "Wagner Shell III",
-     "role": "Dean Youngblood - young",
-     "photo": null
-    },
-    {
-     "name": "Quintin Glasgow",
-     "role": "Kelly Youngblood - young",
-     "photo": "https://image.tmdb.org/t/p/w185/wGcCCOQcxB6n8e7C7XhiLBbzXIw.jpg"
-    },
-    {
-     "name": "Evan Kearns",
-     "role": "Jason",
-     "photo": "https://image.tmdb.org/t/p/w185/ksgQsTt8tKmxktLRBbWETzOxqDn.jpg"
-    }
-   ],
-   "age_rating": "12",
-   "countries": [
-    "Canada",
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Aircraft Pictures",
-     "logo": null
-    },
-    {
-     "name": "Dolphin Entertainment",
-     "logo": null
-    },
-    {
-     "name": "Photon Films",
-     "logo": "https://image.tmdb.org/t/p/w185/hv52EWm6JpgaFlnlKtdVM9CFf16.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 31,
-   "writers": [
-    "Charles Officer",
-    "Josh Epstein",
-    "Kyle Rideout"
-   ],
-   "tagline": "Tente ta chance."
   }
  ]
 }
