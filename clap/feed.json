@@ -1,7 +1,160 @@
 {
  "version": 1,
- "updated": "2026-11-24T07:17:22Z",
+ "updated": "2026-11-24T07:17:30Z",
  "items": [
+  {
+   "id": "movie:tt29611136",
+   "type": "movie",
+   "title": "Wicker",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-21",
+   "overview": "Mise au ban de son village, une pêcheuse solitaire commande au vannier local un mari en osier. Cet époux improbable se révèle doté d’une sensibilité et de talents qui dépassent toutes ses attentes. À son contact, elle découvre un désir insoupçonné et, peu à peu, s’éprend véritablement de lui. Mais bientôt, son étrange mari attise les convoitises, la jalousie et les fantasmes des villageois, faisant vaciller les certitudes d’une communauté jusque-là bien ordonnée.",
+   "synopsis_origin": null,
+   "rating": 7.4,
+   "runtime": 105,
+   "genres": [
+    "Romance",
+    "Fantastique",
+    "Comédie"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=kA9NfV4pM_Q",
+   "poster": "https://image.tmdb.org/t/p/w500/fjoHeK9kmoN46dUPGVpZA5rD27g.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/xVh1ypMoVkMf5IB7y3hnRplJ14c.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/edYXpYo4TgEirZuMeKTSkOkF96p.png",
+   "imdb_id": "tt29611136",
+   "tmdb_url": "https://www.themoviedb.org/movie/1195803",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt29611136",
+   "added_at": "2026-11-24T07:17:28Z",
+   "tagline": "Un bon parti.",
+   "directors": [
+    "Eleanor Wilson",
+    "Alex Huston Fischer"
+   ],
+   "writers": [
+    "Eleanor Wilson",
+    "Alex Huston Fischer"
+   ],
+   "cast": [
+    {
+     "name": "Olivia Colman",
+     "role": "The Fisherwoman",
+     "photo": "https://image.tmdb.org/t/p/w185/lawJUdbLb1YW0niaYjiVGR9IBG8.jpg"
+    },
+    {
+     "name": "Alexander Skarsgård",
+     "role": "The Wicker Husband",
+     "photo": "https://image.tmdb.org/t/p/w185/6VNNddrSrIVgdzhXr4Zg89gmOzY.jpg"
+    },
+    {
+     "name": "Peter Dinklage",
+     "role": "The Basketmaker",
+     "photo": "https://image.tmdb.org/t/p/w185/9CAd7wr8QZyIN0E7nm8v1B6WkGn.jpg"
+    },
+    {
+     "name": "Elizabeth Debicki",
+     "role": "The Tailor’s Wife",
+     "photo": "https://image.tmdb.org/t/p/w185/sJxj44aKdY0pjSIgnxBgMWLrQmw.jpg"
+    },
+    {
+     "name": "Marli Siu",
+     "role": "The Bottlewasher’s Wife",
+     "photo": "https://image.tmdb.org/t/p/w185/pNi3TfnnJuDz25m93Nr2AKIYV4R.jpg"
+    },
+    {
+     "name": "Nabhaan Rizwan",
+     "role": "The Tailor",
+     "photo": "https://image.tmdb.org/t/p/w185/ljDpNmRnx9Mxe6DZbOMVZlGVXAN.jpg"
+    },
+    {
+     "name": "Richard E. Grant",
+     "role": "The Doctor",
+     "photo": "https://image.tmdb.org/t/p/w185/92oaBntIXhndCxUXaGywUyILIIE.jpg"
+    },
+    {
+     "name": "Phil Daniels",
+     "role": "The Butcher",
+     "photo": "https://image.tmdb.org/t/p/w185/6yNFNjo3cWEcuAUrl0CNQnAnQ5M.jpg"
+    },
+    {
+     "name": "Kiell Smith-Bynoe",
+     "role": "The Innkeeper",
+     "photo": "https://image.tmdb.org/t/p/w185/6pVa2SEgMfR2u7E3xfIUGZSqinh.jpg"
+    },
+    {
+     "name": "Emily Lloyd-Saini",
+     "role": "The Innkeeper’s Wife",
+     "photo": "https://image.tmdb.org/t/p/w185/tW4TD9PmBGutKVhvUNXSWxZjkVn.jpg"
+    },
+    {
+     "name": "Ella Bruccoleri",
+     "role": "The Bakerwoman",
+     "photo": "https://image.tmdb.org/t/p/w185/xVqbUOELKqxhEdqAz5IXhFYp7Uy.jpg"
+    },
+    {
+     "name": "Gustav Lindh",
+     "role": "The Bottlewasher",
+     "photo": "https://image.tmdb.org/t/p/w185/qbCsiIl0C0E1vYvLXqK2T98bvyO.jpg"
+    },
+    {
+     "name": "Ben Ashenden",
+     "role": "The Bakerman",
+     "photo": "https://image.tmdb.org/t/p/w185/qwE3vNi5PDIQIOeTcYzR0iVWj8g.jpg"
+    },
+    {
+     "name": "Scott Alexander Young",
+     "role": "The Shoemaker",
+     "photo": "https://image.tmdb.org/t/p/w185/dBROs1QHWtte2pPq6rY3opMUOZg.jpg"
+    },
+    {
+     "name": "Shobu Kapoor",
+     "role": "The Shoemaker’s Wife",
+     "photo": "https://image.tmdb.org/t/p/w185/xYw04alDmANRMeSw9Xi7wt5HQwm.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "Royaume-Uni",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Topic Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/r5UIazzNzEOUSEbxOfwWzEOBe5F.png"
+    },
+    {
+     "name": "Tango Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/adHpT0fRW86W80jPtJRo96pqJE4.png"
+    },
+    {
+     "name": "South of the River Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/bSwCootf79JLvjEKH9BC4pTOSUW.png"
+    },
+    {
+     "name": "Votiv Films",
+     "logo": "https://image.tmdb.org/t/p/w185/wTz9ZMSoxFBDnqrRZRwBLWpsQQO.png"
+    },
+    {
+     "name": "Yoki",
+     "logo": null
+    },
+    {
+     "name": "Escape Plan",
+     "logo": null
+    },
+    {
+     "name": "Lobo Films",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt35410859",
    "type": "movie",
@@ -66358,153 +66511,6 @@
    ],
    "tg_id": 30,
    "tagline": "Huit histoires. Huit cauchemars. Un seul secret."
-  },
-  {
-   "id": "series:tt34771210",
-   "type": "series",
-   "title": "Sur tes traces",
-   "original_title": "I Will Find You",
-   "year": 2026,
-   "release_date": "2026-06-18",
-   "overview": "Un père de famille innocent est condamné à perpétuité pour le meurtre de son propre fils. Lorsqu'il reçoit la preuve que son fils est peut-être encore en vie, celui-ci est plus que jamais déterminé à s'évader de prison pour découvrir la vérité.",
-   "synopsis_origin": null,
-   "rating": 8.2,
-   "runtime": 37,
-   "genres": [
-    "Drame",
-    "Mystère",
-    "Crime"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=CoSFArQvCTI",
-   "poster": "https://image.tmdb.org/t/p/w500/bqljPIvFYDGUcgyGmtYBegqJMRh.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/qVaMcjCew0nJTgaqvdl0LjUgugR.png",
-   "imdb_id": "tt34771210",
-   "tmdb_url": "https://www.themoviedb.org/tv/278178",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt34771210",
-   "added_at": "2026-06-18T11:05:02Z",
-   "directors": [
-    "Robert Hull"
-   ],
-   "seasons": 1,
-   "episodes": 8,
-   "cast": [
-    {
-     "name": "Sam Worthington",
-     "role": "David Burroughs",
-     "photo": "https://image.tmdb.org/t/p/w185/mflBcox36s9ZPbsZPVOuhf6axaJ.jpg"
-    },
-    {
-     "name": "Britt Lower",
-     "role": "Rachel Mills",
-     "photo": "https://image.tmdb.org/t/p/w185/5XIcTMDSyj7hRICQAcnY9U83ujF.jpg"
-    },
-    {
-     "name": "Chi McBride",
-     "role": "Max Williams",
-     "photo": "https://image.tmdb.org/t/p/w185/cesCeJZ5gSywA9lTYReB5uhkfek.jpg"
-    },
-    {
-     "name": "Logan Browning",
-     "role": "Sarah Greer",
-     "photo": "https://image.tmdb.org/t/p/w185/zKEsvVQCZORJ32wzp1a1exsHU0P.jpg"
-    },
-    {
-     "name": "Erin Richards",
-     "role": "Cheryl Dreason",
-     "photo": "https://image.tmdb.org/t/p/w185/uVCvOipf16ifApCqrM5jdL427wu.jpg"
-    },
-    {
-     "name": "Jonathan Tucker",
-     "role": "Adam Mackenzie",
-     "photo": "https://image.tmdb.org/t/p/w185/gR1lthok818AcmJsg87f1On6Qnf.jpg"
-    },
-    {
-     "name": "Milo Ventimiglia",
-     "role": "Hayden Payne",
-     "photo": "https://image.tmdb.org/t/p/w185/9yFPsQCYi9sbPQ0xJGtoAF4Ar6v.jpg"
-    },
-    {
-     "name": "Greg Bryk",
-     "role": "Stephano Stavros",
-     "photo": "https://image.tmdb.org/t/p/w185/1I3SxKFvQSam6KOMT4j5f0nFxRg.jpg"
-    },
-    {
-     "name": "Kate Vernon",
-     "role": "Sophie Burroughs",
-     "photo": "https://image.tmdb.org/t/p/w185/2fQ8XIYZOElhsYqlqCB6QHJ1MHW.jpg"
-    },
-    {
-     "name": "Peter Outerbridge",
-     "role": "Warden Phillip Mackenzie",
-     "photo": "https://image.tmdb.org/t/p/w185/nYH7DMzfqw511KQCe4z3gUBLzf6.jpg"
-    },
-    {
-     "name": "Aaron Ashmore",
-     "role": "Ronald Dreason",
-     "photo": "https://image.tmdb.org/t/p/w185/kkGwF2nhgnYLUfXuH2CDvrHeUay.jpg"
-    },
-    {
-     "name": "Vas Saranga",
-     "role": "Dev Chopra",
-     "photo": "https://image.tmdb.org/t/p/w185/iK9zPJBEjVM0B99yGef331ks0I9.jpg"
-    },
-    {
-     "name": "Madeleine Stowe",
-     "role": "Gertrude Payne",
-     "photo": "https://image.tmdb.org/t/p/w185/k7iQLoCP11e7iVMp1LQimUQLZe8.jpg"
-    },
-    {
-     "name": "Nicola Correia Damude",
-     "role": "Julie D'Souza",
-     "photo": "https://image.tmdb.org/t/p/w185/dXCTl0yKbMzt6sDacI1rrt8lQv3.jpg"
-    },
-    {
-     "name": "Hugh Thompson",
-     "role": "Lenny Burroughs",
-     "photo": "https://image.tmdb.org/t/p/w185/gqBxmvQH9ichNJlJguBjiJjiEVS.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "Final Twist Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/4CiIJO7QTquUWkw2gyLvRyk0ds2.png"
-    },
-    {
-     "name": "Story Math",
-     "logo": null
-    },
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 29,
-   "tagline": "Retrouvez le garçon. Découvrez la vérité."
   }
  ]
 }
