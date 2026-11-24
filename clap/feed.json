@@ -1,7 +1,165 @@
 {
  "version": 1,
- "updated": "2026-11-23T22:03:06Z",
+ "updated": "2026-11-24T07:17:22Z",
  "items": [
+  {
+   "id": "movie:tt35410859",
+   "type": "movie",
+   "title": "Fjord",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-06-13",
+   "overview": "Les Gheorghiu, un couple roumano-norvégien très pieux, s’installent dans un village au bout d’un fjord où ils se lient rapidement d’amitié avec leurs voisins, les Halberg. Les enfants des deux familles deviennent très proches, malgré des éducations différentes. Lorsque le corps enseignant découvre des ecchymoses sur le corps d’Elia, l’aînée des enfants Gheorghiu, la communauté se demande si l’éducation traditionnelle que les enfants Gheorghiu reçoivent de leurs parents pourrait en être la cause.",
+   "synopsis_origin": null,
+   "rating": 7.2,
+   "runtime": 146,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=R7d9fl035hE",
+   "poster": "https://image.tmdb.org/t/p/w500/3btHoXx6lJtDJEybsCLhkqhNCb9.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/iPVAMaI0W4lr7Rl56m0H388eR5.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/lCcYOtoUakm2ykpmv0fisfM3cQ9.png",
+   "imdb_id": "tt35410859",
+   "tmdb_url": "https://www.themoviedb.org/movie/1401459",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt35410859",
+   "added_at": "2026-11-24T07:17:20Z",
+   "tagline": "À partir de quand la protection devient-elle du contrôle ?",
+   "directors": [
+    "Cristian Mungiu"
+   ],
+   "writers": [
+    "Cristian Mungiu"
+   ],
+   "cast": [
+    {
+     "name": "Sebastian Stan",
+     "role": "Mihai Gheorghiu",
+     "photo": "https://image.tmdb.org/t/p/w185/v20RLWst39klatsqUgSrwHxhwee.jpg"
+    },
+    {
+     "name": "Renate Reinsve",
+     "role": "Lisbet Gheorghiu",
+     "photo": "https://image.tmdb.org/t/p/w185/q0ljTd4fyFSJKxPgmcrKtdg3HKo.jpg"
+    },
+    {
+     "name": "Lisa Carlehed",
+     "role": "Mia Halberg",
+     "photo": "https://image.tmdb.org/t/p/w185/r6vxXVZfiTgOHumGRtPTQpXQtKz.jpg"
+    },
+    {
+     "name": "Ellen Dorrit Petersen",
+     "role": "Gunda",
+     "photo": "https://image.tmdb.org/t/p/w185/ynXvnMlMCCn0Uk6AOwRHLQRF9nZ.jpg"
+    },
+    {
+     "name": "Lisa Loven Kongsli",
+     "role": "Frida",
+     "photo": "https://image.tmdb.org/t/p/w185/pm5y6qrZqinsYZW0Rud1DjYU4mP.jpg"
+    },
+    {
+     "name": "Henrikke Lund Olsen",
+     "role": "Noora Halberg",
+     "photo": "https://image.tmdb.org/t/p/w185/1uGyDvAwm9uyhLtnXtPahhnUYHY.jpg"
+    },
+    {
+     "name": "Markus Tønseth",
+     "role": "Mats Halberg",
+     "photo": "https://image.tmdb.org/t/p/w185/ubDlfMGerK0RePOESlud0mpTpJu.jpg"
+    },
+    {
+     "name": "Vanessa Ceban",
+     "role": "Elia Gheorghiu",
+     "photo": null
+    },
+    {
+     "name": "Jonathan Ciprian Breazu",
+     "role": "Emmanuel Gheorghiu",
+     "photo": null
+    },
+    {
+     "name": "Christian Rubeck",
+     "role": "Attorney Jacobsen",
+     "photo": "https://image.tmdb.org/t/p/w185/gZ7f4zkmX8hluHkP6OCLpiofQNC.jpg"
+    },
+    {
+     "name": "Øyvind Venstad Kjeksrud",
+     "role": "Åke",
+     "photo": "https://image.tmdb.org/t/p/w185/gbokW1fpI189V7kKsDES1tHJqgr.jpg"
+    },
+    {
+     "name": "Giulia Nahmany",
+     "role": "Ruth",
+     "photo": "https://image.tmdb.org/t/p/w185/vHhT80PtKoO7nRQyzATh9GRvehZ.jpg"
+    },
+    {
+     "name": "Erik Hivju",
+     "role": "Frederick Grandfather",
+     "photo": "https://image.tmdb.org/t/p/w185/9CdMaQJJMywkM51cvhJM7VMxN84.jpg"
+    },
+    {
+     "name": "Ingvild Lien",
+     "role": "Head Nurse Mathilde",
+     "photo": "https://image.tmdb.org/t/p/w185/xg7KYR32HYf1zJ53RqD6Som9qg4.jpg"
+    },
+    {
+     "name": "Bartek Kaminski",
+     "role": "Klaus",
+     "photo": "https://image.tmdb.org/t/p/w185/1xhZOoS5Spt1nAkJ4mCtTy8bmuB.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "RO",
+    "Norvège",
+    "France",
+    "FI",
+    "Danemark",
+    "Suède",
+    "États-Unis"
+   ],
+   "original_language": "RO",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Mobra Films",
+     "logo": "https://image.tmdb.org/t/p/w185/A9JHyYxaCXaxqsVQCw9kRsrwqNm.png"
+    },
+    {
+     "name": "Why Not Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png"
+    },
+    {
+     "name": "Eye Eye Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/eIdSKNL7OLCxIEtZRqebD1uLKDL.png"
+    },
+    {
+     "name": "Snowglobe",
+     "logo": "https://image.tmdb.org/t/p/w185/hVx90I5BEktosw4N9AneIFwmjeg.png"
+    },
+    {
+     "name": "Aamu Film Company",
+     "logo": "https://image.tmdb.org/t/p/w185/9clAUmAsWbsAS4Xua4e861dkoZ9.png"
+    },
+    {
+     "name": "Garagefilm International",
+     "logo": "https://image.tmdb.org/t/p/w185/uMA9nyqDOKpk1HIUAcWCD8SXXUh.png"
+    },
+    {
+     "name": "Film i Väst",
+     "logo": "https://image.tmdb.org/t/p/w185/bswb1PLLsKDUXMLgy42bZtCtIde.png"
+    },
+    {
+     "name": "France 3 Cinéma",
+     "logo": "https://image.tmdb.org/t/p/w185/q5I5RDwMEiqoNmfaJgd2LraEOJY.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt41662804",
    "type": "movie",
@@ -66347,203 +66505,6 @@
    ],
    "tg_id": 29,
    "tagline": "Retrouvez le garçon. Découvrez la vérité."
-  },
-  {
-   "id": "movie:tt33509147",
-   "type": "movie",
-   "title": "Maigret et le mort amoureux",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-02-18",
-   "overview": "Le commissaire Maigret est appelé en urgence au Quai d’Orsay. Monsieur Berthier-Lagès, ancien ambassadeur renommé, a été assassiné. Maigret découvre qu’il entretenait depuis cinquante ans une correspondance amoureuse avec la princesse de Vuynes, dont le mari, étrange coïncidence, vient de décéder. En se confrontant aux membres des deux familles et au mutisme suspect de la domestique du diplomate, Maigret va aller de surprise en surprise…",
-   "synopsis_origin": null,
-   "rating": 6.0,
-   "runtime": 80,
-   "genres": [
-    "Mystère",
-    "Drame",
-    "Crime"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Canal+",
-    "Apple TV Store",
-    "Rakuten TV",
-    "Canal VOD",
-    "Sooner",
-    "Amazon Video",
-    "Pathé Home",
-    "VIVA by videofutur",
-    "Premiere Max",
-    "ARTE VOD"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=G-_jyFNqjiY",
-   "poster": "https://image.tmdb.org/t/p/w500/yfFRDEWHalKnNnBisirTaBeLLPM.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/gI9auDmZrLIKTkZWHlcgo17tGaA.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/lYO9wbDOUkFzbpA98qku9ejPERQ.png",
-   "imdb_id": "tt33509147",
-   "tmdb_url": "https://www.themoviedb.org/movie/1398486",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt33509147",
-   "added_at": "2026-06-18T10:03:15Z",
-   "directors": [
-    "Pascal Bonitzer"
-   ],
-   "cast": [
-    {
-     "name": "Denis Podalydès",
-     "role": "Commissioner Jules Maigret",
-     "photo": "https://image.tmdb.org/t/p/w185/uKEvUFBjdkDuNQgDoEVwFw1TvSa.jpg"
-    },
-    {
-     "name": "Olivier Rabourdin",
-     "role": "Judge",
-     "photo": "https://image.tmdb.org/t/p/w185/r15C7VnXnyMJk8JyNQOJGaauiKA.jpg"
-    },
-    {
-     "name": "Micha Lescot",
-     "role": "Mazeron",
-     "photo": "https://image.tmdb.org/t/p/w185/sKEi3DKXvgKVUObbAEQpYqo5L1l.jpg"
-    },
-    {
-     "name": "Laurent Poitrenaux",
-     "role": "Philippe",
-     "photo": "https://image.tmdb.org/t/p/w185/6yfD3nolyHqWhnxFBV2unNeF2KD.jpg"
-    },
-    {
-     "name": "Irène Jacob",
-     "role": "Louise Maigret",
-     "photo": "https://image.tmdb.org/t/p/w185/yDpLjFtglSDlq3pvITr7O5AQfvg.jpg"
-    },
-    {
-     "name": "Manuel Guillot",
-     "role": "Janvier",
-     "photo": "https://image.tmdb.org/t/p/w185/9CCf47gNbScsuWBgytN69yi3Bjo.jpg"
-    },
-    {
-     "name": "Anne Alvaro",
-     "role": "Jacotte Larrieu",
-     "photo": "https://image.tmdb.org/t/p/w185/qVGJMYoNm0wLLCVa8xSmDaHWBxe.jpg"
-    },
-    {
-     "name": "Julia Faure",
-     "role": "Juliette",
-     "photo": "https://image.tmdb.org/t/p/w185/5DvDNQ0Rs85Ytn3VtBAXdzGZ8PT.jpg"
-    },
-    {
-     "name": "Arcadi Radeff",
-     "role": "Julien de Vuynes",
-     "photo": "https://image.tmdb.org/t/p/w185/5e8phMITmDTHRbdF3KaB46x6pOl.jpg"
-    },
-    {
-     "name": "Dominique Reymond",
-     "role": "Princess",
-     "photo": "https://image.tmdb.org/t/p/w185/7FFvvt6s1M0R0edQLA1hjaeNCXE.jpg"
-    },
-    {
-     "name": "Noël Simsolo",
-     "role": "Priest",
-     "photo": "https://image.tmdb.org/t/p/w185/gcr96Poq9E6dyArzDfMTJpylGOL.jpg"
-    },
-    {
-     "name": "Stéphane Mercoyrol",
-     "role": "Moers",
-     "photo": "https://image.tmdb.org/t/p/w185/n8TRaiNRgtdfxwnMSlXYdNM4Ts3.jpg"
-    },
-    {
-     "name": "Natalia Pujszo",
-     "role": "Ludmilla",
-     "photo": "https://image.tmdb.org/t/p/w185/bSokotAIYjYy5ugaZCxpu2hhjBu.jpg"
-    },
-    {
-     "name": "Hugues Quester",
-     "role": "Maître Aubonnet",
-     "photo": "https://image.tmdb.org/t/p/w185/sBLiQG9ihExsM1qMV51RRaOe0kG.jpg"
-    },
-    {
-     "name": "Jeremy Lewin",
-     "role": "Cromière",
-     "photo": "https://image.tmdb.org/t/p/w185/6hlH8mab9PbBQhJppsvSOCRTLgp.jpg"
-    }
-   ],
-   "age_rating": "TP",
-   "countries": [
-    "France",
-    "Belgique"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "SBS Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/79j5EijIG8NrRg5ibLtdooXTsiu.png"
-    },
-    {
-     "name": "Versus Production",
-     "logo": "https://image.tmdb.org/t/p/w185/aZww3B7RCFAMV1qrDZDrdeB8qcI.png"
-    },
-    {
-     "name": "Proximus",
-     "logo": "https://image.tmdb.org/t/p/w185/yrAyYme1zlZtHuhlWS3DlFAj762.png"
-    },
-    {
-     "name": "BeTV",
-     "logo": "https://image.tmdb.org/t/p/w185/7ZIwXTA5QVD6feybiITOL6OYJPJ.png"
-    },
-    {
-     "name": "Orange",
-     "logo": "https://image.tmdb.org/t/p/w185/kTHYCmbAbITXhOhyAv6dBD4Gp37.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Canal+",
-     "logo": "https://image.tmdb.org/t/p/w92/gliWKhLJVdm7QwL1braBCRko5dx.png"
-    },
-    {
-     "name": "Apple TV Store",
-     "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-    },
-    {
-     "name": "Rakuten TV",
-     "logo": "https://image.tmdb.org/t/p/w92/872dfVu1biZISJ8rO143CZZutPR.png"
-    },
-    {
-     "name": "Canal VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/51fX3l4yElitnfui0IkbMUmfmgF.png"
-    },
-    {
-     "name": "Sooner",
-     "logo": "https://image.tmdb.org/t/p/w92/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
-    },
-    {
-     "name": "Amazon Video",
-     "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-    },
-    {
-     "name": "Pathé Home",
-     "logo": "https://image.tmdb.org/t/p/w92/zbXVTncv6m6ojLjPQJeW7u0SYKp.png"
-    },
-    {
-     "name": "VIVA by videofutur",
-     "logo": "https://image.tmdb.org/t/p/w92/uzTONLCUH92RRMSzs206OYtWVml.png"
-    },
-    {
-     "name": "Premiere Max",
-     "logo": "https://image.tmdb.org/t/p/w92/yERf5EH3GjWMB0ZSWPaov1kCKrR.png"
-    },
-    {
-     "name": "ARTE VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/z32NGSc2wYxQzcOc24iXK8q35A1.png"
-    }
-   ],
-   "tg_id": 28,
-   "writers": [
-    "Pascal Bonitzer",
-    "Georges Simenon"
-   ],
-   "tagline": null
   }
  ]
 }
