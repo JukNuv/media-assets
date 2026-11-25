@@ -1,7 +1,134 @@
 {
  "version": 1,
- "updated": "2026-11-25T08:04:19Z",
+ "updated": "2026-11-25T10:06:08Z",
  "items": [
+  {
+   "id": "movie:tt43306462",
+   "type": "movie",
+   "title": "Un grand raccourci",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-08-12",
+   "overview": "Quand le restaurant familial menace de fermer, deux cousins bretons relâchent des rats pour s’improviser dératiseurs. Le même été, deux jeunes femmes trafiquent le concours de beauté local pour promouvoir leurs bijoux. Embarqués dans leurs stratagèmes chaotiques, ces quatre débrouillards en quête d’avenir finissent par se percuter.",
+   "synopsis_origin": null,
+   "rating": 7.0,
+   "runtime": 81,
+   "genres": [
+    "Comédie",
+    "Drame"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=pJ7xzecIsi4",
+   "poster": "https://image.tmdb.org/t/p/w500/xh0ahWLy5tEUdrI4sdI4FCJ8sKH.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/bqYbkspA3B8A5DPyvbiOnKpiXMG.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/y3XZJSIawGUmzfQDWYeBNNyTMwM.png",
+   "imdb_id": "tt43306462",
+   "tmdb_url": "https://www.themoviedb.org/movie/1683079",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt43306462",
+   "added_at": "2026-11-25T10:06:07Z",
+   "tagline": null,
+   "directors": [
+    "Clément Devilliers",
+    "Armand Foëx"
+   ],
+   "writers": [
+    "Armand Foëx",
+    "Clément Devilliers"
+   ],
+   "cast": [
+    {
+     "name": "Sara Montpetit",
+     "role": "Louise",
+     "photo": "https://image.tmdb.org/t/p/w185/lKMnPTkc8GCNoWrBS97dQpWwIJG.jpg"
+    },
+    {
+     "name": "Louise Labèque",
+     "role": "Maeva",
+     "photo": "https://image.tmdb.org/t/p/w185/A6avdJDxsjifF1iaNOQtPu9rHtf.jpg"
+    },
+    {
+     "name": "François Le Bris",
+     "role": "Grégoire",
+     "photo": "https://image.tmdb.org/t/p/w185/udQufuhXP9ioNw2rUW1MEtIi37n.jpg"
+    },
+    {
+     "name": "Jules Porier",
+     "role": "Corentin",
+     "photo": "https://image.tmdb.org/t/p/w185/v6gifSlr6qMH5RLXypdk3op6K40.jpg"
+    },
+    {
+     "name": "Anja Verderosa",
+     "role": "Candice",
+     "photo": "https://image.tmdb.org/t/p/w185/g5rC9idxvYjPTlVtkAYwEwYxCVF.jpg"
+    },
+    {
+     "name": "Igor Kovalsky",
+     "role": "Guilhem",
+     "photo": "https://image.tmdb.org/t/p/w185/uvR8Ac3y6SN5SzJ0BxMbJUR12C6.jpg"
+    },
+    {
+     "name": "Sabrina Seyvecou",
+     "role": "Océane",
+     "photo": "https://image.tmdb.org/t/p/w185/lRdNKbc5m5jnuvL2soYzAZiWY7k.jpg"
+    },
+    {
+     "name": "Juliette Tomyn",
+     "role": "Juliette",
+     "photo": null
+    },
+    {
+     "name": "Guillaume Ercker",
+     "role": "Maël",
+     "photo": null
+    },
+    {
+     "name": "Éric Frey",
+     "role": "Éric",
+     "photo": "https://image.tmdb.org/t/p/w185/tMmTWcMhm2C82zgzwkAmDacck8l.jpg"
+    },
+    {
+     "name": "Noémie Morel",
+     "role": "Isaure",
+     "photo": null
+    },
+    {
+     "name": "Luana Proffit",
+     "role": "Manon",
+     "photo": null
+    },
+    {
+     "name": "Julie Grelet",
+     "role": "Elsa",
+     "photo": null
+    },
+    {
+     "name": "Jennifer Gaiwe",
+     "role": "Jennyfer",
+     "photo": null
+    },
+    {
+     "name": "Marie Descottes",
+     "role": "Jade",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Andromaque Films",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt18224594",
    "type": "series",
@@ -66414,136 +66541,6 @@
     "Leah McKendrick"
    ],
    "tagline": "Parfois, l'univers nous laisse un message."
-  },
-  {
-   "id": "series:tt34885250",
-   "type": "series",
-   "title": "The Lady : A Royal Murder Scandal",
-   "original_title": "The Lady",
-   "year": 2026,
-   "release_date": "2026-02-22",
-   "overview": "Jane Andrews, habilleuse royale, partie de rien, a gravi les échelons jusqu'aux cercles du palais avant qu'une condamnation pour meurtre ne mette fin à son conte de fées. Le procès très médiatisé a suscité un véritable engouement. Elle a été libérée de prison en 2019.",
-   "synopsis_origin": null,
-   "rating": 6.4,
-   "runtime": 47,
-   "genres": [
-    "Drame",
-    "Crime"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "HBO Max",
-    "HBO Max Amazon Channel"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/lMveq4zyLX4dAZgO0xXMf4vYqf6.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/y1Xg6NPRD8QFbgOVer16ynjGYUp.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/eCqlnxEnLbsvB8cvoCSXQl1chQB.png",
-   "imdb_id": "tt34885250",
-   "tmdb_url": "https://www.themoviedb.org/tv/298425",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt34885250",
-   "added_at": "2026-06-19T07:03:48Z",
-   "directors": [
-    "Debbie O'Malley"
-   ],
-   "seasons": 1,
-   "episodes": 4,
-   "cast": [
-    {
-     "name": "Mia McKenna-Bruce",
-     "role": "Jane Andrews",
-     "photo": "https://image.tmdb.org/t/p/w185/zVmrUsxaLDiWyIKtMxX5N12D6G8.jpg"
-    },
-    {
-     "name": "Natalie Dormer",
-     "role": "Sarah Ferguson",
-     "photo": "https://image.tmdb.org/t/p/w185/vvl6bi59rQhoTjNZMHyRUX9zXLU.jpg"
-    },
-    {
-     "name": "Philip Glenister",
-     "role": "DCI Jim Dickie",
-     "photo": "https://image.tmdb.org/t/p/w185/6JCHlKKJnKyBjJxvITnBOSTKSSq.jpg"
-    },
-    {
-     "name": "Ophelia Lovibond",
-     "role": "Aleksandra",
-     "photo": "https://image.tmdb.org/t/p/w185/oH5fas23dQpLN5wrYcL02Nn0YmD.jpg"
-    },
-    {
-     "name": "Claire Skinner",
-     "role": "June Andrews",
-     "photo": "https://image.tmdb.org/t/p/w185/odJEMUo4utv11ylHLmrOgbhUQHZ.jpg"
-    },
-    {
-     "name": "Daniel Ryan",
-     "role": "David Andrews",
-     "photo": "https://image.tmdb.org/t/p/w185/hBi6cMtlc4FXfCSfDvU68U70bwj.jpg"
-    },
-    {
-     "name": "Ed Speleers",
-     "role": "Thomas Cressman",
-     "photo": "https://image.tmdb.org/t/p/w185/hDWyZwBEMRklqNllfUinYajJJk6.jpg"
-    },
-    {
-     "name": "James Anderson",
-     "role": "Rick Cressman",
-     "photo": "https://image.tmdb.org/t/p/w185/tbdEmbxtvw3MfCtoeQCP8fr9QuA.jpg"
-    },
-    {
-     "name": "Jack Alldridge",
-     "role": "David Cressman",
-     "photo": "https://image.tmdb.org/t/p/w185/zz3IDRqx7wM26KTwptjDH63st5c.jpg"
-    },
-    {
-     "name": "Sophie Simnett",
-     "role": "Claudia",
-     "photo": "https://image.tmdb.org/t/p/w185/iJjXQETOTcbRCa3FYQrvrwhr6tT.jpg"
-    },
-    {
-     "name": "Mark Stanley",
-     "role": "Charles",
-     "photo": "https://image.tmdb.org/t/p/w185/3ABvmcomWJxKsDnfqyVsIzjvul8.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Royaume-Uni"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "Left Bank Pictures",
-     "logo": "https://image.tmdb.org/t/p/w185/zHQ48Hg1In6SJB7WWCqVBfWsSwv.png"
-    },
-    {
-     "name": "BritBox International",
-     "logo": null
-    },
-    {
-     "name": "ITV Studios",
-     "logo": "https://image.tmdb.org/t/p/w185/jTR3M7xz7jE9dTwWs0e25eN1xcL.png"
-    },
-    {
-     "name": "ITV1",
-     "logo": "https://image.tmdb.org/t/p/w185/oz9pjTHnBUmlju8OkaTymhKbh6C.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "HBO Max",
-     "logo": "https://image.tmdb.org/t/p/w92/skypuy7SXuugIQeYg0IglmzoKaS.png"
-    },
-    {
-     "name": "HBO Max Amazon Channel",
-     "logo": "https://image.tmdb.org/t/p/w92/64fLWeSyZ1KQZhIdvTdy4QHeWty.png"
-    }
-   ],
-   "tg_id": 33,
-   "tagline": null
   }
  ]
 }
