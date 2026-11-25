@@ -1,39 +1,39 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-25",
   "cinebox": {
-    "versionCode": 15,
-    "versionName": "1.0.14",
-    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.14/CineBoX-1.0.14.apk",
-    "sha256": "d9cda470f6775ad617ff1c6f2c9d1637624f869defe38fa5488111dd47037ff3",
-    "size": 41372951,
-    "notes": "Une télécommande repensée, plus haute et plus grande. Elle affiche le titre et les raccourcis même sans Scrob. Les fenêtres prennent toute la hauteur quand il y a beaucoup à montrer. Drapeau du Canada pour la VFQ."
+    "versionCode": 49,
+    "versionName": "1.0.15",
+    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.15/CineBoX-1.0.15.apk",
+    "sha256": "df2956f58f0c68598d4a6c5dc59bb95e682725128100ceb005841bbf7251d751",
+    "size": 41413471,
+    "notes": "Avec Nuvio Scrob, « Lire sur TV » affiche la liste des sources sur le téléphone sans rien ouvrir sur la télé : touchez une source, la télé la lance. Fire TV Stick : flèches, OK et retour depuis le téléphone. Télécommande plus claire, et un guide pas à pas pour la configurer."
   },
   "link": {
-    "versionCode": 15,
-    "versionName": "1.0.14",
-    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.14/CineBoX-Link-1.0.14.apk",
-    "sha256": "f110c0fd066dd9a60374830ca8d6f11f750453e49a24f5bc9d48ca275418098b",
-    "size": 739485,
-    "notes": "Plus rapide et plus fiable pendant une lecture : la télévision n'apparaît plus « hors ligne » à tort."
+    "versionCode": 27,
+    "versionName": "1.0.15",
+    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.15/CineBoX-Link-1.0.15.apk",
+    "sha256": "47883b4c6aff493dbd8b931473c51bfbd82b7a91f43fdad7476d948e7acd9490",
+    "size": 742767,
+    "notes": "Liste des sources sans écran sur la télé (avec Nuvio Scrob, même fermé). Avec Nuvio officiel : la barre de progression se déplace depuis le téléphone."
   },
   "nuvio_tv": {
     "package": "com.nuviodebug.com",
-    "versionCode": 1084,
-    "versionName": "1.1.1-scrob.3",
+    "versionCode": 1086,
+    "versionName": "1.1.1-scrob.5",
     "arm64": {
-      "versionCode": 1084,
-      "versionName": "1.1.1-scrob.3",
-      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.3-1084/Nuvio-TV-avec-Scrob-arm64.apk",
-      "sha256": "dff6d7ccd6e3b22a4232ff48e1ce054d7700f051c5177627c85790125b260576",
-      "size": 75784505
+      "versionCode": 1086,
+      "versionName": "1.1.1-scrob.5",
+      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.5-1086/Nuvio-Scrob-1.1.1-scrob.5-arm64.apk",
+      "sha256": "7d1967d3d948336781b4276a179db04eb75edb23b2a12d4b54974b97d6833f78",
+      "size": 75797565
     },
     "armv7": {
-      "versionCode": 1084,
-      "versionName": "1.1.1-scrob.3",
-      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.3-1084/Nuvio-TV-avec-Scrob-armv7.apk",
-      "sha256": "37b11b628b57eac3595e9e61f80c2bcebdc07d212861595970dcb9ac0f6dc968",
-      "size": 73907093
+      "versionCode": 1086,
+      "versionName": "1.1.1-scrob.5",
+      "url": "https://github.com/juknuv/media-files/releases/download/nuviotv-1.1.1-scrob.5-1086/Nuvio-Scrob-1.1.1-scrob.5-armv7.apk",
+      "sha256": "f02ba85e58797aad10a649c1e6ccdc8c32c6a5fd79596ed46793e4fe0898c71b",
+      "size": 73920157
     },
-    "notes": "Les mises à jour de Nuvio Scrob passent uniquement par CineBoX Link : l'onglet « À propos » ne va plus chercher la version officielle de Nuvio."
+    "notes": "Donne la liste des sources à CineBoX sans rien afficher sur la télé, et lance la source choisie sur le téléphone. Plus de sources par module, et le nom de la release dans les infos du flux."
   }
 }
