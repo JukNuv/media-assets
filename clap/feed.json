@@ -1,7 +1,163 @@
 {
  "version": 1,
- "updated": "2026-11-25T10:06:08Z",
+ "updated": "2026-11-25T14:06:22Z",
  "items": [
+  {
+   "id": "movie:tt23644354",
+   "type": "movie",
+   "title": "Derrière les palmiers",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-04-01",
+   "overview": "À Tanger, Mehdi voit sa relation avec Selma bouleversée lorsqu’il rencontre Marie, une riche française dont les parents ont acheté une luxueuse villa dans la kasbah. Attiré par sa vie mondaine, il délaisse Selma, feignant d’ignorer que ses choix le rattraperont.",
+   "synopsis_origin": null,
+   "rating": 5.8,
+   "runtime": 94,
+   "genres": [
+    "Drame",
+    "Romance"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Molotov TV"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=xyvMrEJaLqY",
+   "poster": "https://image.tmdb.org/t/p/w500/47k5xBtbReL4lZKBNDUbT0hHWJa.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/arA4ecprfdAYslXIBheiAOPm8ha.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/yLQiRhbFs3IQLDtmcpl2fftmT05.svg",
+   "imdb_id": "tt23644354",
+   "tmdb_url": "https://www.themoviedb.org/movie/1046699",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt23644354",
+   "added_at": "2026-11-25T14:06:20Z",
+   "tagline": null,
+   "directors": [
+    "Meryem Benm'Barek-Aloïsi"
+   ],
+   "writers": [
+    "Meryem Benm'Barek-Aloïsi",
+    "Fyzal Boulifa"
+   ],
+   "cast": [
+    {
+     "name": "Driss Ramdi",
+     "role": "Mehdi",
+     "photo": "https://image.tmdb.org/t/p/w185/pjnFrTZR1kvsYabYz9IUfUbkDyT.jpg"
+    },
+    {
+     "name": "Sara Giraudeau",
+     "role": "Marie",
+     "photo": "https://image.tmdb.org/t/p/w185/6XD2hAFrcI1IstRVUaMwRAT93AK.jpg"
+    },
+    {
+     "name": "Nadia Kounda",
+     "role": "Selma",
+     "photo": "https://image.tmdb.org/t/p/w185/71Vucl7guTyMDWykLi5EsJz8ewx.jpg"
+    },
+    {
+     "name": "Carole Bouquet",
+     "role": "Clotilde",
+     "photo": "https://image.tmdb.org/t/p/w185/nCyI95wVvhXFH1GiornFHsL9YOx.jpg"
+    },
+    {
+     "name": "Olivier Rabourdin",
+     "role": "Bernard",
+     "photo": "https://image.tmdb.org/t/p/w185/r15C7VnXnyMJk8JyNQOJGaauiKA.jpg"
+    },
+    {
+     "name": "Soumaya Akaaboune",
+     "role": "Wafae",
+     "photo": "https://image.tmdb.org/t/p/w185/mHymrclluVEYURLk72ZMhkUm9tG.jpg"
+    },
+    {
+     "name": "Amine Ennaji",
+     "role": "Farid",
+     "photo": "https://image.tmdb.org/t/p/w185/c29gNwh767I2aDqBqX8YFQHSThR.jpg"
+    },
+    {
+     "name": "Ayoub Trombati",
+     "role": "Adam",
+     "photo": null
+    },
+    {
+     "name": "Houda Baghdad",
+     "role": "Fadwa",
+     "photo": null
+    },
+    {
+     "name": "Abdellah Jued",
+     "role": "Moncef",
+     "photo": null
+    },
+    {
+     "name": "Rachel O'Meara",
+     "role": "Stacy",
+     "photo": "https://image.tmdb.org/t/p/w185/12JMaDHXs8uMRtCY7mwDQoBDBGM.jpg"
+    },
+    {
+     "name": "Steve Canillac",
+     "role": "Serge",
+     "photo": null
+    },
+    {
+     "name": "Salma Machkour",
+     "role": "Yousra",
+     "photo": null
+    },
+    {
+     "name": "Sonia Okacha",
+     "role": "La commissaire",
+     "photo": "https://image.tmdb.org/t/p/w185/ZS63yei93UkzdAEin6CPubvLjf.jpg"
+    },
+    {
+     "name": "Fatima Hernadi",
+     "role": "Hafida",
+     "photo": "https://image.tmdb.org/t/p/w185/loPS803u2MDubbvk29xD5WumNFd.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "Belgique",
+    "France",
+    "MA",
+    "Royaume-Uni"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Tessalit Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6NwjE3AuYKMuGNJdAG8TzmhmioV.png"
+    },
+    {
+     "name": "Furyo Films",
+     "logo": "https://image.tmdb.org/t/p/w185/jGEgeGTpiFR7vO6vwbTaJgQwr91.png"
+    },
+    {
+     "name": "Agora Films",
+     "logo": "https://image.tmdb.org/t/p/w185/8vhiICXCGJcoGJwn590vhCn3r9E.png"
+    },
+    {
+     "name": "Novak Prod",
+     "logo": "https://image.tmdb.org/t/p/w185/e28RwIpRcOSFaeKkzLQBzvMXbK0.png"
+    },
+    {
+     "name": "The Bureau",
+     "logo": "https://image.tmdb.org/t/p/w185/aTEwjHN8l51ix2YcTxxzR92WaXy.png"
+    },
+    {
+     "name": "Chi-Fou-Mi Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/ahgzFRXKF2fkOV0WfB0RCxEmxki.png"
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "Molotov TV",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt43306462",
    "type": "movie",
@@ -66398,149 +66554,6 @@
    ],
    "tg_id": 35,
    "tagline": "Il y a des étés qui changent tout. Et des lieux conçus pour s'évader, même de la vérité."
-  },
-  {
-   "id": "movie:tt10375624",
-   "type": "movie",
-   "title": "Voicemails for Isabelle",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-06-20",
-   "overview": "Les confessions hilarantes qu'une jeune femme croit envoyer par message vocal à sa sœur décédée finissent sur le répondeur d'un inconnu, qui tombe sous le charme à distance.",
-   "synopsis_origin": null,
-   "rating": 8.3,
-   "runtime": 119,
-   "genres": [
-    "Romance",
-    "Comédie",
-    "Drame"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=ylOy7XjgtUQ",
-   "poster": "https://image.tmdb.org/t/p/w500/gqnv5448y3R5KAelvhapSKtiU5z.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/84TMRfz6ZTSJCL77b0S70otXezi.png",
-   "imdb_id": "tt10375624",
-   "tmdb_url": "https://www.themoviedb.org/movie/614945",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt10375624",
-   "added_at": "2026-06-19T10:04:47Z",
-   "directors": [
-    "Leah McKendrick"
-   ],
-   "cast": [
-    {
-     "name": "Zoey Deutch",
-     "role": "Jill",
-     "photo": "https://image.tmdb.org/t/p/w185/cpKcORQx7QquIy1ZZvEy8LEVLr2.jpg"
-    },
-    {
-     "name": "Nick Robinson",
-     "role": "Wes",
-     "photo": "https://image.tmdb.org/t/p/w185/vWFoPTd8G7DIDXYmiTiq4oaYG5G.jpg"
-    },
-    {
-     "name": "Harry Shum Jr.",
-     "role": "Andy",
-     "photo": "https://image.tmdb.org/t/p/w185/xFQsThmdyuOk9jt3zgZL08ixf2b.jpg"
-    },
-    {
-     "name": "Leah McKendrick",
-     "role": "Breeda",
-     "photo": "https://image.tmdb.org/t/p/w185/zB4x8f3HmzemgTdOMBGCwEZL0UP.jpg"
-    },
-    {
-     "name": "Ciara Bravo",
-     "role": "Isabelle",
-     "photo": "https://image.tmdb.org/t/p/w185/vCr9ndoyWyo5JjtmVGGzjFBiW9E.jpg"
-    },
-    {
-     "name": "Toby Sandeman",
-     "role": "Tyler",
-     "photo": "https://image.tmdb.org/t/p/w185/5ZmXTHbRlbkQDtga4Cbk447osUY.jpg"
-    },
-    {
-     "name": "Nick Offerman",
-     "role": "Chef Bastien",
-     "photo": "https://image.tmdb.org/t/p/w185/f6z3mPVtaF40ewfdmZydprAjmYd.jpg"
-    },
-    {
-     "name": "Lukas Gage",
-     "role": "Arthur",
-     "photo": "https://image.tmdb.org/t/p/w185/xXknCnXtRBmqg38TkMuPFtugt5s.jpg"
-    },
-    {
-     "name": "Megan Danso",
-     "role": "Zella",
-     "photo": "https://image.tmdb.org/t/p/w185/9LbrrngK3QX6YeWt3uDZVNgpukT.jpg"
-    },
-    {
-     "name": "Tanis Dolman",
-     "role": "Mom",
-     "photo": "https://image.tmdb.org/t/p/w185/xkRnFEeVDVrOfAo73lBtLy39VXE.jpg"
-    },
-    {
-     "name": "Gil Bellows",
-     "role": "Dad",
-     "photo": "https://image.tmdb.org/t/p/w185/eCOIv2nSGnWTHdn88NoMyNOKWyR.jpg"
-    },
-    {
-     "name": "Alice Comer",
-     "role": "Young Jill",
-     "photo": "https://image.tmdb.org/t/p/w185/klUb66tBtHLUp65hmKMxe92Pplz.jpg"
-    },
-    {
-     "name": "Iris Everly",
-     "role": "Young Isabelle",
-     "photo": null
-    },
-    {
-     "name": "Zenia Marshall",
-     "role": "Brittani",
-     "photo": "https://image.tmdb.org/t/p/w185/xQkfSVp2YiWn0SfGws3aZPl63jV.jpg"
-    },
-    {
-     "name": "Raine Mateo",
-     "role": "Jessa",
-     "photo": "https://image.tmdb.org/t/p/w185/89oDzu1fADXKAUYs7PWFKZhk1qV.jpg"
-    }
-   ],
-   "age_rating": "12",
-   "countries": [
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Escape Artists",
-     "logo": "https://image.tmdb.org/t/p/w185/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png"
-    },
-    {
-     "name": "Sony Pictures",
-     "logo": "https://image.tmdb.org/t/p/w185/xAb1o9HrSvKBo9mnXC8fJKDNu00.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 34,
-   "writers": [
-    "Leah McKendrick"
-   ],
-   "tagline": "Parfois, l'univers nous laisse un message."
   }
  ]
 }
