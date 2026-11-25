@@ -1,7 +1,138 @@
 {
  "version": 1,
- "updated": "2026-11-25T14:06:22Z",
+ "updated": "2026-11-25T14:06:32Z",
  "items": [
+  {
+   "id": "movie:tt36413910",
+   "type": "movie",
+   "title": "The Mosquito Bowl",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-29",
+   "overview": "Après l'attaque de Pearl Harbor, quatre stars du football américain mettent de côté leur célébrité pour s'engager dans les Marines. Alors qu'ils se préparent à l'invasion brutale d'Okinawa, ils participent à un match légendaire.",
+   "synopsis_origin": null,
+   "rating": 6.7,
+   "runtime": 128,
+   "genres": [
+    "Histoire",
+    "Drame",
+    "Guerre"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=DqhZS1OEVaw",
+   "poster": "https://image.tmdb.org/t/p/w500/zbT4sxoCEeFWlQG4SC5X9Q8v6PC.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/k2djfMwL3LhpvZMfPN7IFX4DG5N.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/dgzKCgjJECvZpclowYlRDgPKFPN.png",
+   "imdb_id": "tt36413910",
+   "tmdb_url": "https://www.themoviedb.org/movie/1458300",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36413910",
+   "added_at": "2026-11-25T14:06:30Z",
+   "tagline": "Formés pour la gloire, appelés à la guerre.",
+   "directors": [
+    "Peter Berg"
+   ],
+   "writers": [
+    "Peter Berg",
+    "Mark L. Smith"
+   ],
+   "cast": [
+    {
+     "name": "Nicholas Galitzine",
+     "role": "John McLaughry",
+     "photo": "https://image.tmdb.org/t/p/w185/hG4rH7eBMs117746bBOd8fUa4PA.jpg"
+    },
+    {
+     "name": "Bill Skarsgård",
+     "role": "Bob Bauman",
+     "photo": "https://image.tmdb.org/t/p/w185/xBXLx1m0uzhXIbY3wN8lmPGeUHl.jpg"
+    },
+    {
+     "name": "Ray Nicholson",
+     "role": "Tony Butkovich",
+     "photo": "https://image.tmdb.org/t/p/w185/f0MRbGIyTEJLJgHedJS8pRFhGn4.jpg"
+    },
+    {
+     "name": "Tom Francis",
+     "role": "Dave Schreiner",
+     "photo": "https://image.tmdb.org/t/p/w185/u2xOsPIwCUwyxuzeH5UMxLRJb0h.jpg"
+    },
+    {
+     "name": "Brent Comer",
+     "role": "George Murphy",
+     "photo": "https://image.tmdb.org/t/p/w185/6smfSn7hguUfnoH2iE0tdXT4xNd.jpg"
+    },
+    {
+     "name": "Jack Ingram",
+     "role": "Wilson",
+     "photo": null
+    },
+    {
+     "name": "Ella Newton",
+     "role": "Jane",
+     "photo": "https://image.tmdb.org/t/p/w185/qu6BQ51nvSYW5gxY6QX1bdtQlzl.jpg"
+    },
+    {
+     "name": "Peter Berg",
+     "role": "General Buckner",
+     "photo": "https://image.tmdb.org/t/p/w185/1pR16H0zqRG49ns8cYykYpodgGF.jpg"
+    },
+    {
+     "name": "Dominic Bogart",
+     "role": "Wilkes",
+     "photo": "https://image.tmdb.org/t/p/w185/dUb5kOCWVHIYmoAfMEGR3hunTiD.jpg"
+    },
+    {
+     "name": "Lola Bond",
+     "role": "Odette",
+     "photo": null
+    },
+    {
+     "name": "Stacy Clausen",
+     "role": "Avery",
+     "photo": "https://image.tmdb.org/t/p/w185/8zwuEGXi26Yg9FQ29MntI5tWRk2.jpg"
+    },
+    {
+     "name": "Billy Smith",
+     "role": "Father Kelly",
+     "photo": null
+    },
+    {
+     "name": "Steve Sammut",
+     "role": "Jerry Colonna",
+     "photo": "https://image.tmdb.org/t/p/w185/3hxIGPUZtYJZteBogAmCh4QJewj.jpg"
+    },
+    {
+     "name": "Blake Erickson",
+     "role": "Bob Hope",
+     "photo": null
+    },
+    {
+     "name": "Claudia Ware",
+     "role": "Frances Langford",
+     "photo": "https://image.tmdb.org/t/p/w185/cT6jZyUCAdzbBA0oZ1Y3AnbXUWH.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Imagine Entertainment",
+     "logo": "https://image.tmdb.org/t/p/w185/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png"
+    },
+    {
+     "name": "Film 44",
+     "logo": "https://image.tmdb.org/t/p/w185/ixRHWYw7SRWHGs0TtnSxj2eVSuV.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt23644354",
    "type": "movie",
@@ -66409,151 +66540,6 @@
     "김종현"
    ],
    "tagline": "Un match chaotique, une mission téméraire."
-  },
-  {
-   "id": "series:tt38734636",
-   "type": "series",
-   "title": "Oasis",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-06-19",
-   "overview": "Lorsqu'une jeune femme disparaît mystérieusement d'un hôtel de luxe, le personnel et les clients, tous coincés sur les lieux, deviennent suspects… jusqu'à ce que la vérité éclate.",
-   "synopsis_origin": null,
-   "rating": 6.8,
-   "runtime": 39,
-   "genres": [
-    "Crime",
-    "Mystère",
-    "Drame"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=yi3Q-XoZ07M",
-   "poster": "https://image.tmdb.org/t/p/w500/epTgTNJx8GxKRh73podqFA7SWin.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/n4B2dVVScH4L4Scvy7mTboYcfGQ.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/yDseWCbxgl5IPFKTuzfANAJeWMF.png",
-   "imdb_id": "tt38734636",
-   "tmdb_url": "https://www.themoviedb.org/tv/296285",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38734636",
-   "added_at": "2026-06-19T11:06:02Z",
-   "directors": [
-    "Ramón Campos",
-    "David Orea",
-    "Javier Chacártegui"
-   ],
-   "seasons": 1,
-   "episodes": 8,
-   "cast": [
-    {
-     "name": "Ana Garcés",
-     "role": "Helena Martín Ruano",
-     "photo": "https://image.tmdb.org/t/p/w185/gwttUDHoPRmrkNKOXptzAoFBwjR.jpg"
-    },
-    {
-     "name": "Tomy Aguilera",
-     "role": "Dani",
-     "photo": "https://image.tmdb.org/t/p/w185/oyuR4yEJ2b5Y7DfmduPoEczI1zV.jpg"
-    },
-    {
-     "name": "Victoria Kantch",
-     "role": "Celia Baselga",
-     "photo": "https://image.tmdb.org/t/p/w185/xa5veI5Jq6pOwTEc6ME5j73Av6T.jpg"
-    },
-    {
-     "name": "Berta Castañé",
-     "role": "Maca",
-     "photo": "https://image.tmdb.org/t/p/w185/l5NKkykK0R14HpbTGvkBZOqAafM.jpg"
-    },
-    {
-     "name": "Manel Duarte",
-     "role": "Pablo Ribó",
-     "photo": "https://image.tmdb.org/t/p/w185/dNDaLDvkMn4irQScoOKcwlJkUem.jpg"
-    },
-    {
-     "name": "Ada Molina",
-     "role": "Sofía Castaño",
-     "photo": "https://image.tmdb.org/t/p/w185/1mOqcsi7ODJU84ZlOhK6w185uKi.jpg"
-    },
-    {
-     "name": "Alex Mola",
-     "role": "Jaén",
-     "photo": "https://image.tmdb.org/t/p/w185/fulNxRCh8U4GPu33Grh4U4LrIAF.jpg"
-    },
-    {
-     "name": "Cande Méndez",
-     "role": "Alicia Ribó",
-     "photo": "https://image.tmdb.org/t/p/w185/eDxpnVkDleN9re3A75D9i3iNfoT.jpg"
-    },
-    {
-     "name": "Laura Simón",
-     "role": "Laura Mendoza",
-     "photo": "https://image.tmdb.org/t/p/w185/tEpJmfpOyVh96kOmioI206rJK4x.jpg"
-    },
-    {
-     "name": "Jan Buxaderas",
-     "role": "Oliver Parera",
-     "photo": "https://image.tmdb.org/t/p/w185/a5B8dLSg2cIMsz5ryhGsXW394I1.jpg"
-    },
-    {
-     "name": "Amanda Palomino",
-     "role": "Leo",
-     "photo": "https://image.tmdb.org/t/p/w185/vRk6Yqck4O6CZsAJiSMFTU4mk1s.jpg"
-    },
-    {
-     "name": "Blas Polidori",
-     "role": "Jon",
-     "photo": "https://image.tmdb.org/t/p/w185/fqxqBBNt0bPwgQfr03OBoFpMmyw.jpg"
-    },
-    {
-     "name": "Paco Tous",
-     "role": "Subinspector Ginés",
-     "photo": "https://image.tmdb.org/t/p/w185/uDGKTKKv9v2JRutCZJjKwpJVKOs.jpg"
-    },
-    {
-     "name": "Verónica Sánchez",
-     "role": "Inspectora Ortega",
-     "photo": "https://image.tmdb.org/t/p/w185/4Z7OHkdHIQ9VPp3JBU8QPUzMewR.jpg"
-    },
-    {
-     "name": "Armando del Río",
-     "role": "Miguel Castaño",
-     "photo": "https://image.tmdb.org/t/p/w185/AuCppv180f27WZwwGnesEUrPpQr.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Espagne"
-   ],
-   "original_language": "Espagnol",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Bambú Producciones",
-     "logo": "https://image.tmdb.org/t/p/w185/bh3pBLmTPkgrD41WqFzJ2hQgvaF.png"
-    },
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 35,
-   "tagline": "Il y a des étés qui changent tout. Et des lieux conçus pour s'évader, même de la vérité."
   }
  ]
 }
