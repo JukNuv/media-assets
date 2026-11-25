@@ -1,7 +1,102 @@
 {
  "version": 1,
- "updated": "2026-11-25T14:06:40Z",
+ "updated": "2026-11-25T18:07:31Z",
  "items": [
+  {
+   "id": "movie:tt34992230",
+   "type": "movie",
+   "title": "The Militia",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-09-08",
+   "overview": "Daniel Pierce rêve de rejoindre la milice locale aux côtés de son père dès qu'il aura dix-huit ans, mais lorsque celui-ci devient la cible du shérif local, Daniel et ses amis forment leur propre milice dans une tentative hasardeuse pour le sauver.",
+   "synopsis_origin": "deepl",
+   "rating": 6.7,
+   "runtime": 117,
+   "genres": [
+    "Drame",
+    "Thriller"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [
+    "Adrenalina Pura Amazon channel",
+    "Adrenalina Pura Apple TV channel"
+   ],
+   "trailer": "https://www.youtube.com/watch?v=xH6J4dVgtPw",
+   "poster": "https://image.tmdb.org/t/p/w500/bBAeq5GAt6QKUL5eS0UalflLysH.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/nII8WPE2hBZIoe3llRf1Kt0u91h.jpg",
+   "logo": "",
+   "imdb_id": "tt34992230",
+   "tmdb_url": "https://www.themoviedb.org/movie/1759875",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt34992230",
+   "added_at": "2026-11-25T18:07:29Z",
+   "tagline": null,
+   "directors": [
+    "Dylan King Welter"
+   ],
+   "writers": [
+    "Dylan King Welter"
+   ],
+   "cast": [
+    {
+     "name": "Sam Williamson",
+     "role": "Daniel Pierce",
+     "photo": "https://image.tmdb.org/t/p/w185/80Un2uzatoFfK6ONGKGCbe7oFOF.jpg"
+    },
+    {
+     "name": "Michael Broderick",
+     "role": "Lee",
+     "photo": "https://image.tmdb.org/t/p/w185/2MaElb6nAwm6OTryXot6Ip2LJTp.jpg"
+    },
+    {
+     "name": "Luke Stratte-McClure",
+     "role": "Sheriff Webb",
+     "photo": "https://image.tmdb.org/t/p/w185/iYRht7FbwRlHPdhs6eMYRscIggE.jpg"
+    },
+    {
+     "name": "Chris Bylsma",
+     "role": "Nathan",
+     "photo": "https://image.tmdb.org/t/p/w185/ckGu8M5UdMZXrDKpxlkQCYLz5TC.jpg"
+    },
+    {
+     "name": "Laurel Feierbach",
+     "role": "Elinor",
+     "photo": "https://image.tmdb.org/t/p/w185/Au7CO7tP1KJq9arp6ggWvj6UAXQ.jpg"
+    },
+    {
+     "name": "Solomon Puckett",
+     "role": "Tyler",
+     "photo": null
+    },
+    {
+     "name": "Scott Callenberger",
+     "role": "Russ",
+     "photo": "https://image.tmdb.org/t/p/w185/hpIrCrhQIGXmJEX8RSLDIfwvrl8.jpg"
+    },
+    {
+     "name": "Noah Aronstein",
+     "role": "John",
+     "photo": "https://image.tmdb.org/t/p/w185/zdmQtcHSehMDrLTMPlFDneAXAzs.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [],
+   "platform_logos": [
+    {
+     "name": "Adrenalina Pura Amazon channel",
+     "logo": null
+    },
+    {
+     "name": "Adrenalina Pura Apple TV channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "movie:tt32213169",
    "type": "movie",
@@ -66391,136 +66486,6 @@
     "Bernard MacLaverty"
    ],
    "tagline": "Une journée qu'ils ne pourront jamais oublier. Une vérité à laquelle ils ne peuvent échapper."
-  },
-  {
-   "id": "movie:tt38503727",
-   "type": "movie",
-   "title": "Montreal, My Beautiful",
-   "original_title": "Montréal, ma belle",
-   "year": 2026,
-   "release_date": "2026-02-13",
-   "overview": "Feng Xia, immigrante chinoise de 53 ans et mère de famille vivant à Montréal, a passé sa vie dans une obéissance silencieuse - envers sa famille, sa culture, et un mariage fondé sur le non-dit. Mais lorsqu’elle rencontre Camille, une jeune Québécoise libre et insouciante, un désir longtemps réprimé refait surface. Sous la chaleur étouffante de l’été montréalais, Feng Xia ose, pour la première fois, se choisir.",
-   "synopsis_origin": null,
-   "rating": 6.7,
-   "runtime": 118,
-   "genres": [
-    "Drame",
-    "Romance"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": "https://www.youtube.com/watch?v=H0z3cCUvenU",
-   "poster": "https://image.tmdb.org/t/p/w500/xgJqnAfbI7IlSre1zEdMFxrkRD5.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/tyPl9khvcjJl5RNT7EEuYkuwiu.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/rZouoV7Gew1Sc9I1ezGQtdbRaz6.png",
-   "imdb_id": "tt38503727",
-   "tmdb_url": "https://www.themoviedb.org/movie/1178620",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt38503727",
-   "added_at": "2026-06-20T00:21:33Z",
-   "directors": [
-    "Xiaodan He"
-   ],
-   "cast": [
-    {
-     "name": "Joan Chen",
-     "role": "Feng Xia",
-     "photo": "https://image.tmdb.org/t/p/w185/7uMTJpY8B2hufXqmlxJpaUPpcJi.jpg"
-    },
-    {
-     "name": "Charlotte Aubin",
-     "role": "Lisa / Camille",
-     "photo": "https://image.tmdb.org/t/p/w185/vFsOO1PTDx9I2RjUrsY88xbSvHY.jpg"
-    },
-    {
-     "name": "John Xu",
-     "role": "Wang Jun",
-     "photo": null
-    },
-    {
-     "name": "Pei Yao Xu",
-     "role": "Joy",
-     "photo": null
-    },
-    {
-     "name": "Anzhe Angelo Zhang",
-     "role": "Dong Dong",
-     "photo": null
-    },
-    {
-     "name": "Jean-Guy Bouchard",
-     "role": "Docteur",
-     "photo": "https://image.tmdb.org/t/p/w185/mOlgYf42fMNVgZF6nWl8d6lIgOg.jpg"
-    },
-    {
-     "name": "Isabelle Miquelon",
-     "role": "Enseignante",
-     "photo": "https://image.tmdb.org/t/p/w185/7e28pGv3iGgIs75RC8AhbX6NJ9o.jpg"
-    },
-    {
-     "name": "Zion-Luna Valdes",
-     "role": "Joseph",
-     "photo": null
-    },
-    {
-     "name": "Annette Garant",
-     "role": "Chantale",
-     "photo": "https://image.tmdb.org/t/p/w185/9ZSyWNV1iPZGFyF5iUkp9BtHS4m.jpg"
-    },
-    {
-     "name": "Eloi Archambaudoin",
-     "role": "Fonctionnaire",
-     "photo": "https://image.tmdb.org/t/p/w185/n180Tr9HyF1ikIlUYT5LcYHjR7I.jpg"
-    },
-    {
-     "name": "Wensi Yan",
-     "role": "Lulu",
-     "photo": "https://image.tmdb.org/t/p/w185/6hG074wP8WwuFhB5Nq0rcMdakS9.jpg"
-    },
-    {
-     "name": "Pantelis Palioudakis",
-     "role": "Thomas",
-     "photo": null
-    },
-    {
-     "name": "Amélie Pelletier",
-     "role": "Mélanie",
-     "photo": "https://image.tmdb.org/t/p/w185/pLhSRA6DHMzobhV86hSHuum2Tsi.jpg"
-    },
-    {
-     "name": "Jing Fang Wu",
-     "role": "Femme chinoise 1",
-     "photo": null
-    },
-    {
-     "name": "Lei Zhang",
-     "role": "Femme chinoise 2",
-     "photo": null
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "Canada"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Red Dawn Productions",
-     "logo": null
-    },
-    {
-     "name": "Films Camera Oscura",
-     "logo": "https://image.tmdb.org/t/p/w185/9VhDizpOLfmfeNYzQxnD1X4pcxL.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 37,
-   "writers": [
-    "Xiaodan He"
-   ],
-   "tagline": null
   }
  ]
 }
