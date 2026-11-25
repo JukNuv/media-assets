@@ -1,20 +1,20 @@
 {
   "updated": "2026-11-25",
   "cinebox": {
-    "versionCode": 49,
-    "versionName": "1.0.15",
-    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.15/CineBoX-1.0.15.apk",
-    "sha256": "df2956f58f0c68598d4a6c5dc59bb95e682725128100ceb005841bbf7251d751",
+    "versionCode": 53,
+    "versionName": "1.0.16",
+    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.16/CineBoX-1.0.16.apk",
+    "sha256": "29063d683eee042a285c18fb1b6d86e1c804b263974e6650ed721db4ea1790e9",
     "size": 41413471,
-    "notes": "Avec Nuvio Scrob, « Lire sur TV » affiche la liste des sources sur le téléphone sans rien ouvrir sur la télé : touchez une source, la télé la lance. Fire TV Stick : flèches, OK et retour depuis le téléphone. Télécommande plus claire, et un guide pas à pas pour la configurer."
+    "notes": "Correctifs : avec Nuvio officiel en français, le titre en cours s'affiche enfin (bandeau, capsule, notification). Notification de l'écran verrouillé en français. Le guide propose une solution par le téléphone quand « Activer » ne fait rien sur la télé (Shield…)."
   },
   "link": {
-    "versionCode": 27,
-    "versionName": "1.0.15",
-    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.15/CineBoX-Link-1.0.15.apk",
-    "sha256": "47883b4c6aff493dbd8b931473c51bfbd82b7a91f43fdad7476d948e7acd9490",
-    "size": 742767,
-    "notes": "Liste des sources sans écran sur la télé (avec Nuvio Scrob, même fermé). Avec Nuvio officiel : la barre de progression se déplace depuis le téléphone."
+    "versionCode": 29,
+    "versionName": "1.0.16",
+    "url": "https://github.com/juknuv/media-files/releases/download/link-1.0.16/CineBoX-Link-1.0.16.apk",
+    "sha256": "45045a9c5d1e26bb842870986920363b0d77cf7254a034b7ac9fb35daa4216d2",
+    "size": 742800,
+    "notes": "Indique à CineBoX si les infos de lecture sont activées : le guide affiche le bon état sur toutes les télés."
   },
   "nuvio_tv": {
     "package": "com.nuviodebug.com",
