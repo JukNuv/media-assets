@@ -1,7 +1,155 @@
 {
  "version": 1,
- "updated": "2026-11-24T22:07:36Z",
+ "updated": "2026-11-25T08:04:19Z",
  "items": [
+  {
+   "id": "series:tt18224594",
+   "type": "series",
+   "title": "Blade Runner 2099",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-24",
+   "overview": "Cora, une fugitive devenue Blade Runner, fait équipe avec Olwen, une Réplicante mourante, pour traquer un fugitif dans un Los Angeles qui a retrouvé un nouveau souffle. Ensemble, elles découvrent une vérité qui menace de détruire leur fragile cité.",
+   "synopsis_origin": null,
+   "rating": 10.0,
+   "runtime": 61,
+   "genres": [
+    "Science-Fiction & Fantastique"
+   ],
+   "status": "Terminée",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=n0NNISEvMTo",
+   "poster": "https://image.tmdb.org/t/p/w500/w5ORXfoCNFVI2wbkgObzLjpq9kY.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/2V99576WPQ8uCOmNa5m7hug7Ub4.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/hfkr3vG6vMVr95FZ3TgG6ClhAsm.png",
+   "imdb_id": "tt18224594",
+   "tmdb_url": "https://www.themoviedb.org/tv/171802",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt18224594",
+   "added_at": "2026-11-25T08:04:17Z",
+   "tagline": "Bienvenue dans un avenir que nous ne maîtrisons plus.",
+   "directors": [
+    "Silka Luisa"
+   ],
+   "seasons": 1,
+   "episodes": 8,
+   "cast": [
+    {
+     "name": "Hunter Schafer",
+     "role": "Cora",
+     "photo": "https://image.tmdb.org/t/p/w185/AilBKow2NuvPBQbvGRx69RxKUBi.jpg"
+    },
+    {
+     "name": "Michelle Yeoh",
+     "role": "Olwen",
+     "photo": "https://image.tmdb.org/t/p/w185/i6fHvGt7Rb8oVyjjdQVV6vEHB94.jpg"
+    },
+    {
+     "name": "Dimitri Abold",
+     "role": "Bebeto",
+     "photo": "https://image.tmdb.org/t/p/w185/aMWxgEAyDIvV9GtbKaMxqOsGCxG.jpg"
+    },
+    {
+     "name": "Lewis Gribben",
+     "role": "Elias",
+     "photo": "https://image.tmdb.org/t/p/w185/EpYHJL9DlxVpPDMSwi2wFZwaBd.jpg"
+    },
+    {
+     "name": "Matthew Needham",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/sZHT2xFtnBawU3DoaWZACSv15gX.jpg"
+    },
+    {
+     "name": "Sheila Atim",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/esAjvG2IXvzQODNEHVCVsc4WALI.jpg"
+    },
+    {
+     "name": "Katelyn Rose Downey",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/50mZMR1gxqFNahFA8nahFnvsWQy.jpg"
+    },
+    {
+     "name": "Johnny Harris",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/6W9SJ8ebalDAqZNhfYCOzThycF5.jpg"
+    },
+    {
+     "name": "Michael Smiley",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/4HOhgb9W3Jsp5H5LpdMZS2nLv6z.jpg"
+    },
+    {
+     "name": "Freddie Fox",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/sEFssmnAWoXygusP8IE4URmhmd5.jpg"
+    },
+    {
+     "name": "Daniel Rigby",
+     "role": "Felix",
+     "photo": "https://image.tmdb.org/t/p/w185/5pQdysKKzd9anFDvoxxHGLMJ5K5.jpg"
+    },
+    {
+     "name": "Mikkel Bratt Silset",
+     "role": "Janusz",
+     "photo": "https://image.tmdb.org/t/p/w185/ooFYSgaxUxZHIwh1dYjs6qVerDK.jpg"
+    },
+    {
+     "name": "Francis Lovehall",
+     "role": "Dominik",
+     "photo": "https://image.tmdb.org/t/p/w185/61MhIz41LV63gUoEXcAZbW25n4J.jpg"
+    },
+    {
+     "name": "Cecilia Noble",
+     "role": "Enid",
+     "photo": "https://image.tmdb.org/t/p/w185/lcihHLWA04MAHeHIqvTxb1ykIdc.jpg"
+    },
+    {
+     "name": "Hassan Najib",
+     "role": "Oddo",
+     "photo": "https://image.tmdb.org/t/p/w185/fWzMV4Xa9tJqkfII6jYU9qFfENe.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Terminée",
+   "production": [
+    {
+     "name": "Scott Free Productions",
+     "logo": "https://image.tmdb.org/t/p/w185/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png"
+    },
+    {
+     "name": "Amazon MGM Studios",
+     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
+    },
+    {
+     "name": "Alcon Television Group",
+     "logo": null
+    },
+    {
+     "name": "Noetic",
+     "logo": null
+    },
+    {
+     "name": "J.A. Green Construction Corp.",
+     "logo": null
+    },
+    {
+     "name": "Cynthia Yorkin Productions",
+     "logo": null
+    },
+    {
+     "name": "Prime Video",
+     "logo": "https://image.tmdb.org/t/p/w185/w7HfLNm9CWwRmAMU58udl2L7We7.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt14129116",
    "type": "movie",
@@ -66395,133 +66543,6 @@
     }
    ],
    "tg_id": 33,
-   "tagline": null
-  },
-  {
-   "id": "series:tt38225377",
-   "type": "series",
-   "title": "Casse-Gueule",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-02-12",
-   "overview": "CASSE-GUEULE suit Clovis (Émile Schneider), un talentueux chef dans la trentaine, qui lance son propre restaurant avec l’aide de Ben (Zouheir Zerhouni), son sous-chef et meilleur ami au caractère explosif, et de Manon (Mylène Mackay), sa fougueuse sommelière… et amante. À cette équipe déjà tissée serrée s’ajoute Zoé (Estelle Fournier), la fille de 18 ans de Clovis qu’il n’a jamais vraiment connue. Entre les défis financiers, les tensions en cuisine, les secrets bien gardés et les rivalités inattendues, Clovis doit apprendre à devenir plus qu’un chef : un véritable pilier pour cette brigade qu’il a réuni dans sa cuisine.",
-   "synopsis_origin": null,
-   "rating": 8.5,
-   "runtime": 43,
-   "genres": [
-    "Comédie",
-    "Drame"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/lBZGiETjami8qfAiq9OqF6oYN6S.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/2YdxwiiR0qxQSbh36u35LSGUN7J.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/cIrOTUVoIt9yBRQbZRLonyOAKWD.png",
-   "imdb_id": "tt38225377",
-   "tmdb_url": "https://www.themoviedb.org/tv/311920",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38225377",
-   "added_at": "2026-06-19T07:03:46Z",
-   "directors": [],
-   "seasons": 1,
-   "episodes": 8,
-   "cast": [
-    {
-     "name": "Émile Schneider",
-     "role": "Clovis Lambert",
-     "photo": "https://image.tmdb.org/t/p/w185/uVc8H1nT97ZA8are2RxgW2tgFf8.jpg"
-    },
-    {
-     "name": "Zouheir Zerhouni",
-     "role": "Benjamin Bouzaida",
-     "photo": null
-    },
-    {
-     "name": "Mylène Mackay",
-     "role": "Manon Lemay",
-     "photo": "https://image.tmdb.org/t/p/w185/iiQcpI4zC8ceddu9yys4U46RPIF.jpg"
-    },
-    {
-     "name": "Estelle Fournier",
-     "role": "Zoé McGarrigle",
-     "photo": "https://image.tmdb.org/t/p/w185/nDoOKSA6KO2mYPgKi2tIKaGzka6.jpg"
-    },
-    {
-     "name": "Charles-Émile Legault",
-     "role": "Arthur",
-     "photo": null
-    },
-    {
-     "name": "Laurence Dauphinais",
-     "role": "Jennifer McGarrigle",
-     "photo": "https://image.tmdb.org/t/p/w185/jH9FunKXc8E9KLvV9y1UezIuI8A.jpg"
-    },
-    {
-     "name": "Guy Nadon",
-     "role": "René Lacombe",
-     "photo": "https://image.tmdb.org/t/p/w185/1Pxkmww6KxxW3LgKPsmrMhrOOmZ.jpg"
-    },
-    {
-     "name": "Pascale Bussières",
-     "role": "Simone Draper",
-     "photo": "https://image.tmdb.org/t/p/w185/rVWAXcCpYQp4MVOdgHMv4flfOHK.jpg"
-    },
-    {
-     "name": "Samuel Gauthier",
-     "role": "Matisse Rivard",
-     "photo": "https://image.tmdb.org/t/p/w185/keOLPtQTmyh2NI16wPBrDyddSzC.jpg"
-    },
-    {
-     "name": "René Richard Cyr",
-     "role": "Tony Chevalier",
-     "photo": "https://image.tmdb.org/t/p/w185/cO2FNXNBuKIsFFEgxSm4Qe0sSGY.jpg"
-    },
-    {
-     "name": "Shiong-En Chang",
-     "role": "Debbie Wang",
-     "photo": null
-    },
-    {
-     "name": "Melania Balmaceda-Venegas",
-     "role": "Alicia",
-     "photo": "https://image.tmdb.org/t/p/w185/1QlQLRPqpOiBAbyzp5M3xygI7r3.jpg"
-    },
-    {
-     "name": "Vladimir Alexis",
-     "role": "Dustin Pelletier",
-     "photo": "https://image.tmdb.org/t/p/w185/fr0vSc5DdVBB9x9bxg7z4GyTxGJ.jpg"
-    },
-    {
-     "name": "Fatima Lopez",
-     "role": "Influencer",
-     "photo": null
-    }
-   ],
-   "age_rating": null,
-   "countries": [
-    "Canada"
-   ],
-   "original_language": "Français",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Duo Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/9CpNcsEsjsjnt7pycawQL60Z6D9.png"
-    },
-    {
-     "name": "Bell Media",
-     "logo": "https://image.tmdb.org/t/p/w185/yeOKSwpoVWvntT6LT1kbrEA94dt.png"
-    },
-    {
-     "name": "Crave",
-     "logo": "https://image.tmdb.org/t/p/w185/xlVkcuR2NqruUHh8gPaAw9BvOCT.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 32,
    "tagline": null
   }
  ]
