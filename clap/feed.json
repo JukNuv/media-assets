@@ -1,7 +1,170 @@
 {
  "version": 1,
- "updated": "2026-11-26T12:04:10Z",
+ "updated": "2026-11-26T18:07:44Z",
  "items": [
+  {
+   "id": "movie:tt41309166",
+   "type": "movie",
+   "title": "Jeux d'amour et mahjong",
+   "original_title": "All's Fair in Love and Mahjong",
+   "year": 2026,
+   "release_date": "2026-05-09",
+   "overview": "Ronni mène une vie bien remplie entre son travail d'infirmière scolaire et son rôle de maman. Elle organise régulièrement des parties de mah-jong avec ses meilleures amies, Shelley, Carly et Melissa. Mais lorsque sa fille part faire ses études, tout bascule. Ses heures de travail diminuent. Son ex-mari fait pression pour qu'elle vende la maison qu'elle adore. Et soudain, elle se retrouve face à un nid vide, sans savoir ce que l'avenir lui réserve.",
+   "synopsis_origin": null,
+   "rating": 5.0,
+   "runtime": 86,
+   "genres": [
+    "Téléfilm",
+    "Comédie",
+    "Romance"
+   ],
+   "lang_tag": "VFQ",
+   "lang_label": "🇨🇦 VF Québécoise",
+   "collection": null,
+   "platforms": [
+    "fuboTV",
+    "Philo",
+    "YouTube TV",
+    "Hallmark+ Amazon Channel",
+    "Hallmark+ Apple TV channel",
+    "Hallmark TV Amazon Channel"
+   ],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/eihoAaoGhcT3buJf8rdl3C0G0F8.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/zgu3CIROWa2eQzwG4vdR0zntry0.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/qLirGXfunFWZFWQ5LKYZZQzH2uN.png",
+   "imdb_id": "tt41309166",
+   "tmdb_url": "https://www.themoviedb.org/movie/1662270",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt41309166",
+   "added_at": "2026-11-26T18:07:42Z",
+   "tagline": null,
+   "directors": [
+    "Jessica Harmon"
+   ],
+   "writers": [
+    "Nina Weinman"
+   ],
+   "cast": [
+    {
+     "name": "Paul Campbell",
+     "role": "Ben",
+     "photo": "https://image.tmdb.org/t/p/w185/yPxGQwgl1VAMU0Hzck3dJSoYkMB.jpg"
+    },
+    {
+     "name": "Fiona Gubelmann",
+     "role": "Ronni",
+     "photo": "https://image.tmdb.org/t/p/w185/c80VyX8RyupJXb7EqTxHNHtN4Cn.jpg"
+    },
+    {
+     "name": "Yan-Kay Crystal Lowe",
+     "role": "Shelley",
+     "photo": "https://image.tmdb.org/t/p/w185/bwkCmSXnXfh8ZYlfSeMQxilTGl5.jpg"
+    },
+    {
+     "name": "Requell Jodeah",
+     "role": "Principal Hyde",
+     "photo": "https://image.tmdb.org/t/p/w185/npGQMWSQPbsnTeBIQo05gnCG1hy.jpg"
+    },
+    {
+     "name": "Kaj-Erik Eriksen",
+     "role": "Mike",
+     "photo": "https://image.tmdb.org/t/p/w185/dXkslBCw9fF59PDxKa3NqtlFFMR.jpg"
+    },
+    {
+     "name": "Alison Araya",
+     "role": "Ellen",
+     "photo": "https://image.tmdb.org/t/p/w185/gOQv2rkXLRBvVXVoXYERnjcSKAk.jpg"
+    },
+    {
+     "name": "Rochelle Greenwood",
+     "role": "Barbara",
+     "photo": "https://image.tmdb.org/t/p/w185/avk4APHATNxwq7OyBcqPcg1dX2u.jpg"
+    },
+    {
+     "name": "Melissa Peterman",
+     "role": "Melissa",
+     "photo": "https://image.tmdb.org/t/p/w185/dyWRlAOJnSGzRwhVVfMIkYC4cp7.jpg"
+    },
+    {
+     "name": "Tamera Mowry-Housley",
+     "role": "Carly",
+     "photo": "https://image.tmdb.org/t/p/w185/1DCF3kbfKioof8ilbbK9Y16a6jE.jpg"
+    },
+    {
+     "name": "Michelle Brezinski",
+     "role": "Birdie",
+     "photo": "https://image.tmdb.org/t/p/w185/m4lrG3tJEqNoHVuszXi5p3FCKRy.jpg"
+    },
+    {
+     "name": "Corey Calderwood",
+     "role": "Brandon",
+     "photo": "https://image.tmdb.org/t/p/w185/cl2B9fGUDh1c4L5LIiK5O70prKl.jpg"
+    },
+    {
+     "name": "Beverley Elliott",
+     "role": "Alice",
+     "photo": "https://image.tmdb.org/t/p/w185/lf3TOeuzHkpVT8BG0CTjaQphQLN.jpg"
+    },
+    {
+     "name": "Eden Summer Gilmore",
+     "role": "Savannah",
+     "photo": "https://image.tmdb.org/t/p/w185/9bxt43n8o6Y78ewBdFEmr0PHHaS.jpg"
+    },
+    {
+     "name": "Jaleese Green",
+     "role": "Loan Officer",
+     "photo": "https://image.tmdb.org/t/p/w185/iXmikoSd48s0WnzTQsfYU0tPhXW.jpg"
+    },
+    {
+     "name": "Trevor Hinton",
+     "role": "Administrator",
+     "photo": "https://image.tmdb.org/t/p/w185/liq7isCmjEC6YkIa8yX9k2mDfT1.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Canada",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Front Street Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png"
+    },
+    {
+     "name": "Mahjong Productions",
+     "logo": null
+    }
+   ],
+   "platform_logos": [
+    {
+     "name": "fuboTV",
+     "logo": null
+    },
+    {
+     "name": "Philo",
+     "logo": null
+    },
+    {
+     "name": "YouTube TV",
+     "logo": null
+    },
+    {
+     "name": "Hallmark+ Amazon Channel",
+     "logo": null
+    },
+    {
+     "name": "Hallmark+ Apple TV channel",
+     "logo": null
+    },
+    {
+     "name": "Hallmark TV Amazon Channel",
+     "logo": null
+    }
+   ]
+  },
   {
    "id": "series:tt36951910",
    "type": "series",
@@ -66200,157 +66363,6 @@
     "손미"
    ],
    "tagline": "À tous ceux qui sont amoureux. Et à tous ceux qui sont destinés à aimer."
-  },
-  {
-   "id": "series:tt38828946",
-   "type": "series",
-   "title": "My Royal Nemesis",
-   "original_title": "멋진 신세계",
-   "year": 2026,
-   "release_date": "2026-05-08",
-   "overview": "Condamnée à mourir à l'ère Joseon, une méchante se réveille dans le Séoul moderne et rencontre un héritier sans pitié qui pourrait être sa dernière chance de réécrire son destin.",
-   "synopsis_origin": null,
-   "rating": 8.7,
-   "runtime": 74,
-   "genres": [
-    "Drame",
-    "Comédie",
-    "Science-Fiction & Fantastique"
-   ],
-   "status": "Terminée",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/3SDlj2zgdRDZx48Il4wJog9wprZ.png",
-   "imdb_id": "tt38828946",
-   "tmdb_url": "https://www.themoviedb.org/tv/303143",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38828946",
-   "added_at": "2026-06-21T11:06:18Z",
-   "directors": [
-    "Kang Hyun-joo"
-   ],
-   "seasons": 1,
-   "episodes": 14,
-   "cast": [
-    {
-     "name": "Im Ji-yeon",
-     "role": "Shin Seo-ri / Kang Dan-sim",
-     "photo": "https://image.tmdb.org/t/p/w185/gAwwi5fBxCKLnrP9bjOQFtMUs6j.jpg"
-    },
-    {
-     "name": "Heo Nam-jun",
-     "role": "Cha Se-gye / Yi Hyeon",
-     "photo": "https://image.tmdb.org/t/p/w185/17NPgo2g3X6kjLaz9nx2qKFH9.jpg"
-    },
-    {
-     "name": "Jang Seung-jo",
-     "role": "Choi Mun-do / King An-jeong",
-     "photo": "https://image.tmdb.org/t/p/w185/3HWGHh4Zazo4rEjQNz1B7KEJ9Cd.jpg"
-    },
-    {
-     "name": "Kim Min-seok",
-     "role": "Bae Gwang-nam",
-     "photo": "https://image.tmdb.org/t/p/w185/oZNJCOMEqFPzN4xSSGulE62gUMZ.jpg"
-    },
-    {
-     "name": "Lee Se-hee",
-     "role": "Yoon Ji-hyo",
-     "photo": "https://image.tmdb.org/t/p/w185/qpItJBOITbf2Z9URBdwA90diJSo.jpg"
-    },
-    {
-     "name": "Yoon Byung-hee",
-     "role": "Son Jae-han",
-     "photo": "https://image.tmdb.org/t/p/w185/77HOYpL0BI6BN4kaTYUMNIlnLM0.jpg"
-    },
-    {
-     "name": "윤주상",
-     "role": "Cha Dal-su",
-     "photo": "https://image.tmdb.org/t/p/w185/75DMeejInwVubvE0l4vEFBwrjW5.jpg"
-    },
-    {
-     "name": "Chae Seo-an",
-     "role": "Mo Tae-hee",
-     "photo": "https://image.tmdb.org/t/p/w185/7YvErJJbG4TwI74c0e89x9l1gWJ.jpg"
-    },
-    {
-     "name": "오민애",
-     "role": "Geum Bo-sal / Geum Jeong-ae",
-     "photo": "https://image.tmdb.org/t/p/w185/cVd5j6TLTLJ2aU5UwwI1Lkm5BdV.jpg"
-    },
-    {
-     "name": "Kim Hae-sook",
-     "role": "Nam Ok-sun",
-     "photo": "https://image.tmdb.org/t/p/w185/dt5bmKeG7qbvDwHrxFZFxiGc9fZ.jpg"
-    },
-    {
-     "name": "Baek Ji-won",
-     "role": "Hong Bu-seon",
-     "photo": "https://image.tmdb.org/t/p/w185/z8nW62LAHh3YW5Z1OlcK7hJcQ5S.jpg"
-    },
-    {
-     "name": "백은혜",
-     "role": "Cha Joo-mi",
-     "photo": "https://image.tmdb.org/t/p/w185/4YJ9MYbNyAl0mYwmq0H1XhkcMYP.jpg"
-    },
-    {
-     "name": "Jeong Young-joo",
-     "role": "Cha Joo-ran",
-     "photo": "https://image.tmdb.org/t/p/w185/oPHCzElm0I0cR6sB1WTutvtKAtI.jpg"
-    },
-    {
-     "name": "김계림",
-     "role": "Kwak Eun-ah",
-     "photo": "https://image.tmdb.org/t/p/w185/lZaa7erVGh8VljpCHC56Bcd3dug.jpg"
-    },
-    {
-     "name": "신정원",
-     "role": "Kim Hyun-hee",
-     "photo": null
-    }
-   ],
-   "age_rating": "12",
-   "countries": [
-    "Corée du Sud"
-   ],
-   "original_language": "Coréen",
-   "tmdb_status": "Terminée",
-   "production": [
-    {
-     "name": "Studio S",
-     "logo": "https://image.tmdb.org/t/p/w185/nFcR2kd7vl5O3TITQs6x39BNo6Y.png"
-    },
-    {
-     "name": "Gil Pictures",
-     "logo": "https://image.tmdb.org/t/p/w185/mKggf3wW57fHdffiOr9ItObOFYD.png"
-    },
-    {
-     "name": "Studio Dragon",
-     "logo": "https://image.tmdb.org/t/p/w185/vzzqRwqTin3iAAMw2JlrmVPNnPa.png"
-    },
-    {
-     "name": "SBS",
-     "logo": "https://image.tmdb.org/t/p/w185/uHQFPvRTlpgaIFQVN8eKWEnFOll.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 43,
-   "tagline": "La méchante découvre un nouveau monde."
   }
  ]
 }
