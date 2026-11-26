@@ -1,7 +1,87 @@
 {
  "version": 1,
- "updated": "2026-11-26T12:04:02Z",
+ "updated": "2026-11-26T12:04:10Z",
  "items": [
+  {
+   "id": "series:tt36951910",
+   "type": "series",
+   "title": "Always on Call",
+   "original_title": "Legevakta",
+   "year": 2026,
+   "release_date": "2026-11-26",
+   "overview": "Une équipe dévouée de professionnels de santé doit faire face à des difficultés personnelles, à des pressions politiques et à l'arrivée d'un nouveau collaborateur qui représente un risque, au sein d'un service des urgences débordé à Oslo.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Drame"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=fqZR2dreobc",
+   "poster": "https://image.tmdb.org/t/p/w500/l7cUpr5l41orSDkIh9QUjHgbbbH.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/7JBjCdmH8kddW41YoipVVwQJllm.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/5oVu4Ntf7rkc5LLFD96X4pFS4p8.png",
+   "imdb_id": "tt36951910",
+   "tmdb_url": "https://www.themoviedb.org/tv/338930",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt36951910",
+   "added_at": "2026-11-26T12:04:09Z",
+   "tagline": null,
+   "directors": [
+    "Harald Rosenløw-Eeg",
+    "Jan Trygve Røyneland"
+   ],
+   "seasons": 1,
+   "episodes": 7,
+   "cast": [
+    {
+     "name": "Sara Khorami",
+     "role": "Sofia",
+     "photo": "https://image.tmdb.org/t/p/w185/jh49k9oVAVGdApgSCiRyJmrAgoG.jpg"
+    },
+    {
+     "name": "Thorbjørn Harr",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/hqBkuGoISmRB5O8t6RkKcHv3bZA.jpg"
+    },
+    {
+     "name": "Jan Gunnar Røise",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/2nSo5qjTPEuGNNLgdL1DaEMr6co.jpg"
+    },
+    {
+     "name": "Silje Storstein",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/7fOKZUgJjVf2HhT2He1SmR0mVWT.jpg"
+    },
+    {
+     "name": "Oddgeir Thune",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/dcZW2eXvTgnXlPn7HXWIpGx9laT.jpg"
+    },
+    {
+     "name": "Ania Nova",
+     "role": "Olga",
+     "photo": "https://image.tmdb.org/t/p/w185/1666IGdFgfPeLvraOew0kjUYzQT.jpg"
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Norvège"
+   ],
+   "original_language": "Norvégien",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt38681811",
    "type": "series",
@@ -66271,145 +66351,6 @@
    ],
    "tg_id": 43,
    "tagline": "La méchante découvre un nouveau monde."
-  },
-  {
-   "id": "series:tt39643967",
-   "type": "series",
-   "title": "Desi Bling",
-   "original_title": "देसी ब्लिंग",
-   "year": 2026,
-   "release_date": "2026-05-20",
-   "overview": "Plongez dans la vie extravagante des indiens fortunés de Dubai dans cette série de téléréalité.",
-   "synopsis_origin": null,
-   "rating": 7.7,
-   "runtime": 45,
-   "genres": [
-    "Reality"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/nv9hydUp88uyFbuVcN4R2ztKejJ.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/5JS7SPGTNMqwmymlaTsZpm0Ti54.jpg",
-   "logo": "",
-   "imdb_id": "tt39643967",
-   "tmdb_url": "https://www.themoviedb.org/tv/319919",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt39643967",
-   "added_at": "2026-06-21T11:06:16Z",
-   "directors": [],
-   "seasons": 1,
-   "episodes": 7,
-   "cast": [
-    {
-     "name": "Tejasswi Prakash",
-     "role": "Self",
-     "photo": "https://image.tmdb.org/t/p/w185/pZ4ViUZ354Ru1HqRNxKgQBaCtWw.jpg"
-    },
-    {
-     "name": "Karan Kundra",
-     "role": "Self",
-     "photo": "https://image.tmdb.org/t/p/w185/cF6R5rIOD3s5GzdVC2uIDHkeRDY.jpg"
-    },
-    {
-     "name": "Dyuti Parruck",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Pamala Serena",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Alizey Mirza",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Rizwan Sajan",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Lailli Mirza",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Iryna Kinakh",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Tabinda Sanpal",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Satish Sanpal",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Sana Sajan",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Adel Sajan",
-     "role": "Self",
-     "photo": null
-    },
-    {
-     "name": "Vivek Oberoi",
-     "role": "Self",
-     "photo": "https://image.tmdb.org/t/p/w185/60T3Q8CsxF4kF6RIHZ1yis2Q0wA.jpg"
-    },
-    {
-     "name": "Ranveer Brar",
-     "role": "Self",
-     "photo": "https://image.tmdb.org/t/p/w185/jl8gtoPYXWHOCWAPBptHPFlCKuj.jpg"
-    },
-    {
-     "name": "Shilpa Shetty Kundra",
-     "role": "Self",
-     "photo": "https://image.tmdb.org/t/p/w185/qEU2hFsnKYdjPp4LNYvqmfRFNeP.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Inde"
-   ],
-   "original_language": "Hindi",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Different Productions",
-     "logo": null
-    },
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 42,
-   "tagline": null
   }
  ]
 }
