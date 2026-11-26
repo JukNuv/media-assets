@@ -1,7 +1,118 @@
 {
  "version": 1,
- "updated": "2026-11-25T18:07:31Z",
+ "updated": "2026-11-26T08:03:53Z",
  "items": [
+  {
+   "id": "series:tt50275818",
+   "type": "series",
+   "title": "Nuits Blanches",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-22",
+   "overview": "Céline est danseuse au Red, un club de strip-tease parisien fréquenté par une clientèle discrète et fortunée. Un soir, sa route croise celle d’Ahmet Okur, un homme d’affaires de passage à Paris. La danseuse éveille la curiosité de cet individu insaisissable, soupçonné de liens avec un réseau de trafiquants d’armes.\n\nRepérée par la DGSI, Céline se retrouve entraînée dans une opération qui l’oblige à naviguer entre services secrets français et organisations criminelles internationales. En acceptant d’aider l’agent Clément Meyer à infiltrer le réseau, elle devient la pièce maîtresse d’un jeu dangereux, alors qu’une menace d’envergure plane sur la capitale.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 42,
+   "genres": [
+    "Drame"
+   ],
+   "status": "Planifiée",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/6zXb3gXL1C5qAqR5gNYPjv6tjai.jpg",
+   "backdrop": "",
+   "logo": "",
+   "imdb_id": "tt50275818",
+   "tmdb_url": "https://www.themoviedb.org/tv/327127",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt50275818",
+   "added_at": "2026-11-26T08:03:51Z",
+   "tagline": null,
+   "directors": [
+    "Bérénice Eveno"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Sawsan Abès",
+     "role": "Céline",
+     "photo": "https://image.tmdb.org/t/p/w185/oJrsDFCskY1hrsjZy7a1XqDHWcw.jpg"
+    },
+    {
+     "name": "Jérémie Laheurte",
+     "role": "Clément Meyer",
+     "photo": "https://image.tmdb.org/t/p/w185/hTT4FsVEOFbcPt3r2N12Oj3cszr.jpg"
+    },
+    {
+     "name": "Sabrina Ouazani",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/zlUmASMbAwU61NNti9TKnM08tDc.jpg"
+    },
+    {
+     "name": "David Kammenos",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/mRDIDNzrLGU6sUS8SApjMEvmFjq.jpg"
+    },
+    {
+     "name": "Valérie Karsenti",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/ldcMELARVQPFMpDCkRzpfnT1UR1.jpg"
+    },
+    {
+     "name": "Vincent Heneine",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/nxwmi1VghKtUMgXkbemNZT6txo1.jpg"
+    },
+    {
+     "name": "Axel Mandron",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/hPziHuMZSlXp4XoYpEbusaXYNSz.jpg"
+    },
+    {
+     "name": "Marin Judas",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/inqEGcHaZbF5mlrTgsuo38pr7Ks.jpg"
+    },
+    {
+     "name": "Léa Issert",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Serdar Kutlu",
+     "role": "Ahmed Okur",
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "13e Rue",
+     "logo": null
+    },
+    {
+     "name": "SND Fictions",
+     "logo": null
+    },
+    {
+     "name": "NBCUniversal International Networks",
+     "logo": "https://image.tmdb.org/t/p/w185/8SmQVw6eI0EudXy28GpCRzGJNVg.png"
+    },
+    {
+     "name": "13e rue",
+     "logo": "https://image.tmdb.org/t/p/w185/e28DXTUjaK6SKCpJpmICQXllswx.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt34992230",
    "type": "movie",
@@ -66317,175 +66428,6 @@
    ],
    "tg_id": 41,
    "tagline": "Des crimes impossibles, une experte hors pair : bienvenue dans l’univers de Scarpetta."
-  },
-  {
-   "id": "movie:tt7374950",
-   "type": "movie",
-   "title": "Midwinter Break",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-02-20",
-   "overview": "Stella et Gerry, un couple de retraités de longue date, se rendent compte, alors qu'ils sont en vacances à Amsterdam, que leur relation est arrivée à un tournant. Après tant d'années et tant de souvenirs, des promesses faites depuis longtemps et des blessures profondément enfouies menacent de refaire surface et les obligent à faire face à leur avenir.",
-   "synopsis_origin": null,
-   "rating": 7.4,
-   "runtime": 90,
-   "genres": [
-    "Drame"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Apple TV Store",
-    "Rakuten TV",
-    "Canal VOD",
-    "Sooner",
-    "Amazon Video",
-    "Pathé Home",
-    "VIVA by videofutur",
-    "Premiere Max"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/9RCmD3i9mwhv7Nnv7OJGrZnxVli.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/rLEDPOSZkmeBy47wzNTEXTj5ABj.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/d8umk4QneAYx0hrn7QhWdcWNCTT.png",
-   "imdb_id": "tt7374950",
-   "tmdb_url": "https://www.themoviedb.org/movie/1125701",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt7374950",
-   "added_at": "2026-06-20T06:03:18Z",
-   "directors": [
-    "Polly Findlay"
-   ],
-   "cast": [
-    {
-     "name": "Lesley Manville",
-     "role": "Stella",
-     "photo": "https://image.tmdb.org/t/p/w185/tioPlSoypjdME3oMu3g7XmgIIKS.jpg"
-    },
-    {
-     "name": "Ciarán Hinds",
-     "role": "Gerry",
-     "photo": "https://image.tmdb.org/t/p/w185/d8wLIX9VYgwXRGSp1gmUdUxmApv.jpg"
-    },
-    {
-     "name": "Niamh Cusack",
-     "role": "Kathy",
-     "photo": "https://image.tmdb.org/t/p/w185/nfSWB8Ek9X9kjUtjD6PzWxVM5Xd.jpg"
-    },
-    {
-     "name": "Julie Lamberton",
-     "role": "Young Stella",
-     "photo": "https://image.tmdb.org/t/p/w185/nOP2EtkYINdGg9WN5oziU4OSFmF.jpg"
-    },
-    {
-     "name": "Ed Sayer",
-     "role": "Young Gerry",
-     "photo": "https://image.tmdb.org/t/p/w185/8RavtcGyPOgLV9eUOfvqSGZCi5D.jpg"
-    },
-    {
-     "name": "Leila Laaraj",
-     "role": "Hennie",
-     "photo": null
-    },
-    {
-     "name": "Tim Licata",
-     "role": "Man in Bar",
-     "photo": null
-    },
-    {
-     "name": "Marco Horta Lopes",
-     "role": "Receptionist",
-     "photo": "https://image.tmdb.org/t/p/w185/sZjsAW3TZW6w34hsBWbZhq7R3gv.jpg"
-    },
-    {
-     "name": "Elène Zuidmeer",
-     "role": "Barwoman",
-     "photo": "https://image.tmdb.org/t/p/w185/bNyGd5yx85AXQgdlztRdQXZCKD5.jpg"
-    },
-    {
-     "name": "David Gallacher",
-     "role": "Glasgow Priest",
-     "photo": "https://image.tmdb.org/t/p/w185/7Lvt1Ux7tMLd1JLvrXN5Rj2LgO5.jpg"
-    },
-    {
-     "name": "Lewis Harris",
-     "role": "Barman Aidan",
-     "photo": null
-    }
-   ],
-   "age_rating": "12",
-   "countries": [
-    "Royaume-Uni",
-    "Pays-Bas"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Shoebox Films",
-     "logo": null
-    },
-    {
-     "name": "Family Affair Films",
-     "logo": "https://image.tmdb.org/t/p/w185/eZG7nmYHpVpp6jsOytILEmITHNf.png"
-    },
-    {
-     "name": "Film4 Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png"
-    },
-    {
-     "name": "Randan Film and Television Productions",
-     "logo": "https://image.tmdb.org/t/p/w185/szfp5uVRCbQSRkSn9uLltUPZ9kS.png"
-    },
-    {
-     "name": "Protagonist Pictures",
-     "logo": "https://image.tmdb.org/t/p/w185/aomeUwZLIBjGXHfuZq7HTVk7UNb.png"
-    },
-    {
-     "name": "Screen Scotland",
-     "logo": "https://image.tmdb.org/t/p/w185/hAF2iSJDnOXG39VQQoMeF413SQf.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Apple TV Store",
-     "logo": "https://image.tmdb.org/t/p/w92/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-    },
-    {
-     "name": "Rakuten TV",
-     "logo": "https://image.tmdb.org/t/p/w92/872dfVu1biZISJ8rO143CZZutPR.png"
-    },
-    {
-     "name": "Canal VOD",
-     "logo": "https://image.tmdb.org/t/p/w92/51fX3l4yElitnfui0IkbMUmfmgF.png"
-    },
-    {
-     "name": "Sooner",
-     "logo": "https://image.tmdb.org/t/p/w92/a9ZXOebUSXGUFxTi3N36sA8wSSh.png"
-    },
-    {
-     "name": "Amazon Video",
-     "logo": "https://image.tmdb.org/t/p/w92/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-    },
-    {
-     "name": "Pathé Home",
-     "logo": "https://image.tmdb.org/t/p/w92/zbXVTncv6m6ojLjPQJeW7u0SYKp.png"
-    },
-    {
-     "name": "VIVA by videofutur",
-     "logo": "https://image.tmdb.org/t/p/w92/uzTONLCUH92RRMSzs206OYtWVml.png"
-    },
-    {
-     "name": "Premiere Max",
-     "logo": "https://image.tmdb.org/t/p/w92/yERf5EH3GjWMB0ZSWPaov1kCKrR.png"
-    }
-   ],
-   "tg_id": 38,
-   "writers": [
-    "Nick Payne",
-    "Bernard MacLaverty"
-   ],
-   "tagline": "Une journée qu'ils ne pourront jamais oublier. Une vérité à laquelle ils ne peuvent échapper."
   }
  ]
 }
