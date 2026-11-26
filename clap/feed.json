@@ -1,7 +1,117 @@
 {
  "version": 1,
- "updated": "2026-11-26T08:03:53Z",
+ "updated": "2026-11-26T12:04:02Z",
  "items": [
+  {
+   "id": "series:tt38681811",
+   "type": "series",
+   "title": "L'Enlèvement de Toos van der Valk",
+   "original_title": "Toos: De van der valk ontvoering",
+   "year": 2026,
+   "release_date": "2026-11-26",
+   "overview": "En 1982, la matriarche d'un empire hôtelier hollandais est kidnappée contre rançon. Sa famille cherche alors désespérément à la faire libérer. Inspiré d'une histoire vraie.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 39,
+   "genres": [
+    "Drame",
+    "Crime"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/yBIlCbY2aQMUiliUH9uzZAUjb3W.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/5BVPUwWwVrlia7OC0dXxPEQM6Uv.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/3kkjD0F5E9etkH3JufiQEF4xgGx.png",
+   "imdb_id": "tt38681811",
+   "tmdb_url": "https://www.themoviedb.org/tv/302837",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt38681811",
+   "added_at": "2026-11-26T12:04:01Z",
+   "tagline": null,
+   "directors": [
+    "Inti Calfat"
+   ],
+   "seasons": 1,
+   "episodes": 6,
+   "cast": [
+    {
+     "name": "Lies Visschedijk",
+     "role": "Toos van der Valk",
+     "photo": "https://image.tmdb.org/t/p/w185/6H6Nah0nlmYDAWl3DMwYj32MNEh.jpg"
+    },
+    {
+     "name": "Frank Lammers",
+     "role": "Gerrit Van der Valk",
+     "photo": "https://image.tmdb.org/t/p/w185/rGIikThUCilyt8rgHkeJAxxEhCO.jpg"
+    },
+    {
+     "name": "Gijs Blom",
+     "role": "Joep van de Nieuwenhuijzen",
+     "photo": "https://image.tmdb.org/t/p/w185/fBt9qOW4EA1miKaLXFIMYOHAled.jpg"
+    },
+    {
+     "name": "Victor Löw",
+     "role": "Arie van der Valk",
+     "photo": "https://image.tmdb.org/t/p/w185/3dP4vfOoto1CUTsbMud1jW1LV1v.jpg"
+    },
+    {
+     "name": "Ronald Kalter",
+     "role": "Ad van der Valk",
+     "photo": "https://image.tmdb.org/t/p/w185/8RVPKC1tOYy2zGdYDrmIJOKbOpu.jpg"
+    },
+    {
+     "name": "Mo Braun",
+     "role": "Marc van der Valk",
+     "photo": null
+    },
+    {
+     "name": "Walt Klink",
+     "role": "Vincent van der Valk",
+     "photo": "https://image.tmdb.org/t/p/w185/yAEiZBzVeUD9fABNzGI4ERHnm8c.jpg"
+    },
+    {
+     "name": "Richelle Plantinga",
+     "role": "Carlita van der Valk",
+     "photo": "https://image.tmdb.org/t/p/w185/1JU2LyglNK38mkaltYrYUUt49or.jpg"
+    },
+    {
+     "name": "Jim Deddes",
+     "role": "Harry Heinrichs",
+     "photo": "https://image.tmdb.org/t/p/w185/d8wx7aJXLnOCn1cMmFJFd9Hp9n7.jpg"
+    },
+    {
+     "name": "Joy Verberk",
+     "role": "Marijke van der Valk",
+     "photo": "https://image.tmdb.org/t/p/w185/eFzkJ2mKhmpbjhqcEnD88y9pICu.jpg"
+    },
+    {
+     "name": "Juda Goslinga",
+     "role": "Cor Mulder",
+     "photo": "https://image.tmdb.org/t/p/w185/iBv53tGePT2q777wotMRNEDMoif.jpg"
+    },
+    {
+     "name": "Ruben Brinkman",
+     "role": "Ruud Harmeling",
+     "photo": "https://image.tmdb.org/t/p/w185/zAB7WQT2tWsr142LoS33uVE3IIN.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "Pays-Bas"
+   ],
+   "original_language": "Néerlandais",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Netflix",
+     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "series:tt50275818",
    "type": "series",
@@ -66300,134 +66410,6 @@
    ],
    "tg_id": 42,
    "tagline": null
-  },
-  {
-   "id": "series:tt14786934",
-   "type": "series",
-   "title": "Scarpetta",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-03-11",
-   "overview": "Kay Scarpetta, médecin légiste de renom, reprend son ancien poste à la tête de l'institut médico-légal de Virginie, où elle enquête sur un meurtre troublant qui lui rappelle étrangement sa première grande affaire, il y a de ça plusieurs décennies. En 1998, Scarpetta enquête aux côtés du Sergent Pete Marino et de l'agent du FBI Benton Wesley sur une série de meurtres par strangulation.",
-   "synopsis_origin": null,
-   "rating": 6.5,
-   "runtime": 57,
-   "genres": [
-    "Drame",
-    "Crime",
-    "Mystère"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Amazon Prime Video",
-    "Amazon Prime Video with Ads"
-   ],
-   "trailer": "https://www.youtube.com/watch?v=1u2sijK5iBY",
-   "poster": "https://image.tmdb.org/t/p/w500/7LLh9awJAkVQ6D5wHw4Y7OXqvrX.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/oHnlulBoE3XbI3HIYWY0dZfh5RH.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/xjoBns0ZwpObrCj2kgFpCweSeWk.png",
-   "imdb_id": "tt14786934",
-   "tmdb_url": "https://www.themoviedb.org/tv/240740",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt14786934",
-   "added_at": "2026-06-21T11:06:14Z",
-   "directors": [
-    "Elizabeth Sarnoff"
-   ],
-   "seasons": 1,
-   "episodes": 8,
-   "cast": [
-    {
-     "name": "Nicole Kidman",
-     "role": "Kay Scarpetta",
-     "photo": "https://image.tmdb.org/t/p/w185/4KSQDodyBtTDMaREYgMdWD1LbH1.jpg"
-    },
-    {
-     "name": "Jamie Lee Curtis",
-     "role": "Dorothy",
-     "photo": "https://image.tmdb.org/t/p/w185/eWKubKAAssRzmFwCZKh1mdYqGCH.jpg"
-    },
-    {
-     "name": "Bobby Cannavale",
-     "role": "Pete Marino",
-     "photo": "https://image.tmdb.org/t/p/w185/wlp20ggyNI7x0xGUtTjC2Xl2XmD.jpg"
-    },
-    {
-     "name": "Simon Baker",
-     "role": "Benton Wesley",
-     "photo": "https://image.tmdb.org/t/p/w185/oay0Lo2zl0lJdguptxgx1BK9Xq7.jpg"
-    },
-    {
-     "name": "Rosy McEwen",
-     "role": "Past Kay Scarpetta",
-     "photo": "https://image.tmdb.org/t/p/w185/zop5fp2NdwYmf0sd6E3HZC9RTU4.jpg"
-    },
-    {
-     "name": "Jake Cannavale",
-     "role": "Past Pete Marino",
-     "photo": "https://image.tmdb.org/t/p/w185/vfOkpbh28XS7lSqUZrRV2yBJ7Rw.jpg"
-    },
-    {
-     "name": "Hunter Parrish",
-     "role": "Past Bentony Wesley",
-     "photo": "https://image.tmdb.org/t/p/w185/wFJhOeUeyHJrfkU6lUuHuwDuEaf.jpg"
-    },
-    {
-     "name": "Ariana DeBose",
-     "role": "Lucy Farinelli-Watson",
-     "photo": "https://image.tmdb.org/t/p/w185/sPJo4F7NxllcPD1oSi6uh9OpAyj.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Blossom Films",
-     "logo": "https://image.tmdb.org/t/p/w185/7fUmRWUJgO4grf61sPMmc4kVYVR.png"
-    },
-    {
-     "name": "Blumhouse Television",
-     "logo": "https://image.tmdb.org/t/p/w185/1BYexT6Vikz4ulCcYKGPmOi6Jm0.png"
-    },
-    {
-     "name": "Comet Pictures",
-     "logo": "https://image.tmdb.org/t/p/w185/5FsrPc1N52tT6ApJhFUlTOrkjlE.png"
-    },
-    {
-     "name": "P&S Projects",
-     "logo": "https://image.tmdb.org/t/p/w185/7K4lymAD5QzEtPUgOu6EpTDB0Mm.png"
-    },
-    {
-     "name": "Amazon MGM Studios",
-     "logo": "https://image.tmdb.org/t/p/w185/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png"
-    },
-    {
-     "name": "Sarnoff TV",
-     "logo": "https://image.tmdb.org/t/p/w185/q9Tuwz8in4MYoXiImKDILMUb1Js.png"
-    },
-    {
-     "name": "Prime Video",
-     "logo": "https://image.tmdb.org/t/p/w185/w7HfLNm9CWwRmAMU58udl2L7We7.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Amazon Prime Video",
-     "logo": "https://image.tmdb.org/t/p/w92/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
-    },
-    {
-     "name": "Amazon Prime Video with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
-    }
-   ],
-   "tg_id": 41,
-   "tagline": "Des crimes impossibles, une experte hors pair : bienvenue dans l’univers de Scarpetta."
   }
  ]
 }
