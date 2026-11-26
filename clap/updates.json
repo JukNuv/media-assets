@@ -1,12 +1,12 @@
 {
   "updated": "2026-11-26",
   "cinebox": {
-    "versionCode": 80,
-    "versionName": "1.0.17",
-    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.17/CineBoX-1.0.17.apk",
-    "sha256": "aa7602b6bf3e7ccb54fa4e51946da06aabad4edc4482f6c30810f47eb650e494",
-    "size": 41429851,
-    "notes": "Synchro directe avec Nuvio Scrob (Réglages › Suivi › Scrob), télévisions renommables avec leurs réglages derrière une roue crantée, guide pour plusieurs télévisions, l'économiseur d'écran ne bloque plus l'ouverture, liste des sources plus fiable, détail de « Regardé aujourd'hui »."
+    "versionCode": 81,
+    "versionName": "1.0.18",
+    "url": "https://github.com/juknuv/media-files/releases/download/cinebox-1.0.18/CineBoX-1.0.18.apk",
+    "sha256": "080286b65554ef40407fdea648fc657355d96b79f76f392c55889474d79f016f",
+    "size": 41446783,
+    "notes": "Séries vues refaites (date de visionnage, épisodes dans l'ordre, retrait complet), rubrique Nuvio Scrob dans les réglages, sélection et ordre des favoris comme sur Scrob, notation rapide juste après un « vu », télécommande adaptée aux téléphones très hauts."
   },
   "link": {
     "versionCode": 33,
