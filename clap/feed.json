@@ -1,7 +1,140 @@
 {
  "version": 1,
- "updated": "2026-11-27T14:08:16Z",
+ "updated": "2026-11-27T16:04:26Z",
  "items": [
+  {
+   "id": "series:tt41743360",
+   "type": "series",
+   "title": "De 9 h à 18 h",
+   "original_title": "나인 투 식스",
+   "year": 2026,
+   "release_date": "2026-11-25",
+   "overview": "Faussement accusée d'avoir provoqué un incendie, Kang Yi-ji est rétrogradée. Trouvera-t-elle l'amour et le bonheur au milieu des intrigues de bureau ?",
+   "synopsis_origin": null,
+   "rating": 5.0,
+   "runtime": 62,
+   "genres": [
+    "Drame",
+    "Comédie"
+   ],
+   "status": "En cours",
+   "lang_tag": null,
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=Tp8EdzRITTw",
+   "poster": "https://image.tmdb.org/t/p/w500/3srmSrHvvBL2wotlTUFmwQ9ZyPR.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/eQQ5z8oHYBGTAVsvRm9TYibCWVD.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/m5uPSfF4c0yMYrAXor1brxnAFkI.png",
+   "imdb_id": "tt41743360",
+   "tmdb_url": "https://www.themoviedb.org/tv/310209",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt41743360",
+   "added_at": "2026-11-27T16:04:24Z",
+   "tagline": "Parfait au travail, un mystère en amour.",
+   "directors": [
+    "Choi Ji-oh"
+   ],
+   "seasons": 1,
+   "episodes": 12,
+   "cast": [
+    {
+     "name": "Park Min-young",
+     "role": "Kang Yi-ji",
+     "photo": "https://image.tmdb.org/t/p/w185/5Op0Gx0DULFLHtGdWVdqnYdwkAS.jpg"
+    },
+    {
+     "name": "Yook Sung-jae",
+     "role": "Han Seon-wu",
+     "photo": "https://image.tmdb.org/t/p/w185/shxDGBPUpygNxqXsEBZwUcMExNc.jpg"
+    },
+    {
+     "name": "Go Soo",
+     "role": "Park Hyeon-tae",
+     "photo": "https://image.tmdb.org/t/p/w185/77209yRtUHOEk3ILJY1rG3X3VUj.jpg"
+    },
+    {
+     "name": "Joo Hyun-young",
+     "role": "Shin Ji-won",
+     "photo": "https://image.tmdb.org/t/p/w185/mOI26FtPFBfFn49MikjfaY4a3NU.jpg"
+    },
+    {
+     "name": "Kim Mi-kyung",
+     "role": "Lee Kyung-sim",
+     "photo": "https://image.tmdb.org/t/p/w185/bJLkarteB2O0duu5ABvM5QFRuax.jpg"
+    },
+    {
+     "name": "Nam Yoon-ho",
+     "role": "Lee Yong-woon",
+     "photo": "https://image.tmdb.org/t/p/w185/aahE8k8rSv7lBkDKpNOYPcoDB3x.jpg"
+    },
+    {
+     "name": "Chun Woo-jin",
+     "role": "Jung Tae-jun",
+     "photo": "https://image.tmdb.org/t/p/w185/xDUeZ0jePwGW66hHs49Wnlu92rF.jpg"
+    },
+    {
+     "name": "Choi Ji-su",
+     "role": "Lim Eun-ha",
+     "photo": "https://image.tmdb.org/t/p/w185/voJfnGprlMOKjxFVJOVokULwmAr.jpg"
+    },
+    {
+     "name": "Ok Jin-uk",
+     "role": "Cha Jae-hyun",
+     "photo": "https://image.tmdb.org/t/p/w185/2i6MjbPGJF8LUCYaRQlXfAxoAXT.jpg"
+    },
+    {
+     "name": "Song Byeong-geun",
+     "role": "Sung Je-Yi",
+     "photo": "https://image.tmdb.org/t/p/w185/7tzW2YMQWS3ppublgqQS65ex2SD.jpg"
+    },
+    {
+     "name": "Yoon Young-joo",
+     "role": "Ko Eun-hee",
+     "photo": "https://image.tmdb.org/t/p/w185/d5U2Newllj29t81ijr3QLFhRzNO.jpg"
+    },
+    {
+     "name": "Jung Hae-kyun",
+     "role": "Song Byeong-je",
+     "photo": "https://image.tmdb.org/t/p/w185/7aQvZovyPuVGVrvc694ThJVYeMK.jpg"
+    },
+    {
+     "name": "Cha Chung-hwa",
+     "role": "Lee Jung-eun",
+     "photo": "https://image.tmdb.org/t/p/w185/glTQksczMwEHUYFaKkLnwMRuVr3.jpg"
+    },
+    {
+     "name": "Bae Yu-ram",
+     "role": "Kim Dong-seok",
+     "photo": "https://image.tmdb.org/t/p/w185/3FGkoOzQLnyzFKAgp7IS2lXzy65.jpg"
+    },
+    {
+     "name": "Byeon Chang-Yeol",
+     "role": "Protester 1",
+     "photo": "https://image.tmdb.org/t/p/w185/gqdVBMsqI8aRRfnUXoD173hGjeu.jpg"
+    }
+   ],
+   "age_rating": "TP",
+   "countries": [
+    "Corée du Sud"
+   ],
+   "original_language": "Coréen",
+   "tmdb_status": "En cours",
+   "production": [
+    {
+     "name": "Studio S",
+     "logo": "https://image.tmdb.org/t/p/w185/nFcR2kd7vl5O3TITQs6x39BNo6Y.png"
+    },
+    {
+     "name": "Samhwa Networks",
+     "logo": "https://image.tmdb.org/t/p/w185/gCKtCN5MWGqb37tJiwn4IBmfGR8.png"
+    },
+    {
+     "name": "SBS",
+     "logo": "https://image.tmdb.org/t/p/w185/uHQFPvRTlpgaIFQVN8eKWEnFOll.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt36823912",
    "type": "movie",
@@ -66115,157 +66248,6 @@
    "tg_id": 48,
    "writers": [],
    "tagline": null
-  },
-  {
-   "id": "movie:tt30827810",
-   "type": "movie",
-   "title": "I Love Boosters",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-05-21",
-   "overview": "Une équipe de boosters (c’est-à-dire des voleurs à l’étalage professionnels) décident de s’en prendre à une papesse de la mode impitoyable.",
-   "synopsis_origin": null,
-   "rating": 6.2,
-   "runtime": 104,
-   "genres": [
-    "Comédie",
-    "Science-Fiction",
-    "Crime"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/uUOBgpLTKPRrhXTfngbmGIkzVgc.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/fBZ9cWUI1yB9Fcs2eoYZ4mmMUmI.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/bffuNBl0nUHIoMo4nq7pFxuzUbB.png",
-   "imdb_id": "tt30827810",
-   "tmdb_url": "https://www.themoviedb.org/movie/1227877",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt30827810",
-   "added_at": "2026-06-23T14:05:02Z",
-   "directors": [
-    "Boots Riley"
-   ],
-   "cast": [
-    {
-     "name": "Keke Palmer",
-     "role": "Corvette",
-     "photo": "https://image.tmdb.org/t/p/w185/x3eFVQVw4vOCJByLlkBnMMwEnG7.jpg"
-    },
-    {
-     "name": "Naomi Ackie",
-     "role": "Sade",
-     "photo": "https://image.tmdb.org/t/p/w185/dijwuTAEZUzQtoJfK49S4X80fQw.jpg"
-    },
-    {
-     "name": "Taylour Paige",
-     "role": "Mariah",
-     "photo": "https://image.tmdb.org/t/p/w185/KTX1trmIfVa7MFkZmES1MVjl79.jpg"
-    },
-    {
-     "name": "Poppy Liu",
-     "role": "Jianhu",
-     "photo": "https://image.tmdb.org/t/p/w185/i36QkUChZN7K8BQa1ReaZHes6L4.jpg"
-    },
-    {
-     "name": "Eiza González",
-     "role": "Violeta",
-     "photo": "https://image.tmdb.org/t/p/w185/v8CnaoJqdPwkQhJeGwgJDnESOd6.jpg"
-    },
-    {
-     "name": "LaKeith Stanfield",
-     "role": "Pinky Ring Guy",
-     "photo": "https://image.tmdb.org/t/p/w185/x3k0HCpMNqEtVf2VKQrSCol1ia2.jpg"
-    },
-    {
-     "name": "Will Poulter",
-     "role": "Grayson",
-     "photo": "https://image.tmdb.org/t/p/w185/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg"
-    },
-    {
-     "name": "Don Cheadle",
-     "role": "Dr. Jack",
-     "photo": "https://image.tmdb.org/t/p/w185/umhTmcVF26qZKEpSfG1ZNpcbs9D.jpg"
-    },
-    {
-     "name": "Demi Moore",
-     "role": "Christie Smith",
-     "photo": "https://image.tmdb.org/t/p/w185/wApParZYBDi4yxekjfxjKEifJYh.jpg"
-    },
-    {
-     "name": "Mahdi Cocci",
-     "role": "Designer Suit Dude",
-     "photo": "https://image.tmdb.org/t/p/w185/Aq3RpmXeJmetfjcdkVEh1uNWgpg.jpg"
-    },
-    {
-     "name": "Rachel Walters",
-     "role": "Stevie",
-     "photo": "https://image.tmdb.org/t/p/w185/6bdsX2kGXC4wKiTFj0sOoItX6k9.jpg"
-    },
-    {
-     "name": "Kara Young",
-     "role": "Crying Black Mother",
-     "photo": "https://image.tmdb.org/t/p/w185/x6a4q3V21TEWg8xsl5W4zM7H442.jpg"
-    },
-    {
-     "name": "Adam Devine",
-     "role": "Christie's Boy Toy",
-     "photo": "https://image.tmdb.org/t/p/w185/8zU8zMs7cpjVzkBXis6I3wO3YeQ.jpg"
-    },
-    {
-     "name": "Devin Stovall",
-     "role": "Manny",
-     "photo": "https://image.tmdb.org/t/p/w185/A16s9Q8pOOwsWsxjQwUmFnwY3kC.jpg"
-    },
-    {
-     "name": "Jonathan Mercedes",
-     "role": "Los",
-     "photo": "https://image.tmdb.org/t/p/w185/gYHqbkELVQ0oPblACYxRUtBXOls.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Savage Rose Films",
-     "logo": "https://image.tmdb.org/t/p/w185/5ZB3wEMBoOjHvWx2Yek5JM1EvUp.png"
-    },
-    {
-     "name": "Waypoint Entertainment",
-     "logo": "https://image.tmdb.org/t/p/w185/buyfiDYTfPVTHxvYZ4yHu69zFPs.png"
-    },
-    {
-     "name": "Ryder Picture Company",
-     "logo": "https://image.tmdb.org/t/p/w185/MKTZVUIIWMjwpF58tGtAx8UXFs.png"
-    },
-    {
-     "name": "Annapurna Pictures",
-     "logo": "https://image.tmdb.org/t/p/w185/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png"
-    },
-    {
-     "name": "NEON",
-     "logo": "https://image.tmdb.org/t/p/w185/3K9wCZTyDgop3ITK1rDi6T2PckE.png"
-    },
-    {
-     "name": "Metro Designers Productions",
-     "logo": null
-    },
-    {
-     "name": "The Sun Exploding Words, Sounds, & Pictures",
-     "logo": "https://image.tmdb.org/t/p/w185/47cbkggki9wT2fZoKK4zUGm6tZ0.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 47,
-   "writers": [
-    "Boots Riley"
-   ],
-   "tagline": "« Booster » : personne qui vole des vêtements dans un magasin pour les revendre à prix réduit, ce qu'on appelle aussi « travail d'intérêt général »."
   }
  ]
 }
