@@ -1,7 +1,82 @@
 {
  "version": 1,
- "updated": "2026-11-27T14:08:07Z",
+ "updated": "2026-11-27T14:08:16Z",
  "items": [
+  {
+   "id": "movie:tt36823912",
+   "type": "movie",
+   "title": "The Child",
+   "original_title": "El niño",
+   "year": 2026,
+   "release_date": "2026-11-13",
+   "overview": "L'histoire de Mariaje et Nicasio, respectivement la mère et le grand-père de l'un des enfants qui ont perdu la vie lors d'une explosion de gaz survenue dans une ville du Pays basque en octobre 1980. Au cours d'un parcours marqué par des émotions inattendues, Mariaje et Nicasio cherchent – et trouvent – leur propre façon de surmonter leur deuil.",
+   "synopsis_origin": "deepl",
+   "rating": null,
+   "runtime": null,
+   "genres": [
+    "Drame"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": null,
+   "poster": "https://image.tmdb.org/t/p/w500/y3oxSIOM8NJulwUITCMP1P3GnIs.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/kkierrbus8z4QpsexmSg8QSKqak.jpg",
+   "logo": "",
+   "imdb_id": "tt36823912",
+   "tmdb_url": "https://www.themoviedb.org/movie/1506401",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt36823912",
+   "added_at": "2026-11-27T14:08:14Z",
+   "tagline": null,
+   "directors": [
+    "Mariano Barroso"
+   ],
+   "writers": [
+    "Fernando Aramburu",
+    "Mariano Barroso"
+   ],
+   "cast": [
+    {
+     "name": "Belén Cuesta",
+     "role": "Mariaje",
+     "photo": "https://image.tmdb.org/t/p/w185/caDd0J8smaQMvVjgJsDYabe4dzk.jpg"
+    },
+    {
+     "name": "Karra Elejalde",
+     "role": "Nicasio",
+     "photo": "https://image.tmdb.org/t/p/w185/kHODqgc2c7RaZz9Sp7cedgadvzG.jpg"
+    },
+    {
+     "name": "Pep Ambròs",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/8UxnLUFclF4wF3B97fZlhqQ5uki.jpg"
+    },
+    {
+     "name": "Raquel Ferri",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/3FFSGjynBBtXlgj0tCFSKrNK1ry.jpg"
+    },
+    {
+     "name": "Joan Solé Martí",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/vBrjhb8msj8We4Ply1wMY1qbvFz.jpg"
+    },
+    {
+     "name": "Álex Infantes",
+     "role": null,
+     "photo": null
+    }
+   ],
+   "age_rating": null,
+   "countries": [
+    "Espagne"
+   ],
+   "original_language": "Espagnol",
+   "tmdb_status": "Sorti",
+   "production": [],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt37267166",
    "type": "movie",
@@ -66191,155 +66266,6 @@
     "Boots Riley"
    ],
    "tagline": "« Booster » : personne qui vole des vêtements dans un magasin pour les revendre à prix réduit, ce qu'on appelle aussi « travail d'intérêt général »."
-  },
-  {
-   "id": "movie:tt32267691",
-   "type": "movie",
-   "title": "Power Ballad",
-   "original_title": null,
-   "year": 2026,
-   "release_date": "2026-05-18",
-   "overview": "Rick, un chanteur de mariage délavé, et Danny, une vedette de boys band en perte de vitesse, se lient autour de la musique et d'une session musicale de fin de soirée. Lorsque Danny transforme la chanson de Rick en succès, Rick se propose de récupérer la reconnaissance qu'il croit mériter.",
-   "synopsis_origin": null,
-   "rating": 7.0,
-   "runtime": 99,
-   "genres": [
-    "Comédie",
-    "Musique",
-    "Drame"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/57Yt83bu3ritQnJIxW1rCMIOUj1.png",
-   "imdb_id": "tt32267691",
-   "tmdb_url": "https://www.themoviedb.org/movie/1284016",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt32267691",
-   "added_at": "2026-06-23T10:07:19Z",
-   "directors": [
-    "John Carney"
-   ],
-   "cast": [
-    {
-     "name": "Paul Rudd",
-     "role": "Rick",
-     "photo": "https://image.tmdb.org/t/p/w185/6jtwNOLKy0LdsRAKwZqgYMAfd5n.jpg"
-    },
-    {
-     "name": "Nick Jonas",
-     "role": "Danny Wilson",
-     "photo": "https://image.tmdb.org/t/p/w185/y79k7wrDeyRbrGFs2Z3XHU5mq0o.jpg"
-    },
-    {
-     "name": "Peter McDonald",
-     "role": "Sandy",
-     "photo": "https://image.tmdb.org/t/p/w185/ahacAWWP4zzuVumOUB8hZoJcHTA.jpg"
-    },
-    {
-     "name": "Marcella Plunkett",
-     "role": "Rachel",
-     "photo": "https://image.tmdb.org/t/p/w185/ieeuGpDxOQMvSzNYehDZT7FMCLR.jpg"
-    },
-    {
-     "name": "Havana Rose Liu",
-     "role": "Marcia",
-     "photo": "https://image.tmdb.org/t/p/w185/xt5jIhVekKpwZDbVuHJb8H4A6oM.jpg"
-    },
-    {
-     "name": "Jack Reynor",
-     "role": "Mac",
-     "photo": "https://image.tmdb.org/t/p/w185/vbPewOkSGGQl93wgshDlczMqiOk.jpg"
-    },
-    {
-     "name": "Rory Keenan",
-     "role": "Binzer",
-     "photo": "https://image.tmdb.org/t/p/w185/coxaroBNEpi4xjQ7kZuZBxSqO29.jpg"
-    },
-    {
-     "name": "Keith McErlean",
-     "role": "Kyle",
-     "photo": "https://image.tmdb.org/t/p/w185/rkSrF2jGZRIt4iwS1qIB967mTM4.jpg"
-    },
-    {
-     "name": "Paul Reid",
-     "role": "Bernie",
-     "photo": "https://image.tmdb.org/t/p/w185/j94PrRDF1bZQ4fDE4y8NaxIPVt.jpg"
-    },
-    {
-     "name": "Beth Fallon",
-     "role": "Aja",
-     "photo": "https://image.tmdb.org/t/p/w185/crbLmf1TAP7qvm8mTGJZpyv8VMz.jpg"
-    },
-    {
-     "name": "Emma Rose Creaner",
-     "role": "Claire",
-     "photo": "https://image.tmdb.org/t/p/w185/9AkMDdOgOYph3SqHKnDI1okA9if.jpg"
-    },
-    {
-     "name": "Robert Mitchell",
-     "role": "George",
-     "photo": "https://image.tmdb.org/t/p/w185/6fNnCVAYIRI2Tyk6WfcWQYMERwF.jpg"
-    },
-    {
-     "name": "Juliette Crosbie",
-     "role": "Barbara",
-     "photo": "https://image.tmdb.org/t/p/w185/2UM38gRUaXR6TFN5UeB0v66T3LF.jpg"
-    },
-    {
-     "name": "Oisin Walsh Agnew",
-     "role": "Indigo Dreams Band Member",
-     "photo": null
-    },
-    {
-     "name": "Aidan Lynch",
-     "role": "Indigo Dreams Band Member",
-     "photo": null
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Irlande",
-    "États-Unis"
-   ],
-   "original_language": "Anglais",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Likely Story",
-     "logo": "https://image.tmdb.org/t/p/w185/wT6aIkuQTNuq8XFoDGACK8EyR6w.png"
-    },
-    {
-     "name": "30WEST",
-     "logo": "https://image.tmdb.org/t/p/w185/tKIimrvYUH02D4km00lCEDUYvIF.png"
-    },
-    {
-     "name": "Fís Éireann/Screen Ireland",
-     "logo": "https://image.tmdb.org/t/p/w185/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png"
-    },
-    {
-     "name": "Treasure Entertainment",
-     "logo": "https://image.tmdb.org/t/p/w185/sex8X2qwrKfFTSJLEXMPH4kmDxN.png"
-    },
-    {
-     "name": "Distressed Films",
-     "logo": null
-    },
-    {
-     "name": "Media Capital Technologies",
-     "logo": "https://image.tmdb.org/t/p/w185/rWqW00ts1tZ0efwyacZlGnVd6PB.png"
-    }
-   ],
-   "platform_logos": [],
-   "tg_id": 46,
-   "writers": [
-    "John Carney",
-    "Peter McDonald"
-   ],
-   "tagline": "Il est temps de remettre les choses au clair."
   }
  ]
 }
