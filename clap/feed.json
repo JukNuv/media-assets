@@ -1,7 +1,123 @@
 {
  "version": 1,
- "updated": "2026-11-27T07:32:27Z",
+ "updated": "2026-11-27T14:08:07Z",
  "items": [
+  {
+   "id": "movie:tt37267166",
+   "type": "movie",
+   "title": "Quasimodo, l'âme de Paris",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-11-27",
+   "overview": "Paris, 1830. Alors que le choléra menace la ville, un homme recherché pour d'obscures expériences médicales se retrouve pris entre la révolte et un amour impossible.",
+   "synopsis_origin": null,
+   "rating": null,
+   "runtime": 103,
+   "genres": [
+    "Drame",
+    "Romance"
+   ],
+   "lang_tag": "VFF",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=POXSU2KLU-0",
+   "poster": "https://image.tmdb.org/t/p/w500/necpLRF5VF381uNR5PWkz7klQlG.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/fILFJb7okqkNdzAataH4CxywwZX.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/zfVNtvwiL5aLpZzhkBa0feZTOCA.png",
+   "imdb_id": "tt37267166",
+   "tmdb_url": "https://www.themoviedb.org/movie/1480665",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt37267166",
+   "added_at": "2026-11-27T14:08:06Z",
+   "tagline": null,
+   "directors": [
+    "Jean-François Richet"
+   ],
+   "writers": [
+    "Éric Besnard",
+    "Edgar Marie"
+   ],
+   "cast": [
+    {
+     "name": "Vincent Cassel",
+     "role": "Quasimodo",
+     "photo": "https://image.tmdb.org/t/p/w185/KxzpJXyzVnqfouInWLypAND0gL.jpg"
+    },
+    {
+     "name": "Karim Leklou",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/bgOpQ2WAwvxLFoRYFsPRAT0esAh.jpg"
+    },
+    {
+     "name": "Daphné Patakia",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/vpk284xJs2TfPvA1BLrfOpiZ3oX.jpg"
+    },
+    {
+     "name": "Benjamin Voisin",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/oe37Uv6isNH7p9uwGunQj11Iy4R.jpg"
+    },
+    {
+     "name": "Noémie Lvovsky",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/rCAE48eQMBRxLGksTdbjTjeiPbP.jpg"
+    },
+    {
+     "name": "Sébastien Pouderoux",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/3TOhTuoDJMQJQ8GYL0Y9dVvqSAW.jpg"
+    },
+    {
+     "name": "Eli Nachmani",
+     "role": null,
+     "photo": null
+    },
+    {
+     "name": "Alexis Rosenstiehl",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/lSa63zKMIJurglCQv7SASzZled4.jpg"
+    },
+    {
+     "name": "Julie Nicola",
+     "role": "Lucienne",
+     "photo": null
+    },
+    {
+     "name": "Olivier Bayart",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/zRFdUHdKW5Jw3WBzItLBHYCkIYE.jpg"
+    },
+    {
+     "name": "Quentin D'Hainaut",
+     "role": "Le Carrier",
+     "photo": "https://image.tmdb.org/t/p/w185/355IjF5LitXkTGQUZ4nl3yNaGcN.jpg"
+    },
+    {
+     "name": "Loly Toublanc",
+     "role": null,
+     "photo": "https://image.tmdb.org/t/p/w185/dD6m8b3zEbGSSAFSdCpBgsceC1L.jpg"
+    },
+    {
+     "name": "Alexandre Poole",
+     "role": "Victor Hugo",
+     "photo": "https://image.tmdb.org/t/p/w185/wiG9iSsNcSub3B4F44xlEOet8U9.jpg"
+    }
+   ],
+   "age_rating": "16",
+   "countries": [
+    "France"
+   ],
+   "original_language": "Français",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Radar Films",
+     "logo": null
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt27419420",
    "type": "movie",
@@ -66224,133 +66340,6 @@
     "Peter McDonald"
    ],
    "tagline": "Il est temps de remettre les choses au clair."
-  },
-  {
-   "id": "series:tt34458461",
-   "type": "series",
-   "title": "Kacken-sur-Seum",
-   "original_title": "Kacken an der Havel",
-   "year": 2026,
-   "release_date": "2026-02-26",
-   "overview": "En retournant dans sa ville natale pour l'enterrement de sa mère, un rappeur se retrouve soudain à jongler entre ses rêves de gloire musicale et un fils ado sorti de nulle part.",
-   "synopsis_origin": null,
-   "rating": 5.9,
-   "runtime": 36,
-   "genres": [
-    "Comédie"
-   ],
-   "status": "En cours",
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/qZ3iCBEAZyxzimnOqxpLWfWRpq7.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/rTTEaQ54i6zUSDGnVyuNbvu86wf.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/p1NgBmpyh0Hrxor4rNXJpBRec0Q.png",
-   "imdb_id": "tt34458461",
-   "tmdb_url": "https://www.themoviedb.org/tv/276083",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=series&id=tt34458461",
-   "added_at": "2026-06-22T19:05:10Z",
-   "directors": [
-    "Dimitrij Schaad",
-    "Alex Schaad"
-   ],
-   "seasons": 1,
-   "episodes": 9,
-   "cast": [
-    {
-     "name": "Anton Schneider",
-     "role": "Toni Fleischer",
-     "photo": "https://image.tmdb.org/t/p/w185/7pVIwS3oL1uPg9XQvY10B9QApiN.jpg"
-    },
-    {
-     "name": "Sky Arndt",
-     "role": "Charly Schrammel",
-     "photo": null
-    },
-    {
-     "name": "Dimitrij Schaad",
-     "role": "Johnny Carrera",
-     "photo": "https://image.tmdb.org/t/p/w185/A0A0YXZ8yqJkhhQWqq6rUuOzlsC.jpg"
-    },
-    {
-     "name": "Runa Greiner",
-     "role": "Tupac (voice)",
-     "photo": "https://image.tmdb.org/t/p/w185/5FfSC1a8jDvOH6tCkLkpQjq64b9.jpg"
-    },
-    {
-     "name": "Jördis Triebel",
-     "role": "Nancy",
-     "photo": "https://image.tmdb.org/t/p/w185/ccKpVED4GwvqpbDpSDvZ5a7Be2Z.jpg"
-    },
-    {
-     "name": "Sophia Münster",
-     "role": "Kaia",
-     "photo": null
-    },
-    {
-     "name": "Jana Münster",
-     "role": "Karo",
-     "photo": null
-    },
-    {
-     "name": "Vincent Redetzki",
-     "role": "Paule",
-     "photo": "https://image.tmdb.org/t/p/w185/7loFI0Arjl7kIL6Ltd55USDFjy0.jpg"
-    },
-    {
-     "name": "Ruth Reinecke",
-     "role": "Wera",
-     "photo": "https://image.tmdb.org/t/p/w185/qzdhWzLuY8FiMRJZNVzM7O9o3RW.jpg"
-    },
-    {
-     "name": "Hannah Ehrlichmann",
-     "role": "Jana",
-     "photo": "https://image.tmdb.org/t/p/w185/nTPgTXoUXgyMqjOPE32VrG3vfsR.jpg"
-    },
-    {
-     "name": "Taneshia Abt",
-     "role": "Dalia Müller-Müller",
-     "photo": "https://image.tmdb.org/t/p/w185/jjx9wzssePPbfUw57u741tRzN4A.jpg"
-    },
-    {
-     "name": "Veronica Ferres",
-     "role": "Bürgermeisterin",
-     "photo": "https://image.tmdb.org/t/p/w185/coHFoFuANZyDaIUBuJoOeSgGEKl.jpg"
-    }
-   ],
-   "age_rating": "12",
-   "countries": [
-    "Allemagne"
-   ],
-   "original_language": "Allemand",
-   "tmdb_status": "En cours",
-   "production": [
-    {
-     "name": "Warner Bros. International Television Production Germany",
-     "logo": "https://image.tmdb.org/t/p/w185/na8NZKqFc8Ep9qAg8KQUcH1DpQl.png"
-    },
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w185/wwemzKWzjKYJFfCeiB57q3r4Bcm.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 45,
-   "tagline": null
   }
  ]
 }
