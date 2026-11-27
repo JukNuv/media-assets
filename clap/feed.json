@@ -1,7 +1,139 @@
 {
  "version": 1,
- "updated": "2026-11-26T18:07:44Z",
+ "updated": "2026-11-27T07:32:27Z",
  "items": [
+  {
+   "id": "movie:tt27419420",
+   "type": "movie",
+   "title": "Street Fighter",
+   "original_title": null,
+   "year": 2026,
+   "release_date": "2026-10-13",
+   "overview": "En 1993, Ryu et Ken Masters, deux Street Fighters autrefois inséparables, sont replongés dans l’arène lorsque la mystérieuse Chun-Li les recrute pour le prochain World Warrior Tournament : un affrontement brutal où se mêlent poings, destin et fureur. Mais derrière cette battle royale se cache une conspiration mortelle qui les oblige à s’affronter, tout en faisant face aux démons de leur passé… Et s’ils échouent, c’est GAME OVER.",
+   "synopsis_origin": null,
+   "rating": 6.2,
+   "runtime": 120,
+   "genres": [
+    "Action",
+    "Fantastique"
+   ],
+   "lang_tag": "MULTI",
+   "lang_label": null,
+   "collection": null,
+   "platforms": [],
+   "trailer": "https://www.youtube.com/watch?v=mHpHcz7CREM",
+   "poster": "https://image.tmdb.org/t/p/w500/k53HHxQ4rQG0dME6nsofii3QNS7.jpg",
+   "backdrop": "https://image.tmdb.org/t/p/w1280/9vNW8ysMKIbefbEQOFEZIKpMqwZ.jpg",
+   "logo": "https://image.tmdb.org/t/p/w500/qoyIWgvedhBFmoRFSoCPIFF3as8.png",
+   "imdb_id": "tt27419420",
+   "tmdb_url": "https://www.themoviedb.org/movie/1153576",
+   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt27419420",
+   "added_at": "2026-11-27T07:32:24Z",
+   "tagline": "À vos marques. Prêts. Battez-vous.",
+   "directors": [
+    "Kitao Sakurai"
+   ],
+   "writers": [
+    "Dalan Musson",
+    "Gary Dauberman",
+    "T.J. Fixman"
+   ],
+   "cast": [
+    {
+     "name": "Andrew Koji",
+     "role": "Ryu",
+     "photo": "https://image.tmdb.org/t/p/w185/oU53nWLQ6wFHzERwSi1fD53LxZB.jpg"
+    },
+    {
+     "name": "Noah Centineo",
+     "role": "Ken Masters",
+     "photo": "https://image.tmdb.org/t/p/w185/p1bcst401RyxfDGykx2iQLI7CV5.jpg"
+    },
+    {
+     "name": "Callina Liang",
+     "role": "Chun-Li",
+     "photo": "https://image.tmdb.org/t/p/w185/blJ4iEqMs5oTiKVxUyB9Ky7kNRO.jpg"
+    },
+    {
+     "name": "David Dastmalchian",
+     "role": "M. Bison",
+     "photo": "https://image.tmdb.org/t/p/w185/eLafwcpL64CqzwjjSgKpO7Rv4ae.jpg"
+    },
+    {
+     "name": "Andrew Schulz",
+     "role": "Dan Hibiki",
+     "photo": "https://image.tmdb.org/t/p/w185/ioK3vQ8JkL9lqzXKUCua64ixuEm.jpg"
+    },
+    {
+     "name": "Cody Rhodes",
+     "role": "Guile",
+     "photo": "https://image.tmdb.org/t/p/w185/m9hfLcsQuESprcb7dJUj5lQLWCv.jpg"
+    },
+    {
+     "name": "Mel Jarnson",
+     "role": "Cammy",
+     "photo": "https://image.tmdb.org/t/p/w185/8m0gnlADmLXkMkvSzDR2OhBfsCB.jpg"
+    },
+    {
+     "name": "Roman Reigns",
+     "role": "Akuma",
+     "photo": "https://image.tmdb.org/t/p/w185/6BKc77eAUBQdL9MmgBorBc4SMdE.jpg"
+    },
+    {
+     "name": "Jason Momoa",
+     "role": "Blanka",
+     "photo": "https://image.tmdb.org/t/p/w185/rsdpJXHtKDq4oAlWQyF01N4neBV.jpg"
+    },
+    {
+     "name": "Eric André",
+     "role": "Don Sauvage",
+     "photo": "https://image.tmdb.org/t/p/w185/e9XlcFnZQiBSQ1vISQVyTOrkIaq.jpg"
+    },
+    {
+     "name": "50 Cent",
+     "role": "Balrog",
+     "photo": "https://image.tmdb.org/t/p/w185/7VfwFIwBxy7qBUErosWRDQOovl9.jpg"
+    },
+    {
+     "name": "Don Lee",
+     "role": "Gouken",
+     "photo": "https://image.tmdb.org/t/p/w185/xqnARIEzfyr3BalhFBWHmCusLKH.jpg"
+    },
+    {
+     "name": "Orville Peck",
+     "role": "Vega",
+     "photo": "https://image.tmdb.org/t/p/w185/oW989m8J8gWGCBDkjplkqQoMob6.jpg"
+    },
+    {
+     "name": "後藤洋央紀",
+     "role": "E. Honda",
+     "photo": "https://image.tmdb.org/t/p/w185/uzqLC7AbKClQzcDPHZVRCyxacLx.jpg"
+    },
+    {
+     "name": "विद्युत जामवाल",
+     "role": "Dhalsim",
+     "photo": "https://image.tmdb.org/t/p/w185/9iBEIKvn1GGzymF3kVPBHtaMkWy.jpg"
+    }
+   ],
+   "age_rating": "12",
+   "countries": [
+    "Japon",
+    "États-Unis"
+   ],
+   "original_language": "Anglais",
+   "tmdb_status": "Sorti",
+   "production": [
+    {
+     "name": "Capcom",
+     "logo": "https://image.tmdb.org/t/p/w185/dD0x5awPmtx4sAr2pNvkmxkCODh.png"
+    },
+    {
+     "name": "Legendary Pictures",
+     "logo": "https://image.tmdb.org/t/p/w185/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png"
+    }
+   ],
+   "platform_logos": []
+  },
   {
    "id": "movie:tt41309166",
    "type": "movie",
@@ -66219,150 +66351,6 @@
    ],
    "tg_id": 45,
    "tagline": null
-  },
-  {
-   "id": "movie:tt39387657",
-   "type": "movie",
-   "title": "Pavane",
-   "original_title": "파반느",
-   "year": 2026,
-   "release_date": "2026-02-19",
-   "overview": "Trois personnes solitaires qui travaillent dans le même grand magasin trouvent du réconfort en compagnie les unes des autres tout en explorant les liens et la nature de l'amour.",
-   "synopsis_origin": null,
-   "rating": 7.3,
-   "runtime": 113,
-   "genres": [
-    "Romance",
-    "Drame"
-   ],
-   "lang_tag": null,
-   "lang_label": null,
-   "collection": null,
-   "platforms": [
-    "Netflix",
-    "Netflix Standard with Ads"
-   ],
-   "trailer": null,
-   "poster": "https://image.tmdb.org/t/p/w500/wOXc8stx1CLvM6GC0ABKfWOkbYw.jpg",
-   "backdrop": "https://image.tmdb.org/t/p/w1280/atWzbjlDkfbkh4mdY3uuiF9vr3r.jpg",
-   "logo": "https://image.tmdb.org/t/p/w500/wVvLQ21Gi6yvxXSrarpifuan3lp.png",
-   "imdb_id": "tt39387657",
-   "tmdb_url": "https://www.themoviedb.org/movie/1268609",
-   "nuvio_link": "https://juknuv.github.io/media-assets/redirect/?type=movie&id=tt39387657",
-   "added_at": "2026-06-22T18:05:58Z",
-   "directors": [
-    "이종필"
-   ],
-   "cast": [
-    {
-     "name": "Go Ah-seong",
-     "role": "Mi-jung",
-     "photo": "https://image.tmdb.org/t/p/w185/hzGxaqQ2LsBObBSijV9SYCEyhFv.jpg"
-    },
-    {
-     "name": "Moon Sang-min",
-     "role": "Kyung-rok",
-     "photo": "https://image.tmdb.org/t/p/w185/5w1vbIgYiKa01RF7OZ4Hot81blO.jpg"
-    },
-    {
-     "name": "Byun Yo-han",
-     "role": "Yo-han",
-     "photo": "https://image.tmdb.org/t/p/w185/5kOBQYbgBTAf8nVzgx0ecCsJ1pW.jpg"
-    },
-    {
-     "name": "이이담",
-     "role": "Se-ra",
-     "photo": "https://image.tmdb.org/t/p/w185/raND8efeLH0TmIgs6ZSzgp42the.jpg"
-    },
-    {
-     "name": "한유은",
-     "role": "Hyeon-ji",
-     "photo": "https://image.tmdb.org/t/p/w185/4E6f6nt9MY2LhMMFsKpIabEiekA.jpg"
-    },
-    {
-     "name": "서이라",
-     "role": "Suk-hui",
-     "photo": "https://image.tmdb.org/t/p/w185/q4Gyp3XM6solBF35nSTKPHHDQb1.jpg"
-    },
-    {
-     "name": "신정근",
-     "role": "Kentucky Hope",
-     "photo": "https://image.tmdb.org/t/p/w185/2zuxoRgBPNCQXDGb3wOnGaJCI4y.jpg"
-    },
-    {
-     "name": "Park Hae-joon",
-     "role": "Kyung-rok's Father",
-     "photo": "https://image.tmdb.org/t/p/w185/heNKjLHWCQXXfkDB1Hb2nhuhDCf.jpg"
-    },
-    {
-     "name": "Lee Bong-ryun",
-     "role": "Kyung-rok's Mother",
-     "photo": "https://image.tmdb.org/t/p/w185/AkpzrUGpT0JvRY9Zk6qceKm937l.jpg"
-    },
-    {
-     "name": "이상진",
-     "role": "Pretentious Guy",
-     "photo": "https://image.tmdb.org/t/p/w185/sTTXFUzQ4DoHDXCooeehpM24PiQ.jpg"
-    },
-    {
-     "name": "권도균",
-     "role": "Hyeong-geun",
-     "photo": "https://image.tmdb.org/t/p/w185/glk5bE5fOixuInd8mgAl2jlojg5.jpg"
-    },
-    {
-     "name": "장요훈",
-     "role": "Dong-hwan",
-     "photo": "https://image.tmdb.org/t/p/w185/ouIyi1vhJqckELrO77s1iQVAPaY.jpg"
-    },
-    {
-     "name": "서호석",
-     "role": "Ho-cheol",
-     "photo": null
-    },
-    {
-     "name": "변진수",
-     "role": "HR Staff",
-     "photo": "https://image.tmdb.org/t/p/w185/obSxDEnNTxxOZdGxCY0cBLnYpmc.jpg"
-    },
-    {
-     "name": "박희정",
-     "role": "Pretentious Guy's Girlfriend",
-     "photo": "https://image.tmdb.org/t/p/w185/qy1bF75DlkWb6L4dLLmXO5GMLfW.jpg"
-    }
-   ],
-   "age_rating": "16",
-   "countries": [
-    "Corée du Sud"
-   ],
-   "original_language": "Coréen",
-   "tmdb_status": "Sorti",
-   "production": [
-    {
-     "name": "Plus M Entertainment",
-     "logo": "https://image.tmdb.org/t/p/w185/c6ggS6OO4tyEcgBQ7sHs67LDfES.png"
-    },
-    {
-     "name": "The LAMP",
-     "logo": "https://image.tmdb.org/t/p/w185/lGELj7l0lQpnbC4uYm3nX4jS4d1.png"
-    }
-   ],
-   "platform_logos": [
-    {
-     "name": "Netflix",
-     "logo": "https://image.tmdb.org/t/p/w92/rK1KljqmbvO9HQa1PBFLILWah72.png"
-    },
-    {
-     "name": "Netflix Standard with Ads",
-     "logo": "https://image.tmdb.org/t/p/w92/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
-    }
-   ],
-   "tg_id": 44,
-   "writers": [
-    "Park Min-gyu",
-    "이종필",
-    "손미"
-   ],
-   "tagline": "À tous ceux qui sont amoureux. Et à tous ceux qui sont destinés à aimer."
   }
  ]
 }
